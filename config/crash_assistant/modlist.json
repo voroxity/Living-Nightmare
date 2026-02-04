@@ -95,6 +95,13 @@
     "curseForgeHash": 1477774991,
     "modrinthHash": "892e0788531269bfa2f356e4e12825e19d4e5412"
   },
+  "ElevatorMod-1.12.2-1.3.14.jar": {
+    "jarName": "ElevatorMod-1.12.2-1.3.14.jar",
+    "modId": "elevatorid",
+    "version": "1.12.2-1.3.14",
+    "curseForgeHash": 2428811536,
+    "modrinthHash": "7701eb987d8102a345e46725f4f2c6b9fc83005c"
+  },
   "environmentaltech-1.12.2-2.0.20.1.jar": {
     "jarName": "environmentaltech-1.12.2-2.0.20.1.jar",
     "modId": "environmentaltech",
@@ -282,6 +289,13 @@
     "curseForgeHash": 3094578446,
     "modrinthHash": "e37e1f05ad0eaf567497ce655bc877dc1778bd0f"
   },
+  "tellme-1.12.2-0.7.0-dev.20200919.184303.jar": {
+    "jarName": "tellme-1.12.2-0.7.0-dev.20200919.184303.jar",
+    "modId": "tellme",
+    "version": "0.7.0-dev.20200919.184303",
+    "curseForgeHash": 1980151138,
+    "modrinthHash": "6e637d9047af361f8b64bfb2053f7da891938571"
+  },
   "tinkersjei-1.2.jar": {
     "jarName": "tinkersjei-1.2.jar",
     "modId": "tinkersjei",
@@ -316,5 +330,12 @@
     "version": "0.6.2",
     "curseForgeHash": 1319026169,
     "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+  },
+  "Xtones-1.2.2.jar": {
+    "jarName": "Xtones-1.2.2.jar",
+    "modId": "xtones",
+    "version": "1.2.2",
+    "curseForgeHash": 2165807258,
+    "modrinthHash": "0e4d2c453000370722e384eaca047958f898996f"
   }
 }
