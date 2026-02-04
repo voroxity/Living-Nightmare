@@ -26,3 +26,4 @@ config/hbm/_hbmFluidTraits.json
 config/hbmRecipes/_hbmAssembler.json
 config/hbmRecipes/_hbmIrradiationFluids.json
 config/jei/worldSettings.cfg
+/crash-reports
