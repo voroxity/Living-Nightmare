@@ -309,5 +309,12 @@
     "version": "1.12.2-2.0.20.1",
     "curseForgeHash": 791322360,
     "modrinthHash": "e640e231cb83ea9ff7cda8710e6d7c44467b9658"
+  },
+  "vintagefix-0.6.2.jar": {
+    "jarName": "vintagefix-0.6.2.jar",
+    "modId": "vintagefix",
+    "version": "0.6.2",
+    "curseForgeHash": 1319026169,
+    "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
   }
 }
