@@ -18,6 +18,13 @@
     "curseForgeHash": 2621803774,
     "modrinthHash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
   },
+  "+unimixins-all-1.7.10-0.2.1.jar": {
+    "jarName": "+unimixins-all-1.7.10-0.2.1.jar",
+    "modId": "unimixins",
+    "version": "0.2.1",
+    "curseForgeHash": 436445407,
+    "modrinthHash": "21db670c715e2a24eda05bd0c1d3b834e3949857"
+  },
   "AppleSkin-mc1.12-1.0.14.jar": {
     "jarName": "AppleSkin-mc1.12-1.0.14.jar",
     "modId": "appleskin",
@@ -31,6 +38,13 @@
     "version": "rv6-stable-7",
     "curseForgeHash": 3112664858,
     "modrinthHash": "e5c3c11eafc5daf73652a2dabe855e3759caa8b5"
+  },
+  "brigo_forge-1.1.1+1.12.x.jar": {
+    "jarName": "brigo_forge-1.1.1+1.12.x.jar",
+    "modId": "brigo",
+    "version": "1.1.1",
+    "curseForgeHash": 2502745558,
+    "modrinthHash": "d3869109e4a8ca8767429dcad89cd9953c61ad63"
   },
   "BuildingGadgets-2.8.4.jar": {
     "jarName": "BuildingGadgets-2.8.4.jar",

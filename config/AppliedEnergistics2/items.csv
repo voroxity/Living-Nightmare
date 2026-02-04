@@ -2011,7 +2011,6 @@ hbm:gas_mask_filter_piss, Advanced Makeshift Gas Mask Filter
 hbm:gas_mask_filter_mono, Catalytic Mask Filter
 hbm:gas_mask_filter, Gas Mask Filter
 hbm:gas_mask_filter_combo, Gas Mask Combo Filter
-hbm:gas_mask_filter_radon, Gas Mask Omega Filter
 hbm:attachment_mask, Gas Mask Attachable
 hbm:attachment_mask_mono, Half Mask Attachable
 hbm:cigarette, FFI-Brand Cigarette
@@ -2274,35 +2273,34 @@ hbm:upgrade_stack_3, Stack Ejection Upgrade Mk.III
 hbm:fuel_additive:0, Tetraethyllead Antiknock Agent
 hbm:fuel_additive:1, Deicer
 hbm:canister_empty, Empty Canister
-hbm:canister_fuel:87, Canister: Blood Fuel
 hbm:canister_fuel:10, Canister: Crude Oil
-hbm:canister_fuel:175, Canister: Desulfurized Crude Oil
+hbm:canister_fuel:134, Canister: Desulfurized Crude Oil
 hbm:canister_fuel:61, Canister: Cracked Oil
-hbm:canister_fuel:177, Canister: Desulfurized Cracked Oil
+hbm:canister_fuel:136, Canister: Desulfurized Cracked Oil
 hbm:canister_fuel:62, Canister: Coal Oil
 hbm:canister_fuel:12, Canister: Heavy Oil
-hbm:canister_fuel:98, Canister: Vacuum Heavy Oil
+hbm:canister_fuel:91, Canister: Vacuum Heavy Oil
 hbm:canister_fuel:19, Canister: Naphtha
-hbm:canister_fuel:179, Canister: Desulfurized Naphtha
+hbm:canister_fuel:138, Canister: Desulfurized Naphtha
 hbm:canister_fuel:64, Canister: Cracked Naphtha
-hbm:canister_fuel:99, Canister: Reformate
+hbm:canister_fuel:92, Canister: Reformate
 hbm:canister_fuel:21, Canister: Light Oil
-hbm:canister_fuel:180, Canister: Desulfurized Light Oil
+hbm:canister_fuel:139, Canister: Desulfurized Light Oil
 hbm:canister_fuel:65, Canister: Cracked Light Oil
-hbm:canister_fuel:100, Canister: Vacuum Light Oil
+hbm:canister_fuel:93, Canister: Vacuum Light Oil
 hbm:canister_fuel:13, Canister: Bitumen
 hbm:canister_fuel:14, Canister: Industrial Oil
 hbm:canister_fuel:15, Canister: Heating Oil
-hbm:canister_fuel:109, Canister: Heavy Heating Oil
+hbm:canister_fuel:96, Canister: Heavy Heating Oil
 hbm:canister_fuel:16, Canister: Reclaimed Industrial Oil
 hbm:canister_fuel:18, Canister: Engine Lubricant
-hbm:canister_fuel:102, Canister: BTX
+hbm:canister_fuel:95, Canister: BTX
 hbm:canister_fuel:20, Canister: Diesel
-hbm:canister_fuel:110, Canister: High-Cetane Diesel
+hbm:canister_fuel:97, Canister: High-Cetane Diesel
 hbm:canister_fuel:66, Canister: Cracked Diesel
-hbm:canister_fuel:111, Canister: High-Cetane Cracked Diesel
+hbm:canister_fuel:98, Canister: High-Cetane Cracked Diesel
 hbm:canister_fuel:22, Canister: Kerosene
-hbm:canister_fuel:112, Canister: Jet Fuel
+hbm:canister_fuel:99, Canister: Jet Fuel
 hbm:canister_fuel:17, Canister: Petroil
 hbm:canister_fuel:72, Canister: Leaded Petroil
 hbm:canister_fuel:46, Canister: Gasoline
@@ -2313,33 +2311,34 @@ hbm:canister_fuel:80, Canister: Coal Tar Creosote
 hbm:canister_fuel:79, Canister: Wood Oil
 hbm:canister_fuel:27, Canister: Biofuel
 hbm:canister_fuel:59, Canister: Ethanol
-hbm:canister_fuel:131, Canister: N-MASS(III) Tetrahexaethanol
 hbm:canister_fuel:28, Canister: NITAN© 100 Octane Super Fuel
-hbm:canister_fuel:86, Canister: Hydrazine
 hbm:canister_fuel:81, Canister: Seeding Slurry
-hbm:canister_fuel:91, Canister: Solvent
+hbm:canister_fuel:83, Canister: Solvent
 hbm:canister_fuel:49, Canister: Fracking Solution
-hbm:canister_fuel:130, Canister: Elbow Grease
+hbm:canister_fuel:89, Canister: Hydrazine
+hbm:canister_fuel:4014, Canister: Elbow Grease
+hbm:canister_fuel:4015, Canister: N-MASS(III) Tetrahexaethanol
+hbm:canister_fuel:4044, Canister: Blood Fuel
 hbm:canister_napalm, Napalm B
 hbm:gas_empty, Empty Gas Tank
 hbm:gas_full:38, Gas Tank:: Liquid Hydrogen
 hbm:gas_full:8, Gas Tank:: Deuterium
 hbm:gas_full:9, Gas Tank:: Tritium
 hbm:gas_full:57, Gas Tank:: Helium-3
-hbm:gas_full:165, Gas Tank:: Helium-4
+hbm:gas_full:124, Gas Tank:: Helium-4
 hbm:gas_full:39, Gas Tank:: Liquid Oxygen
 hbm:gas_full:40, Gas Tank:: Xenon Gas
-hbm:gas_full:97, Gas Tank:: Chlorine Gas
+hbm:gas_full:90, Gas Tank:: Chlorine Gas
 hbm:gas_full:23, Gas Tank:: Natural Gas
 hbm:gas_full:24, Gas Tank:: Petroleum Gas
-hbm:gas_full:101, Gas Tank:: Sour Gas
-hbm:gas_full:94, Gas Tank:: Syngas
+hbm:gas_full:94, Gas Tank:: Sour Gas
+hbm:gas_full:86, Gas Tank:: Syngas
 hbm:gas_full:67, Gas Tank:: Aromatic Hydrocarbons
 hbm:gas_full:68, Gas Tank:: Unsaturated Hydrocarbons
-hbm:gas_full:113, Gas Tank:: Reformate Gas
+hbm:gas_full:100, Gas Tank:: Reformate Gas
 hbm:gas_full:26, Gas Tank:: Biogas
-hbm:gas_full:127, Gas Tank:: Phosgene
-hbm:gas_full:128, Gas Tank:: Mustard Gas
+hbm:gas_full:102, Gas Tank:: Phosgene
+hbm:gas_full:103, Gas Tank:: Mustard Gas
 hbm:cell:0, Empty Cell
 hbm:cell:29, Uranium Hexafluoride Cell
 hbm:cell:30, Plutonium Hexafluoride Cell
@@ -2350,9 +2349,10 @@ hbm:cell:31, Schrabidium Trisulfide Cell
 hbm:cell:34, Antischrabidium Cell
 hbm:cell_balefire, Gaseous Balefire Cell
 hbm:fluid_tank_empty, Empty Universal Fluid Tank
+hbm:fluid_tank_full:152, Universal Fluid Tank: Compressed Air
 hbm:fluid_tank_full:1, Universal Fluid Tank: Water
 hbm:fluid_tank_full:60, Universal Fluid Tank: Heavy Water
-hbm:fluid_tank_full:166, Universal Fluid Tank: Hot Heavy Water
+hbm:fluid_tank_full:125, Universal Fluid Tank: Hot Heavy Water
 hbm:fluid_tank_full:7, Universal Fluid Tank: Lava
 hbm:fluid_tank_full:2, Universal Fluid Tank: Steam
 hbm:fluid_tank_full:3, Universal Fluid Tank: Dense Steam
@@ -2361,78 +2361,74 @@ hbm:fluid_tank_full:5, Universal Fluid Tank: Ultra Dense Steam
 hbm:fluid_tank_full:55, Universal Fluid Tank: Carbon Dioxide
 hbm:fluid_tank_full:6, Universal Fluid Tank: Coolant
 hbm:fluid_tank_full:76, Universal Fluid Tank: Hot Coolant
-hbm:fluid_tank_full:198, Universal Fluid Tank: Perfluoromethyl
-hbm:fluid_tank_full:199, Universal Fluid Tank: Cold Perfluoromethyl
-hbm:fluid_tank_full:200, Universal Fluid Tank: Hot Perfluoromethyl
+hbm:fluid_tank_full:145, Universal Fluid Tank: Perfluoromethyl
+hbm:fluid_tank_full:146, Universal Fluid Tank: Cold Perfluoromethyl
+hbm:fluid_tank_full:147, Universal Fluid Tank: Hot Perfluoromethyl
 hbm:fluid_tank_full:37, Universal Fluid Tank: Cryogel
 hbm:fluid_tank_full:77, Universal Fluid Tank: Mug Root Beer
 hbm:fluid_tank_full:78, Universal Fluid Tank: Hot Mug Root Beer
-hbm:fluid_tank_full:83, Universal Fluid Tank: Blood
-hbm:fluid_tank_full:87, Universal Fluid Tank: Blood Fuel
-hbm:fluid_tank_full:90, Universal Fluid Tank: Hot Blood
-hbm:fluid_tank_full:167, Universal Fluid Tank: Liquid Sodium
-hbm:fluid_tank_full:168, Universal Fluid Tank: Hot Liquid Sodium
-hbm:fluid_tank_full:186, Universal Fluid Tank: Liquid Lead
-hbm:fluid_tank_full:187, Universal Fluid Tank: Hot Liquid Lead
-hbm:fluid_tank_full:169, Universal Fluid Tank: Liquid Thorium Salt
-hbm:fluid_tank_full:170, Universal Fluid Tank: Hot Liquid Thorium Salt
-hbm:fluid_tank_full:171, Universal Fluid Tank: Depleted Liquid Thorium Salt
+hbm:fluid_tank_full:84, Universal Fluid Tank: Blood
+hbm:fluid_tank_full:85, Universal Fluid Tank: Hot Blood
+hbm:fluid_tank_full:126, Universal Fluid Tank: Liquid Sodium
+hbm:fluid_tank_full:127, Universal Fluid Tank: Hot Liquid Sodium
+hbm:fluid_tank_full:143, Universal Fluid Tank: Liquid Lead
+hbm:fluid_tank_full:144, Universal Fluid Tank: Hot Liquid Lead
+hbm:fluid_tank_full:128, Universal Fluid Tank: Liquid Thorium Salt
+hbm:fluid_tank_full:129, Universal Fluid Tank: Hot Liquid Thorium Salt
+hbm:fluid_tank_full:130, Universal Fluid Tank: Depleted Liquid Thorium Salt
 hbm:fluid_tank_full:38, Universal Fluid Tank: Liquid Hydrogen
 hbm:fluid_tank_full:8, Universal Fluid Tank: Deuterium
 hbm:fluid_tank_full:9, Universal Fluid Tank: Tritium
 hbm:fluid_tank_full:57, Universal Fluid Tank: Helium-3
-hbm:fluid_tank_full:165, Universal Fluid Tank: Helium-4
+hbm:fluid_tank_full:124, Universal Fluid Tank: Helium-4
 hbm:fluid_tank_full:39, Universal Fluid Tank: Liquid Oxygen
 hbm:fluid_tank_full:40, Universal Fluid Tank: Xenon Gas
-hbm:fluid_tank_full:97, Universal Fluid Tank: Chlorine Gas
-hbm:fluid_tank_full:125, Universal Fluid Tank: Fluorine
+hbm:fluid_tank_full:90, Universal Fluid Tank: Chlorine Gas
 hbm:fluid_tank_full:42, Universal Fluid Tank: Mercury
-hbm:fluid_tank_full:82, Universal Fluid Tank: Liquid Nitrogen
-hbm:fluid_tank_full:133, Universal Fluid Tank: Scutterblood
 hbm:fluid_tank_full:10, Universal Fluid Tank: Crude Oil
-hbm:fluid_tank_full:175, Universal Fluid Tank: Desulfurized Crude Oil
+hbm:fluid_tank_full:134, Universal Fluid Tank: Desulfurized Crude Oil
 hbm:fluid_tank_full:61, Universal Fluid Tank: Cracked Oil
-hbm:fluid_tank_full:177, Universal Fluid Tank: Desulfurized Cracked Oil
+hbm:fluid_tank_full:136, Universal Fluid Tank: Desulfurized Cracked Oil
 hbm:fluid_tank_full:62, Universal Fluid Tank: Coal Oil
-hbm:fluid_tank_full:135, Universal Fluid Tank: Coker Oil
+hbm:fluid_tank_full:105, Universal Fluid Tank: Coker Oil
 hbm:fluid_tank_full:11, Universal Fluid Tank: Hot Crude Oil
-hbm:fluid_tank_full:176, Universal Fluid Tank: Desulfurized Hot Crude Oil
+hbm:fluid_tank_full:135, Universal Fluid Tank: Desulfurized Hot Crude Oil
 hbm:fluid_tank_full:63, Universal Fluid Tank: Hot Cracked Oil
-hbm:fluid_tank_full:178, Universal Fluid Tank: Desulfurized Hot Cracked Oil
+hbm:fluid_tank_full:137, Universal Fluid Tank: Desulfurized Hot Cracked Oil
 hbm:fluid_tank_full:12, Universal Fluid Tank: Heavy Oil
-hbm:fluid_tank_full:98, Universal Fluid Tank: Vacuum Heavy Oil
+hbm:fluid_tank_full:91, Universal Fluid Tank: Vacuum Heavy Oil
 hbm:fluid_tank_full:19, Universal Fluid Tank: Naphtha
-hbm:fluid_tank_full:179, Universal Fluid Tank: Desulfurized Naphtha
+hbm:fluid_tank_full:138, Universal Fluid Tank: Desulfurized Naphtha
 hbm:fluid_tank_full:64, Universal Fluid Tank: Cracked Naphtha
-hbm:fluid_tank_full:136, Universal Fluid Tank: Coker Naphtha
-hbm:fluid_tank_full:99, Universal Fluid Tank: Reformate
+hbm:fluid_tank_full:106, Universal Fluid Tank: Coker Naphtha
+hbm:fluid_tank_full:92, Universal Fluid Tank: Reformate
 hbm:fluid_tank_full:21, Universal Fluid Tank: Light Oil
-hbm:fluid_tank_full:180, Universal Fluid Tank: Desulfurized Light Oil
+hbm:fluid_tank_full:139, Universal Fluid Tank: Desulfurized Light Oil
 hbm:fluid_tank_full:65, Universal Fluid Tank: Cracked Light Oil
-hbm:fluid_tank_full:100, Universal Fluid Tank: Vacuum Light Oil
+hbm:fluid_tank_full:93, Universal Fluid Tank: Vacuum Light Oil
 hbm:fluid_tank_full:13, Universal Fluid Tank: Bitumen
 hbm:fluid_tank_full:14, Universal Fluid Tank: Industrial Oil
 hbm:fluid_tank_full:15, Universal Fluid Tank: Heating Oil
-hbm:fluid_tank_full:109, Universal Fluid Tank: Heavy Heating Oil
+hbm:fluid_tank_full:96, Universal Fluid Tank: Heavy Heating Oil
 hbm:fluid_tank_full:16, Universal Fluid Tank: Reclaimed Industrial Oil
 hbm:fluid_tank_full:18, Universal Fluid Tank: Engine Lubricant
 hbm:fluid_tank_full:23, Universal Fluid Tank: Natural Gas
-hbm:fluid_tank_full:137, Universal Fluid Tank: Coker Gas
+hbm:fluid_tank_full:107, Universal Fluid Tank: Coker Gas
 hbm:fluid_tank_full:24, Universal Fluid Tank: Petroleum Gas
-hbm:fluid_tank_full:101, Universal Fluid Tank: Sour Gas
+hbm:fluid_tank_full:94, Universal Fluid Tank: Sour Gas
 hbm:fluid_tank_full:25, Universal Fluid Tank: LPG
-hbm:fluid_tank_full:94, Universal Fluid Tank: Syngas
-hbm:fluid_tank_full:95, Universal Fluid Tank: Oxyhydrogen
+hbm:fluid_tank_full:86, Universal Fluid Tank: Syngas
+hbm:fluid_tank_full:87, Universal Fluid Tank: Oxyhydrogen
 hbm:fluid_tank_full:67, Universal Fluid Tank: Aromatic Hydrocarbons
 hbm:fluid_tank_full:68, Universal Fluid Tank: Unsaturated Hydrocarbons
-hbm:fluid_tank_full:102, Universal Fluid Tank: BTX
-hbm:fluid_tank_full:113, Universal Fluid Tank: Reformate Gas
+hbm:fluid_tank_full:95, Universal Fluid Tank: BTX
+hbm:fluid_tank_full:100, Universal Fluid Tank: Reformate Gas
 hbm:fluid_tank_full:20, Universal Fluid Tank: Diesel
-hbm:fluid_tank_full:110, Universal Fluid Tank: High-Cetane Diesel
+hbm:fluid_tank_full:97, Universal Fluid Tank: High-Cetane Diesel
 hbm:fluid_tank_full:66, Universal Fluid Tank: Cracked Diesel
-hbm:fluid_tank_full:111, Universal Fluid Tank: High-Cetane Cracked Diesel
+hbm:fluid_tank_full:98, Universal Fluid Tank: High-Cetane Cracked Diesel
 hbm:fluid_tank_full:22, Universal Fluid Tank: Kerosene
-hbm:fluid_tank_full:112, Universal Fluid Tank: Jet Fuel
+hbm:fluid_tank_full:99, Universal Fluid Tank: Jet Fuel
 hbm:fluid_tank_full:17, Universal Fluid Tank: Petroil
 hbm:fluid_tank_full:72, Universal Fluid Tank: Leaded Petroil
 hbm:fluid_tank_full:46, Universal Fluid Tank: Gasoline
@@ -2444,90 +2440,49 @@ hbm:fluid_tank_full:79, Universal Fluid Tank: Wood Oil
 hbm:fluid_tank_full:26, Universal Fluid Tank: Biogas
 hbm:fluid_tank_full:27, Universal Fluid Tank: Biofuel
 hbm:fluid_tank_full:59, Universal Fluid Tank: Ethanol
-hbm:fluid_tank_full:131, Universal Fluid Tank: N-MASS(III) Tetrahexaethanol
-hbm:fluid_tank_full:141, Universal Fluid Tank: Fish Oil
-hbm:fluid_tank_full:142, Universal Fluid Tank: Sunflower Seed Oil
+hbm:fluid_tank_full:111, Universal Fluid Tank: Fish Oil
+hbm:fluid_tank_full:112, Universal Fluid Tank: Sunflower Seed Oil
 hbm:fluid_tank_full:28, Universal Fluid Tank: NITAN© 100 Octane Super Fuel
-hbm:fluid_tank_full:205, Universal Fluid Tank: Deuterated Hydrocarbon
-hbm:fluid_tank_full:86, Universal Fluid Tank: Hydrazine
+hbm:fluid_tank_full:154, Universal Fluid Tank: Deuterated Hydrocarbon
 hbm:fluid_tank_full:41, Universal Fluid Tank: BF Rocket Fuel
-hbm:fluid_tank_full:161, Universal Fluid Tank: Morkite
-hbm:fluid_tank_full:163, Universal Fluid Tank: Morkine
-hbm:fluid_tank_full:164, Universal Fluid Tank: Morkite Slurry
-hbm:fluid_tank_full:162, Universal Fluid Tank: Dicyanoacetylene
 hbm:fluid_tank_full:69, Universal Fluid Tank: Salient Green
 hbm:fluid_tank_full:81, Universal Fluid Tank: Seeding Slurry
-hbm:fluid_tank_full:117, Universal Fluid Tank: Colloid
-hbm:fluid_tank_full:183, Universal Fluid Tank: Vitriol
-hbm:fluid_tank_full:184, Universal Fluid Tank: Ore Slop
-hbm:fluid_tank_full:129, Universal Fluid Tank: Ionic Gel
+hbm:fluid_tank_full:101, Universal Fluid Tank: Colloid
+hbm:fluid_tank_full:141, Universal Fluid Tank: Vitriol
+hbm:fluid_tank_full:142, Universal Fluid Tank: Ore Slop
+hbm:fluid_tank_full:104, Universal Fluid Tank: Ionic Gel
 hbm:fluid_tank_full:35, Universal Fluid Tank: Hydrogen Peroxide
 hbm:fluid_tank_full:75, Universal Fluid Tank: Sulfuric Acid
-hbm:fluid_tank_full:122, Universal Fluid Tank: Alkyl Bromide
-hbm:fluid_tank_full:189, Universal Fluid Tank: Uranium Bromide
-hbm:fluid_tank_full:190, Universal Fluid Tank: Plutonium Bromide
-hbm:fluid_tank_full:191, Universal Fluid Tank: Schrabidium Bromide
-hbm:fluid_tank_full:192, Universal Fluid Tank: Thorium Bromide
-hbm:fluid_tank_full:120, Universal Fluid Tank: Chloromethane
-hbm:fluid_tank_full:121, Universal Fluid Tank: Methanol
-hbm:fluid_tank_full:124, Universal Fluid Tank: Polyethylene
-hbm:fluid_tank_full:123, Universal Fluid Tank: Methylene
-hbm:fluid_tank_full:118, Universal Fluid Tank: Eve Air
-hbm:fluid_tank_full:154, Universal Fluid Tank: Jool Air
-hbm:fluid_tank_full:119, Universal Fluid Tank: Potassium Permanganate Solution
-hbm:fluid_tank_full:155, Universal Fluid Tank: Sarnus Air
-hbm:fluid_tank_full:156, Universal Fluid Tank: Urlum Air
-hbm:fluid_tank_full:157, Universal Fluid Tank: Neidon Air
-hbm:fluid_tank_full:126, Universal Fluid Tank: Tekto Air
-hbm:fluid_tank_full:89, Universal Fluid Tank: Compressed Air
-hbm:fluid_tank_full:84, Universal Fluid Tank: Nitric Acid
-hbm:fluid_tank_full:92, Universal Fluid Tank: Hydrochloric Acid
-hbm:fluid_tank_full:85, Universal Fluid Tank: Ammonia
-hbm:fluid_tank_full:91, Universal Fluid Tank: Solvent
-hbm:fluid_tank_full:134, Universal Fluid Tank: Pertechnetic Acid
+hbm:fluid_tank_full:82, Universal Fluid Tank: Nitric Acid
+hbm:fluid_tank_full:83, Universal Fluid Tank: Solvent
+hbm:fluid_tank_full:88, Universal Fluid Tank: High-Performance Solvent
 hbm:fluid_tank_full:32, Universal Fluid Tank: Schrabidic Acid
 hbm:fluid_tank_full:29, Universal Fluid Tank: Uranium Hexafluoride
 hbm:fluid_tank_full:30, Universal Fluid Tank: Plutonium Hexafluoride
 hbm:fluid_tank_full:31, Universal Fluid Tank: Schrabidium Trisulfide
 hbm:fluid_tank_full:43, Universal Fluid Tank: Pandemonium(III)tantalite Solution
 hbm:fluid_tank_full:36, Universal Fluid Tank: Poisonous Mud
-hbm:fluid_tank_full:172, Universal Fluid Tank: Fullerene Solution
-hbm:fluid_tank_full:138, Universal Fluid Tank: Dissolved Egg
-hbm:fluid_tank_full:139, Universal Fluid Tank: Cholesterol Solution
-hbm:fluid_tank_full:88, Universal Fluid Tank: Sodium Aluminate
-hbm:fluid_tank_full:202, Universal Fluid Tank: Bauxite Solution
-hbm:fluid_tank_full:203, Universal Fluid Tank: Alumina
-hbm:fluid_tank_full:204, Universal Fluid Tank: Liquid Concrete
-hbm:fluid_tank_full:173, Universal Fluid Tank: Booster Pheromone
-hbm:fluid_tank_full:174, Universal Fluid Tank: Modified Booster Pheromone
+hbm:fluid_tank_full:131, Universal Fluid Tank: Fullerene Solution
+hbm:fluid_tank_full:108, Universal Fluid Tank: Dissolved Egg
+hbm:fluid_tank_full:109, Universal Fluid Tank: Cholesterol Solution
+hbm:fluid_tank_full:149, Universal Fluid Tank: Sodium Aluminate
+hbm:fluid_tank_full:150, Universal Fluid Tank: Bauxite Solution
+hbm:fluid_tank_full:151, Universal Fluid Tank: Alumina
+hbm:fluid_tank_full:153, Universal Fluid Tank: Liquid Concrete
 hbm:fluid_tank_full:49, Universal Fluid Tank: Fracking Solution
-hbm:fluid_tank_full:201, Universal Fluid Tank: Lye
-hbm:fluid_tank_full:127, Universal Fluid Tank: Phosgene
-hbm:fluid_tank_full:128, Universal Fluid Tank: Mustard Gas
-hbm:fluid_tank_full:140, Universal Fluid Tank: Estradiol Solution
-hbm:fluid_tank_full:143, Universal Fluid Tank: Nitroglycerin
+hbm:fluid_tank_full:148, Universal Fluid Tank: Lye
+hbm:fluid_tank_full:102, Universal Fluid Tank: Phosgene
+hbm:fluid_tank_full:103, Universal Fluid Tank: Mustard Gas
+hbm:fluid_tank_full:110, Universal Fluid Tank: Estradiol Solution
+hbm:fluid_tank_full:113, Universal Fluid Tank: Nitroglycerin
 hbm:fluid_tank_full:33, Universal Fluid Tank: Antimatter
 hbm:fluid_tank_full:34, Universal Fluid Tank: Antischrabidium
 hbm:fluid_tank_full:70, Universal Fluid Tank: Experience Juice
 hbm:fluid_tank_full:71, Universal Fluid Tank: Ender Juice
-hbm:fluid_tank_full:93, Universal Fluid Tank: Mineral Slurry
-hbm:fluid_tank_full:132, Universal Fluid Tank: N-MASS(II) Driver Fuel
-hbm:fluid_tank_full:181, Universal Fluid Tank: Stellar Flux
-hbm:fluid_tank_full:105, Universal Fluid Tank: Krypton Gas
-hbm:fluid_tank_full:104, Universal Fluid Tank: Argon Gas
-hbm:fluid_tank_full:103, Universal Fluid Tank: Neon Gas
-hbm:fluid_tank_full:107, Universal Fluid Tank: Tea
-hbm:fluid_tank_full:108, Universal Fluid Tank: Honey
-hbm:fluid_tank_full:106, Universal Fluid Tank: Coffee
-hbm:fluid_tank_full:114, Universal Fluid Tank: Milk
-hbm:fluid_tank_full:115, Universal Fluid Tank: Strawberry Milk
-hbm:fluid_tank_full:116, Universal Fluid Tank: Olive Oil
-hbm:fluid_tank_full:130, Universal Fluid Tank: Elbow Grease
-hbm:fluid_tank_full:158, Universal Fluid Tank: Evaporated Milk
-hbm:fluid_tank_full:159, Universal Fluid Tank: Condensed Milk
-hbm:fluid_tank_full:160, Universal Fluid Tank: Heavy Whipping Cream
-hbm:fluid_tank_full:182, Universal Fluid Tank: Duna Air
-hbm:fluid_tank_full:197, Universal Fluid Tank: hbmfluid.gaseous_hydrogen
+hbm:fluid_tank_full:140, Universal Fluid Tank: Stellar Flux
+hbm:fluid_tank_full:132, Universal Fluid Tank: Booster Pheromone
+hbm:fluid_tank_full:133, Universal Fluid Tank: Modified Booster Pheromone
+hbm:fluid_tank_full:89, Universal Fluid Tank: Hydrazine
 hbm:fluid_tank_full:1000, Universal Fluid Tank: Custom Fluid Demo
 hbm:fluid_tank_full:4000, Universal Fluid Tank: Oxygen-Rich Air
 hbm:fluid_tank_full:4001, Universal Fluid Tank: Carbon Tetrachloride
@@ -2543,10 +2498,56 @@ hbm:fluid_tank_full:4010, Universal Fluid Tank: Halide Gas
 hbm:fluid_tank_full:4011, Universal Fluid Tank: Light Halocarbons
 hbm:fluid_tank_full:4012, Universal Fluid Tank: hbmfluid.lithcarbonate
 hbm:fluid_tank_full:4013, Universal Fluid Tank: Tektonic Crude
+hbm:fluid_tank_full:4014, Universal Fluid Tank: Elbow Grease
+hbm:fluid_tank_full:4015, Universal Fluid Tank: N-MASS(III) Tetrahexaethanol
+hbm:fluid_tank_full:4016, Universal Fluid Tank: N-MASS(II) Driver Fuel
+hbm:fluid_tank_full:4017, Universal Fluid Tank: Scutterblood
+hbm:fluid_tank_full:4018, Universal Fluid Tank: Pertechnetic Acid
+hbm:fluid_tank_full:4019, Universal Fluid Tank: Neon Gas
+hbm:fluid_tank_full:4020, Universal Fluid Tank: Argon Gas
+hbm:fluid_tank_full:4021, Universal Fluid Tank: Krypton Gas
+hbm:fluid_tank_full:4022, Universal Fluid Tank: Coffee
+hbm:fluid_tank_full:4023, Universal Fluid Tank: Tea
+hbm:fluid_tank_full:4024, Universal Fluid Tank: Honey
+hbm:fluid_tank_full:4025, Universal Fluid Tank: Olive Oil
+hbm:fluid_tank_full:4026, Universal Fluid Tank: Fluorine
+hbm:fluid_tank_full:4027, Universal Fluid Tank: Duna Air
+hbm:fluid_tank_full:4028, Universal Fluid Tank: Tekto Air
+hbm:fluid_tank_full:4029, Universal Fluid Tank: Jool Air
+hbm:fluid_tank_full:4030, Universal Fluid Tank: Sarnus Air
+hbm:fluid_tank_full:4031, Universal Fluid Tank: Urlum Air
+hbm:fluid_tank_full:4032, Universal Fluid Tank: Neidon Air
+hbm:fluid_tank_full:4033, Universal Fluid Tank: Milk
+hbm:fluid_tank_full:4034, Universal Fluid Tank: Strawberry Milk
+hbm:fluid_tank_full:4035, Universal Fluid Tank: Eve Air
+hbm:fluid_tank_full:4036, Universal Fluid Tank: Potassium Permanganate Solution
+hbm:fluid_tank_full:4037, Universal Fluid Tank: Chloromethane
+hbm:fluid_tank_full:4038, Universal Fluid Tank: Methanol
+hbm:fluid_tank_full:4039, Universal Fluid Tank: Alkyl Bromide
+hbm:fluid_tank_full:4040, Universal Fluid Tank: Methylene
+hbm:fluid_tank_full:4041, Universal Fluid Tank: Polyethylene
+hbm:fluid_tank_full:4042, Universal Fluid Tank: Hydrochloric Acid
+hbm:fluid_tank_full:4043, Universal Fluid Tank: Ammonia
+hbm:fluid_tank_full:4044, Universal Fluid Tank: Blood Fuel
+hbm:fluid_tank_full:4045, Universal Fluid Tank: Mineral Slurry
+hbm:fluid_tank_full:4046, Universal Fluid Tank: Liquid Nitrogen
+hbm:fluid_tank_full:4047, Universal Fluid Tank: Evaporated Milk
+hbm:fluid_tank_full:4048, Universal Fluid Tank: Condensed Milk
+hbm:fluid_tank_full:4049, Universal Fluid Tank: Heavy Whipping Cream
+hbm:fluid_tank_full:4050, Universal Fluid Tank: Dicyanoacetylene
+hbm:fluid_tank_full:4051, Universal Fluid Tank: Morkite
+hbm:fluid_tank_full:4052, Universal Fluid Tank: Morkine
+hbm:fluid_tank_full:4053, Universal Fluid Tank: Morkite Slurry
+hbm:fluid_tank_full:4055, Universal Fluid Tank: Uranium Bromide
+hbm:fluid_tank_full:4056, Universal Fluid Tank: Plutonium Bromide
+hbm:fluid_tank_full:4057, Universal Fluid Tank: Schrabidium Bromide
+hbm:fluid_tank_full:4058, Universal Fluid Tank: Thorium Bromide
+hbm:fluid_tank_full:4063, Universal Fluid Tank: hbmfluid.gaseous_hydrogen
 hbm:fluid_tank_lead_empty, Empty Hazardous Material Tank
+hbm:fluid_tank_lead_full:152, Hazardous Material Tank: Compressed Air
 hbm:fluid_tank_lead_full:1, Hazardous Material Tank: Water
 hbm:fluid_tank_lead_full:60, Hazardous Material Tank: Heavy Water
-hbm:fluid_tank_lead_full:166, Hazardous Material Tank: Hot Heavy Water
+hbm:fluid_tank_lead_full:125, Hazardous Material Tank: Hot Heavy Water
 hbm:fluid_tank_lead_full:7, Hazardous Material Tank: Lava
 hbm:fluid_tank_lead_full:2, Hazardous Material Tank: Steam
 hbm:fluid_tank_lead_full:3, Hazardous Material Tank: Dense Steam
@@ -2555,78 +2556,74 @@ hbm:fluid_tank_lead_full:5, Hazardous Material Tank: Ultra Dense Steam
 hbm:fluid_tank_lead_full:55, Hazardous Material Tank: Carbon Dioxide
 hbm:fluid_tank_lead_full:6, Hazardous Material Tank: Coolant
 hbm:fluid_tank_lead_full:76, Hazardous Material Tank: Hot Coolant
-hbm:fluid_tank_lead_full:198, Hazardous Material Tank: Perfluoromethyl
-hbm:fluid_tank_lead_full:199, Hazardous Material Tank: Cold Perfluoromethyl
-hbm:fluid_tank_lead_full:200, Hazardous Material Tank: Hot Perfluoromethyl
+hbm:fluid_tank_lead_full:145, Hazardous Material Tank: Perfluoromethyl
+hbm:fluid_tank_lead_full:146, Hazardous Material Tank: Cold Perfluoromethyl
+hbm:fluid_tank_lead_full:147, Hazardous Material Tank: Hot Perfluoromethyl
 hbm:fluid_tank_lead_full:37, Hazardous Material Tank: Cryogel
 hbm:fluid_tank_lead_full:77, Hazardous Material Tank: Mug Root Beer
 hbm:fluid_tank_lead_full:78, Hazardous Material Tank: Hot Mug Root Beer
-hbm:fluid_tank_lead_full:83, Hazardous Material Tank: Blood
-hbm:fluid_tank_lead_full:87, Hazardous Material Tank: Blood Fuel
-hbm:fluid_tank_lead_full:90, Hazardous Material Tank: Hot Blood
-hbm:fluid_tank_lead_full:167, Hazardous Material Tank: Liquid Sodium
-hbm:fluid_tank_lead_full:168, Hazardous Material Tank: Hot Liquid Sodium
-hbm:fluid_tank_lead_full:186, Hazardous Material Tank: Liquid Lead
-hbm:fluid_tank_lead_full:187, Hazardous Material Tank: Hot Liquid Lead
-hbm:fluid_tank_lead_full:169, Hazardous Material Tank: Liquid Thorium Salt
-hbm:fluid_tank_lead_full:170, Hazardous Material Tank: Hot Liquid Thorium Salt
-hbm:fluid_tank_lead_full:171, Hazardous Material Tank: Depleted Liquid Thorium Salt
+hbm:fluid_tank_lead_full:84, Hazardous Material Tank: Blood
+hbm:fluid_tank_lead_full:85, Hazardous Material Tank: Hot Blood
+hbm:fluid_tank_lead_full:126, Hazardous Material Tank: Liquid Sodium
+hbm:fluid_tank_lead_full:127, Hazardous Material Tank: Hot Liquid Sodium
+hbm:fluid_tank_lead_full:143, Hazardous Material Tank: Liquid Lead
+hbm:fluid_tank_lead_full:144, Hazardous Material Tank: Hot Liquid Lead
+hbm:fluid_tank_lead_full:128, Hazardous Material Tank: Liquid Thorium Salt
+hbm:fluid_tank_lead_full:129, Hazardous Material Tank: Hot Liquid Thorium Salt
+hbm:fluid_tank_lead_full:130, Hazardous Material Tank: Depleted Liquid Thorium Salt
 hbm:fluid_tank_lead_full:38, Hazardous Material Tank: Liquid Hydrogen
 hbm:fluid_tank_lead_full:8, Hazardous Material Tank: Deuterium
 hbm:fluid_tank_lead_full:9, Hazardous Material Tank: Tritium
 hbm:fluid_tank_lead_full:57, Hazardous Material Tank: Helium-3
-hbm:fluid_tank_lead_full:165, Hazardous Material Tank: Helium-4
+hbm:fluid_tank_lead_full:124, Hazardous Material Tank: Helium-4
 hbm:fluid_tank_lead_full:39, Hazardous Material Tank: Liquid Oxygen
 hbm:fluid_tank_lead_full:40, Hazardous Material Tank: Xenon Gas
-hbm:fluid_tank_lead_full:97, Hazardous Material Tank: Chlorine Gas
-hbm:fluid_tank_lead_full:125, Hazardous Material Tank: Fluorine
+hbm:fluid_tank_lead_full:90, Hazardous Material Tank: Chlorine Gas
 hbm:fluid_tank_lead_full:42, Hazardous Material Tank: Mercury
-hbm:fluid_tank_lead_full:82, Hazardous Material Tank: Liquid Nitrogen
-hbm:fluid_tank_lead_full:133, Hazardous Material Tank: Scutterblood
 hbm:fluid_tank_lead_full:10, Hazardous Material Tank: Crude Oil
-hbm:fluid_tank_lead_full:175, Hazardous Material Tank: Desulfurized Crude Oil
+hbm:fluid_tank_lead_full:134, Hazardous Material Tank: Desulfurized Crude Oil
 hbm:fluid_tank_lead_full:61, Hazardous Material Tank: Cracked Oil
-hbm:fluid_tank_lead_full:177, Hazardous Material Tank: Desulfurized Cracked Oil
+hbm:fluid_tank_lead_full:136, Hazardous Material Tank: Desulfurized Cracked Oil
 hbm:fluid_tank_lead_full:62, Hazardous Material Tank: Coal Oil
-hbm:fluid_tank_lead_full:135, Hazardous Material Tank: Coker Oil
+hbm:fluid_tank_lead_full:105, Hazardous Material Tank: Coker Oil
 hbm:fluid_tank_lead_full:11, Hazardous Material Tank: Hot Crude Oil
-hbm:fluid_tank_lead_full:176, Hazardous Material Tank: Desulfurized Hot Crude Oil
+hbm:fluid_tank_lead_full:135, Hazardous Material Tank: Desulfurized Hot Crude Oil
 hbm:fluid_tank_lead_full:63, Hazardous Material Tank: Hot Cracked Oil
-hbm:fluid_tank_lead_full:178, Hazardous Material Tank: Desulfurized Hot Cracked Oil
+hbm:fluid_tank_lead_full:137, Hazardous Material Tank: Desulfurized Hot Cracked Oil
 hbm:fluid_tank_lead_full:12, Hazardous Material Tank: Heavy Oil
-hbm:fluid_tank_lead_full:98, Hazardous Material Tank: Vacuum Heavy Oil
+hbm:fluid_tank_lead_full:91, Hazardous Material Tank: Vacuum Heavy Oil
 hbm:fluid_tank_lead_full:19, Hazardous Material Tank: Naphtha
-hbm:fluid_tank_lead_full:179, Hazardous Material Tank: Desulfurized Naphtha
+hbm:fluid_tank_lead_full:138, Hazardous Material Tank: Desulfurized Naphtha
 hbm:fluid_tank_lead_full:64, Hazardous Material Tank: Cracked Naphtha
-hbm:fluid_tank_lead_full:136, Hazardous Material Tank: Coker Naphtha
-hbm:fluid_tank_lead_full:99, Hazardous Material Tank: Reformate
+hbm:fluid_tank_lead_full:106, Hazardous Material Tank: Coker Naphtha
+hbm:fluid_tank_lead_full:92, Hazardous Material Tank: Reformate
 hbm:fluid_tank_lead_full:21, Hazardous Material Tank: Light Oil
-hbm:fluid_tank_lead_full:180, Hazardous Material Tank: Desulfurized Light Oil
+hbm:fluid_tank_lead_full:139, Hazardous Material Tank: Desulfurized Light Oil
 hbm:fluid_tank_lead_full:65, Hazardous Material Tank: Cracked Light Oil
-hbm:fluid_tank_lead_full:100, Hazardous Material Tank: Vacuum Light Oil
+hbm:fluid_tank_lead_full:93, Hazardous Material Tank: Vacuum Light Oil
 hbm:fluid_tank_lead_full:13, Hazardous Material Tank: Bitumen
 hbm:fluid_tank_lead_full:14, Hazardous Material Tank: Industrial Oil
 hbm:fluid_tank_lead_full:15, Hazardous Material Tank: Heating Oil
-hbm:fluid_tank_lead_full:109, Hazardous Material Tank: Heavy Heating Oil
+hbm:fluid_tank_lead_full:96, Hazardous Material Tank: Heavy Heating Oil
 hbm:fluid_tank_lead_full:16, Hazardous Material Tank: Reclaimed Industrial Oil
 hbm:fluid_tank_lead_full:18, Hazardous Material Tank: Engine Lubricant
 hbm:fluid_tank_lead_full:23, Hazardous Material Tank: Natural Gas
-hbm:fluid_tank_lead_full:137, Hazardous Material Tank: Coker Gas
+hbm:fluid_tank_lead_full:107, Hazardous Material Tank: Coker Gas
 hbm:fluid_tank_lead_full:24, Hazardous Material Tank: Petroleum Gas
-hbm:fluid_tank_lead_full:101, Hazardous Material Tank: Sour Gas
+hbm:fluid_tank_lead_full:94, Hazardous Material Tank: Sour Gas
 hbm:fluid_tank_lead_full:25, Hazardous Material Tank: LPG
-hbm:fluid_tank_lead_full:94, Hazardous Material Tank: Syngas
-hbm:fluid_tank_lead_full:95, Hazardous Material Tank: Oxyhydrogen
+hbm:fluid_tank_lead_full:86, Hazardous Material Tank: Syngas
+hbm:fluid_tank_lead_full:87, Hazardous Material Tank: Oxyhydrogen
 hbm:fluid_tank_lead_full:67, Hazardous Material Tank: Aromatic Hydrocarbons
 hbm:fluid_tank_lead_full:68, Hazardous Material Tank: Unsaturated Hydrocarbons
-hbm:fluid_tank_lead_full:102, Hazardous Material Tank: BTX
-hbm:fluid_tank_lead_full:113, Hazardous Material Tank: Reformate Gas
+hbm:fluid_tank_lead_full:95, Hazardous Material Tank: BTX
+hbm:fluid_tank_lead_full:100, Hazardous Material Tank: Reformate Gas
 hbm:fluid_tank_lead_full:20, Hazardous Material Tank: Diesel
-hbm:fluid_tank_lead_full:110, Hazardous Material Tank: High-Cetane Diesel
+hbm:fluid_tank_lead_full:97, Hazardous Material Tank: High-Cetane Diesel
 hbm:fluid_tank_lead_full:66, Hazardous Material Tank: Cracked Diesel
-hbm:fluid_tank_lead_full:111, Hazardous Material Tank: High-Cetane Cracked Diesel
+hbm:fluid_tank_lead_full:98, Hazardous Material Tank: High-Cetane Cracked Diesel
 hbm:fluid_tank_lead_full:22, Hazardous Material Tank: Kerosene
-hbm:fluid_tank_lead_full:112, Hazardous Material Tank: Jet Fuel
+hbm:fluid_tank_lead_full:99, Hazardous Material Tank: Jet Fuel
 hbm:fluid_tank_lead_full:17, Hazardous Material Tank: Petroil
 hbm:fluid_tank_lead_full:72, Hazardous Material Tank: Leaded Petroil
 hbm:fluid_tank_lead_full:46, Hazardous Material Tank: Gasoline
@@ -2638,48 +2635,22 @@ hbm:fluid_tank_lead_full:79, Hazardous Material Tank: Wood Oil
 hbm:fluid_tank_lead_full:26, Hazardous Material Tank: Biogas
 hbm:fluid_tank_lead_full:27, Hazardous Material Tank: Biofuel
 hbm:fluid_tank_lead_full:59, Hazardous Material Tank: Ethanol
-hbm:fluid_tank_lead_full:131, Hazardous Material Tank: N-MASS(III) Tetrahexaethanol
-hbm:fluid_tank_lead_full:141, Hazardous Material Tank: Fish Oil
-hbm:fluid_tank_lead_full:142, Hazardous Material Tank: Sunflower Seed Oil
+hbm:fluid_tank_lead_full:111, Hazardous Material Tank: Fish Oil
+hbm:fluid_tank_lead_full:112, Hazardous Material Tank: Sunflower Seed Oil
 hbm:fluid_tank_lead_full:28, Hazardous Material Tank: NITAN© 100 Octane Super Fuel
-hbm:fluid_tank_lead_full:205, Hazardous Material Tank: Deuterated Hydrocarbon
-hbm:fluid_tank_lead_full:86, Hazardous Material Tank: Hydrazine
+hbm:fluid_tank_lead_full:154, Hazardous Material Tank: Deuterated Hydrocarbon
 hbm:fluid_tank_lead_full:41, Hazardous Material Tank: BF Rocket Fuel
-hbm:fluid_tank_lead_full:161, Hazardous Material Tank: Morkite
-hbm:fluid_tank_lead_full:163, Hazardous Material Tank: Morkine
-hbm:fluid_tank_lead_full:164, Hazardous Material Tank: Morkite Slurry
-hbm:fluid_tank_lead_full:162, Hazardous Material Tank: Dicyanoacetylene
 hbm:fluid_tank_lead_full:69, Hazardous Material Tank: Salient Green
 hbm:fluid_tank_lead_full:81, Hazardous Material Tank: Seeding Slurry
-hbm:fluid_tank_lead_full:117, Hazardous Material Tank: Colloid
-hbm:fluid_tank_lead_full:183, Hazardous Material Tank: Vitriol
-hbm:fluid_tank_lead_full:184, Hazardous Material Tank: Ore Slop
-hbm:fluid_tank_lead_full:129, Hazardous Material Tank: Ionic Gel
+hbm:fluid_tank_lead_full:101, Hazardous Material Tank: Colloid
+hbm:fluid_tank_lead_full:141, Hazardous Material Tank: Vitriol
+hbm:fluid_tank_lead_full:142, Hazardous Material Tank: Ore Slop
+hbm:fluid_tank_lead_full:104, Hazardous Material Tank: Ionic Gel
 hbm:fluid_tank_lead_full:35, Hazardous Material Tank: Hydrogen Peroxide
 hbm:fluid_tank_lead_full:75, Hazardous Material Tank: Sulfuric Acid
-hbm:fluid_tank_lead_full:122, Hazardous Material Tank: Alkyl Bromide
-hbm:fluid_tank_lead_full:189, Hazardous Material Tank: Uranium Bromide
-hbm:fluid_tank_lead_full:190, Hazardous Material Tank: Plutonium Bromide
-hbm:fluid_tank_lead_full:191, Hazardous Material Tank: Schrabidium Bromide
-hbm:fluid_tank_lead_full:192, Hazardous Material Tank: Thorium Bromide
-hbm:fluid_tank_lead_full:120, Hazardous Material Tank: Chloromethane
-hbm:fluid_tank_lead_full:121, Hazardous Material Tank: Methanol
-hbm:fluid_tank_lead_full:124, Hazardous Material Tank: Polyethylene
-hbm:fluid_tank_lead_full:123, Hazardous Material Tank: Methylene
-hbm:fluid_tank_lead_full:118, Hazardous Material Tank: Eve Air
-hbm:fluid_tank_lead_full:154, Hazardous Material Tank: Jool Air
-hbm:fluid_tank_lead_full:119, Hazardous Material Tank: Potassium Permanganate Solution
-hbm:fluid_tank_lead_full:155, Hazardous Material Tank: Sarnus Air
-hbm:fluid_tank_lead_full:156, Hazardous Material Tank: Urlum Air
-hbm:fluid_tank_lead_full:157, Hazardous Material Tank: Neidon Air
-hbm:fluid_tank_lead_full:126, Hazardous Material Tank: Tekto Air
-hbm:fluid_tank_lead_full:89, Hazardous Material Tank: Compressed Air
-hbm:fluid_tank_lead_full:84, Hazardous Material Tank: Nitric Acid
-hbm:fluid_tank_lead_full:92, Hazardous Material Tank: Hydrochloric Acid
-hbm:fluid_tank_lead_full:85, Hazardous Material Tank: Ammonia
-hbm:fluid_tank_lead_full:91, Hazardous Material Tank: Solvent
-hbm:fluid_tank_lead_full:96, Hazardous Material Tank: High-Performance Solvent
-hbm:fluid_tank_lead_full:134, Hazardous Material Tank: Pertechnetic Acid
+hbm:fluid_tank_lead_full:82, Hazardous Material Tank: Nitric Acid
+hbm:fluid_tank_lead_full:83, Hazardous Material Tank: Solvent
+hbm:fluid_tank_lead_full:88, Hazardous Material Tank: High-Performance Solvent
 hbm:fluid_tank_lead_full:32, Hazardous Material Tank: Schrabidic Acid
 hbm:fluid_tank_lead_full:29, Hazardous Material Tank: Uranium Hexafluoride
 hbm:fluid_tank_lead_full:30, Hazardous Material Tank: Plutonium Hexafluoride
@@ -2687,44 +2658,28 @@ hbm:fluid_tank_lead_full:31, Hazardous Material Tank: Schrabidium Trisulfide
 hbm:fluid_tank_lead_full:43, Hazardous Material Tank: Pandemonium(III)tantalite Solution
 hbm:fluid_tank_lead_full:58, Hazardous Material Tank: Osmiridic Solution
 hbm:fluid_tank_lead_full:36, Hazardous Material Tank: Poisonous Mud
-hbm:fluid_tank_lead_full:144, Hazardous Material Tank: Red Mud
-hbm:fluid_tank_lead_full:172, Hazardous Material Tank: Fullerene Solution
-hbm:fluid_tank_lead_full:138, Hazardous Material Tank: Dissolved Egg
-hbm:fluid_tank_lead_full:139, Hazardous Material Tank: Cholesterol Solution
-hbm:fluid_tank_lead_full:88, Hazardous Material Tank: Sodium Aluminate
-hbm:fluid_tank_lead_full:202, Hazardous Material Tank: Bauxite Solution
-hbm:fluid_tank_lead_full:203, Hazardous Material Tank: Alumina
-hbm:fluid_tank_lead_full:204, Hazardous Material Tank: Liquid Concrete
-hbm:fluid_tank_lead_full:173, Hazardous Material Tank: Booster Pheromone
-hbm:fluid_tank_lead_full:174, Hazardous Material Tank: Modified Booster Pheromone
+hbm:fluid_tank_lead_full:114, Hazardous Material Tank: Red Mud
+hbm:fluid_tank_lead_full:131, Hazardous Material Tank: Fullerene Solution
+hbm:fluid_tank_lead_full:108, Hazardous Material Tank: Dissolved Egg
+hbm:fluid_tank_lead_full:109, Hazardous Material Tank: Cholesterol Solution
+hbm:fluid_tank_lead_full:149, Hazardous Material Tank: Sodium Aluminate
+hbm:fluid_tank_lead_full:150, Hazardous Material Tank: Bauxite Solution
+hbm:fluid_tank_lead_full:151, Hazardous Material Tank: Alumina
+hbm:fluid_tank_lead_full:153, Hazardous Material Tank: Liquid Concrete
 hbm:fluid_tank_lead_full:49, Hazardous Material Tank: Fracking Solution
-hbm:fluid_tank_lead_full:201, Hazardous Material Tank: Lye
-hbm:fluid_tank_lead_full:127, Hazardous Material Tank: Phosgene
-hbm:fluid_tank_lead_full:128, Hazardous Material Tank: Mustard Gas
-hbm:fluid_tank_lead_full:140, Hazardous Material Tank: Estradiol Solution
-hbm:fluid_tank_lead_full:143, Hazardous Material Tank: Nitroglycerin
+hbm:fluid_tank_lead_full:148, Hazardous Material Tank: Lye
+hbm:fluid_tank_lead_full:102, Hazardous Material Tank: Phosgene
+hbm:fluid_tank_lead_full:103, Hazardous Material Tank: Mustard Gas
+hbm:fluid_tank_lead_full:110, Hazardous Material Tank: Estradiol Solution
+hbm:fluid_tank_lead_full:113, Hazardous Material Tank: Nitroglycerin
 hbm:fluid_tank_lead_full:33, Hazardous Material Tank: Antimatter
 hbm:fluid_tank_lead_full:34, Hazardous Material Tank: Antischrabidium
 hbm:fluid_tank_lead_full:70, Hazardous Material Tank: Experience Juice
 hbm:fluid_tank_lead_full:71, Hazardous Material Tank: Ender Juice
-hbm:fluid_tank_lead_full:93, Hazardous Material Tank: Mineral Slurry
-hbm:fluid_tank_lead_full:132, Hazardous Material Tank: N-MASS(II) Driver Fuel
-hbm:fluid_tank_lead_full:181, Hazardous Material Tank: Stellar Flux
-hbm:fluid_tank_lead_full:105, Hazardous Material Tank: Krypton Gas
-hbm:fluid_tank_lead_full:104, Hazardous Material Tank: Argon Gas
-hbm:fluid_tank_lead_full:103, Hazardous Material Tank: Neon Gas
-hbm:fluid_tank_lead_full:107, Hazardous Material Tank: Tea
-hbm:fluid_tank_lead_full:108, Hazardous Material Tank: Honey
-hbm:fluid_tank_lead_full:106, Hazardous Material Tank: Coffee
-hbm:fluid_tank_lead_full:114, Hazardous Material Tank: Milk
-hbm:fluid_tank_lead_full:115, Hazardous Material Tank: Strawberry Milk
-hbm:fluid_tank_lead_full:116, Hazardous Material Tank: Olive Oil
-hbm:fluid_tank_lead_full:130, Hazardous Material Tank: Elbow Grease
-hbm:fluid_tank_lead_full:158, Hazardous Material Tank: Evaporated Milk
-hbm:fluid_tank_lead_full:159, Hazardous Material Tank: Condensed Milk
-hbm:fluid_tank_lead_full:160, Hazardous Material Tank: Heavy Whipping Cream
-hbm:fluid_tank_lead_full:182, Hazardous Material Tank: Duna Air
-hbm:fluid_tank_lead_full:197, Hazardous Material Tank: hbmfluid.gaseous_hydrogen
+hbm:fluid_tank_lead_full:140, Hazardous Material Tank: Stellar Flux
+hbm:fluid_tank_lead_full:132, Hazardous Material Tank: Booster Pheromone
+hbm:fluid_tank_lead_full:133, Hazardous Material Tank: Modified Booster Pheromone
+hbm:fluid_tank_lead_full:89, Hazardous Material Tank: Hydrazine
 hbm:fluid_tank_lead_full:1000, Hazardous Material Tank: Custom Fluid Demo
 hbm:fluid_tank_lead_full:4000, Hazardous Material Tank: Oxygen-Rich Air
 hbm:fluid_tank_lead_full:4001, Hazardous Material Tank: Carbon Tetrachloride
@@ -2740,10 +2695,56 @@ hbm:fluid_tank_lead_full:4010, Hazardous Material Tank: Halide Gas
 hbm:fluid_tank_lead_full:4011, Hazardous Material Tank: Light Halocarbons
 hbm:fluid_tank_lead_full:4012, Hazardous Material Tank: hbmfluid.lithcarbonate
 hbm:fluid_tank_lead_full:4013, Hazardous Material Tank: Tektonic Crude
+hbm:fluid_tank_lead_full:4014, Hazardous Material Tank: Elbow Grease
+hbm:fluid_tank_lead_full:4015, Hazardous Material Tank: N-MASS(III) Tetrahexaethanol
+hbm:fluid_tank_lead_full:4016, Hazardous Material Tank: N-MASS(II) Driver Fuel
+hbm:fluid_tank_lead_full:4017, Hazardous Material Tank: Scutterblood
+hbm:fluid_tank_lead_full:4018, Hazardous Material Tank: Pertechnetic Acid
+hbm:fluid_tank_lead_full:4019, Hazardous Material Tank: Neon Gas
+hbm:fluid_tank_lead_full:4020, Hazardous Material Tank: Argon Gas
+hbm:fluid_tank_lead_full:4021, Hazardous Material Tank: Krypton Gas
+hbm:fluid_tank_lead_full:4022, Hazardous Material Tank: Coffee
+hbm:fluid_tank_lead_full:4023, Hazardous Material Tank: Tea
+hbm:fluid_tank_lead_full:4024, Hazardous Material Tank: Honey
+hbm:fluid_tank_lead_full:4025, Hazardous Material Tank: Olive Oil
+hbm:fluid_tank_lead_full:4026, Hazardous Material Tank: Fluorine
+hbm:fluid_tank_lead_full:4027, Hazardous Material Tank: Duna Air
+hbm:fluid_tank_lead_full:4028, Hazardous Material Tank: Tekto Air
+hbm:fluid_tank_lead_full:4029, Hazardous Material Tank: Jool Air
+hbm:fluid_tank_lead_full:4030, Hazardous Material Tank: Sarnus Air
+hbm:fluid_tank_lead_full:4031, Hazardous Material Tank: Urlum Air
+hbm:fluid_tank_lead_full:4032, Hazardous Material Tank: Neidon Air
+hbm:fluid_tank_lead_full:4033, Hazardous Material Tank: Milk
+hbm:fluid_tank_lead_full:4034, Hazardous Material Tank: Strawberry Milk
+hbm:fluid_tank_lead_full:4035, Hazardous Material Tank: Eve Air
+hbm:fluid_tank_lead_full:4036, Hazardous Material Tank: Potassium Permanganate Solution
+hbm:fluid_tank_lead_full:4037, Hazardous Material Tank: Chloromethane
+hbm:fluid_tank_lead_full:4038, Hazardous Material Tank: Methanol
+hbm:fluid_tank_lead_full:4039, Hazardous Material Tank: Alkyl Bromide
+hbm:fluid_tank_lead_full:4040, Hazardous Material Tank: Methylene
+hbm:fluid_tank_lead_full:4041, Hazardous Material Tank: Polyethylene
+hbm:fluid_tank_lead_full:4042, Hazardous Material Tank: Hydrochloric Acid
+hbm:fluid_tank_lead_full:4043, Hazardous Material Tank: Ammonia
+hbm:fluid_tank_lead_full:4044, Hazardous Material Tank: Blood Fuel
+hbm:fluid_tank_lead_full:4045, Hazardous Material Tank: Mineral Slurry
+hbm:fluid_tank_lead_full:4046, Hazardous Material Tank: Liquid Nitrogen
+hbm:fluid_tank_lead_full:4047, Hazardous Material Tank: Evaporated Milk
+hbm:fluid_tank_lead_full:4048, Hazardous Material Tank: Condensed Milk
+hbm:fluid_tank_lead_full:4049, Hazardous Material Tank: Heavy Whipping Cream
+hbm:fluid_tank_lead_full:4050, Hazardous Material Tank: Dicyanoacetylene
+hbm:fluid_tank_lead_full:4051, Hazardous Material Tank: Morkite
+hbm:fluid_tank_lead_full:4052, Hazardous Material Tank: Morkine
+hbm:fluid_tank_lead_full:4053, Hazardous Material Tank: Morkite Slurry
+hbm:fluid_tank_lead_full:4055, Hazardous Material Tank: Uranium Bromide
+hbm:fluid_tank_lead_full:4056, Hazardous Material Tank: Plutonium Bromide
+hbm:fluid_tank_lead_full:4057, Hazardous Material Tank: Schrabidium Bromide
+hbm:fluid_tank_lead_full:4058, Hazardous Material Tank: Thorium Bromide
+hbm:fluid_tank_lead_full:4063, Hazardous Material Tank: hbmfluid.gaseous_hydrogen
 hbm:fluid_barrel_empty, Empty Fluid Barrel
+hbm:fluid_barrel_full:152, Fluid Barrel: Compressed Air
 hbm:fluid_barrel_full:1, Fluid Barrel: Water
 hbm:fluid_barrel_full:60, Fluid Barrel: Heavy Water
-hbm:fluid_barrel_full:166, Fluid Barrel: Hot Heavy Water
+hbm:fluid_barrel_full:125, Fluid Barrel: Hot Heavy Water
 hbm:fluid_barrel_full:7, Fluid Barrel: Lava
 hbm:fluid_barrel_full:2, Fluid Barrel: Steam
 hbm:fluid_barrel_full:3, Fluid Barrel: Dense Steam
@@ -2752,78 +2753,74 @@ hbm:fluid_barrel_full:5, Fluid Barrel: Ultra Dense Steam
 hbm:fluid_barrel_full:55, Fluid Barrel: Carbon Dioxide
 hbm:fluid_barrel_full:6, Fluid Barrel: Coolant
 hbm:fluid_barrel_full:76, Fluid Barrel: Hot Coolant
-hbm:fluid_barrel_full:198, Fluid Barrel: Perfluoromethyl
-hbm:fluid_barrel_full:199, Fluid Barrel: Cold Perfluoromethyl
-hbm:fluid_barrel_full:200, Fluid Barrel: Hot Perfluoromethyl
+hbm:fluid_barrel_full:145, Fluid Barrel: Perfluoromethyl
+hbm:fluid_barrel_full:146, Fluid Barrel: Cold Perfluoromethyl
+hbm:fluid_barrel_full:147, Fluid Barrel: Hot Perfluoromethyl
 hbm:fluid_barrel_full:37, Fluid Barrel: Cryogel
 hbm:fluid_barrel_full:77, Fluid Barrel: Mug Root Beer
 hbm:fluid_barrel_full:78, Fluid Barrel: Hot Mug Root Beer
-hbm:fluid_barrel_full:83, Fluid Barrel: Blood
-hbm:fluid_barrel_full:87, Fluid Barrel: Blood Fuel
-hbm:fluid_barrel_full:90, Fluid Barrel: Hot Blood
-hbm:fluid_barrel_full:167, Fluid Barrel: Liquid Sodium
-hbm:fluid_barrel_full:168, Fluid Barrel: Hot Liquid Sodium
-hbm:fluid_barrel_full:186, Fluid Barrel: Liquid Lead
-hbm:fluid_barrel_full:187, Fluid Barrel: Hot Liquid Lead
-hbm:fluid_barrel_full:169, Fluid Barrel: Liquid Thorium Salt
-hbm:fluid_barrel_full:170, Fluid Barrel: Hot Liquid Thorium Salt
-hbm:fluid_barrel_full:171, Fluid Barrel: Depleted Liquid Thorium Salt
+hbm:fluid_barrel_full:84, Fluid Barrel: Blood
+hbm:fluid_barrel_full:85, Fluid Barrel: Hot Blood
+hbm:fluid_barrel_full:126, Fluid Barrel: Liquid Sodium
+hbm:fluid_barrel_full:127, Fluid Barrel: Hot Liquid Sodium
+hbm:fluid_barrel_full:143, Fluid Barrel: Liquid Lead
+hbm:fluid_barrel_full:144, Fluid Barrel: Hot Liquid Lead
+hbm:fluid_barrel_full:128, Fluid Barrel: Liquid Thorium Salt
+hbm:fluid_barrel_full:129, Fluid Barrel: Hot Liquid Thorium Salt
+hbm:fluid_barrel_full:130, Fluid Barrel: Depleted Liquid Thorium Salt
 hbm:fluid_barrel_full:38, Fluid Barrel: Liquid Hydrogen
 hbm:fluid_barrel_full:8, Fluid Barrel: Deuterium
 hbm:fluid_barrel_full:9, Fluid Barrel: Tritium
 hbm:fluid_barrel_full:57, Fluid Barrel: Helium-3
-hbm:fluid_barrel_full:165, Fluid Barrel: Helium-4
+hbm:fluid_barrel_full:124, Fluid Barrel: Helium-4
 hbm:fluid_barrel_full:39, Fluid Barrel: Liquid Oxygen
 hbm:fluid_barrel_full:40, Fluid Barrel: Xenon Gas
-hbm:fluid_barrel_full:97, Fluid Barrel: Chlorine Gas
-hbm:fluid_barrel_full:125, Fluid Barrel: Fluorine
+hbm:fluid_barrel_full:90, Fluid Barrel: Chlorine Gas
 hbm:fluid_barrel_full:42, Fluid Barrel: Mercury
-hbm:fluid_barrel_full:82, Fluid Barrel: Liquid Nitrogen
-hbm:fluid_barrel_full:133, Fluid Barrel: Scutterblood
 hbm:fluid_barrel_full:10, Fluid Barrel: Crude Oil
-hbm:fluid_barrel_full:175, Fluid Barrel: Desulfurized Crude Oil
+hbm:fluid_barrel_full:134, Fluid Barrel: Desulfurized Crude Oil
 hbm:fluid_barrel_full:61, Fluid Barrel: Cracked Oil
-hbm:fluid_barrel_full:177, Fluid Barrel: Desulfurized Cracked Oil
+hbm:fluid_barrel_full:136, Fluid Barrel: Desulfurized Cracked Oil
 hbm:fluid_barrel_full:62, Fluid Barrel: Coal Oil
-hbm:fluid_barrel_full:135, Fluid Barrel: Coker Oil
+hbm:fluid_barrel_full:105, Fluid Barrel: Coker Oil
 hbm:fluid_barrel_full:11, Fluid Barrel: Hot Crude Oil
-hbm:fluid_barrel_full:176, Fluid Barrel: Desulfurized Hot Crude Oil
+hbm:fluid_barrel_full:135, Fluid Barrel: Desulfurized Hot Crude Oil
 hbm:fluid_barrel_full:63, Fluid Barrel: Hot Cracked Oil
-hbm:fluid_barrel_full:178, Fluid Barrel: Desulfurized Hot Cracked Oil
+hbm:fluid_barrel_full:137, Fluid Barrel: Desulfurized Hot Cracked Oil
 hbm:fluid_barrel_full:12, Fluid Barrel: Heavy Oil
-hbm:fluid_barrel_full:98, Fluid Barrel: Vacuum Heavy Oil
+hbm:fluid_barrel_full:91, Fluid Barrel: Vacuum Heavy Oil
 hbm:fluid_barrel_full:19, Fluid Barrel: Naphtha
-hbm:fluid_barrel_full:179, Fluid Barrel: Desulfurized Naphtha
+hbm:fluid_barrel_full:138, Fluid Barrel: Desulfurized Naphtha
 hbm:fluid_barrel_full:64, Fluid Barrel: Cracked Naphtha
-hbm:fluid_barrel_full:136, Fluid Barrel: Coker Naphtha
-hbm:fluid_barrel_full:99, Fluid Barrel: Reformate
+hbm:fluid_barrel_full:106, Fluid Barrel: Coker Naphtha
+hbm:fluid_barrel_full:92, Fluid Barrel: Reformate
 hbm:fluid_barrel_full:21, Fluid Barrel: Light Oil
-hbm:fluid_barrel_full:180, Fluid Barrel: Desulfurized Light Oil
+hbm:fluid_barrel_full:139, Fluid Barrel: Desulfurized Light Oil
 hbm:fluid_barrel_full:65, Fluid Barrel: Cracked Light Oil
-hbm:fluid_barrel_full:100, Fluid Barrel: Vacuum Light Oil
+hbm:fluid_barrel_full:93, Fluid Barrel: Vacuum Light Oil
 hbm:fluid_barrel_full:13, Fluid Barrel: Bitumen
 hbm:fluid_barrel_full:14, Fluid Barrel: Industrial Oil
 hbm:fluid_barrel_full:15, Fluid Barrel: Heating Oil
-hbm:fluid_barrel_full:109, Fluid Barrel: Heavy Heating Oil
+hbm:fluid_barrel_full:96, Fluid Barrel: Heavy Heating Oil
 hbm:fluid_barrel_full:16, Fluid Barrel: Reclaimed Industrial Oil
 hbm:fluid_barrel_full:18, Fluid Barrel: Engine Lubricant
 hbm:fluid_barrel_full:23, Fluid Barrel: Natural Gas
-hbm:fluid_barrel_full:137, Fluid Barrel: Coker Gas
+hbm:fluid_barrel_full:107, Fluid Barrel: Coker Gas
 hbm:fluid_barrel_full:24, Fluid Barrel: Petroleum Gas
-hbm:fluid_barrel_full:101, Fluid Barrel: Sour Gas
+hbm:fluid_barrel_full:94, Fluid Barrel: Sour Gas
 hbm:fluid_barrel_full:25, Fluid Barrel: LPG
-hbm:fluid_barrel_full:94, Fluid Barrel: Syngas
-hbm:fluid_barrel_full:95, Fluid Barrel: Oxyhydrogen
+hbm:fluid_barrel_full:86, Fluid Barrel: Syngas
+hbm:fluid_barrel_full:87, Fluid Barrel: Oxyhydrogen
 hbm:fluid_barrel_full:67, Fluid Barrel: Aromatic Hydrocarbons
 hbm:fluid_barrel_full:68, Fluid Barrel: Unsaturated Hydrocarbons
-hbm:fluid_barrel_full:102, Fluid Barrel: BTX
-hbm:fluid_barrel_full:113, Fluid Barrel: Reformate Gas
+hbm:fluid_barrel_full:95, Fluid Barrel: BTX
+hbm:fluid_barrel_full:100, Fluid Barrel: Reformate Gas
 hbm:fluid_barrel_full:20, Fluid Barrel: Diesel
-hbm:fluid_barrel_full:110, Fluid Barrel: High-Cetane Diesel
+hbm:fluid_barrel_full:97, Fluid Barrel: High-Cetane Diesel
 hbm:fluid_barrel_full:66, Fluid Barrel: Cracked Diesel
-hbm:fluid_barrel_full:111, Fluid Barrel: High-Cetane Cracked Diesel
+hbm:fluid_barrel_full:98, Fluid Barrel: High-Cetane Cracked Diesel
 hbm:fluid_barrel_full:22, Fluid Barrel: Kerosene
-hbm:fluid_barrel_full:112, Fluid Barrel: Jet Fuel
+hbm:fluid_barrel_full:99, Fluid Barrel: Jet Fuel
 hbm:fluid_barrel_full:17, Fluid Barrel: Petroil
 hbm:fluid_barrel_full:72, Fluid Barrel: Leaded Petroil
 hbm:fluid_barrel_full:46, Fluid Barrel: Gasoline
@@ -2835,90 +2832,49 @@ hbm:fluid_barrel_full:79, Fluid Barrel: Wood Oil
 hbm:fluid_barrel_full:26, Fluid Barrel: Biogas
 hbm:fluid_barrel_full:27, Fluid Barrel: Biofuel
 hbm:fluid_barrel_full:59, Fluid Barrel: Ethanol
-hbm:fluid_barrel_full:131, Fluid Barrel: N-MASS(III) Tetrahexaethanol
-hbm:fluid_barrel_full:141, Fluid Barrel: Fish Oil
-hbm:fluid_barrel_full:142, Fluid Barrel: Sunflower Seed Oil
+hbm:fluid_barrel_full:111, Fluid Barrel: Fish Oil
+hbm:fluid_barrel_full:112, Fluid Barrel: Sunflower Seed Oil
 hbm:fluid_barrel_full:28, Fluid Barrel: NITAN© 100 Octane Super Fuel
-hbm:fluid_barrel_full:205, Fluid Barrel: Deuterated Hydrocarbon
-hbm:fluid_barrel_full:86, Fluid Barrel: Hydrazine
+hbm:fluid_barrel_full:154, Fluid Barrel: Deuterated Hydrocarbon
 hbm:fluid_barrel_full:41, Fluid Barrel: BF Rocket Fuel
-hbm:fluid_barrel_full:161, Fluid Barrel: Morkite
-hbm:fluid_barrel_full:163, Fluid Barrel: Morkine
-hbm:fluid_barrel_full:164, Fluid Barrel: Morkite Slurry
-hbm:fluid_barrel_full:162, Fluid Barrel: Dicyanoacetylene
 hbm:fluid_barrel_full:69, Fluid Barrel: Salient Green
 hbm:fluid_barrel_full:81, Fluid Barrel: Seeding Slurry
-hbm:fluid_barrel_full:117, Fluid Barrel: Colloid
-hbm:fluid_barrel_full:183, Fluid Barrel: Vitriol
-hbm:fluid_barrel_full:184, Fluid Barrel: Ore Slop
-hbm:fluid_barrel_full:129, Fluid Barrel: Ionic Gel
+hbm:fluid_barrel_full:101, Fluid Barrel: Colloid
+hbm:fluid_barrel_full:141, Fluid Barrel: Vitriol
+hbm:fluid_barrel_full:142, Fluid Barrel: Ore Slop
+hbm:fluid_barrel_full:104, Fluid Barrel: Ionic Gel
 hbm:fluid_barrel_full:35, Fluid Barrel: Hydrogen Peroxide
 hbm:fluid_barrel_full:75, Fluid Barrel: Sulfuric Acid
-hbm:fluid_barrel_full:122, Fluid Barrel: Alkyl Bromide
-hbm:fluid_barrel_full:189, Fluid Barrel: Uranium Bromide
-hbm:fluid_barrel_full:190, Fluid Barrel: Plutonium Bromide
-hbm:fluid_barrel_full:191, Fluid Barrel: Schrabidium Bromide
-hbm:fluid_barrel_full:192, Fluid Barrel: Thorium Bromide
-hbm:fluid_barrel_full:120, Fluid Barrel: Chloromethane
-hbm:fluid_barrel_full:121, Fluid Barrel: Methanol
-hbm:fluid_barrel_full:124, Fluid Barrel: Polyethylene
-hbm:fluid_barrel_full:123, Fluid Barrel: Methylene
-hbm:fluid_barrel_full:118, Fluid Barrel: Eve Air
-hbm:fluid_barrel_full:154, Fluid Barrel: Jool Air
-hbm:fluid_barrel_full:119, Fluid Barrel: Potassium Permanganate Solution
-hbm:fluid_barrel_full:155, Fluid Barrel: Sarnus Air
-hbm:fluid_barrel_full:156, Fluid Barrel: Urlum Air
-hbm:fluid_barrel_full:157, Fluid Barrel: Neidon Air
-hbm:fluid_barrel_full:126, Fluid Barrel: Tekto Air
-hbm:fluid_barrel_full:89, Fluid Barrel: Compressed Air
-hbm:fluid_barrel_full:84, Fluid Barrel: Nitric Acid
-hbm:fluid_barrel_full:92, Fluid Barrel: Hydrochloric Acid
-hbm:fluid_barrel_full:85, Fluid Barrel: Ammonia
-hbm:fluid_barrel_full:91, Fluid Barrel: Solvent
-hbm:fluid_barrel_full:134, Fluid Barrel: Pertechnetic Acid
+hbm:fluid_barrel_full:82, Fluid Barrel: Nitric Acid
+hbm:fluid_barrel_full:83, Fluid Barrel: Solvent
+hbm:fluid_barrel_full:88, Fluid Barrel: High-Performance Solvent
 hbm:fluid_barrel_full:32, Fluid Barrel: Schrabidic Acid
 hbm:fluid_barrel_full:29, Fluid Barrel: Uranium Hexafluoride
 hbm:fluid_barrel_full:30, Fluid Barrel: Plutonium Hexafluoride
 hbm:fluid_barrel_full:31, Fluid Barrel: Schrabidium Trisulfide
 hbm:fluid_barrel_full:43, Fluid Barrel: Pandemonium(III)tantalite Solution
 hbm:fluid_barrel_full:36, Fluid Barrel: Poisonous Mud
-hbm:fluid_barrel_full:172, Fluid Barrel: Fullerene Solution
-hbm:fluid_barrel_full:138, Fluid Barrel: Dissolved Egg
-hbm:fluid_barrel_full:139, Fluid Barrel: Cholesterol Solution
-hbm:fluid_barrel_full:88, Fluid Barrel: Sodium Aluminate
-hbm:fluid_barrel_full:202, Fluid Barrel: Bauxite Solution
-hbm:fluid_barrel_full:203, Fluid Barrel: Alumina
-hbm:fluid_barrel_full:204, Fluid Barrel: Liquid Concrete
-hbm:fluid_barrel_full:173, Fluid Barrel: Booster Pheromone
-hbm:fluid_barrel_full:174, Fluid Barrel: Modified Booster Pheromone
+hbm:fluid_barrel_full:131, Fluid Barrel: Fullerene Solution
+hbm:fluid_barrel_full:108, Fluid Barrel: Dissolved Egg
+hbm:fluid_barrel_full:109, Fluid Barrel: Cholesterol Solution
+hbm:fluid_barrel_full:149, Fluid Barrel: Sodium Aluminate
+hbm:fluid_barrel_full:150, Fluid Barrel: Bauxite Solution
+hbm:fluid_barrel_full:151, Fluid Barrel: Alumina
+hbm:fluid_barrel_full:153, Fluid Barrel: Liquid Concrete
 hbm:fluid_barrel_full:49, Fluid Barrel: Fracking Solution
-hbm:fluid_barrel_full:201, Fluid Barrel: Lye
-hbm:fluid_barrel_full:127, Fluid Barrel: Phosgene
-hbm:fluid_barrel_full:128, Fluid Barrel: Mustard Gas
-hbm:fluid_barrel_full:140, Fluid Barrel: Estradiol Solution
-hbm:fluid_barrel_full:143, Fluid Barrel: Nitroglycerin
+hbm:fluid_barrel_full:148, Fluid Barrel: Lye
+hbm:fluid_barrel_full:102, Fluid Barrel: Phosgene
+hbm:fluid_barrel_full:103, Fluid Barrel: Mustard Gas
+hbm:fluid_barrel_full:110, Fluid Barrel: Estradiol Solution
+hbm:fluid_barrel_full:113, Fluid Barrel: Nitroglycerin
 hbm:fluid_barrel_full:33, Fluid Barrel: Antimatter
 hbm:fluid_barrel_full:34, Fluid Barrel: Antischrabidium
 hbm:fluid_barrel_full:70, Fluid Barrel: Experience Juice
 hbm:fluid_barrel_full:71, Fluid Barrel: Ender Juice
-hbm:fluid_barrel_full:93, Fluid Barrel: Mineral Slurry
-hbm:fluid_barrel_full:132, Fluid Barrel: N-MASS(II) Driver Fuel
-hbm:fluid_barrel_full:181, Fluid Barrel: Stellar Flux
-hbm:fluid_barrel_full:105, Fluid Barrel: Krypton Gas
-hbm:fluid_barrel_full:104, Fluid Barrel: Argon Gas
-hbm:fluid_barrel_full:103, Fluid Barrel: Neon Gas
-hbm:fluid_barrel_full:107, Fluid Barrel: Tea
-hbm:fluid_barrel_full:108, Fluid Barrel: Honey
-hbm:fluid_barrel_full:106, Fluid Barrel: Coffee
-hbm:fluid_barrel_full:114, Fluid Barrel: Milk
-hbm:fluid_barrel_full:115, Fluid Barrel: Strawberry Milk
-hbm:fluid_barrel_full:116, Fluid Barrel: Olive Oil
-hbm:fluid_barrel_full:130, Fluid Barrel: Elbow Grease
-hbm:fluid_barrel_full:158, Fluid Barrel: Evaporated Milk
-hbm:fluid_barrel_full:159, Fluid Barrel: Condensed Milk
-hbm:fluid_barrel_full:160, Fluid Barrel: Heavy Whipping Cream
-hbm:fluid_barrel_full:182, Fluid Barrel: Duna Air
-hbm:fluid_barrel_full:197, Fluid Barrel: hbmfluid.gaseous_hydrogen
+hbm:fluid_barrel_full:140, Fluid Barrel: Stellar Flux
+hbm:fluid_barrel_full:132, Fluid Barrel: Booster Pheromone
+hbm:fluid_barrel_full:133, Fluid Barrel: Modified Booster Pheromone
+hbm:fluid_barrel_full:89, Fluid Barrel: Hydrazine
 hbm:fluid_barrel_full:1000, Fluid Barrel: Custom Fluid Demo
 hbm:fluid_barrel_full:4000, Fluid Barrel: Oxygen-Rich Air
 hbm:fluid_barrel_full:4001, Fluid Barrel: Carbon Tetrachloride
@@ -2934,11 +2890,57 @@ hbm:fluid_barrel_full:4010, Fluid Barrel: Halide Gas
 hbm:fluid_barrel_full:4011, Fluid Barrel: Light Halocarbons
 hbm:fluid_barrel_full:4012, Fluid Barrel: hbmfluid.lithcarbonate
 hbm:fluid_barrel_full:4013, Fluid Barrel: Tektonic Crude
+hbm:fluid_barrel_full:4014, Fluid Barrel: Elbow Grease
+hbm:fluid_barrel_full:4015, Fluid Barrel: N-MASS(III) Tetrahexaethanol
+hbm:fluid_barrel_full:4016, Fluid Barrel: N-MASS(II) Driver Fuel
+hbm:fluid_barrel_full:4017, Fluid Barrel: Scutterblood
+hbm:fluid_barrel_full:4018, Fluid Barrel: Pertechnetic Acid
+hbm:fluid_barrel_full:4019, Fluid Barrel: Neon Gas
+hbm:fluid_barrel_full:4020, Fluid Barrel: Argon Gas
+hbm:fluid_barrel_full:4021, Fluid Barrel: Krypton Gas
+hbm:fluid_barrel_full:4022, Fluid Barrel: Coffee
+hbm:fluid_barrel_full:4023, Fluid Barrel: Tea
+hbm:fluid_barrel_full:4024, Fluid Barrel: Honey
+hbm:fluid_barrel_full:4025, Fluid Barrel: Olive Oil
+hbm:fluid_barrel_full:4026, Fluid Barrel: Fluorine
+hbm:fluid_barrel_full:4027, Fluid Barrel: Duna Air
+hbm:fluid_barrel_full:4028, Fluid Barrel: Tekto Air
+hbm:fluid_barrel_full:4029, Fluid Barrel: Jool Air
+hbm:fluid_barrel_full:4030, Fluid Barrel: Sarnus Air
+hbm:fluid_barrel_full:4031, Fluid Barrel: Urlum Air
+hbm:fluid_barrel_full:4032, Fluid Barrel: Neidon Air
+hbm:fluid_barrel_full:4033, Fluid Barrel: Milk
+hbm:fluid_barrel_full:4034, Fluid Barrel: Strawberry Milk
+hbm:fluid_barrel_full:4035, Fluid Barrel: Eve Air
+hbm:fluid_barrel_full:4036, Fluid Barrel: Potassium Permanganate Solution
+hbm:fluid_barrel_full:4037, Fluid Barrel: Chloromethane
+hbm:fluid_barrel_full:4038, Fluid Barrel: Methanol
+hbm:fluid_barrel_full:4039, Fluid Barrel: Alkyl Bromide
+hbm:fluid_barrel_full:4040, Fluid Barrel: Methylene
+hbm:fluid_barrel_full:4041, Fluid Barrel: Polyethylene
+hbm:fluid_barrel_full:4042, Fluid Barrel: Hydrochloric Acid
+hbm:fluid_barrel_full:4043, Fluid Barrel: Ammonia
+hbm:fluid_barrel_full:4044, Fluid Barrel: Blood Fuel
+hbm:fluid_barrel_full:4045, Fluid Barrel: Mineral Slurry
+hbm:fluid_barrel_full:4046, Fluid Barrel: Liquid Nitrogen
+hbm:fluid_barrel_full:4047, Fluid Barrel: Evaporated Milk
+hbm:fluid_barrel_full:4048, Fluid Barrel: Condensed Milk
+hbm:fluid_barrel_full:4049, Fluid Barrel: Heavy Whipping Cream
+hbm:fluid_barrel_full:4050, Fluid Barrel: Dicyanoacetylene
+hbm:fluid_barrel_full:4051, Fluid Barrel: Morkite
+hbm:fluid_barrel_full:4052, Fluid Barrel: Morkine
+hbm:fluid_barrel_full:4053, Fluid Barrel: Morkite Slurry
+hbm:fluid_barrel_full:4055, Fluid Barrel: Uranium Bromide
+hbm:fluid_barrel_full:4056, Fluid Barrel: Plutonium Bromide
+hbm:fluid_barrel_full:4057, Fluid Barrel: Schrabidium Bromide
+hbm:fluid_barrel_full:4058, Fluid Barrel: Thorium Bromide
+hbm:fluid_barrel_full:4063, Fluid Barrel: hbmfluid.gaseous_hydrogen
 hbm:fluid_barrel_infinite, Infinite Fluid Barrel
 hbm:fluid_pack_empty, Large Fluid Container
+hbm:fluid_pack_full:152, Packaged Compressed Air
 hbm:fluid_pack_full:1, Packaged Water
 hbm:fluid_pack_full:60, Packaged Heavy Water
-hbm:fluid_pack_full:166, Packaged Hot Heavy Water
+hbm:fluid_pack_full:125, Packaged Hot Heavy Water
 hbm:fluid_pack_full:7, Packaged Lava
 hbm:fluid_pack_full:2, Packaged Steam
 hbm:fluid_pack_full:3, Packaged Dense Steam
@@ -2947,78 +2949,74 @@ hbm:fluid_pack_full:5, Packaged Ultra Dense Steam
 hbm:fluid_pack_full:55, Packaged Carbon Dioxide
 hbm:fluid_pack_full:6, Packaged Coolant
 hbm:fluid_pack_full:76, Packaged Hot Coolant
-hbm:fluid_pack_full:198, Packaged Perfluoromethyl
-hbm:fluid_pack_full:199, Packaged Cold Perfluoromethyl
-hbm:fluid_pack_full:200, Packaged Hot Perfluoromethyl
+hbm:fluid_pack_full:145, Packaged Perfluoromethyl
+hbm:fluid_pack_full:146, Packaged Cold Perfluoromethyl
+hbm:fluid_pack_full:147, Packaged Hot Perfluoromethyl
 hbm:fluid_pack_full:37, Packaged Cryogel
 hbm:fluid_pack_full:77, Packaged Mug Root Beer
 hbm:fluid_pack_full:78, Packaged Hot Mug Root Beer
-hbm:fluid_pack_full:83, Packaged Blood
-hbm:fluid_pack_full:87, Packaged Blood Fuel
-hbm:fluid_pack_full:90, Packaged Hot Blood
-hbm:fluid_pack_full:167, Packaged Liquid Sodium
-hbm:fluid_pack_full:168, Packaged Hot Liquid Sodium
-hbm:fluid_pack_full:186, Packaged Liquid Lead
-hbm:fluid_pack_full:187, Packaged Hot Liquid Lead
-hbm:fluid_pack_full:169, Packaged Liquid Thorium Salt
-hbm:fluid_pack_full:170, Packaged Hot Liquid Thorium Salt
-hbm:fluid_pack_full:171, Packaged Depleted Liquid Thorium Salt
+hbm:fluid_pack_full:84, Packaged Blood
+hbm:fluid_pack_full:85, Packaged Hot Blood
+hbm:fluid_pack_full:126, Packaged Liquid Sodium
+hbm:fluid_pack_full:127, Packaged Hot Liquid Sodium
+hbm:fluid_pack_full:143, Packaged Liquid Lead
+hbm:fluid_pack_full:144, Packaged Hot Liquid Lead
+hbm:fluid_pack_full:128, Packaged Liquid Thorium Salt
+hbm:fluid_pack_full:129, Packaged Hot Liquid Thorium Salt
+hbm:fluid_pack_full:130, Packaged Depleted Liquid Thorium Salt
 hbm:fluid_pack_full:38, Packaged Liquid Hydrogen
 hbm:fluid_pack_full:8, Packaged Deuterium
 hbm:fluid_pack_full:9, Packaged Tritium
 hbm:fluid_pack_full:57, Packaged Helium-3
-hbm:fluid_pack_full:165, Packaged Helium-4
+hbm:fluid_pack_full:124, Packaged Helium-4
 hbm:fluid_pack_full:39, Packaged Liquid Oxygen
 hbm:fluid_pack_full:40, Packaged Xenon Gas
-hbm:fluid_pack_full:97, Packaged Chlorine Gas
-hbm:fluid_pack_full:125, Packaged Fluorine
+hbm:fluid_pack_full:90, Packaged Chlorine Gas
 hbm:fluid_pack_full:42, Packaged Mercury
-hbm:fluid_pack_full:82, Packaged Liquid Nitrogen
-hbm:fluid_pack_full:133, Packaged Scutterblood
 hbm:fluid_pack_full:10, Packaged Crude Oil
-hbm:fluid_pack_full:175, Packaged Desulfurized Crude Oil
+hbm:fluid_pack_full:134, Packaged Desulfurized Crude Oil
 hbm:fluid_pack_full:61, Packaged Cracked Oil
-hbm:fluid_pack_full:177, Packaged Desulfurized Cracked Oil
+hbm:fluid_pack_full:136, Packaged Desulfurized Cracked Oil
 hbm:fluid_pack_full:62, Packaged Coal Oil
-hbm:fluid_pack_full:135, Packaged Coker Oil
+hbm:fluid_pack_full:105, Packaged Coker Oil
 hbm:fluid_pack_full:11, Packaged Hot Crude Oil
-hbm:fluid_pack_full:176, Packaged Desulfurized Hot Crude Oil
+hbm:fluid_pack_full:135, Packaged Desulfurized Hot Crude Oil
 hbm:fluid_pack_full:63, Packaged Hot Cracked Oil
-hbm:fluid_pack_full:178, Packaged Desulfurized Hot Cracked Oil
+hbm:fluid_pack_full:137, Packaged Desulfurized Hot Cracked Oil
 hbm:fluid_pack_full:12, Packaged Heavy Oil
-hbm:fluid_pack_full:98, Packaged Vacuum Heavy Oil
+hbm:fluid_pack_full:91, Packaged Vacuum Heavy Oil
 hbm:fluid_pack_full:19, Packaged Naphtha
-hbm:fluid_pack_full:179, Packaged Desulfurized Naphtha
+hbm:fluid_pack_full:138, Packaged Desulfurized Naphtha
 hbm:fluid_pack_full:64, Packaged Cracked Naphtha
-hbm:fluid_pack_full:136, Packaged Coker Naphtha
-hbm:fluid_pack_full:99, Packaged Reformate
+hbm:fluid_pack_full:106, Packaged Coker Naphtha
+hbm:fluid_pack_full:92, Packaged Reformate
 hbm:fluid_pack_full:21, Packaged Light Oil
-hbm:fluid_pack_full:180, Packaged Desulfurized Light Oil
+hbm:fluid_pack_full:139, Packaged Desulfurized Light Oil
 hbm:fluid_pack_full:65, Packaged Cracked Light Oil
-hbm:fluid_pack_full:100, Packaged Vacuum Light Oil
+hbm:fluid_pack_full:93, Packaged Vacuum Light Oil
 hbm:fluid_pack_full:13, Packaged Bitumen
 hbm:fluid_pack_full:14, Packaged Industrial Oil
 hbm:fluid_pack_full:15, Packaged Heating Oil
-hbm:fluid_pack_full:109, Packaged Heavy Heating Oil
+hbm:fluid_pack_full:96, Packaged Heavy Heating Oil
 hbm:fluid_pack_full:16, Packaged Reclaimed Industrial Oil
 hbm:fluid_pack_full:18, Packaged Engine Lubricant
 hbm:fluid_pack_full:23, Packaged Natural Gas
-hbm:fluid_pack_full:137, Packaged Coker Gas
+hbm:fluid_pack_full:107, Packaged Coker Gas
 hbm:fluid_pack_full:24, Packaged Petroleum Gas
-hbm:fluid_pack_full:101, Packaged Sour Gas
+hbm:fluid_pack_full:94, Packaged Sour Gas
 hbm:fluid_pack_full:25, Packaged LPG
-hbm:fluid_pack_full:94, Packaged Syngas
-hbm:fluid_pack_full:95, Packaged Oxyhydrogen
+hbm:fluid_pack_full:86, Packaged Syngas
+hbm:fluid_pack_full:87, Packaged Oxyhydrogen
 hbm:fluid_pack_full:67, Packaged Aromatic Hydrocarbons
 hbm:fluid_pack_full:68, Packaged Unsaturated Hydrocarbons
-hbm:fluid_pack_full:102, Packaged BTX
-hbm:fluid_pack_full:113, Packaged Reformate Gas
+hbm:fluid_pack_full:95, Packaged BTX
+hbm:fluid_pack_full:100, Packaged Reformate Gas
 hbm:fluid_pack_full:20, Packaged Diesel
-hbm:fluid_pack_full:110, Packaged High-Cetane Diesel
+hbm:fluid_pack_full:97, Packaged High-Cetane Diesel
 hbm:fluid_pack_full:66, Packaged Cracked Diesel
-hbm:fluid_pack_full:111, Packaged High-Cetane Cracked Diesel
+hbm:fluid_pack_full:98, Packaged High-Cetane Cracked Diesel
 hbm:fluid_pack_full:22, Packaged Kerosene
-hbm:fluid_pack_full:112, Packaged Jet Fuel
+hbm:fluid_pack_full:99, Packaged Jet Fuel
 hbm:fluid_pack_full:17, Packaged Petroil
 hbm:fluid_pack_full:72, Packaged Leaded Petroil
 hbm:fluid_pack_full:46, Packaged Gasoline
@@ -3030,90 +3028,49 @@ hbm:fluid_pack_full:79, Packaged Wood Oil
 hbm:fluid_pack_full:26, Packaged Biogas
 hbm:fluid_pack_full:27, Packaged Biofuel
 hbm:fluid_pack_full:59, Packaged Ethanol
-hbm:fluid_pack_full:131, Packaged N-MASS(III) Tetrahexaethanol
-hbm:fluid_pack_full:141, Packaged Fish Oil
-hbm:fluid_pack_full:142, Packaged Sunflower Seed Oil
+hbm:fluid_pack_full:111, Packaged Fish Oil
+hbm:fluid_pack_full:112, Packaged Sunflower Seed Oil
 hbm:fluid_pack_full:28, Packaged NITAN© 100 Octane Super Fuel
-hbm:fluid_pack_full:205, Packaged Deuterated Hydrocarbon
-hbm:fluid_pack_full:86, Packaged Hydrazine
+hbm:fluid_pack_full:154, Packaged Deuterated Hydrocarbon
 hbm:fluid_pack_full:41, Packaged BF Rocket Fuel
-hbm:fluid_pack_full:161, Packaged Morkite
-hbm:fluid_pack_full:163, Packaged Morkine
-hbm:fluid_pack_full:164, Packaged Morkite Slurry
-hbm:fluid_pack_full:162, Packaged Dicyanoacetylene
 hbm:fluid_pack_full:69, Packaged Salient Green
 hbm:fluid_pack_full:81, Packaged Seeding Slurry
-hbm:fluid_pack_full:117, Packaged Colloid
-hbm:fluid_pack_full:183, Packaged Vitriol
-hbm:fluid_pack_full:184, Packaged Ore Slop
-hbm:fluid_pack_full:129, Packaged Ionic Gel
+hbm:fluid_pack_full:101, Packaged Colloid
+hbm:fluid_pack_full:141, Packaged Vitriol
+hbm:fluid_pack_full:142, Packaged Ore Slop
+hbm:fluid_pack_full:104, Packaged Ionic Gel
 hbm:fluid_pack_full:35, Packaged Hydrogen Peroxide
 hbm:fluid_pack_full:75, Packaged Sulfuric Acid
-hbm:fluid_pack_full:122, Packaged Alkyl Bromide
-hbm:fluid_pack_full:189, Packaged Uranium Bromide
-hbm:fluid_pack_full:190, Packaged Plutonium Bromide
-hbm:fluid_pack_full:191, Packaged Schrabidium Bromide
-hbm:fluid_pack_full:192, Packaged Thorium Bromide
-hbm:fluid_pack_full:120, Packaged Chloromethane
-hbm:fluid_pack_full:121, Packaged Methanol
-hbm:fluid_pack_full:124, Packaged Polyethylene
-hbm:fluid_pack_full:123, Packaged Methylene
-hbm:fluid_pack_full:118, Packaged Eve Air
-hbm:fluid_pack_full:154, Packaged Jool Air
-hbm:fluid_pack_full:119, Packaged Potassium Permanganate Solution
-hbm:fluid_pack_full:155, Packaged Sarnus Air
-hbm:fluid_pack_full:156, Packaged Urlum Air
-hbm:fluid_pack_full:157, Packaged Neidon Air
-hbm:fluid_pack_full:126, Packaged Tekto Air
-hbm:fluid_pack_full:89, Packaged Compressed Air
-hbm:fluid_pack_full:84, Packaged Nitric Acid
-hbm:fluid_pack_full:92, Packaged Hydrochloric Acid
-hbm:fluid_pack_full:85, Packaged Ammonia
-hbm:fluid_pack_full:91, Packaged Solvent
-hbm:fluid_pack_full:134, Packaged Pertechnetic Acid
+hbm:fluid_pack_full:82, Packaged Nitric Acid
+hbm:fluid_pack_full:83, Packaged Solvent
+hbm:fluid_pack_full:88, Packaged High-Performance Solvent
 hbm:fluid_pack_full:32, Packaged Schrabidic Acid
 hbm:fluid_pack_full:29, Packaged Uranium Hexafluoride
 hbm:fluid_pack_full:30, Packaged Plutonium Hexafluoride
 hbm:fluid_pack_full:31, Packaged Schrabidium Trisulfide
 hbm:fluid_pack_full:43, Packaged Pandemonium(III)tantalite Solution
 hbm:fluid_pack_full:36, Packaged Poisonous Mud
-hbm:fluid_pack_full:172, Packaged Fullerene Solution
-hbm:fluid_pack_full:138, Packaged Dissolved Egg
-hbm:fluid_pack_full:139, Packaged Cholesterol Solution
-hbm:fluid_pack_full:88, Packaged Sodium Aluminate
-hbm:fluid_pack_full:202, Packaged Bauxite Solution
-hbm:fluid_pack_full:203, Packaged Alumina
-hbm:fluid_pack_full:204, Packaged Liquid Concrete
-hbm:fluid_pack_full:173, Packaged Booster Pheromone
-hbm:fluid_pack_full:174, Packaged Modified Booster Pheromone
+hbm:fluid_pack_full:131, Packaged Fullerene Solution
+hbm:fluid_pack_full:108, Packaged Dissolved Egg
+hbm:fluid_pack_full:109, Packaged Cholesterol Solution
+hbm:fluid_pack_full:149, Packaged Sodium Aluminate
+hbm:fluid_pack_full:150, Packaged Bauxite Solution
+hbm:fluid_pack_full:151, Packaged Alumina
+hbm:fluid_pack_full:153, Packaged Liquid Concrete
 hbm:fluid_pack_full:49, Packaged Fracking Solution
-hbm:fluid_pack_full:201, Packaged Lye
-hbm:fluid_pack_full:127, Packaged Phosgene
-hbm:fluid_pack_full:128, Packaged Mustard Gas
-hbm:fluid_pack_full:140, Packaged Estradiol Solution
-hbm:fluid_pack_full:143, Packaged Nitroglycerin
+hbm:fluid_pack_full:148, Packaged Lye
+hbm:fluid_pack_full:102, Packaged Phosgene
+hbm:fluid_pack_full:103, Packaged Mustard Gas
+hbm:fluid_pack_full:110, Packaged Estradiol Solution
+hbm:fluid_pack_full:113, Packaged Nitroglycerin
 hbm:fluid_pack_full:33, Packaged Antimatter
 hbm:fluid_pack_full:34, Packaged Antischrabidium
 hbm:fluid_pack_full:70, Packaged Experience Juice
 hbm:fluid_pack_full:71, Packaged Ender Juice
-hbm:fluid_pack_full:93, Packaged Mineral Slurry
-hbm:fluid_pack_full:132, Packaged N-MASS(II) Driver Fuel
-hbm:fluid_pack_full:181, Packaged Stellar Flux
-hbm:fluid_pack_full:105, Packaged Krypton Gas
-hbm:fluid_pack_full:104, Packaged Argon Gas
-hbm:fluid_pack_full:103, Packaged Neon Gas
-hbm:fluid_pack_full:107, Packaged Tea
-hbm:fluid_pack_full:108, Packaged Honey
-hbm:fluid_pack_full:106, Packaged Coffee
-hbm:fluid_pack_full:114, Packaged Milk
-hbm:fluid_pack_full:115, Packaged Strawberry Milk
-hbm:fluid_pack_full:116, Packaged Olive Oil
-hbm:fluid_pack_full:130, Packaged Elbow Grease
-hbm:fluid_pack_full:158, Packaged Evaporated Milk
-hbm:fluid_pack_full:159, Packaged Condensed Milk
-hbm:fluid_pack_full:160, Packaged Heavy Whipping Cream
-hbm:fluid_pack_full:182, Packaged Duna Air
-hbm:fluid_pack_full:197, Packaged hbmfluid.gaseous_hydrogen
+hbm:fluid_pack_full:140, Packaged Stellar Flux
+hbm:fluid_pack_full:132, Packaged Booster Pheromone
+hbm:fluid_pack_full:133, Packaged Modified Booster Pheromone
+hbm:fluid_pack_full:89, Packaged Hydrazine
 hbm:fluid_pack_full:1000, Packaged Custom Fluid Demo
 hbm:fluid_pack_full:4000, Packaged Oxygen-Rich Air
 hbm:fluid_pack_full:4001, Packaged Carbon Tetrachloride
@@ -3129,6 +3086,51 @@ hbm:fluid_pack_full:4010, Packaged Halide Gas
 hbm:fluid_pack_full:4011, Packaged Light Halocarbons
 hbm:fluid_pack_full:4012, Packaged hbmfluid.lithcarbonate
 hbm:fluid_pack_full:4013, Packaged Tektonic Crude
+hbm:fluid_pack_full:4014, Packaged Elbow Grease
+hbm:fluid_pack_full:4015, Packaged N-MASS(III) Tetrahexaethanol
+hbm:fluid_pack_full:4016, Packaged N-MASS(II) Driver Fuel
+hbm:fluid_pack_full:4017, Packaged Scutterblood
+hbm:fluid_pack_full:4018, Packaged Pertechnetic Acid
+hbm:fluid_pack_full:4019, Packaged Neon Gas
+hbm:fluid_pack_full:4020, Packaged Argon Gas
+hbm:fluid_pack_full:4021, Packaged Krypton Gas
+hbm:fluid_pack_full:4022, Packaged Coffee
+hbm:fluid_pack_full:4023, Packaged Tea
+hbm:fluid_pack_full:4024, Packaged Honey
+hbm:fluid_pack_full:4025, Packaged Olive Oil
+hbm:fluid_pack_full:4026, Packaged Fluorine
+hbm:fluid_pack_full:4027, Packaged Duna Air
+hbm:fluid_pack_full:4028, Packaged Tekto Air
+hbm:fluid_pack_full:4029, Packaged Jool Air
+hbm:fluid_pack_full:4030, Packaged Sarnus Air
+hbm:fluid_pack_full:4031, Packaged Urlum Air
+hbm:fluid_pack_full:4032, Packaged Neidon Air
+hbm:fluid_pack_full:4033, Packaged Milk
+hbm:fluid_pack_full:4034, Packaged Strawberry Milk
+hbm:fluid_pack_full:4035, Packaged Eve Air
+hbm:fluid_pack_full:4036, Packaged Potassium Permanganate Solution
+hbm:fluid_pack_full:4037, Packaged Chloromethane
+hbm:fluid_pack_full:4038, Packaged Methanol
+hbm:fluid_pack_full:4039, Packaged Alkyl Bromide
+hbm:fluid_pack_full:4040, Packaged Methylene
+hbm:fluid_pack_full:4041, Packaged Polyethylene
+hbm:fluid_pack_full:4042, Packaged Hydrochloric Acid
+hbm:fluid_pack_full:4043, Packaged Ammonia
+hbm:fluid_pack_full:4044, Packaged Blood Fuel
+hbm:fluid_pack_full:4045, Packaged Mineral Slurry
+hbm:fluid_pack_full:4046, Packaged Liquid Nitrogen
+hbm:fluid_pack_full:4047, Packaged Evaporated Milk
+hbm:fluid_pack_full:4048, Packaged Condensed Milk
+hbm:fluid_pack_full:4049, Packaged Heavy Whipping Cream
+hbm:fluid_pack_full:4050, Packaged Dicyanoacetylene
+hbm:fluid_pack_full:4051, Packaged Morkite
+hbm:fluid_pack_full:4052, Packaged Morkine
+hbm:fluid_pack_full:4053, Packaged Morkite Slurry
+hbm:fluid_pack_full:4055, Packaged Uranium Bromide
+hbm:fluid_pack_full:4056, Packaged Plutonium Bromide
+hbm:fluid_pack_full:4057, Packaged Schrabidium Bromide
+hbm:fluid_pack_full:4058, Packaged Thorium Bromide
+hbm:fluid_pack_full:4063, Packaged hbmfluid.gaseous_hydrogen
 hbm:pipette, Pipette
 hbm:pipette_boron, Boron Pipette
 hbm:pipette_laboratory, Laboratory Grade Pipette
@@ -3136,6 +3138,7 @@ hbm:siphon, Siphon
 hbm:inf_water, Infinite Water Tank
 hbm:inf_water_mk2, Large Infinite Water Tank
 hbm:disperser_canister_empty, Disperser Canister
+hbm:disperser_canister:152, Disperser Canister: Compressed Air
 hbm:disperser_canister:1, Disperser Canister: Water
 hbm:disperser_canister:60, Disperser Canister: Heavy Water
 hbm:disperser_canister:2, Disperser Canister: Steam
@@ -3145,43 +3148,40 @@ hbm:disperser_canister:5, Disperser Canister: Ultra Dense Steam
 hbm:disperser_canister:55, Disperser Canister: Carbon Dioxide
 hbm:disperser_canister:6, Disperser Canister: Coolant
 hbm:disperser_canister:76, Disperser Canister: Hot Coolant
-hbm:disperser_canister:198, Disperser Canister: Perfluoromethyl
-hbm:disperser_canister:199, Disperser Canister: Cold Perfluoromethyl
-hbm:disperser_canister:200, Disperser Canister: Hot Perfluoromethyl
+hbm:disperser_canister:145, Disperser Canister: Perfluoromethyl
+hbm:disperser_canister:146, Disperser Canister: Cold Perfluoromethyl
+hbm:disperser_canister:147, Disperser Canister: Hot Perfluoromethyl
 hbm:disperser_canister:77, Disperser Canister: Mug Root Beer
 hbm:disperser_canister:78, Disperser Canister: Hot Mug Root Beer
-hbm:disperser_canister:87, Disperser Canister: Blood Fuel
 hbm:disperser_canister:38, Disperser Canister: Liquid Hydrogen
 hbm:disperser_canister:8, Disperser Canister: Deuterium
 hbm:disperser_canister:9, Disperser Canister: Tritium
 hbm:disperser_canister:57, Disperser Canister: Helium-3
-hbm:disperser_canister:165, Disperser Canister: Helium-4
+hbm:disperser_canister:124, Disperser Canister: Helium-4
 hbm:disperser_canister:39, Disperser Canister: Liquid Oxygen
 hbm:disperser_canister:40, Disperser Canister: Xenon Gas
-hbm:disperser_canister:97, Disperser Canister: Chlorine Gas
-hbm:disperser_canister:125, Disperser Canister: Fluorine
+hbm:disperser_canister:90, Disperser Canister: Chlorine Gas
 hbm:disperser_canister:42, Disperser Canister: Mercury
-hbm:disperser_canister:82, Disperser Canister: Liquid Nitrogen
 hbm:disperser_canister:21, Disperser Canister: Light Oil
-hbm:disperser_canister:180, Disperser Canister: Desulfurized Light Oil
+hbm:disperser_canister:139, Disperser Canister: Desulfurized Light Oil
 hbm:disperser_canister:65, Disperser Canister: Cracked Light Oil
-hbm:disperser_canister:100, Disperser Canister: Vacuum Light Oil
+hbm:disperser_canister:93, Disperser Canister: Vacuum Light Oil
 hbm:disperser_canister:18, Disperser Canister: Engine Lubricant
 hbm:disperser_canister:23, Disperser Canister: Natural Gas
-hbm:disperser_canister:137, Disperser Canister: Coker Gas
+hbm:disperser_canister:107, Disperser Canister: Coker Gas
 hbm:disperser_canister:24, Disperser Canister: Petroleum Gas
-hbm:disperser_canister:101, Disperser Canister: Sour Gas
+hbm:disperser_canister:94, Disperser Canister: Sour Gas
 hbm:disperser_canister:25, Disperser Canister: LPG
-hbm:disperser_canister:94, Disperser Canister: Syngas
-hbm:disperser_canister:95, Disperser Canister: Oxyhydrogen
+hbm:disperser_canister:86, Disperser Canister: Syngas
+hbm:disperser_canister:87, Disperser Canister: Oxyhydrogen
 hbm:disperser_canister:68, Disperser Canister: Unsaturated Hydrocarbons
-hbm:disperser_canister:113, Disperser Canister: Reformate Gas
+hbm:disperser_canister:100, Disperser Canister: Reformate Gas
 hbm:disperser_canister:20, Disperser Canister: Diesel
-hbm:disperser_canister:110, Disperser Canister: High-Cetane Diesel
+hbm:disperser_canister:97, Disperser Canister: High-Cetane Diesel
 hbm:disperser_canister:66, Disperser Canister: Cracked Diesel
-hbm:disperser_canister:111, Disperser Canister: High-Cetane Cracked Diesel
+hbm:disperser_canister:98, Disperser Canister: High-Cetane Cracked Diesel
 hbm:disperser_canister:22, Disperser Canister: Kerosene
-hbm:disperser_canister:112, Disperser Canister: Jet Fuel
+hbm:disperser_canister:99, Disperser Canister: Jet Fuel
 hbm:disperser_canister:17, Disperser Canister: Petroil
 hbm:disperser_canister:72, Disperser Canister: Leaded Petroil
 hbm:disperser_canister:46, Disperser Canister: Gasoline
@@ -3191,68 +3191,34 @@ hbm:disperser_canister:74, Disperser Canister: Leaded Coal Gasoline
 hbm:disperser_canister:26, Disperser Canister: Biogas
 hbm:disperser_canister:27, Disperser Canister: Biofuel
 hbm:disperser_canister:59, Disperser Canister: Ethanol
-hbm:disperser_canister:131, Disperser Canister: N-MASS(III) Tetrahexaethanol
-hbm:disperser_canister:141, Disperser Canister: Fish Oil
-hbm:disperser_canister:142, Disperser Canister: Sunflower Seed Oil
+hbm:disperser_canister:111, Disperser Canister: Fish Oil
+hbm:disperser_canister:112, Disperser Canister: Sunflower Seed Oil
 hbm:disperser_canister:28, Disperser Canister: NITAN© 100 Octane Super Fuel
-hbm:disperser_canister:205, Disperser Canister: Deuterated Hydrocarbon
-hbm:disperser_canister:86, Disperser Canister: Hydrazine
-hbm:disperser_canister:162, Disperser Canister: Dicyanoacetylene
+hbm:disperser_canister:154, Disperser Canister: Deuterated Hydrocarbon
 hbm:disperser_canister:35, Disperser Canister: Hydrogen Peroxide
 hbm:disperser_canister:75, Disperser Canister: Sulfuric Acid
-hbm:disperser_canister:120, Disperser Canister: Chloromethane
-hbm:disperser_canister:121, Disperser Canister: Methanol
-hbm:disperser_canister:124, Disperser Canister: Polyethylene
-hbm:disperser_canister:123, Disperser Canister: Methylene
-hbm:disperser_canister:118, Disperser Canister: Eve Air
-hbm:disperser_canister:154, Disperser Canister: Jool Air
-hbm:disperser_canister:119, Disperser Canister: Potassium Permanganate Solution
-hbm:disperser_canister:155, Disperser Canister: Sarnus Air
-hbm:disperser_canister:156, Disperser Canister: Urlum Air
-hbm:disperser_canister:157, Disperser Canister: Neidon Air
-hbm:disperser_canister:126, Disperser Canister: Tekto Air
-hbm:disperser_canister:89, Disperser Canister: Compressed Air
-hbm:disperser_canister:84, Disperser Canister: Nitric Acid
-hbm:disperser_canister:92, Disperser Canister: Hydrochloric Acid
-hbm:disperser_canister:85, Disperser Canister: Ammonia
-hbm:disperser_canister:91, Disperser Canister: Solvent
-hbm:disperser_canister:96, Disperser Canister: High-Performance Solvent
-hbm:disperser_canister:134, Disperser Canister: Pertechnetic Acid
+hbm:disperser_canister:82, Disperser Canister: Nitric Acid
+hbm:disperser_canister:83, Disperser Canister: Solvent
+hbm:disperser_canister:88, Disperser Canister: High-Performance Solvent
 hbm:disperser_canister:32, Disperser Canister: Schrabidic Acid
 hbm:disperser_canister:29, Disperser Canister: Uranium Hexafluoride
 hbm:disperser_canister:30, Disperser Canister: Plutonium Hexafluoride
 hbm:disperser_canister:31, Disperser Canister: Schrabidium Trisulfide
-hbm:disperser_canister:172, Disperser Canister: Fullerene Solution
-hbm:disperser_canister:138, Disperser Canister: Dissolved Egg
-hbm:disperser_canister:139, Disperser Canister: Cholesterol Solution
-hbm:disperser_canister:88, Disperser Canister: Sodium Aluminate
-hbm:disperser_canister:203, Disperser Canister: Alumina
-hbm:disperser_canister:204, Disperser Canister: Liquid Concrete
-hbm:disperser_canister:173, Disperser Canister: Booster Pheromone
-hbm:disperser_canister:174, Disperser Canister: Modified Booster Pheromone
-hbm:disperser_canister:201, Disperser Canister: Lye
-hbm:disperser_canister:127, Disperser Canister: Phosgene
-hbm:disperser_canister:128, Disperser Canister: Mustard Gas
-hbm:disperser_canister:140, Disperser Canister: Estradiol Solution
-hbm:disperser_canister:143, Disperser Canister: Nitroglycerin
+hbm:disperser_canister:131, Disperser Canister: Fullerene Solution
+hbm:disperser_canister:108, Disperser Canister: Dissolved Egg
+hbm:disperser_canister:109, Disperser Canister: Cholesterol Solution
+hbm:disperser_canister:149, Disperser Canister: Sodium Aluminate
+hbm:disperser_canister:151, Disperser Canister: Alumina
+hbm:disperser_canister:153, Disperser Canister: Liquid Concrete
+hbm:disperser_canister:148, Disperser Canister: Lye
+hbm:disperser_canister:102, Disperser Canister: Phosgene
+hbm:disperser_canister:103, Disperser Canister: Mustard Gas
+hbm:disperser_canister:110, Disperser Canister: Estradiol Solution
+hbm:disperser_canister:113, Disperser Canister: Nitroglycerin
 hbm:disperser_canister:71, Disperser Canister: Ender Juice
-hbm:disperser_canister:93, Disperser Canister: Mineral Slurry
-hbm:disperser_canister:132, Disperser Canister: N-MASS(II) Driver Fuel
-hbm:disperser_canister:105, Disperser Canister: Krypton Gas
-hbm:disperser_canister:104, Disperser Canister: Argon Gas
-hbm:disperser_canister:103, Disperser Canister: Neon Gas
-hbm:disperser_canister:107, Disperser Canister: Tea
-hbm:disperser_canister:108, Disperser Canister: Honey
-hbm:disperser_canister:106, Disperser Canister: Coffee
-hbm:disperser_canister:114, Disperser Canister: Milk
-hbm:disperser_canister:115, Disperser Canister: Strawberry Milk
-hbm:disperser_canister:116, Disperser Canister: Olive Oil
-hbm:disperser_canister:130, Disperser Canister: Elbow Grease
-hbm:disperser_canister:158, Disperser Canister: Evaporated Milk
-hbm:disperser_canister:159, Disperser Canister: Condensed Milk
-hbm:disperser_canister:160, Disperser Canister: Heavy Whipping Cream
-hbm:disperser_canister:182, Disperser Canister: Duna Air
-hbm:disperser_canister:197, Disperser Canister: hbmfluid.gaseous_hydrogen
+hbm:disperser_canister:132, Disperser Canister: Booster Pheromone
+hbm:disperser_canister:133, Disperser Canister: Modified Booster Pheromone
+hbm:disperser_canister:89, Disperser Canister: Hydrazine
 hbm:disperser_canister:1000, Disperser Canister: Custom Fluid Demo
 hbm:disperser_canister:4000, Disperser Canister: Oxygen-Rich Air
 hbm:disperser_canister:4001, Disperser Canister: Carbon Tetrachloride
@@ -3264,9 +3230,45 @@ hbm:disperser_canister:4010, Disperser Canister: Halide Gas
 hbm:disperser_canister:4011, Disperser Canister: Light Halocarbons
 hbm:disperser_canister:4012, Disperser Canister: hbmfluid.lithcarbonate
 hbm:disperser_canister:4013, Disperser Canister: Tektonic Crude
+hbm:disperser_canister:4014, Disperser Canister: Elbow Grease
+hbm:disperser_canister:4015, Disperser Canister: N-MASS(III) Tetrahexaethanol
+hbm:disperser_canister:4016, Disperser Canister: N-MASS(II) Driver Fuel
+hbm:disperser_canister:4018, Disperser Canister: Pertechnetic Acid
+hbm:disperser_canister:4019, Disperser Canister: Neon Gas
+hbm:disperser_canister:4020, Disperser Canister: Argon Gas
+hbm:disperser_canister:4021, Disperser Canister: Krypton Gas
+hbm:disperser_canister:4022, Disperser Canister: Coffee
+hbm:disperser_canister:4023, Disperser Canister: Tea
+hbm:disperser_canister:4024, Disperser Canister: Honey
+hbm:disperser_canister:4025, Disperser Canister: Olive Oil
+hbm:disperser_canister:4026, Disperser Canister: Fluorine
+hbm:disperser_canister:4027, Disperser Canister: Duna Air
+hbm:disperser_canister:4028, Disperser Canister: Tekto Air
+hbm:disperser_canister:4029, Disperser Canister: Jool Air
+hbm:disperser_canister:4030, Disperser Canister: Sarnus Air
+hbm:disperser_canister:4031, Disperser Canister: Urlum Air
+hbm:disperser_canister:4032, Disperser Canister: Neidon Air
+hbm:disperser_canister:4033, Disperser Canister: Milk
+hbm:disperser_canister:4034, Disperser Canister: Strawberry Milk
+hbm:disperser_canister:4035, Disperser Canister: Eve Air
+hbm:disperser_canister:4036, Disperser Canister: Potassium Permanganate Solution
+hbm:disperser_canister:4037, Disperser Canister: Chloromethane
+hbm:disperser_canister:4038, Disperser Canister: Methanol
+hbm:disperser_canister:4040, Disperser Canister: Methylene
+hbm:disperser_canister:4041, Disperser Canister: Polyethylene
+hbm:disperser_canister:4042, Disperser Canister: Hydrochloric Acid
+hbm:disperser_canister:4043, Disperser Canister: Ammonia
+hbm:disperser_canister:4044, Disperser Canister: Blood Fuel
+hbm:disperser_canister:4045, Disperser Canister: Mineral Slurry
+hbm:disperser_canister:4046, Disperser Canister: Liquid Nitrogen
+hbm:disperser_canister:4047, Disperser Canister: Evaporated Milk
+hbm:disperser_canister:4048, Disperser Canister: Condensed Milk
+hbm:disperser_canister:4049, Disperser Canister: Heavy Whipping Cream
+hbm:disperser_canister:4050, Disperser Canister: Dicyanoacetylene
+hbm:disperser_canister:4063, Disperser Canister: hbmfluid.gaseous_hydrogen
 hbm:glyphid_gland_empty, Glyphid's Fluid Gland
 hbm:glyphid_gland:75, Sulfuric Acid Gland
-hbm:glyphid_gland:173, Booster Pheromone Gland
+hbm:glyphid_gland:132, Booster Pheromone Gland
 hbm:detonator, Detonator
 hbm:detonator_multi, Multi Detonator
 hbm:detonator_laser, Laser Detonator
@@ -5094,9 +5096,10 @@ hbm:chemistry_icon:100, Chemistry Template: Mustard Gas Artillery Shell Producti
 hbm:chemistry_icon:101, Chemistry Template: Chlorocalcite Separation
 hbm:chemistry_icon:102, Chemistry Template: Thorium Salt Enrichment
 hbm:fluid_identifier_multi, Multi Fluid Identifier
+hbm:ff_fluid_duct:152, Fluid Duct: Compressed Air
 hbm:ff_fluid_duct:1, Fluid Duct: Water
 hbm:ff_fluid_duct:60, Fluid Duct: Heavy Water
-hbm:ff_fluid_duct:166, Fluid Duct: Hot Heavy Water
+hbm:ff_fluid_duct:125, Fluid Duct: Hot Heavy Water
 hbm:ff_fluid_duct:7, Fluid Duct: Lava
 hbm:ff_fluid_duct:2, Fluid Duct: Steam
 hbm:ff_fluid_duct:3, Fluid Duct: Dense Steam
@@ -5106,78 +5109,74 @@ hbm:ff_fluid_duct:48, Fluid Duct: Low-Pressure Steam
 hbm:ff_fluid_duct:55, Fluid Duct: Carbon Dioxide
 hbm:ff_fluid_duct:6, Fluid Duct: Coolant
 hbm:ff_fluid_duct:76, Fluid Duct: Hot Coolant
-hbm:ff_fluid_duct:198, Fluid Duct: Perfluoromethyl
-hbm:ff_fluid_duct:199, Fluid Duct: Cold Perfluoromethyl
-hbm:ff_fluid_duct:200, Fluid Duct: Hot Perfluoromethyl
+hbm:ff_fluid_duct:145, Fluid Duct: Perfluoromethyl
+hbm:ff_fluid_duct:146, Fluid Duct: Cold Perfluoromethyl
+hbm:ff_fluid_duct:147, Fluid Duct: Hot Perfluoromethyl
 hbm:ff_fluid_duct:37, Fluid Duct: Cryogel
 hbm:ff_fluid_duct:77, Fluid Duct: Mug Root Beer
 hbm:ff_fluid_duct:78, Fluid Duct: Hot Mug Root Beer
-hbm:ff_fluid_duct:83, Fluid Duct: Blood
-hbm:ff_fluid_duct:87, Fluid Duct: Blood Fuel
-hbm:ff_fluid_duct:90, Fluid Duct: Hot Blood
-hbm:ff_fluid_duct:167, Fluid Duct: Liquid Sodium
-hbm:ff_fluid_duct:168, Fluid Duct: Hot Liquid Sodium
-hbm:ff_fluid_duct:186, Fluid Duct: Liquid Lead
-hbm:ff_fluid_duct:187, Fluid Duct: Hot Liquid Lead
-hbm:ff_fluid_duct:169, Fluid Duct: Liquid Thorium Salt
-hbm:ff_fluid_duct:170, Fluid Duct: Hot Liquid Thorium Salt
-hbm:ff_fluid_duct:171, Fluid Duct: Depleted Liquid Thorium Salt
+hbm:ff_fluid_duct:84, Fluid Duct: Blood
+hbm:ff_fluid_duct:85, Fluid Duct: Hot Blood
+hbm:ff_fluid_duct:126, Fluid Duct: Liquid Sodium
+hbm:ff_fluid_duct:127, Fluid Duct: Hot Liquid Sodium
+hbm:ff_fluid_duct:143, Fluid Duct: Liquid Lead
+hbm:ff_fluid_duct:144, Fluid Duct: Hot Liquid Lead
+hbm:ff_fluid_duct:128, Fluid Duct: Liquid Thorium Salt
+hbm:ff_fluid_duct:129, Fluid Duct: Hot Liquid Thorium Salt
+hbm:ff_fluid_duct:130, Fluid Duct: Depleted Liquid Thorium Salt
 hbm:ff_fluid_duct:38, Fluid Duct: Liquid Hydrogen
 hbm:ff_fluid_duct:8, Fluid Duct: Deuterium
 hbm:ff_fluid_duct:9, Fluid Duct: Tritium
 hbm:ff_fluid_duct:57, Fluid Duct: Helium-3
-hbm:ff_fluid_duct:165, Fluid Duct: Helium-4
+hbm:ff_fluid_duct:124, Fluid Duct: Helium-4
 hbm:ff_fluid_duct:39, Fluid Duct: Liquid Oxygen
 hbm:ff_fluid_duct:40, Fluid Duct: Xenon Gas
-hbm:ff_fluid_duct:97, Fluid Duct: Chlorine Gas
-hbm:ff_fluid_duct:125, Fluid Duct: Fluorine
+hbm:ff_fluid_duct:90, Fluid Duct: Chlorine Gas
 hbm:ff_fluid_duct:42, Fluid Duct: Mercury
-hbm:ff_fluid_duct:82, Fluid Duct: Liquid Nitrogen
-hbm:ff_fluid_duct:133, Fluid Duct: Scutterblood
 hbm:ff_fluid_duct:10, Fluid Duct: Crude Oil
-hbm:ff_fluid_duct:175, Fluid Duct: Desulfurized Crude Oil
+hbm:ff_fluid_duct:134, Fluid Duct: Desulfurized Crude Oil
 hbm:ff_fluid_duct:61, Fluid Duct: Cracked Oil
-hbm:ff_fluid_duct:177, Fluid Duct: Desulfurized Cracked Oil
+hbm:ff_fluid_duct:136, Fluid Duct: Desulfurized Cracked Oil
 hbm:ff_fluid_duct:62, Fluid Duct: Coal Oil
-hbm:ff_fluid_duct:135, Fluid Duct: Coker Oil
+hbm:ff_fluid_duct:105, Fluid Duct: Coker Oil
 hbm:ff_fluid_duct:11, Fluid Duct: Hot Crude Oil
-hbm:ff_fluid_duct:176, Fluid Duct: Desulfurized Hot Crude Oil
+hbm:ff_fluid_duct:135, Fluid Duct: Desulfurized Hot Crude Oil
 hbm:ff_fluid_duct:63, Fluid Duct: Hot Cracked Oil
-hbm:ff_fluid_duct:178, Fluid Duct: Desulfurized Hot Cracked Oil
+hbm:ff_fluid_duct:137, Fluid Duct: Desulfurized Hot Cracked Oil
 hbm:ff_fluid_duct:12, Fluid Duct: Heavy Oil
-hbm:ff_fluid_duct:98, Fluid Duct: Vacuum Heavy Oil
+hbm:ff_fluid_duct:91, Fluid Duct: Vacuum Heavy Oil
 hbm:ff_fluid_duct:19, Fluid Duct: Naphtha
-hbm:ff_fluid_duct:179, Fluid Duct: Desulfurized Naphtha
+hbm:ff_fluid_duct:138, Fluid Duct: Desulfurized Naphtha
 hbm:ff_fluid_duct:64, Fluid Duct: Cracked Naphtha
-hbm:ff_fluid_duct:136, Fluid Duct: Coker Naphtha
-hbm:ff_fluid_duct:99, Fluid Duct: Reformate
+hbm:ff_fluid_duct:106, Fluid Duct: Coker Naphtha
+hbm:ff_fluid_duct:92, Fluid Duct: Reformate
 hbm:ff_fluid_duct:21, Fluid Duct: Light Oil
-hbm:ff_fluid_duct:180, Fluid Duct: Desulfurized Light Oil
+hbm:ff_fluid_duct:139, Fluid Duct: Desulfurized Light Oil
 hbm:ff_fluid_duct:65, Fluid Duct: Cracked Light Oil
-hbm:ff_fluid_duct:100, Fluid Duct: Vacuum Light Oil
+hbm:ff_fluid_duct:93, Fluid Duct: Vacuum Light Oil
 hbm:ff_fluid_duct:13, Fluid Duct: Bitumen
 hbm:ff_fluid_duct:14, Fluid Duct: Industrial Oil
 hbm:ff_fluid_duct:15, Fluid Duct: Heating Oil
-hbm:ff_fluid_duct:109, Fluid Duct: Heavy Heating Oil
+hbm:ff_fluid_duct:96, Fluid Duct: Heavy Heating Oil
 hbm:ff_fluid_duct:16, Fluid Duct: Reclaimed Industrial Oil
 hbm:ff_fluid_duct:18, Fluid Duct: Engine Lubricant
 hbm:ff_fluid_duct:23, Fluid Duct: Natural Gas
-hbm:ff_fluid_duct:137, Fluid Duct: Coker Gas
+hbm:ff_fluid_duct:107, Fluid Duct: Coker Gas
 hbm:ff_fluid_duct:24, Fluid Duct: Petroleum Gas
-hbm:ff_fluid_duct:101, Fluid Duct: Sour Gas
+hbm:ff_fluid_duct:94, Fluid Duct: Sour Gas
 hbm:ff_fluid_duct:25, Fluid Duct: LPG
-hbm:ff_fluid_duct:94, Fluid Duct: Syngas
-hbm:ff_fluid_duct:95, Fluid Duct: Oxyhydrogen
+hbm:ff_fluid_duct:86, Fluid Duct: Syngas
+hbm:ff_fluid_duct:87, Fluid Duct: Oxyhydrogen
 hbm:ff_fluid_duct:67, Fluid Duct: Aromatic Hydrocarbons
 hbm:ff_fluid_duct:68, Fluid Duct: Unsaturated Hydrocarbons
-hbm:ff_fluid_duct:102, Fluid Duct: BTX
-hbm:ff_fluid_duct:113, Fluid Duct: Reformate Gas
+hbm:ff_fluid_duct:95, Fluid Duct: BTX
+hbm:ff_fluid_duct:100, Fluid Duct: Reformate Gas
 hbm:ff_fluid_duct:20, Fluid Duct: Diesel
-hbm:ff_fluid_duct:110, Fluid Duct: High-Cetane Diesel
+hbm:ff_fluid_duct:97, Fluid Duct: High-Cetane Diesel
 hbm:ff_fluid_duct:66, Fluid Duct: Cracked Diesel
-hbm:ff_fluid_duct:111, Fluid Duct: High-Cetane Cracked Diesel
+hbm:ff_fluid_duct:98, Fluid Duct: High-Cetane Cracked Diesel
 hbm:ff_fluid_duct:22, Fluid Duct: Kerosene
-hbm:ff_fluid_duct:112, Fluid Duct: Jet Fuel
+hbm:ff_fluid_duct:99, Fluid Duct: Jet Fuel
 hbm:ff_fluid_duct:17, Fluid Duct: Petroil
 hbm:ff_fluid_duct:72, Fluid Duct: Leaded Petroil
 hbm:ff_fluid_duct:46, Fluid Duct: Gasoline
@@ -5189,48 +5188,22 @@ hbm:ff_fluid_duct:79, Fluid Duct: Wood Oil
 hbm:ff_fluid_duct:26, Fluid Duct: Biogas
 hbm:ff_fluid_duct:27, Fluid Duct: Biofuel
 hbm:ff_fluid_duct:59, Fluid Duct: Ethanol
-hbm:ff_fluid_duct:131, Fluid Duct: N-MASS(III) Tetrahexaethanol
-hbm:ff_fluid_duct:141, Fluid Duct: Fish Oil
-hbm:ff_fluid_duct:142, Fluid Duct: Sunflower Seed Oil
+hbm:ff_fluid_duct:111, Fluid Duct: Fish Oil
+hbm:ff_fluid_duct:112, Fluid Duct: Sunflower Seed Oil
 hbm:ff_fluid_duct:28, Fluid Duct: NITAN© 100 Octane Super Fuel
-hbm:ff_fluid_duct:205, Fluid Duct: Deuterated Hydrocarbon
-hbm:ff_fluid_duct:86, Fluid Duct: Hydrazine
+hbm:ff_fluid_duct:154, Fluid Duct: Deuterated Hydrocarbon
 hbm:ff_fluid_duct:41, Fluid Duct: BF Rocket Fuel
-hbm:ff_fluid_duct:161, Fluid Duct: Morkite
-hbm:ff_fluid_duct:163, Fluid Duct: Morkine
-hbm:ff_fluid_duct:164, Fluid Duct: Morkite Slurry
-hbm:ff_fluid_duct:162, Fluid Duct: Dicyanoacetylene
 hbm:ff_fluid_duct:69, Fluid Duct: Salient Green
 hbm:ff_fluid_duct:81, Fluid Duct: Seeding Slurry
-hbm:ff_fluid_duct:117, Fluid Duct: Colloid
-hbm:ff_fluid_duct:183, Fluid Duct: Vitriol
-hbm:ff_fluid_duct:184, Fluid Duct: Ore Slop
-hbm:ff_fluid_duct:129, Fluid Duct: Ionic Gel
+hbm:ff_fluid_duct:101, Fluid Duct: Colloid
+hbm:ff_fluid_duct:141, Fluid Duct: Vitriol
+hbm:ff_fluid_duct:142, Fluid Duct: Ore Slop
+hbm:ff_fluid_duct:104, Fluid Duct: Ionic Gel
 hbm:ff_fluid_duct:35, Fluid Duct: Hydrogen Peroxide
 hbm:ff_fluid_duct:75, Fluid Duct: Sulfuric Acid
-hbm:ff_fluid_duct:122, Fluid Duct: Alkyl Bromide
-hbm:ff_fluid_duct:189, Fluid Duct: Uranium Bromide
-hbm:ff_fluid_duct:190, Fluid Duct: Plutonium Bromide
-hbm:ff_fluid_duct:191, Fluid Duct: Schrabidium Bromide
-hbm:ff_fluid_duct:192, Fluid Duct: Thorium Bromide
-hbm:ff_fluid_duct:120, Fluid Duct: Chloromethane
-hbm:ff_fluid_duct:121, Fluid Duct: Methanol
-hbm:ff_fluid_duct:124, Fluid Duct: Polyethylene
-hbm:ff_fluid_duct:123, Fluid Duct: Methylene
-hbm:ff_fluid_duct:118, Fluid Duct: Eve Air
-hbm:ff_fluid_duct:154, Fluid Duct: Jool Air
-hbm:ff_fluid_duct:119, Fluid Duct: Potassium Permanganate Solution
-hbm:ff_fluid_duct:155, Fluid Duct: Sarnus Air
-hbm:ff_fluid_duct:156, Fluid Duct: Urlum Air
-hbm:ff_fluid_duct:157, Fluid Duct: Neidon Air
-hbm:ff_fluid_duct:126, Fluid Duct: Tekto Air
-hbm:ff_fluid_duct:89, Fluid Duct: Compressed Air
-hbm:ff_fluid_duct:84, Fluid Duct: Nitric Acid
-hbm:ff_fluid_duct:92, Fluid Duct: Hydrochloric Acid
-hbm:ff_fluid_duct:85, Fluid Duct: Ammonia
-hbm:ff_fluid_duct:91, Fluid Duct: Solvent
-hbm:ff_fluid_duct:96, Fluid Duct: High-Performance Solvent
-hbm:ff_fluid_duct:134, Fluid Duct: Pertechnetic Acid
+hbm:ff_fluid_duct:82, Fluid Duct: Nitric Acid
+hbm:ff_fluid_duct:83, Fluid Duct: Solvent
+hbm:ff_fluid_duct:88, Fluid Duct: High-Performance Solvent
 hbm:ff_fluid_duct:32, Fluid Duct: Schrabidic Acid
 hbm:ff_fluid_duct:29, Fluid Duct: Uranium Hexafluoride
 hbm:ff_fluid_duct:30, Fluid Duct: Plutonium Hexafluoride
@@ -5238,52 +5211,36 @@ hbm:ff_fluid_duct:31, Fluid Duct: Schrabidium Trisulfide
 hbm:ff_fluid_duct:43, Fluid Duct: Pandemonium(III)tantalite Solution
 hbm:ff_fluid_duct:58, Fluid Duct: Osmiridic Solution
 hbm:ff_fluid_duct:36, Fluid Duct: Poisonous Mud
-hbm:ff_fluid_duct:144, Fluid Duct: Red Mud
-hbm:ff_fluid_duct:172, Fluid Duct: Fullerene Solution
-hbm:ff_fluid_duct:138, Fluid Duct: Dissolved Egg
-hbm:ff_fluid_duct:139, Fluid Duct: Cholesterol Solution
-hbm:ff_fluid_duct:145, Fluid Duct: Chlorocalcite Solution
-hbm:ff_fluid_duct:146, Fluid Duct: Mixed Chlorocalcite Solution
-hbm:ff_fluid_duct:147, Fluid Duct: Cleaned Chlorocalcite Solution
-hbm:ff_fluid_duct:148, Fluid Duct: Potassiumchloride Solution
-hbm:ff_fluid_duct:149, Fluid Duct: Calciumchloride Solution
-hbm:ff_fluid_duct:150, Fluid Duct: Calcium Solution
-hbm:ff_fluid_duct:88, Fluid Duct: Sodium Aluminate
-hbm:ff_fluid_duct:202, Fluid Duct: Bauxite Solution
-hbm:ff_fluid_duct:203, Fluid Duct: Alumina
-hbm:ff_fluid_duct:204, Fluid Duct: Liquid Concrete
-hbm:ff_fluid_duct:173, Fluid Duct: Booster Pheromone
-hbm:ff_fluid_duct:174, Fluid Duct: Modified Booster Pheromone
+hbm:ff_fluid_duct:114, Fluid Duct: Red Mud
+hbm:ff_fluid_duct:131, Fluid Duct: Fullerene Solution
+hbm:ff_fluid_duct:108, Fluid Duct: Dissolved Egg
+hbm:ff_fluid_duct:109, Fluid Duct: Cholesterol Solution
+hbm:ff_fluid_duct:115, Fluid Duct: Chlorocalcite Solution
+hbm:ff_fluid_duct:116, Fluid Duct: Mixed Chlorocalcite Solution
+hbm:ff_fluid_duct:117, Fluid Duct: Cleaned Chlorocalcite Solution
+hbm:ff_fluid_duct:118, Fluid Duct: Potassiumchloride Solution
+hbm:ff_fluid_duct:119, Fluid Duct: Calciumchloride Solution
+hbm:ff_fluid_duct:120, Fluid Duct: Calcium Solution
+hbm:ff_fluid_duct:149, Fluid Duct: Sodium Aluminate
+hbm:ff_fluid_duct:150, Fluid Duct: Bauxite Solution
+hbm:ff_fluid_duct:151, Fluid Duct: Alumina
+hbm:ff_fluid_duct:153, Fluid Duct: Liquid Concrete
 hbm:ff_fluid_duct:49, Fluid Duct: Fracking Solution
-hbm:ff_fluid_duct:201, Fluid Duct: Lye
-hbm:ff_fluid_duct:127, Fluid Duct: Phosgene
-hbm:ff_fluid_duct:128, Fluid Duct: Mustard Gas
-hbm:ff_fluid_duct:140, Fluid Duct: Estradiol Solution
-hbm:ff_fluid_duct:143, Fluid Duct: Nitroglycerin
+hbm:ff_fluid_duct:148, Fluid Duct: Lye
+hbm:ff_fluid_duct:102, Fluid Duct: Phosgene
+hbm:ff_fluid_duct:103, Fluid Duct: Mustard Gas
+hbm:ff_fluid_duct:110, Fluid Duct: Estradiol Solution
+hbm:ff_fluid_duct:113, Fluid Duct: Nitroglycerin
 hbm:ff_fluid_duct:33, Fluid Duct: Antimatter
 hbm:ff_fluid_duct:34, Fluid Duct: Antischrabidium
 hbm:ff_fluid_duct:44, Fluid Duct: Liquid Nuclear Waste
 hbm:ff_fluid_duct:45, Fluid Duct: Gaseous Nuclear Waste
 hbm:ff_fluid_duct:70, Fluid Duct: Experience Juice
 hbm:ff_fluid_duct:71, Fluid Duct: Ender Juice
-hbm:ff_fluid_duct:93, Fluid Duct: Mineral Slurry
-hbm:ff_fluid_duct:132, Fluid Duct: N-MASS(II) Driver Fuel
-hbm:ff_fluid_duct:181, Fluid Duct: Stellar Flux
-hbm:ff_fluid_duct:105, Fluid Duct: Krypton Gas
-hbm:ff_fluid_duct:104, Fluid Duct: Argon Gas
-hbm:ff_fluid_duct:103, Fluid Duct: Neon Gas
-hbm:ff_fluid_duct:107, Fluid Duct: Tea
-hbm:ff_fluid_duct:108, Fluid Duct: Honey
-hbm:ff_fluid_duct:106, Fluid Duct: Coffee
-hbm:ff_fluid_duct:114, Fluid Duct: Milk
-hbm:ff_fluid_duct:115, Fluid Duct: Strawberry Milk
-hbm:ff_fluid_duct:116, Fluid Duct: Olive Oil
-hbm:ff_fluid_duct:130, Fluid Duct: Elbow Grease
-hbm:ff_fluid_duct:158, Fluid Duct: Evaporated Milk
-hbm:ff_fluid_duct:159, Fluid Duct: Condensed Milk
-hbm:ff_fluid_duct:160, Fluid Duct: Heavy Whipping Cream
-hbm:ff_fluid_duct:182, Fluid Duct: Duna Air
-hbm:ff_fluid_duct:197, Fluid Duct: hbmfluid.gaseous_hydrogen
+hbm:ff_fluid_duct:140, Fluid Duct: Stellar Flux
+hbm:ff_fluid_duct:132, Fluid Duct: Booster Pheromone
+hbm:ff_fluid_duct:133, Fluid Duct: Modified Booster Pheromone
+hbm:ff_fluid_duct:89, Fluid Duct: Hydrazine
 hbm:ff_fluid_duct:1000, Fluid Duct: Custom Fluid Demo
 hbm:ff_fluid_duct:4000, Fluid Duct: Oxygen-Rich Air
 hbm:ff_fluid_duct:4001, Fluid Duct: Carbon Tetrachloride
@@ -5299,6 +5256,51 @@ hbm:ff_fluid_duct:4010, Fluid Duct: Halide Gas
 hbm:ff_fluid_duct:4011, Fluid Duct: Light Halocarbons
 hbm:ff_fluid_duct:4012, Fluid Duct: hbmfluid.lithcarbonate
 hbm:ff_fluid_duct:4013, Fluid Duct: Tektonic Crude
+hbm:ff_fluid_duct:4014, Fluid Duct: Elbow Grease
+hbm:ff_fluid_duct:4015, Fluid Duct: N-MASS(III) Tetrahexaethanol
+hbm:ff_fluid_duct:4016, Fluid Duct: N-MASS(II) Driver Fuel
+hbm:ff_fluid_duct:4017, Fluid Duct: Scutterblood
+hbm:ff_fluid_duct:4018, Fluid Duct: Pertechnetic Acid
+hbm:ff_fluid_duct:4019, Fluid Duct: Neon Gas
+hbm:ff_fluid_duct:4020, Fluid Duct: Argon Gas
+hbm:ff_fluid_duct:4021, Fluid Duct: Krypton Gas
+hbm:ff_fluid_duct:4022, Fluid Duct: Coffee
+hbm:ff_fluid_duct:4023, Fluid Duct: Tea
+hbm:ff_fluid_duct:4024, Fluid Duct: Honey
+hbm:ff_fluid_duct:4025, Fluid Duct: Olive Oil
+hbm:ff_fluid_duct:4026, Fluid Duct: Fluorine
+hbm:ff_fluid_duct:4027, Fluid Duct: Duna Air
+hbm:ff_fluid_duct:4028, Fluid Duct: Tekto Air
+hbm:ff_fluid_duct:4029, Fluid Duct: Jool Air
+hbm:ff_fluid_duct:4030, Fluid Duct: Sarnus Air
+hbm:ff_fluid_duct:4031, Fluid Duct: Urlum Air
+hbm:ff_fluid_duct:4032, Fluid Duct: Neidon Air
+hbm:ff_fluid_duct:4033, Fluid Duct: Milk
+hbm:ff_fluid_duct:4034, Fluid Duct: Strawberry Milk
+hbm:ff_fluid_duct:4035, Fluid Duct: Eve Air
+hbm:ff_fluid_duct:4036, Fluid Duct: Potassium Permanganate Solution
+hbm:ff_fluid_duct:4037, Fluid Duct: Chloromethane
+hbm:ff_fluid_duct:4038, Fluid Duct: Methanol
+hbm:ff_fluid_duct:4039, Fluid Duct: Alkyl Bromide
+hbm:ff_fluid_duct:4040, Fluid Duct: Methylene
+hbm:ff_fluid_duct:4041, Fluid Duct: Polyethylene
+hbm:ff_fluid_duct:4042, Fluid Duct: Hydrochloric Acid
+hbm:ff_fluid_duct:4043, Fluid Duct: Ammonia
+hbm:ff_fluid_duct:4044, Fluid Duct: Blood Fuel
+hbm:ff_fluid_duct:4045, Fluid Duct: Mineral Slurry
+hbm:ff_fluid_duct:4046, Fluid Duct: Liquid Nitrogen
+hbm:ff_fluid_duct:4047, Fluid Duct: Evaporated Milk
+hbm:ff_fluid_duct:4048, Fluid Duct: Condensed Milk
+hbm:ff_fluid_duct:4049, Fluid Duct: Heavy Whipping Cream
+hbm:ff_fluid_duct:4050, Fluid Duct: Dicyanoacetylene
+hbm:ff_fluid_duct:4051, Fluid Duct: Morkite
+hbm:ff_fluid_duct:4052, Fluid Duct: Morkine
+hbm:ff_fluid_duct:4053, Fluid Duct: Morkite Slurry
+hbm:ff_fluid_duct:4055, Fluid Duct: Uranium Bromide
+hbm:ff_fluid_duct:4056, Fluid Duct: Plutonium Bromide
+hbm:ff_fluid_duct:4057, Fluid Duct: Schrabidium Bromide
+hbm:ff_fluid_duct:4058, Fluid Duct: Thorium Bromide
+hbm:ff_fluid_duct:4063, Fluid Duct: hbmfluid.gaseous_hydrogen
 hbm:mese_gavel, Mese Gavel
 hbm:mese_pickaxe, Mese Pickaxe
 hbm:mese_axe, Mese Axe
@@ -5866,8 +5868,8 @@ hbm:watz_pellet:9, Depleted Uranium Absorber Pellet
 hbm:watz_pellet:10, Enriched Naquadah Watz Pellet
 hbm:watz_pellet:11, Naquadria Watz Pellet
 hbm:watz_pellet:12, Plutonium-241 Watz Pellet
-hbm:watz_pellet:13, Americium Watz Pellet (Reactor Grade)
-hbm:watz_pellet:14, Americium Watz Pellet (Fuel)
+hbm:watz_pellet:13, Americium Watz Pellet (Fuel)
+hbm:watz_pellet:14, Americium Watz Pellet (Reactor Grade)
 hbm:watz_pellet:15, Curium Watz Pellet (Reactor-Grade)
 hbm:watz_pellet:16, Curium Watz Pellet (Fuel)
 hbm:watz_pellet:17, Berkelium-247 Watz Pellet
@@ -5887,8 +5889,8 @@ hbm:watz_pellet_depleted:9, Depleted Uranium Absorber Pellet (Depleted)
 hbm:watz_pellet_depleted:10, Enriched Naquadah Watz Pellet (Depleted)
 hbm:watz_pellet_depleted:11, Naquadria Watz Pellet (Depleted)
 hbm:watz_pellet_depleted:12, Plutonium-241 Watz Pellet (Depleted)
-hbm:watz_pellet_depleted:13, Americium Watz Pellet (Reactor-Grade) (Depleted)
-hbm:watz_pellet_depleted:14, Americium Watz Pellet (Fuel) (Depleted)
+hbm:watz_pellet_depleted:13, Americium Watz Pellet (Fuel) (Depleted)
+hbm:watz_pellet_depleted:14, Americium Watz Pellet (Reactor-Grade) (Depleted)
 hbm:watz_pellet_depleted:15, Curium Watz Pellet (Reactor-Grade) (Depleted)
 hbm:watz_pellet_depleted:16, Curium Watz Pellet (Fuel) (Depleted)
 hbm:watz_pellet_depleted:17, Berkelium-247 Watz Pellet (Depleted)
@@ -5957,9 +5959,10 @@ hbm:ams_core_wormhole, Tiny Wormhole (AMS/DFC Core)
 hbm:ams_core_eyeofharmony, Eye of Harmony (AMS/DFC Core)
 hbm:ams_core_thingy, Thingy (AMS/DFC Core)
 hbm:ams_muzzle, Ray-Emission Muzzle
+hbm:fluid_icon:152, Compressed Air
 hbm:fluid_icon:1, Water
 hbm:fluid_icon:60, Heavy Water
-hbm:fluid_icon:166, Hot Heavy Water
+hbm:fluid_icon:125, Hot Heavy Water
 hbm:fluid_icon:7, Lava
 hbm:fluid_icon:2, Steam
 hbm:fluid_icon:3, Dense Steam
@@ -5969,84 +5972,74 @@ hbm:fluid_icon:48, Low-Pressure Steam
 hbm:fluid_icon:55, Carbon Dioxide
 hbm:fluid_icon:6, Coolant
 hbm:fluid_icon:76, Hot Coolant
-hbm:fluid_icon:198, Perfluoromethyl
-hbm:fluid_icon:199, Cold Perfluoromethyl
-hbm:fluid_icon:200, Hot Perfluoromethyl
+hbm:fluid_icon:145, Perfluoromethyl
+hbm:fluid_icon:146, Cold Perfluoromethyl
+hbm:fluid_icon:147, Hot Perfluoromethyl
 hbm:fluid_icon:37, Cryogel
 hbm:fluid_icon:77, Mug Root Beer
 hbm:fluid_icon:78, Hot Mug Root Beer
-hbm:fluid_icon:185, Superheated Hydrogen
-hbm:fluid_icon:188, Gaseous Poisonous Mud
-hbm:fluid_icon:193, Gaseous Uranium Bromide
-hbm:fluid_icon:194, Gaseous Plutonium Bromide
-hbm:fluid_icon:195, Gaseous Schrabidium Bromide
-hbm:fluid_icon:196, Gaseous Thorium Bromide
-hbm:fluid_icon:83, Blood
-hbm:fluid_icon:87, Blood Fuel
-hbm:fluid_icon:90, Hot Blood
-hbm:fluid_icon:167, Liquid Sodium
-hbm:fluid_icon:168, Hot Liquid Sodium
-hbm:fluid_icon:186, Liquid Lead
-hbm:fluid_icon:187, Hot Liquid Lead
-hbm:fluid_icon:169, Liquid Thorium Salt
-hbm:fluid_icon:170, Hot Liquid Thorium Salt
-hbm:fluid_icon:171, Depleted Liquid Thorium Salt
+hbm:fluid_icon:84, Blood
+hbm:fluid_icon:85, Hot Blood
+hbm:fluid_icon:126, Liquid Sodium
+hbm:fluid_icon:127, Hot Liquid Sodium
+hbm:fluid_icon:143, Liquid Lead
+hbm:fluid_icon:144, Hot Liquid Lead
+hbm:fluid_icon:128, Liquid Thorium Salt
+hbm:fluid_icon:129, Hot Liquid Thorium Salt
+hbm:fluid_icon:130, Depleted Liquid Thorium Salt
 hbm:fluid_icon:38, Liquid Hydrogen
 hbm:fluid_icon:8, Deuterium
 hbm:fluid_icon:9, Tritium
 hbm:fluid_icon:57, Helium-3
-hbm:fluid_icon:165, Helium-4
+hbm:fluid_icon:124, Helium-4
 hbm:fluid_icon:39, Liquid Oxygen
 hbm:fluid_icon:40, Xenon Gas
-hbm:fluid_icon:97, Chlorine Gas
-hbm:fluid_icon:125, Fluorine
+hbm:fluid_icon:90, Chlorine Gas
 hbm:fluid_icon:42, Mercury
-hbm:fluid_icon:82, Liquid Nitrogen
-hbm:fluid_icon:133, Scutterblood
 hbm:fluid_icon:10, Crude Oil
-hbm:fluid_icon:175, Desulfurized Crude Oil
+hbm:fluid_icon:134, Desulfurized Crude Oil
 hbm:fluid_icon:61, Cracked Oil
-hbm:fluid_icon:177, Desulfurized Cracked Oil
+hbm:fluid_icon:136, Desulfurized Cracked Oil
 hbm:fluid_icon:62, Coal Oil
-hbm:fluid_icon:135, Coker Oil
+hbm:fluid_icon:105, Coker Oil
 hbm:fluid_icon:11, Hot Crude Oil
-hbm:fluid_icon:176, Desulfurized Hot Crude Oil
+hbm:fluid_icon:135, Desulfurized Hot Crude Oil
 hbm:fluid_icon:63, Hot Cracked Oil
-hbm:fluid_icon:178, Desulfurized Hot Cracked Oil
+hbm:fluid_icon:137, Desulfurized Hot Cracked Oil
 hbm:fluid_icon:12, Heavy Oil
-hbm:fluid_icon:98, Vacuum Heavy Oil
+hbm:fluid_icon:91, Vacuum Heavy Oil
 hbm:fluid_icon:19, Naphtha
-hbm:fluid_icon:179, Desulfurized Naphtha
+hbm:fluid_icon:138, Desulfurized Naphtha
 hbm:fluid_icon:64, Cracked Naphtha
-hbm:fluid_icon:136, Coker Naphtha
-hbm:fluid_icon:99, Reformate
+hbm:fluid_icon:106, Coker Naphtha
+hbm:fluid_icon:92, Reformate
 hbm:fluid_icon:21, Light Oil
-hbm:fluid_icon:180, Desulfurized Light Oil
+hbm:fluid_icon:139, Desulfurized Light Oil
 hbm:fluid_icon:65, Cracked Light Oil
-hbm:fluid_icon:100, Vacuum Light Oil
+hbm:fluid_icon:93, Vacuum Light Oil
 hbm:fluid_icon:13, Bitumen
 hbm:fluid_icon:14, Industrial Oil
 hbm:fluid_icon:15, Heating Oil
-hbm:fluid_icon:109, Heavy Heating Oil
+hbm:fluid_icon:96, Heavy Heating Oil
 hbm:fluid_icon:16, Reclaimed Industrial Oil
 hbm:fluid_icon:18, Engine Lubricant
 hbm:fluid_icon:23, Natural Gas
-hbm:fluid_icon:137, Coker Gas
+hbm:fluid_icon:107, Coker Gas
 hbm:fluid_icon:24, Petroleum Gas
-hbm:fluid_icon:101, Sour Gas
+hbm:fluid_icon:94, Sour Gas
 hbm:fluid_icon:25, LPG
-hbm:fluid_icon:94, Syngas
-hbm:fluid_icon:95, Oxyhydrogen
+hbm:fluid_icon:86, Syngas
+hbm:fluid_icon:87, Oxyhydrogen
 hbm:fluid_icon:67, Aromatic Hydrocarbons
 hbm:fluid_icon:68, Unsaturated Hydrocarbons
-hbm:fluid_icon:102, BTX
-hbm:fluid_icon:113, Reformate Gas
+hbm:fluid_icon:95, BTX
+hbm:fluid_icon:100, Reformate Gas
 hbm:fluid_icon:20, Diesel
-hbm:fluid_icon:110, High-Cetane Diesel
+hbm:fluid_icon:97, High-Cetane Diesel
 hbm:fluid_icon:66, Cracked Diesel
-hbm:fluid_icon:111, High-Cetane Cracked Diesel
+hbm:fluid_icon:98, High-Cetane Cracked Diesel
 hbm:fluid_icon:22, Kerosene
-hbm:fluid_icon:112, Jet Fuel
+hbm:fluid_icon:99, Jet Fuel
 hbm:fluid_icon:17, Petroil
 hbm:fluid_icon:72, Leaded Petroil
 hbm:fluid_icon:46, Gasoline
@@ -6058,48 +6051,22 @@ hbm:fluid_icon:79, Wood Oil
 hbm:fluid_icon:26, Biogas
 hbm:fluid_icon:27, Biofuel
 hbm:fluid_icon:59, Ethanol
-hbm:fluid_icon:131, N-MASS(III) Tetrahexaethanol
-hbm:fluid_icon:141, Fish Oil
-hbm:fluid_icon:142, Sunflower Seed Oil
+hbm:fluid_icon:111, Fish Oil
+hbm:fluid_icon:112, Sunflower Seed Oil
 hbm:fluid_icon:28, NITAN© 100 Octane Super Fuel
-hbm:fluid_icon:205, Deuterated Hydrocarbon
-hbm:fluid_icon:86, Hydrazine
+hbm:fluid_icon:154, Deuterated Hydrocarbon
 hbm:fluid_icon:41, BF Rocket Fuel
-hbm:fluid_icon:161, Morkite
-hbm:fluid_icon:163, Morkine
-hbm:fluid_icon:164, Morkite Slurry
-hbm:fluid_icon:162, Dicyanoacetylene
 hbm:fluid_icon:69, Salient Green
 hbm:fluid_icon:81, Seeding Slurry
-hbm:fluid_icon:117, Colloid
-hbm:fluid_icon:183, Vitriol
-hbm:fluid_icon:184, Ore Slop
-hbm:fluid_icon:129, Ionic Gel
+hbm:fluid_icon:101, Colloid
+hbm:fluid_icon:141, Vitriol
+hbm:fluid_icon:142, Ore Slop
+hbm:fluid_icon:104, Ionic Gel
 hbm:fluid_icon:35, Hydrogen Peroxide
 hbm:fluid_icon:75, Sulfuric Acid
-hbm:fluid_icon:122, Alkyl Bromide
-hbm:fluid_icon:189, Uranium Bromide
-hbm:fluid_icon:190, Plutonium Bromide
-hbm:fluid_icon:191, Schrabidium Bromide
-hbm:fluid_icon:192, Thorium Bromide
-hbm:fluid_icon:120, Chloromethane
-hbm:fluid_icon:121, Methanol
-hbm:fluid_icon:124, Polyethylene
-hbm:fluid_icon:123, Methylene
-hbm:fluid_icon:118, Eve Air
-hbm:fluid_icon:154, Jool Air
-hbm:fluid_icon:119, Potassium Permanganate Solution
-hbm:fluid_icon:155, Sarnus Air
-hbm:fluid_icon:156, Urlum Air
-hbm:fluid_icon:157, Neidon Air
-hbm:fluid_icon:126, Tekto Air
-hbm:fluid_icon:89, Compressed Air
-hbm:fluid_icon:84, Nitric Acid
-hbm:fluid_icon:92, Hydrochloric Acid
-hbm:fluid_icon:85, Ammonia
-hbm:fluid_icon:91, Solvent
-hbm:fluid_icon:96, High-Performance Solvent
-hbm:fluid_icon:134, Pertechnetic Acid
+hbm:fluid_icon:82, Nitric Acid
+hbm:fluid_icon:83, Solvent
+hbm:fluid_icon:88, High-Performance Solvent
 hbm:fluid_icon:32, Schrabidic Acid
 hbm:fluid_icon:29, Uranium Hexafluoride
 hbm:fluid_icon:30, Plutonium Hexafluoride
@@ -6107,61 +6074,45 @@ hbm:fluid_icon:31, Schrabidium Trisulfide
 hbm:fluid_icon:43, Pandemonium(III)tantalite Solution
 hbm:fluid_icon:58, Osmiridic Solution
 hbm:fluid_icon:36, Poisonous Mud
-hbm:fluid_icon:144, Red Mud
-hbm:fluid_icon:172, Fullerene Solution
-hbm:fluid_icon:138, Dissolved Egg
-hbm:fluid_icon:139, Cholesterol Solution
-hbm:fluid_icon:145, Chlorocalcite Solution
-hbm:fluid_icon:146, Mixed Chlorocalcite Solution
-hbm:fluid_icon:147, Cleaned Chlorocalcite Solution
-hbm:fluid_icon:148, Potassiumchloride Solution
-hbm:fluid_icon:149, Calciumchloride Solution
-hbm:fluid_icon:150, Calcium Solution
-hbm:fluid_icon:88, Sodium Aluminate
-hbm:fluid_icon:202, Bauxite Solution
-hbm:fluid_icon:203, Alumina
-hbm:fluid_icon:204, Liquid Concrete
-hbm:fluid_icon:173, Booster Pheromone
-hbm:fluid_icon:174, Modified Booster Pheromone
+hbm:fluid_icon:114, Red Mud
+hbm:fluid_icon:131, Fullerene Solution
+hbm:fluid_icon:108, Dissolved Egg
+hbm:fluid_icon:109, Cholesterol Solution
+hbm:fluid_icon:115, Chlorocalcite Solution
+hbm:fluid_icon:116, Mixed Chlorocalcite Solution
+hbm:fluid_icon:117, Cleaned Chlorocalcite Solution
+hbm:fluid_icon:118, Potassiumchloride Solution
+hbm:fluid_icon:119, Calciumchloride Solution
+hbm:fluid_icon:120, Calcium Solution
+hbm:fluid_icon:149, Sodium Aluminate
+hbm:fluid_icon:150, Bauxite Solution
+hbm:fluid_icon:151, Alumina
+hbm:fluid_icon:153, Liquid Concrete
 hbm:fluid_icon:49, Fracking Solution
-hbm:fluid_icon:201, Lye
-hbm:fluid_icon:127, Phosgene
-hbm:fluid_icon:128, Mustard Gas
-hbm:fluid_icon:140, Estradiol Solution
-hbm:fluid_icon:143, Nitroglycerin
+hbm:fluid_icon:148, Lye
+hbm:fluid_icon:102, Phosgene
+hbm:fluid_icon:103, Mustard Gas
+hbm:fluid_icon:110, Estradiol Solution
+hbm:fluid_icon:113, Nitroglycerin
 hbm:fluid_icon:33, Antimatter
 hbm:fluid_icon:34, Antischrabidium
 hbm:fluid_icon:44, Liquid Nuclear Waste
 hbm:fluid_icon:45, Gaseous Nuclear Waste
 hbm:fluid_icon:70, Experience Juice
 hbm:fluid_icon:71, Ender Juice
-hbm:fluid_icon:93, Mineral Slurry
-hbm:fluid_icon:132, N-MASS(II) Driver Fuel
-hbm:fluid_icon:181, Stellar Flux
+hbm:fluid_icon:140, Stellar Flux
 hbm:fluid_icon:50, Deuterium-Tritium Plasma
 hbm:fluid_icon:51, Hydrogen-Deuterium Plasma
 hbm:fluid_icon:52, Hydrogen-Tritium Plasma
 hbm:fluid_icon:56, Deuterium-Helium-3 Plasma
 hbm:fluid_icon:53, Helium-4-Oxygen Plasma
 hbm:fluid_icon:54, Balefire Plasma
-hbm:fluid_icon:105, Krypton Gas
-hbm:fluid_icon:104, Argon Gas
-hbm:fluid_icon:103, Neon Gas
-hbm:fluid_icon:107, Tea
-hbm:fluid_icon:108, Honey
-hbm:fluid_icon:106, Coffee
-hbm:fluid_icon:114, Milk
-hbm:fluid_icon:115, Strawberry Milk
-hbm:fluid_icon:116, Olive Oil
-hbm:fluid_icon:130, Elbow Grease
-hbm:fluid_icon:158, Evaporated Milk
-hbm:fluid_icon:159, Condensed Milk
-hbm:fluid_icon:160, Heavy Whipping Cream
-hbm:fluid_icon:151, Smoke
-hbm:fluid_icon:152, Leaded Smoke
-hbm:fluid_icon:153, Poison Smoke
-hbm:fluid_icon:182, Duna Air
-hbm:fluid_icon:197, hbmfluid.gaseous_hydrogen
+hbm:fluid_icon:121, Smoke
+hbm:fluid_icon:122, Leaded Smoke
+hbm:fluid_icon:123, Poison Smoke
+hbm:fluid_icon:132, Booster Pheromone
+hbm:fluid_icon:133, Modified Booster Pheromone
+hbm:fluid_icon:89, Hydrazine
 hbm:fluid_icon:1000, hbmfluid.custom_demo
 hbm:fluid_icon:4000, Oxygen-Rich Air
 hbm:fluid_icon:4001, Carbon Tetrachloride
@@ -6177,6 +6128,57 @@ hbm:fluid_icon:4010, Halide Gas
 hbm:fluid_icon:4011, Light Halocarbons
 hbm:fluid_icon:4012, hbmfluid.lithcarbonate
 hbm:fluid_icon:4013, Tektonic Crude
+hbm:fluid_icon:4014, Elbow Grease
+hbm:fluid_icon:4015, N-MASS(III) Tetrahexaethanol
+hbm:fluid_icon:4016, N-MASS(II) Driver Fuel
+hbm:fluid_icon:4017, Scutterblood
+hbm:fluid_icon:4018, Pertechnetic Acid
+hbm:fluid_icon:4019, Neon Gas
+hbm:fluid_icon:4020, Argon Gas
+hbm:fluid_icon:4021, Krypton Gas
+hbm:fluid_icon:4022, Coffee
+hbm:fluid_icon:4023, Tea
+hbm:fluid_icon:4024, Honey
+hbm:fluid_icon:4025, Olive Oil
+hbm:fluid_icon:4026, Fluorine
+hbm:fluid_icon:4027, Duna Air
+hbm:fluid_icon:4028, Tekto Air
+hbm:fluid_icon:4029, Jool Air
+hbm:fluid_icon:4030, Sarnus Air
+hbm:fluid_icon:4031, Urlum Air
+hbm:fluid_icon:4032, Neidon Air
+hbm:fluid_icon:4033, Milk
+hbm:fluid_icon:4034, Strawberry Milk
+hbm:fluid_icon:4035, Eve Air
+hbm:fluid_icon:4036, Potassium Permanganate Solution
+hbm:fluid_icon:4037, Chloromethane
+hbm:fluid_icon:4038, Methanol
+hbm:fluid_icon:4039, Alkyl Bromide
+hbm:fluid_icon:4040, Methylene
+hbm:fluid_icon:4041, Polyethylene
+hbm:fluid_icon:4042, Hydrochloric Acid
+hbm:fluid_icon:4043, Ammonia
+hbm:fluid_icon:4044, Blood Fuel
+hbm:fluid_icon:4045, Mineral Slurry
+hbm:fluid_icon:4046, Liquid Nitrogen
+hbm:fluid_icon:4047, Evaporated Milk
+hbm:fluid_icon:4048, Condensed Milk
+hbm:fluid_icon:4049, Heavy Whipping Cream
+hbm:fluid_icon:4050, Dicyanoacetylene
+hbm:fluid_icon:4051, Morkite
+hbm:fluid_icon:4052, Morkine
+hbm:fluid_icon:4053, Morkite Slurry
+hbm:fluid_icon:4054, Superheated Hydrogen
+hbm:fluid_icon:4055, Uranium Bromide
+hbm:fluid_icon:4056, Plutonium Bromide
+hbm:fluid_icon:4057, Schrabidium Bromide
+hbm:fluid_icon:4058, Thorium Bromide
+hbm:fluid_icon:4059, Gaseous Uranium Bromide
+hbm:fluid_icon:4060, Gaseous Plutonium Bromide
+hbm:fluid_icon:4061, Gaseous Schrabidium Bromide
+hbm:fluid_icon:4062, Gaseous Thorium Bromide
+hbm:fluid_icon:4063, hbmfluid.gaseous_hydrogen
+hbm:fluid_icon:4064, Gaseous Poisonous Mud
 hbm:gadget_explosive, First Generation Explosive Lens
 hbm:gadget_explosive8, Bundle of First Generation Implosion Propellant
 hbm:gadget_wireing, Wiring
@@ -6275,6 +6277,7 @@ hbm:missile_nuclear_cluster, Thermonuclear Missile
 hbm:missile_volcano, Tectonic Missile
 hbm:missile_endo, Endothermic Missile
 hbm:missile_exo, Exothermic Missile
+hbm:missile_shuttle, Reliant Robin Space Shuttle
 hbm:missile_doomsday, Doomsday Missile
 hbm:missile_doomsday_rusted, Damaged Doomsday Missile
 hbm:missile_taint, Taint-Tipped Missile
@@ -6896,7 +6899,7 @@ hbmspace:hard_drive_full:7, Hard Drive
 hbmspace:hard_drive_full:8, Hard Drive
 hbmspace:hard_drive_full:9, Hard Drive
 hbmspace:circuit:0, Printed GaAs Wafer
-hbmspace:circuit:1, item.circuit.aero.name
+hbmspace:circuit:1, Avionics Circuit Board
 hbmspace:circuit:2, Avionics Unit
 hbmspace:circuit:3, Lanthanium Capacitor
 hbmspace:circuit:4, Drive Processor (Tier 1)
@@ -6905,7 +6908,7 @@ hbmspace:circuit:6, Drive Processor (Tier 3)
 hbmspace:circuit:7, GaAs Microchip
 hbmspace:circuit:8, Hafnium Microchip
 hbmspace:circuit:9, Molysite-Etched Microchip
-hbmspace:transporter_linker, item.transporter_linker.name
+hbmspace:transporter_linker, Transporter Pad Linker
 hbmspace:rp_f_20_12, Size 20 12m Liquid Fuel Fuselage
 hbmspace:rp_f_20_6, Size 20 6m Liquid Fuel Fuselage
 hbmspace:rp_f_20_3, Size 20 3m Liquid Fuel Fuselage
@@ -6929,7 +6932,7 @@ hbmspace:ingot_magma, Vulcanite Ingot
 hbmspace:crystal_nickel, Nickel Crystals
 hbmspace:crystal_zinc, Zinc Crystal
 hbmspace:crystal_niobium, Niobium Crystals
-hbmspace:nickel_salts, item.nickel_salts.name
+hbmspace:nickel_salts, Nickel Salts
 hbmspace:ammonium_nitrate, Ammonium Nitrate
 hbmspace:crystal_mineral, Mineral Crystals
 hbmspace:crystal_cleaned, Cleaned Mineral Crystals
@@ -6962,8 +6965,8 @@ hbmspace:cmug_empty, Empty Mug
 hbmspace:lox_tank, Oxygen Tank
 hbmspace:turbine_syngas, Stainless Steel Turbine Blades
 hbmspace:blade_syngas, Stainless Steel Blades
-hbmspace:stick_pvc, item.stick_pvc.name
-hbmspace:stick_vinyl, item.stick_vinyl.name
+hbmspace:stick_pvc, PVC Stick
+hbmspace:stick_vinyl, Vinyl Stick
 hbmspace:sat_dyson_relay, Satellite Dyson Relay
 hbmspace:sat_war, item.sat_war.name
 hbmspace:scuttertail, Scuttertail
@@ -6996,7 +6999,7 @@ hbmspace:ingot_stainless, Stainless Steel Ingot
 hbmspace:plate_stainless, Stainless Steel Plate
 hbmspace:ingot_menthol, Menthol Crystals
 hbmspace:nugget_menthol, Menthol Nugget
-hbmspace:billet_menthol, item.billet_menthol.name
+hbmspace:billet_menthol, Menthol Billet
 hbmspace:butter, Butter
 hbmspace:min_cream, Minmus Mint Ice Cream
 hbmspace:chocolate_mint_billet, Mint Slice
@@ -7015,17 +7018,17 @@ hbmspace:ingot_es253, Einsteinium-253 Ingot
 hbmspace:ingot_es255, Einstenium-255 Ingot
 hbmspace:ingot_gwenium, Gwenium Ingot
 hbmspace:billet_bk247, Berkelium-247 Billet
-hbmspace:billet_cm242, item.billet_cm242.name
-hbmspace:billet_cm243, item.billet_cm243.name
-hbmspace:billet_cm244, item.billet_cm244.name
-hbmspace:billet_cm245, item.billet_cm245.name
-hbmspace:billet_cm246, item.billet_cm246.name
-hbmspace:billet_cm247, item.billet_cm247.name
-hbmspace:billet_cf252, item.billet_cf252.name
-hbmspace:billet_es253, item.billet_es253.name
-hbmspace:billet_cf251, item.billet_cf251.name
-hbmspace:billet_cm_mix, item.billet_cm_mix.name
-hbmspace:billet_cm_fuel, item.billet_cm_fuel.name
+hbmspace:billet_cm242, Curium-242 Billet
+hbmspace:billet_cm243, Curium-243 Billet
+hbmspace:billet_cm244, Curium-244 Billet
+hbmspace:billet_cm245, Curium-245 Billet
+hbmspace:billet_cm246, Curium-246 Billet
+hbmspace:billet_cm247, Curium-247 Billet
+hbmspace:billet_cf252, Californium-252 Billet
+hbmspace:billet_es253, Einsteinium-253 Billet
+hbmspace:billet_cf251, Californium-251 Billet
+hbmspace:billet_cm_mix, Reactor-Grade Curium Billet
+hbmspace:billet_cm_fuel, Curium Fuel Billet
 hbmspace:billet_red_copper, Minecraft Grade Copper Billet
 hbmspace:divine_shard, item.divine_shard.name
 hbmspace:nugget_lanthanium, Semi-Stable Lanthanium Nugget
@@ -7036,11 +7039,11 @@ hbmspace:s_cream, Strawberry Ice Cream
 hbmspace:woodemium_briquette, Balefire Infused Woodemium Briquette
 hbmspace:ingot_cn989, Chinesium-989 Ingot
 hbmspace:nugget_cn989, Chinesium-989 Nugget
-hbmspace:billet_cn989, item.billet_cn989.name
+hbmspace:billet_cn989, Chinesium-989 Billet
 hbmspace:plate_cn989, Chinesium-989 Plate
 hbmspace:powder_cn989, Chinesium-989 Powder
-hbmspace:ingot_australium_lesser, item.ingot_australium_lesser.name
-hbmspace:ingot_australium_greater, item.ingot_australium_greater.name
+hbmspace:ingot_australium_lesser, Lesser Australium Ingot
+hbmspace:ingot_australium_greater, Greater Australium Ingot
 hbmspace:powder_lead, Lead Powder
 hbmspace:nugget_bk247, Berkelium-247 Nugget
 hbmspace:nugget_cm242, Curium-242 Nugget
@@ -7054,6 +7057,10 @@ hbmspace:nugget_cf252, Californium-252 Nugget
 hbmspace:nugget_cm_fuel, Nugget of Curium Fuel
 hbmspace:nugget_es253, Einsteinium-253 Nugget
 hbmspace:nugget_cm_mix, Reactor-Grade Curium Nugget
+hbmspace:pellet_rtg_americium_depleted, Decayed Americium RTG Pellet
+hbmspace:pellet_rtg_berkelium, Berkelium RTG Pellet
+hbmspace:pellet_rtg_cf251, Californium-251 RTG Pellet
+hbmspace:pellet_rtg_cf252, Californium-252 RTG Pellet
 hbmspace:rag_blood, Blood-Soaked Rag
 hbmspace:ingot_palladium, Palladium Ingot
 hbmspace:animan, Problematic Meal
@@ -7158,6 +7165,7 @@ hbmspace:launch_pad_rocket, Rocket Launch Pad
 hbmspace:machine_vacuum_circuit, Vacuum Solderer
 hbmspace:machine_alkylation, Alkylation Unit
 hbmspace:machine_solar, Solar Panel
+hbmspace:air_vent, Air Vent
 hbmspace:air_scrubber, CO2 Scrubber
 hbmspace:hydrobay, Industrial Greenhouse
 hbmspace:machine_cryo_distill, Cryogenic Distillation Machine
@@ -13900,34 +13908,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -14817,62 +14825,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -14950,12 +14958,12 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 valkyrielib:guide, Digital Guide
 valkyrielib:modifier_component, Modifier Component
 valkyrielib:modifier_speed, Speed Modifier
