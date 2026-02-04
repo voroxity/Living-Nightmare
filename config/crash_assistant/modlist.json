@@ -163,6 +163,13 @@
     "curseForgeHash": 1053708721,
     "modrinthHash": "54228a056a85fa146503cc7a20d3cf67fd55865f"
   },
+  "journeymap-1.12.2-5.7.1p3.jar": {
+    "jarName": "journeymap-1.12.2-5.7.1p3.jar",
+    "modId": "journeymap",
+    "version": "1.12.2-5.7.1p3",
+    "curseForgeHash": 3591503010,
+    "modrinthHash": "2b96f7b27b088fddbb5e603848d7aeaebedb96f3"
+  },
   "JustEnoughResources-1.12.2-0.9.2.60.jar": {
     "jarName": "JustEnoughResources-1.12.2-0.9.2.60.jar",
     "modId": "jeresources",
