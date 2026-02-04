@@ -286,15 +286,6 @@
       ]
     },
     {
-      "input": ["item","hbmspace:crystal_mineral"],
-      "output": [
-        ["hbmspace:mineral_dust",2],
-        ["hbm:powder_iron",2],
-        ["hbm:powder_aluminium",2],
-        ["hbm:powder_lithium_tiny"]
-      ]
-    },
-    {
       "input": ["item","hbm:bedrock_ore_new",1,400],
       "output": [
         ["hbm:bedrock_ore_fragment",6,1701],
@@ -368,24 +359,6 @@
         ["hbm:powder_copper",2],
         ["hbm:sulfur"],
         ["hbm:powder_cobalt_tiny"]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:mineral_fragment",1,5],
-      "output": [
-        ["hbm:powder_co60"],
-        ["hbm:nugget_bismuth"],
-        ["hbm:powder_asbestos",6],
-        ["hbm:nugget_technetium"]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:crystal_zinc"],
-      "output": [
-        ["hbmspace:powder_zinc",2],
-        ["hbmspace:powder_zinc",2],
-        ["hbm:sulfur",2],
-        ["hbm:powder_aluminium"]
       ]
     },
     {
@@ -498,15 +471,6 @@
       ]
     },
     {
-      "input": ["item","hbmspace:mineral_fragment",1,4],
-      "output": [
-        ["hbm:powder_zirconium",4],
-        ["hbm:powder_neodymium",2],
-        ["hbm:powder_niobium"],
-        ["hbm:powder_cobalt"]
-      ]
-    },
-    {
       "input": ["item","hbm:bedrock_ore_new",1,196],
       "output": [
         ["hbm:bedrock_ore_fragment",9,600],
@@ -585,30 +549,12 @@
       ]
     },
     {
-      "input": ["dict","oreNickelPure"],
-      "output": [
-        ["hbmspace:chunk_ore",2],
-        ["hbm:sulfur"],
-        ["hbm:powder_iron"],
-        ["minecraft:gravel"]
-      ]
-    },
-    {
       "input": ["item","hbm:crystal_cobalt"],
       "output": [
         ["hbm:powder_cobalt",2],
         ["hbm:powder_iron",3],
         ["hbm:powder_copper",3],
         ["hbm:powder_lithium_tiny"]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:ferric_clay"],
-      "output": [
-        ["minecraft:clay_ball"],
-        ["minecraft:clay_ball"],
-        ["hbm:powder_iron"],
-        ["hbm:powder_iron"]
       ]
     },
     {
@@ -702,15 +648,6 @@
         ["hbm:powder_fire",2],
         ["hbm:ingot_phosphorus"],
         ["minecraft:netherrack"]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:mineral_fragment",1,3],
-      "output": [
-        ["hbm:powder_cobalt",4],
-        ["hbmspace:powder_gallium",2],
-        ["hbm:powder_niobium"],
-        ["hbm:powder_coltan"]
       ]
     },
     {
@@ -835,30 +772,12 @@
       ]
     },
     {
-      "input": ["item","hbmspace:crystal_niobium"],
-      "output": [
-        ["hbm:powder_niobium",2],
-        ["hbm:powder_niobium",2],
-        ["hbm:powder_iron",2],
-        ["hbmspace:nugget_hafnium"]
-      ]
-    },
-    {
       "input": ["item","hbm:ingot_schraranium"],
       "output": [
         ["hbm:nugget_schrabidium",2],
         ["hbm:nugget_schrabidium"],
         ["hbm:nugget_uranium",3],
         ["hbm:nugget_neptunium",2]
-      ]
-    },
-    {
-      "input": ["dict","oreRedPhosphorus"],
-      "output": [
-        ["minecraft:blaze_powder",2],
-        ["hbm:powder_fire",2],
-        ["hbm:ingot_phosphorus"],
-        ["minecraft:gravel"]
       ]
     },
     {
@@ -881,15 +800,6 @@
       "output": [
         ["hbm:bedrock_ore_fragment",5,2700],
         ["hbm:bedrock_ore_fragment",5,20000]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:ingot_magma"],
-      "output": [
-        ["hbm:bedrock_ore_fragment",4,3100],
-        ["hbm:bedrock_ore_fragment",2,3300],
-        ["hbm:powder_meteorite_tiny",2],
-        ["hbm:dust_tiny",3]
       ]
     },
     {
@@ -973,15 +883,6 @@
       ]
     },
     {
-      "input": ["item","hbmspace:mineral_fragment",1,2],
-      "output": [
-        ["hbm:powder_beryllium",4],
-        ["hbm:powder_niobium",2],
-        ["hbmspace:powder_gallium"],
-        ["hbm:fragment_lanthanium"]
-      ]
-    },
-    {
       "input": ["item","hbm:block_euphemium_cluster"],
       "output": [
         ["hbm:nugget_euphemium",7],
@@ -997,15 +898,6 @@
         ["hbm:powder_iron"],
         ["hbm:powder_copper"],
         ["minecraft:gravel"]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:crystal_nickel"],
-      "output": [
-        ["hbmspace:powder_nickel",2],
-        ["hbmspace:powder_nickel",2],
-        ["hbm:powder_iron",2],
-        ["hbm:powder_titanium"]
       ]
     },
     {
@@ -1193,15 +1085,6 @@
       ]
     },
     {
-      "input": ["item","hbmspace:mineral_fragment",1,1],
-      "output": [
-        ["hbmspace:powder_gallium",4],
-        ["hbm:powder_beryllium",2],
-        ["hbm:powder_niobium"],
-        ["hbm:fragment_lanthanium"]
-      ]
-    },
-    {
       "input": ["item","hbm:bedrock_ore_new",1,405],
       "output": [
         ["hbm:bedrock_ore_fragment",3,501],
@@ -1352,15 +1235,6 @@
       ]
     },
     {
-      "input": ["item","hbmspace:mineral_fragment"],
-      "output": [
-        ["hbm:powder_niobium",4],
-        ["hbm:powder_cobalt",2],
-        ["hbm:powder_zirconium"],
-        ["hbm:powder_beryllium"]
-      ]
-    },
-    {
       "input": ["item","hbm:bedrock_ore_new",1,117],
       "output": [
         ["hbm:bedrock_ore_new",2,133],
@@ -1420,15 +1294,6 @@
         ["hbm:bedrock_ore_fragment",3,5700],
         ["hbm:bedrock_ore_fragment",4,4100],
         ["hbm:bedrock_ore_new",1,210]
-      ]
-    },
-    {
-      "input": ["item","hbmspace:nickel_salts"],
-      "output": [
-        ["hbm:powder_iron",2],
-        ["hbmspace:powder_nickel",2],
-        ["hbm:powder_sodium"],
-        ["hbm:sulfur"]
       ]
     }
   ]

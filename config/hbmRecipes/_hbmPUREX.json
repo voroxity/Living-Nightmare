@@ -636,7 +636,7 @@
       ],
       "duration": 100,
       "power": 10000,
-      "icon": ["hbm:fluid_icon",1,169]
+      "icon": ["hbm:fluid_icon",1,128]
     },
     {
       "name": "purex.watzschrab",
