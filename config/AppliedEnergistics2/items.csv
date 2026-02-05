@@ -647,6 +647,1053 @@ microblockcbe:saw_stone, Stone Saw
 microblockcbe:saw_iron, Iron Saw
 microblockcbe:saw_diamond, Diamond Saw
 microblockcbe:stone_rod, Stone Rod
+mwc:magazine_extra, item.mwc_magazine_extra.name
+mwc:combat_sustainment_backpack_tan, Combat Sustainment Backpack (Tan)
+mwc:combat_sustainment_backpack_black, Combat Sustainment Backpack (Black)
+mwc:combat_sustainment_backpack_forest, Combat Sustainment Backpack (Forest)
+mwc:assault_backpack_tan, Assault Backpack (Tan)
+mwc:assault_backpack_black, Assault Backpack (Black)
+mwc:assault_backpack_forest, Assault Backpack (Forest)
+mwc:tru_spec_cordura_backpack_tan, Tru-Spec Cordura Backpack (Tan)
+mwc:tru_spec_cordura_backpack_black, Tru-Spec Cordura Backpack (Black)
+mwc:tru_spec_cordura_backpack_forest, Tru-Spec Cordura Backpack (Forest)
+mwc:f5_switchblade_backpack, F5 Switchblade Backpack
+mwc:duffle_bag, Duffle Bag
+mwc:m43a_chest_harness, M43A Chest Harness
+mwc:flyye_field_compact_plate_carrier, Molle Plate Carrier
+mwc:molle_black, Molle Plate Carrier (Black)
+mwc:molle_green, Molle Plate Carrier (Green)
+mwc:molle_urban, Molle Plate Carrier (Urban)
+mwc:swat_vest, UTG-547 Tactical Vest
+mwc:usmc_vest, Force Recon Vest
+mwc:usmc_vest_black, Force Recon Vest (Black)
+mwc:usmc_vest_green, Force Recon Vest (Green)
+mwc:usmc_vest_urban, Force Recon Vest (Urban)
+mwc:marine_helmet, Kevlar Helmet (Tan)
+mwc:marine_chest, Combat Jacket (Tan)
+mwc:marine_boots, Combat Boots (Tan)
+mwc:spec_ops_helmet, Kevlar Helmet (Black)
+mwc:spec_ops_chest, Combat Jacket (Black)
+mwc:spec_ops_boots, Combat Boots (Black)
+mwc:spetznaz_helmet, Kevlar Helmet (Green)
+mwc:spetznaz_chest, Combat Jacket (Forest)
+mwc:spetznaz_boots, Combat Boots (Forest)
+mwc:urban_helmet, Kevlar Helmet (Urban)
+mwc:urban_chest, Combat Jacket (Urban)
+mwc:urban_boots, Combat Boots (Urban)
+mwc:blackcamo_chest, Multi-Camo Black Shirt
+mwc:forest_chest, Military Forest Shirt
+mwc:blackjeans_boots, Black Jeans/Boots
+mwc:khakijeans_boots, Khaki Jeans/Black Boots
+mwc:santa_helmet, Santa Beret
+mwc:santa_chest, Santa Coat
+mwc:santa_boots, Santa Boots
+mwc:nazisanta_helmet, Third Reich Santa Hat
+mwc:nazisanta_chest, Third Reich Santa Coat
+mwc:nazisanta_boots, Third Reich Santa Boots
+mwc:juggernaut_helmet, Juggernaut Helmet
+mwc:juggernaut_chest, Juggernaut Chestpiece
+mwc:juggernaut_boots, Juggernaut Boots
+mwc:ghillie_helmet, Ghillie Hood
+mwc:ghillie_chest, Ghillie Fatigues
+mwc:ghillie_boots, Ghillie Boots
+mwc:swat_helmet, Swat Helmet
+mwc:swat_chest, Swat Chestplate
+mwc:swat_boots, Swat Boots
+mwc:tactical_helmet, Tactical Nightvision Goggles
+mwc:jpnvg18_helmet, GPNVG-18 Nightvision Helmet
+mwc:m40gasmask_helmet, M40 Gas Mask
+mwc:g11handguardk1, G11 K1 Handguard
+mwc:g11handguardk2, G11 K2 Handguard
+mwc:fabdefensemount, FAB Defense Mount
+mwc:mas21mount, MAS-21 Scope Mount
+mwc:p90swordfish, P90 Swordfish Kit
+mwc:p90defaultkit, P90 Default Kit
+mwc:p90terminator, P90 Terminator Conversion Kit
+mwc:scarhandguard, Scar Handguard
+mwc:scarhhandguard, Scar-H Handguard
+mwc:scarmidwestindustrieshandguard, MidWest Industries SCAR Handguard
+mwc:scarmlokhandguard, MLOK SCAR Handguard
+mwc:sig556handguard, SIG-556 Handguard
+mwc:sig556handguardrailed, SIG-556 Quad-Rail Handguard
+mwc:sig556handguardka, SIG-556 KA Handguard
+mwc:sig556grip, SIG-556 Grip
+mwc:scarlreceiver, SCAR-L Receiver
+mwc:krissvectorreceiver, Vector Receiver
+mwc:krissvector556handguard, Kriss Vector 5.56x45mm NATO Body
+mwc:vectormk1modularhandguard, Vector Mk1 Modular Handguard
+mwc:vectorcarbinehandguard, Vector Carbine Handguard
+mwc:vectortapedgrip, Vector Taped Grip
+mwc:origin12handguard, Origin-12 Handguard
+mwc:hks20handguard, Origin-12 [HKS-20] Handguard
+mwc:remington700chassis, Remington-700 Chassis
+mwc:remington700apacchassis, Remington-700 APAC Chassis
+mwc:remington700mdtxrschassis, Remington-700 MDTXRS Chassis
+mwc:ssg08chassis, SSG-08 Chassis
+mwc:arx160chassis, ARX-160 Chassis
+mwc:g2contenderbarrelshort, G2 Contender Barrel
+mwc:g2contenderbarrellong, G2 Contender Extended Barrel
+mwc:g2contendergrip, G2 Contender Grip
+mwc:g2contenderstock, G2 Contender Stock
+mwc:origin12grip, Origin-12 Grip
+mwc:hks20grip, Origin-12 [HKS-20] Grip
+mwc:origin12stock, Origin-12 Stock
+mwc:hks20stock, Origin-12 [HKS-20] Stock
+mwc:acrhandguard, ACR Handguard
+mwc:acrhandguardblack, ACR Handguard (Black)
+mwc:acrwemskhandguardtan, ACR WE MSK Handguard
+mwc:acrprecisionhandguardtan, ACR Precision Handguard
+mwc:acrsbrhandguardtan, ACR SBR Handguard
+mwc:acrpolymerhandguardtan, ACR Polymer Handguard
+mwc:acrsquaredrophandguardtan, ACR Square Drop Handguard
+mwc:type20handguard, Type-20 Handguard
+mwc:honeybadgerhandguard, AAC Honey Badger Handguard
+mwc:honeybadgermatrixarmshandguard, AAC Honey Badger Matrix Arms Handguard
+mwc:m60handguard, M60 Handguard
+mwc:m60e4guard, M60E4 Handguard
+mwc:m249handguard, M249 Handguard
+mwc:mk48handguard, Mk48 Handguard
+mwc:m249upperhandguard, M249 Upper Handguard
+mwc:mk48upperhandguard, Mk48 Upper Handguard
+mwc:stonerhandguard, Stoner A1 Handguard
+mwc:auga1, AUG A1 Conversion Kit
+mwc:auga2handguard, AUG A2 Handguard
+mwc:auga3handguard, AUG A3 Handguard
+mwc:ef88handguard, EF-88 Handguard
+mwc:augdefaultkit, AUG Default Kit
+mwc:augparaconversion, AUG PARA Conversion Kit
+mwc:auga3extguard, AUG A3 Extended Guard
+mwc:m1carbinebody, M1 Carbine Body
+mwc:m1a1carbinebody, M1 [M1A1] Carbine Body
+mwc:m1carbinehandguard, M1 Carbine Handguard
+mwc:m1carbineventilatedhandguard, M1 Carbine Ventilated Handguard
+mwc:m1scoutcarbinehandguard, M1 Scout Carbine Handguard
+mwc:g3a1handguard, G3 Handguard
+mwc:g3handguardrailed, G3 Railed Handguard
+mwc:dsr1handguard, DSR-1 Handguard
+mwc:dsr1handguardrailed, DSR-1 Railed Handguard
+mwc:dsr1barrel, DSR1 Barrel
+mwc:dsr1barrellong, DSR-1 Extended Barrel
+mwc:m14body, M14 DMR Chassis
+mwc:m14dmrsocomchassis, M14 DMR SOCOM Chassis
+mwc:mk14tanbody, Mk14 EBR Chassis (Tan)
+mwc:mk14snowbody, Mk14 EBR Chassis (Arctic)
+mwc:mk14blackbody, Mk14 EBR Chassis
+mwc:m14cover, M14 DMR Cover
+mwc:m14trirailcover, M14 DMR Tri-Rail Cover
+mwc:m14rail, M14 DMR / Mk14 EBR Scope Mount
+mwc:scarstock, Scar Stock
+mwc:scarretractablestock, Scar Retractable Stock
+mwc:scaradapterstock, Scar Stock Adapter
+mwc:scarhstock, Scar H Stock
+mwc:vectorstock, Kriss Vector Stock
+mwc:vectorstockadapter, Vector Stock Adapter
+mwc:ump45receiver, UMP45 Receiver
+mwc:ump9receiver, UMP9 Receiver
+mwc:ump45stock, UMP45 Stock
+mwc:mac10stock, MAC-10 Stock
+mwc:mac21stock, MAC-21 Stock
+mwc:acrstock, ACR Stock
+mwc:acrstockblack, ACR Stock (Black)
+mwc:acrfixedstocktan, ACR Fixed Stock
+mwc:acrprsstocktan, ACR PRS Stock
+mwc:acrlongrangestock, ACR Precision Stock
+mwc:acrpdwstock, ACR PDW Stock
+mwc:m1014stock, M1014 Stock
+mwc:m1014grip, M1014 Grip
+mwc:m4benellistock, M4Benelli Stock
+mwc:spas12stock, Spas12 Stock
+mwc:m249stock, M249 Stock
+mwc:m249parastock, M249 Para Stock
+mwc:m249milspecstock, M249 Mil-Spec Stock
+mwc:m249hk416stock, M249 HK416 Stock
+mwc:utgtrirailhandguard, UTG Tri Rail Handguard
+mwc:mp5bmhandguard, MP5BM Handguard
+mwc:mimp5mhandguard, MI MP5 Handguard
+mwc:scorpionevo3a1handguardshort, Short Scorpion Handguard
+mwc:scorpionevo3a1handguardlong, Long Scorpion Handguard
+mwc:mimp5trrail, MI MP5 TR Rail
+mwc:mimp5mrail, MI MP5 M Rail
+mwc:shotgunrail, Shotgun Rail
+mwc:kar98krail, Kar98K Rail
+mwc:m60rail, M60 Rail
+mwc:m16a1scopemount, M16A1 Scope Mount
+mwc:famasf1scopemount, Famas F1 Scope Mount
+mwc:m16a1picatinnyrail, M16A1 Picatinny Rail
+mwc:famasf1picatinnyrail, Famas F1 Picatinny Rail
+mwc:ngswrrail, item.mwc_NGSWRRail.name
+mwc:railriser, Rail Riser
+mwc:m1911slide, M1911 Slide
+mwc:m1911body, M1911 Body
+mwc:m191144magslide, M1911 .44 Magnum Slide
+mwc:m191144magbody, M1911 .44 Magnum Body
+mwc:m9a1slide, M9A1 Slide
+mwc:m9a1body, M9A1 Body
+mwc:samuraiedgeslide, M9A1 Samurai Edge Slide
+mwc:samuraiedgebody, M9A1 Samurai Edge Body
+mwc:samuraiedgemount, Samurai Edge Scope Mount
+mwc:deserteagleslide, item.mwc_DesertEagleSlide.name
+mwc:deserteaglebody, IMI Desert Eagle Body
+mwc:deserteaglelongbody, IMI Desert Eagle Body (Extended Muzzle)
+mwc:deserteaglebodygolden, item.mwc_DesertEagleBodyGolden.name
+mwc:deserteagleslidegolden, item.mwc_DesertEagleSlideGolden.name
+mwc:deserteaglebodyblack, item.mwc_DesertEagleBodyBlack.name
+mwc:deserteagleslideblack, item.mwc_DesertEagleSlideBlack.name
+mwc:glock19body, Glock-19 Body
+mwc:glock19xbody, Glock-19X Body
+mwc:glockrazorbackbody, Glock-19 Razorback Body
+mwc:glock19slide, Glock-19 Slide
+mwc:glock18cslide, Glock-18C Slide
+mwc:glock18ccncslide, Glock-18CCNC Slide
+mwc:glock19xslide, Glock-19X Slide
+mwc:glockrazorbackslide, Glock Razorback Slide
+mwc:glock19rockslideolive, Glock-19 Rock Slide (Olive)
+mwc:glock19ghostprecisionslide, Glock-19 Ghost Precision Slide
+mwc:sccycpx2body, CPX-2 Body
+mwc:sccycpx2bodytan, CPX-2 Body (Tan)
+mwc:sccycpx2griptape, CPX-2 Taped Grip
+mwc:sccycpx2slide, CPX-2 Slide
+mwc:sccycpx2bslide, CPX-2 Slide
+mwc:p226slide, P226 Slide
+mwc:fivesevenslide, item.mwc_FiveSevenSlide.name
+mwc:makarovbody, PM Body
+mwc:makarovpmslide, PM Slide
+mwc:makarovpbslide, PB Slide
+mwc:mp443slide, MP443 Slide
+mwc:makarovpbbody, PB Body
+mwc:mac10body, MAC-10 Body
+mwc:mac10action, MAC-10 Action
+mwc:mp5navyhandguard, MP5 Navy Handguard
+mwc:mp5a5handguard, MP5A5 Handguard
+mwc:mp5sdhandguard, MP5SD Handguard
+mwc:mp5hoguegrip, MP5 Hogue Grip
+mwc:glockhoguegrip, Glock Hogue Grip
+mwc:glockhoguegriptan, Glock Hogue Grip (Tan)
+mwc:apsgrip, APS Grip
+mwc:apsstock, APS Stock
+mwc:mac10grip, MAC-10 Grip
+mwc:mp5stock, MP5 Stock
+mwc:mp5a3stock, MP5A3 Stock
+mwc:mp5a4stock, MP5A4 Stock
+mwc:mp5stockadapter, MP5 Stock Adapter
+mwc:lvoavhandguard, LVOAV Handguard
+mwc:ar15fn15handguard, AR15/FN15 Handguard
+mwc:m38handguard, M38 Handguard
+mwc:hk416handguardblackandtan, HK416 Handguard (Black/Tan)
+mwc:hk417handguard, HK417 Handguard
+mwc:hk417handguardtan, HK417 Handguard (Tan)
+mwc:mk18handguard, Mk18 Handguard
+mwc:mk18handguardblack, Mk18 Handguard (black)
+mwc:block2socomhandguard, Block 2 SOCOM Handguard
+mwc:fsstaclitehandguard, FSS TacLite Handguard
+mwc:m4magpulhandguard, M4 Magpul Handguard
+mwc:m4magpulhandguardtan, M4 Magpul Handguard (Tan)
+mwc:m4receiver, M4 Receiver
+mwc:hk416receiver, HK416 Receiver
+mwc:c8sfwreceiver, item.mwc_C8SFWReceiver.name
+mwc:vltorreceiver, VLTOR Receiver
+mwc:ar57receiver, AR-57 Receiver
+mwc:hk417receiver, HK417 Receiver
+mwc:hk417receivertan, HK417 Receiver (Tan)
+mwc:m110receiver, M110 Receiver
+mwc:z10receiver, item.mwc_Z10Receiver.name
+mwc:beowulf50calreceiver, Beowulf .50 Cal Receiver
+mwc:s710receiver, S7-10 Receiver
+mwc:cz805brenreceiver, CZ-805 Bren Receiver
+mwc:honeybadgerreceiver, AAC Honey Badger Receiver
+mwc:honeybadgerreceiverblack, AAC Honey Badger Receiver (Black)
+mwc:honeybadgerknightsreceiver, AAC Honey Badger Knights Receiver
+mwc:honeybadgerknightsreceiverblack, AAC Honey Badger Knights Receiver (Black)
+mwc:placeholder, item.mwc_Placeholder.name
+mwc:famasplaceholder, item.mwc_FamasPlaceholder.name
+mwc:apc9placeholder, item.mwc_APC9Placeholder.name
+mwc:p90placeholder, item.mwc_P90Placeholder.name
+mwc:pistolplaceholder, item.mwc_PistolPlaceholder.name
+mwc:gripplaceholder, item.mwc_GripPlaceholder.name
+mwc:m40a6gripplaceholder, item.mwc_M40A6GripPlaceholder.name
+mwc:laserplaceholder, item.mwc_LaserPlaceholder.name
+mwc:m4handguard, M4 Handguard
+mwc:ar57handguard, AR-57 Handguard
+mwc:ntw20guard, NTW-20 Handguard
+mwc:m16handguard, M16 Handguard
+mwc:m16a1handguard, M16A1 Handguard
+mwc:m4carbinehandguard, M4 Carbine Handguard
+mwc:m16a4handguard, M16A4 Quad-Rail Handguard
+mwc:m110handguard, M110 Handguard
+mwc:z10handguard, Zbroyar Z10 Handguard
+mwc:ar10supersasshandguard, AR10 Super SASS Handguard
+mwc:s710handguard, S7-10 Handguard
+mwc:sigmcxhandguard, SIG MCX Handguard
+mwc:sigmcxhandguardshort, Long SIG MCX Handguard
+mwc:mpxhandguard, SIG MPX Handguard
+mwc:mpxhandguardextended, SIG MPX Extended Handguard
+mwc:mpxhandguardrailed, SIG MPX Handguard
+mwc:k2c1handguard, K2C1 Handguard
+mwc:heraarmsgrip, Hera Arms Grip
+mwc:m4grip, M4 Grip
+mwc:m4griptan, M4 Grip (Tan)
+mwc:socom_grip, SOCOM Grip
+mwc:m4gripgray, M4 Grip (Gray)
+mwc:hk416grip, HK-416 Grip
+mwc:hk416griptan, HK-416 Grip (Tan)
+mwc:m110grip, M110 Grip
+mwc:s710tricungrip, S7-10 Tricun Grip
+mwc:k2c1grip, K2C1 Grip
+mwc:ak47grip, AK-47 Grip
+mwc:ak101grip, AK-101 Grip
+mwc:akergogrip, AK Ergo Grip
+mwc:akergogripgreen, AK Ergo Grip (Olive)
+mwc:akergogriptan, AK Ergo Grip (Tan)
+mwc:ak12grip, AK-12 Prototype Grip
+mwc:ak12ergogrip, AK-12 Ergo Grip
+mwc:honeybadgerstock, AAC Honey Badger Stock
+mwc:honeybadgerstockblack, AAC Honey Badger Stock (Black)
+mwc:g3stock, G3 Stock
+mwc:mp7stock, MP7 Stock
+mwc:mp7milspecstock, MP7 Mil-Spec Stock
+mwc:ak47stock, AK-47 Stock
+mwc:dragunovgripstock, SVD Dragunov Stock
+mwc:dragunov98stock, SVD Dragunov-98 Stock
+mwc:rpkstock, RPK Stock
+mwc:ak101stock, AK-101 Stock
+mwc:ak74stock, AK-74 Stock
+mwc:ak12stock, AK-12 Prototype Stock
+mwc:ak12zenitcostock, AK-12 Zenitco Stock
+mwc:vssvintorezstock, VSS Vintorez Stock
+mwc:asvalstock, AS Val Stock
+mwc:vssvintorezmilspecstock, VSS Vintorez Mil-Spec Stock
+mwc:collapsablemoestock, Collapsible MOE Stock
+mwc:collapsablemoestockgreen, Collapsible MOE Stock (Olive)
+mwc:magpulctrstock, Magpul CTR Stock
+mwc:magpulctrstocktan, Magpul CTR Stock (Tan)
+mwc:milspecstock, Mil-Spec Stock
+mwc:cz805brenstock, CZ-805 Bren Stock
+mwc:sigmcxstock, SIG MCX Stock
+mwc:c8stock, item.mwc_C8Stock.name
+mwc:milspecstocktan, Mil-Spec Stock (Tan)
+mwc:heraarmsstock, Hera Arms Stock
+mwc:hk416stock, HK416 Stock
+mwc:socom_stock, item.mwc_SOCOM_Stock.name
+mwc:m16stock, M16 Stock
+mwc:hk416stocktan, HK416 Stock (Tan)
+mwc:m110stock, M110 Stock
+mwc:arprsprecisionstock, AR PRS Precision Stock
+mwc:ak47handleguard, AK-47 Handguard
+mwc:dragunovhandguard, SVD Dragunov Handguard
+mwc:dragunov98handguard, SVD Dragunov-98 Handguard
+mwc:ak101handguard, AK-101 Handguard
+mwc:ak74handguard, AK-74 Handguard
+mwc:akmagpulhandleguard, AK Magpul Handguard
+mwc:akmagpulhandleguardtan, AK Magpul Handguard (Tan)
+mwc:mlokhandguard, MLOK Handguard
+mwc:mlokextendedhandguard, MLOK Extended Handguard
+mwc:ak15handleguard, AK-15 Handguard
+mwc:ak12kalhandguard, AK-12 Handguard
+mwc:rpk16handguard, RPK-16 Handguard
+mwc:ak12handguard, AK-12 Prototype Handguard
+mwc:ak12bhandguard, AK-12B Handguard
+mwc:kbp9a91handguard, KBP 9A-91 Handguard
+mwc:kbp9a91compacthandguard, KBP 9A-91 Compact Handguard
+mwc:kbp9a91kulatachandguard, KBP 9A-91 KulaTac Handguard
+mwc:vssvintorezhandguard, VSS Vintorez Handguard
+mwc:asvalhandguard, AS VAL Handguard
+mwc:vssvintoreztrirailmount, VSS Vintorez Scope Mount
+mwc:ak47dustcover, AK-47 Dust Cover
+mwc:dragunovdustcover, SVD Dragunov Dust Cover
+mwc:dragunov98dustcover, SVD Dragunov-98 Dust Cover
+mwc:akmdustcover, AKM Dust Cover
+mwc:ak101dustcover, AK-101 Dust Cover
+mwc:veprdustcover, Vepr Dust Cover
+mwc:ak15dustcover, AK-15 Dust Cover
+mwc:ak12dustcover, AK-12 Prototype Dust Cover
+mwc:ak12bdustcover, AK-12B Dust Cover
+mwc:vssvintorezdustcover, VSS Vintorez Dust Cover
+mwc:vssmdustcover, VSSM Dust Cover
+mwc:fnfaldustcover, FN FAL Dust Cover
+mwc:sa58dustcover, SA-58 Dust Cover
+mwc:fnfalgrip, FN FAL Grip
+mwc:fnfalstock, FN FAL Stock
+mwc:fnfalhandguard, FN FAL Handguard
+mwc:fnfalparahandguard, FN FAL PARA Handguard
+mwc:m4frontsight, AR Front Iron Sight
+mwc:m60frontsight, M60E4 Front Iron Sight
+mwc:m38frontsight, M38 Front Sight
+mwc:hk416frontsight, HK-416 Front Iron Sight
+mwc:mbusfrontsight, MBUS Front Iron Sight
+mwc:leupold, Leupold VX-6 CDS TMOA Rifle Scope
+mwc:pso1, PSO-1 Scope
+mwc:okp7, OKP-7 Sight
+mwc:fmg9carryhandle, FMG-9 Carry Handle
+mwc:reflex, 15 MOA Reflex Sight
+mwc:bijiareflex, Bijia Reflex Sight
+mwc:microreflex, Micro Reflex Sight
+mwc:acog, Trigicon ACOG
+mwc:specter, Elcan Specter SFOV4-A1 Sight
+mwc:holographic2, EOTech EXPS3-0 (Tan)
+mwc:holographicalt, EOTech 512 A65 Holographic (Black)
+mwc:eotechhybrid2, EOTech Hybrid 2 Sight
+mwc:vortexsight, Vortex UH-1 Holographic Sight
+mwc:microt1, Micro-T1 Sight
+mwc:aimpointcompm2, Aimpoint Comp M2 Sight
+mwc:aimpointcompm5, Aimpoint Comp M5 Sight
+mwc:rmrsight, RMR Sight
+mwc:kobra, 8-18 Kobra Sight
+mwc:kobragen3, Kobra Gen-3 Sight
+mwc:kobramount, Mounted 8-18 Kobra Sight
+mwc:hpscope, JPU HP 3-9x40 Scope
+mwc:leupoldrailscope, Leupold VX-6 CDS TMOA Rifle Scope (w/ Rail)
+mwc:nightraiderscope, Night Raider Scope
+mwc:m2a1_sight, M2A1 Sight
+mwc:f2000scope, FNPM 1.6x
+mwc:m202scope, item.mwc_M202scope.name
+mwc:augscope, AUG Scope
+mwc:silencer556x45, 5.56x45mm NATO Silencer
+mwc:silencer545x39, 5.45x39mm Silencer
+mwc:silencer762x39, 7.62x39mm Silencer
+mwc:m32barrel, M32 Extended Barrel
+mwc:remington870pump, R870 Wood Pump
+mwc:remington870magpulpump, R870 Magpul Pump
+mwc:remington870policemagnumpump, R870 Police Magnum Pump
+mwc:remington870fabdefensepump, R870 FAB Defense Pump
+mwc:remington870stock, R870 Wood Stock
+mwc:remington870policemagnumstock, R870 Police Magnum Stock
+mwc:remington870milspecstock, R870 Mil-Spec Stock
+mwc:remington870hk416stockstock, R870 HK-416 Stock
+mwc:remington870sawedgrip, R870 Sawed Grip (Sawed Stock)
+mwc:remington870barrel, R870 Barrel
+mwc:remington870policemagnumbarrel, R870 Police Magnum Barrel
+mwc:remington870sawedbarrel, R870 Sawed Barrel
+mwc:ks23stock, KS23 Stock
+mwc:ks23raptorgrip, KS-23 Grip
+mwc:ks23mstock, KS23M Stock
+mwc:ks23barrel, KS-23 Barrel
+mwc:ks23extendedbarrel, KS-23 Extended Barrel
+mwc:rpkbarrel, RPK Barrel
+mwc:akiron, AK Front Sight
+mwc:ak12iron, AK-12 Front Iron Sight
+mwc:silencerpbs, PBS Silencer
+mwc:silencer9mm, 9(x18/19)mm Silencer
+mwc:samuraiedgesuppressor, Samurai Edge Silencer
+mwc:silencer9x39mm, 9x39mm Silencer
+mwc:kbp9a91suppressor, KBP 9A-91 Carbine Silencer
+mwc:silencer45acp, .45 ACP Silencer
+mwc:silencer_eabh, EABH Silencer
+mwc:silencer762x54, 7.62x54mm Silencer
+mwc:silencer762x51, 7.62x51mm NATO Silencer
+mwc:silencer50bmg, .50 BMG Silencer
+mwc:silencer556x39, 5.56x39mm Silencer
+mwc:akmiron, Standard Iron Sight
+mwc:tritiumrearsights, Tritium Rear Iron Sight
+mwc:mbusrearsights, MBUS Rear Iron Sight
+mwc:hk416rearsights, HK-416 Rear Iron Sight
+mwc:fnfalrearsights, FN FAL Rear Iron Sight
+mwc:m16a1rearsight, item.mwc_M16A1RearSight.name
+mwc:k2c1rearsight, K2C1 Iron Sight
+mwc:scorpionrearsight, Scorpion Rear Iron Sight
+mwc:scorpionfrontsight, Scorpion Front Iron Sight
+mwc:mp7ironsights, MP7 Iron Sight
+mwc:mp7ironsightsstanding, MP7 Standing Iron Sight
+mwc:kar98ksight, Karabiner Iron Sight
+mwc:ak15ironsight, AK-15 Rear Iron Sight
+mwc:ak12ironsight, AK-12 Rear Iron Sight
+mwc:silencermp7, 4.6x30mm Silencer
+mwc:silencer357, .357 Silencer
+mwc:silencer57x38, 5.7x28mm Silencer
+mwc:silencer12gauge, 12 Gauge Silencer
+mwc:silencer300aacblackout, .300 AAC Blackout Silencer
+mwc:honeybadgersilencer, AAC Honey Badger Silencer
+mwc:silencer65x39, 6.5mm Silencer
+mwc:laser, UTG Tactical Laser
+mwc:laser2, LD19206-IR Tactical Laser
+mwc:sccycpx2laser, CPX-2 Laser
+mwc:danwessonlaser, D&W Laser
+mwc:m1928grip, M1928 Grip
+mwc:m1a1grip, M1A1 Grip
+mwc:grip2, Grip
+mwc:junogrip, Juno Grip
+mwc:glock18cstock, G18C DRS-HS
+mwc:vp70stock, VP-70 Stock
+mwc:angledgrip, Angled Grip
+mwc:stubbygrip, Stubby Grip
+mwc:vgrip, Foregrip
+mwc:bipod, Bipod
+mwc:auggrip, AUG Grip
+mwc:uspmatchcompensator, P12 Compensator
+mwc:chainb, item.mwc_ChainB.name
+mwc:chaina, item.mwc_ChainA.name
+mwc:chain, item.mwc_Chain.name
+mwc:g95ironsights, item.mwc_G95IronSights.name
+mwc:g95uprightironsights, item.mwc_G95UprightIronSights.name
+mwc:origin12action, item.mwc_Origin12Action.name
+mwc:p90action, item.mwc_P90Action.name
+mwc:m1carbineaction, item.mwc_M1CarbineAction.name
+mwc:g11action, item.mwc_G11Action.name
+mwc:augaction, item.mwc_AUGAction.name
+mwc:mas21slide, item.mwc_MAS21Slide.name
+mwc:mas21barrel, item.mwc_MAS21Barrel.name
+mwc:mas21part, item.mwc_MAS21Part.name
+mwc:m32main1b, item.mwc_M32Main1B.name
+mwc:m134barrels, item.mwc_M134Barrels.name
+mwc:browningauto5action, item.mwc_BrowningAuto5Action.name
+mwc:m1garandaction, item.mwc_M1GarandAction.name
+mwc:m1garandmag, item.mwc_M1GarandMag.name
+mwc:m1897pump, item.mwc_M1897pump.name
+mwc:super90pump, item.mwc_Super90Pump.name
+mwc:pythonchamber, item.mwc_PythonChamber.name
+mwc:revolverspeedloader, item.mwc_RevolverSpeedloader.name
+mwc:revolverspeedloaderbullets, item.mwc_RevolverSpeedloaderBullets.name
+mwc:magnumchamber, item.mwc_MagnumChamber.name
+mwc:rhinochamber, item.mwc_RhinoChamber.name
+mwc:acraction, item.mwc_ACRAction.name
+mwc:m1014action, item.mwc_M1014Action.name
+mwc:shotguninsertion, item.mwc_ShotgunInsertion.name
+mwc:supernovapump, item.mwc_SupernovaPump.name
+mwc:acrrails, item.mwc_ACRRails.name
+mwc:rpg7rocket, item.mwc_RPG7rocket.name
+mwc:m202rockets, item.mwc_m202rockets.name
+mwc:glgrenade, item.mwc_GLgrenade.name
+mwc:m79grenade, item.mwc_M79grenade.name
+mwc:gl06cartridge, item.mwc_GL06Cartridge.name
+mwc:m79cartridge, item.mwc_M79Cartridge.name
+mwc:m32cartridge, item.mwc_M32Cartridge.name
+mwc:m41amag, item.mwc_M41AMag.name
+mwc:mp43edoublebarrel, item.mwc_MP43Edoublebarrel.name
+mwc:hs12barrels, item.mwc_HS12Barrels.name
+mwc:m1873action, item.mwc_M1873action.name
+mwc:f2000action, item.mwc_F2000Action.name
+mwc:g36caction, item.mwc_G36CAction.name
+mwc:arx160action, item.mwc_ARX160Action.name
+mwc:m1a1thompsonaction, item.mwc_M1A1ThompsonAction.name
+mwc:kedraction, item.mwc_KedrAction.name
+mwc:kedrstock, item.mwc_KedrStock.name
+mwc:mp7grip, item.mwc_MP7Grip.name
+mwc:m1928thompsonaction, item.mwc_M1928ThompsonAction.name
+mwc:m1a1thompsonsight, item.mwc_M1A1ThompsonSight.name
+mwc:m1928sight, item.mwc_M1928Sight.name
+mwc:r870part, item.mwc_R870part.name
+mwc:m82action, item.mwc_m82action.name
+mwc:mp40action, item.mwc_MP40action.name
+mwc:mp5boltaction, item.mwc_MP5boltaction.name
+mwc:ump45action, item.mwc_UMP45action.name
+mwc:mp5action, item.mwc_MP5action.name
+mwc:mp7action, item.mwc_MP7action.name
+mwc:g3bolt, item.mwc_G3Bolt.name
+mwc:g3action, item.mwc_G3Action.name
+mwc:mg42belt, item.mwc_mg42belt.name
+mwc:mg42latch, item.mwc_mg42latch.name
+mwc:mg34latch, item.mwc_mg34latch.name
+mwc:m60belt, item.mwc_M60Belt.name
+mwc:stonerhatch, item.mwc_StonerHATCH.name
+mwc:stonerbelt, item.mwc_StonerBELT.name
+mwc:johnsonlmgaction, item.mwc_JohnsonLMGACTION.name
+mwc:johnsonrifleaction, item.mwc_JohnsonRifleAction.name
+mwc:johnsonriflesight, item.mwc_JohnsonRifleSight.name
+mwc:stripperclip, item.mwc_StripperClip.name
+mwc:stripperclipbullets, item.mwc_StripperClipBullets.name
+mwc:ntw20barrel, item.mwc_NTW20Barrel.name
+mwc:ntw20action, item.mwc_NTW20Action.name
+mwc:m60hatch, item.mwc_M60Hatch.name
+mwc:m249belt, item.mwc_M249Belt.name
+mwc:m249hatch, item.mwc_M249Hatch.name
+mwc:m249action, item.mwc_M249Action.name
+mwc:mg42action, item.mwc_mg42action.name
+mwc:scaraction, item.mwc_ScarAction.name
+mwc:scarhaction, item.mwc_ScarHAction.name
+mwc:mk14ebraction, item.mwc_Mk14EBRaction.name
+mwc:mk14ebrsight, item.mwc_Mk14EBRsight.name
+mwc:m14dmrrail, item.mwc_M14DMRRail.name
+mwc:stg44action, item.mwc_STG44action.name
+mwc:stg44actioncover, item.mwc_STG44actioncover.name
+mwc:g43gewehraction, item.mwc_G43GewehrAction.name
+mwc:springfieldrearsight, item.mwc_SpringfieldRearSight.name
+mwc:springfieldaction, item.mwc_SpringfieldAction.name
+mwc:kar98kaction, item.mwc_Kar98Kaction.name
+mwc:vp70slide, item.mwc_VP70slide.name
+mwc:apsslide, item.mwc_APSslide.name
+mwc:apshammer, item.mwc_APShammer.name
+mwc:usp45hammer, item.mwc_USP45hammer.name
+mwc:p226hammer, item.mwc_P226hammer.name
+mwc:m9a1hammer, item.mwc_M9A1hammer.name
+mwc:mp443hammer, item.mwc_MP443hammer.name
+mwc:m712action, item.mwc_M712action.name
+mwc:m45a1slide, item.mwc_M45A1slide.name
+mwc:m17_slide, item.mwc_m17_slide.name
+mwc:makarov_slide, item.mwc_Makarov_Slide.name
+mwc:p12_slide, item.mwc_P12_Slide.name
+mwc:browninghipowerslide, item.mwc_BrowningHiPowerSlide.name
+mwc:vssvintorezaction, item.mwc_VSSVintorezAction.name
+mwc:akaction, item.mwc_AKaction.name
+mwc:dragunovaction, item.mwc_DragunovAction.name
+mwc:malyukaction, item.mwc_Malyukaction.name
+mwc:ak15action, item.mwc_AK15action.name
+mwc:kbp9a91action, item.mwc_KBP9A91action.name
+mwc:fnfalactionlever, item.mwc_FNFALActionLever.name
+mwc:fnfalaction, item.mwc_FNFALAction.name
+mwc:famasf1action, item.mwc_FamasF1Action.name
+mwc:ak12action, item.mwc_AK12action.name
+mwc:saiga12action, item.mwc_Saiga12action.name
+mwc:saiga12sights, item.mwc_Saiga12sights.name
+mwc:as50action, item.mwc_AS50Action.name
+mwc:albert01r_slide, item.mwc_albert01R_slide.name
+mwc:uziaction, item.mwc_UziAction.name
+mwc:uzirelease, item.mwc_UziRelease.name
+mwc:uziironsight, item.mwc_UziIronSight.name
+mwc:p10frontsight, item.mwc_P10frontsight.name
+mwc:m40a6boltaction, item.mwc_M40A6BoltAction.name
+mwc:m40a6boltactionprime, item.mwc_M40A6BoltActionPrime.name
+mwc:ssg08boltaction1, item.mwc_SSG08BoltAction1.name
+mwc:ssg08, item.mwc_SSG08.name
+mwc:remington700boltaction, item.mwc_Remington700BoltAction.name
+mwc:remington700boltactionmain, item.mwc_Remington700BoltActionMain.name
+mwc:sv98boltaction, item.mwc_SV98BoltAction.name
+mwc:l96action, item.mwc_L96Action.name
+mwc:lp115bolt2, item.mwc_LP115Bolt2.name
+mwc:dsr1boltaction, item.mwc_DSR1BoltAction.name
+mwc:dsr1boltactionmain, item.mwc_DSR1BoltActionMain.name
+mwc:interventionboltaction, item.mwc_InterventionBoltAction.name
+mwc:l115mag, item.mwc_L115Mag.name
+mwc:m500a2pump, item.mwc_M500A2pump.name
+mwc:hescspump, item.mwc_HESCSpump.name
+mwc:ks23pump, item.mwc_KS23pump.name
+mwc:kragaction1, item.mwc_KragAction1.name
+mwc:kragaction2, item.mwc_KragAction2.name
+mwc:kragchamber, item.mwc_KragChamber.name
+mwc:shotgunshell, 12 Gauge Shotgun Shell
+mwc:shotgunshelldouble, item.mwc_ShotgunShellDouble.name
+mwc:shotgun4gauge, item.mwc_Shotgun4Gauge.name
+mwc:bullet, item.mwc_Bullet.name
+mwc:bulletsmall, item.mwc_BulletSmall.name
+mwc:laserprojectile, item.mwc_LaserProjectile.name
+mwc:ar15action, item.mwc_AR15Action.name
+mwc:m4ejectoraction, item.mwc_M4EjectorAction.name
+mwc:sig556action, item.mwc_SIG556Action.name
+mwc:sigmcxaction, item.mwc_SIGMCXAction.name
+mwc:m110ejectoraction, item.mwc_M110EjectorAction.name
+mwc:beowulfaction, item.mwc_BeowulfAction.name
+mwc:s710tricunactionpully, item.mwc_S710TricunActionPully.name
+mwc:s710tricunactionejector, item.mwc_S710TricunActionEjector.name
+mwc:k2c1action, item.mwc_K2C1Action.name
+mwc:scorpionaction, item.mwc_ScorpionAction.name
+mwc:apc9action, item.mwc_APC9Action.name
+mwc:brenaction, item.mwc_BrenAction.name
+mwc:m110action, item.mwc_M110Action.name
+mwc:ar15iron, AR Carry Handle
+mwc:extra, item.mwc_Extra.name
+mwc:m4rail, item.mwc_M4Rail.name
+mwc:m4asiimovrail, item.mwc_M4AsiimovRail.name
+mwc:magnumrail, item.mwc_MagnumRail.name
+mwc:railalt, item.mwc_RailAlt.name
+mwc:aacrail, item.mwc_AACRail.name
+mwc:m110rail, item.mwc_M110Rail.name
+mwc:akpart, item.mwc_AKpart.name
+mwc:akmuzzle, item.mwc_AKmuzzle.name
+mwc:woodlandcamo, item.mwc_WoodlandCamo.name
+mwc:pinkcamo, item.mwc_PinkCamo.name
+mwc:arcticcamo, item.mwc_ArcticCamo.name
+mwc:bluecamo, item.mwc_BlueCamo.name
+mwc:unit01camo, item.mwc_Unit01Camo.name
+mwc:bloodforestcamo, item.mwc_BloodForestCamo.name
+mwc:diamondcamo, item.mwc_DiamondCamo.name
+mwc:goldcamo, item.mwc_GoldCamo.name
+mwc:oldiepinkcamo, item.mwc_oldiepinkcamo.name
+mwc:grenade40mm, 40mm Grenade
+mwc:m202rocket, M202 Rocket
+mwc:rpg7_rocket, RPG-7 Rocket
+mwc:energycase, EC 3rd.D Casing
+mwc:plasmacapsule, Type-2 Plasma Capsule
+mwc:bullet3006springfield, .30-06 Springfield Bullet
+mwc:bullet8x58, 8x58mm Bullet
+mwc:bullet792x33kurz, 7.92x33 Kurz Bullet
+mwc:bullet50bmg, .50 BMG Bullet
+mwc:bullet20x82mm, 20x82mm Bullet
+mwc:bullet408ct, .408 Cheyenne Tactical Bullet
+mwc:bullet308winchester, .308 Winchester Bullet
+mwc:bullet_277, .277 FURY Bullet
+mwc:bullet792x57, 7.92x57mm Bullet
+mwc:bullet762x54, 7.62x54mm Bullet
+mwc:bullet762x51, 7.62x51mm Bullet
+mwc:shotgun12gauge, 12 Gauge Shotgun Shell
+mwc:shotgun4g, 4 Gauge Shotgun Shell
+mwc:bullet762x35, 7.62x35mm Bullet
+mwc:bullet765x21, 7.65x21mm Bullet
+mwc:bullet762x39, 7.62x39mm Bullet
+mwc:bullet556x45, 5.56x45mm NATO Bullet
+mwc:bullet65, 6.5mm Bullet
+mwc:bullet545x39, 5.45x39mm Bullet
+mwc:bullet4570, .45-70 Government Bullet
+mwc:bullet4440, 44-40 Winchester Bullet
+mwc:bullet45acp, .45 ACP Bullet
+mwc:bullet357, .357 Bullet
+mwc:bullet44, .44 Magnum Bullet
+mwc:bullet40sw, .40 S&W Bullet
+mwc:bullet50ae, .50 AE Bullet
+mwc:bullet50beowulf, .50 Beowulf Bullet
+mwc:bullet500, .500 Magnum Bullet
+mwc:bullet380acp, .380 ACP Bullet
+mwc:bullet763x25, 7.63x25mm Bullet
+mwc:bullet9x39mm, 9x39mm Bullet
+mwc:bullet9x19mm, 9x19mm Bullet
+mwc:bullet9x18mm, 9x18mm Bullet
+mwc:bullet57x28mm, 5.7x28mm Bullet
+mwc:bullet46x30mm, 4.6x30mm Bullet
+mwc:bullet10mm, 10mm Bullet
+mwc:bullet473x33mm, 4.73x33mm Bullet
+mwc:fuelcell, (Chainsaw) Fuel Capsule
+mwc:brenmag, 30rnd 7.62x51mm Bren Magazine
+mwc:johnsonmag, 20rnd .30-06 Springfield Magazine
+mwc:vectormag, 25rnd .45 ACP Vector Magazine
+mwc:vectordrummag, 50rnd .45 ACP Vector Drum Magazine
+mwc:m4a1mag_2, 30rnd 5.56x45mm NATO STANAG Magazine
+mwc:ngswr_mag, 20rnd .277 FURY Magazine
+mwc:famasf1mag, 30rnd 5.56x45mm NATO F1 Magazine
+mwc:beowulfmag, 13rnd .50 Beowulf Magazine
+mwc:aug9mmmag, 30rnd 9x19mm PARA Magazine
+mwc:s710tricunmag, 30rnd 10mm Magazine
+mwc:m134mag, 1000rnd 7.62x51mm Magazine
+mwc:m60mag, 100rnd 7.62x51mm Magazine
+mwc:m249mag, 100rnd 5.56x45mm NATO Magazine
+mwc:stonermag, 100rnd 5.56x45mm Stoner Magazine
+mwc:honeybadgermag_2, 30rnd 7.62x35mm AAC Magazine
+mwc:m38mag_2, 30rnd 5.56x45mm NATO PMAG Magazine
+mwc:socom_mag, 30rnd 5.56x45mm NATO SOCOM STANAG Magazine
+mwc:hk417_mag, 20rnd 7.62x51mm 417 Magazine
+mwc:c8mag, 30rnd 5.56x45mm NATO STANAG SFW Magazine
+mwc:stanag50, 50rnd 5.56x45mm NATO STANAG Drum Magazine
+mwc:stanag60, 60rnd 5.56x45mm NATO STANAG Drum Magazine
+mwc:stanag100, 100rnd 5.56x45mm NATO STANAG Drum Magazine
+mwc:g36cmag_2, 30rnd 5.56x45mm NATO HK Magazine
+mwc:ak101mag_2, 30rnd 5.56x45mm Magazine
+mwc:ak74mag, 30rnd 5.45x39mm AK-74 Magazine
+mwc:ak74mag60, 60rnd 5.45x39mm 74 Magazine
+mwc:ak60mag, 60rnd 5.56x45mm Magazine
+mwc:ak15mag_2, 30rnd 7.62x39mm PMAG Magazine
+mwc:ak12mag_2, 30rnd 5.45x39mm 12 Magazine
+mwc:ak75mag545x39, 75rnd 5.45x39mm Drum Magazine
+mwc:ak12mag, 31rnd 5.45x39mm Magazine
+mwc:ak47pmagtan, 30rnd 7.62x39mm PMAG Magazine (Tan)
+mwc:ak47mag, 30rnd 7.62x39mm Magazine
+mwc:ak50mag, 50rnd 7.62x39mm Drum Magazine
+mwc:ak75mag, 75rnd 7.62x39mm Drum Magazine
+mwc:ak100mag, 100rnd 7.62x39mm Drum Magazine
+mwc:dragunovmag, 10rnd 7.62x54mm SVD Magazine
+mwc:saigamag_2, 5rnd 12G Magazine
+mwc:origin12mag, 5rnd 12 Gauge Origin Magazine
+mwc:origin12drummag, 20rnd 12 Gauge Drum Magazine
+mwc:m9mag_2, 15rnd 9x19mm Magazine
+mwc:fivesevenmag, 20rnd 5.7x28mm Five-Seven Magazine
+mwc:samuraiedgemag, 15rnd .40 S&W Samurai Edge Magazine
+mwc:sccycpx2mag, 10rnd 9x19mm CPX-2 Magazine
+mwc:sccycpx2magext, 15rnd 9x19mm CPX-2 Magazine
+mwc:deserteaglemag, .50 AE 7rnd Magazine
+mwc:m9mag30, 30rnd 9x19mm Magazine
+mwc:m9drummag, 65rnd 9x19mm Drum Magazine
+mwc:mp443mag_2, 18rnd 9x19mm 443 Magazine
+mwc:m45a1mag_2, 7rnd .45 ACP Magazine
+mwc:m1911_44mag, 7rnd .44 1911 Magazine
+mwc:m45a1mag14, 14rnd .45 ACP Magazine
+mwc:m17mag, 17rnd 9x19mm SAUER Magazine
+mwc:makarovmag, 8rnd 9x18 PM Magazine
+mwc:usp45mag, 8rnd .45 ACP HK Magazine
+mwc:hipowermag, 13rnd 9x19mm Magazine
+mwc:frommerstopmag, 8rnd .380 ACP Magazine
+mwc:apsmag_2, 20rnd 9x19mm Magazine (APS)
+mwc:glockmag13, 13rnd 9x19mm Glock Magazine
+mwc:glock18cmag_2, 20rnd 9x19mm Magazine
+mwc:glockmag50, 50rnd 9x19mm Drum Magazine
+mwc:as50mag_2, 10rnd .50 BMG Magazine (AS50)
+mwc:m82mag_2, 10rnd .50 BMG NATO Magazine
+mwc:ntw20mag, 3rnd 20x82mm Magazine
+mwc:kbp9a91mag_2, 20rnd 9x39mm KBP Magazine
+mwc:kedrmag_2, 20rnd 9x19mm Magazine (Kedr)
+mwc:l96a1mag_2, 10rnd 7.62x54mm LAPUA Magazine
+mwc:dsr1mag, 5rnd 7.62x51mm DSR-1 Magazine
+mwc:dsr1magext, 10rnd 7.62x51mm DSR-1 Magazine
+mwc:interventionmag, 7rnd .408 CT Magazine
+mwc:m40a6mag_2, 7rnd .308 Winchester Magazine
+mwc:r700mag, 5rnd 7.62x54mm M700 Magazine
+mwc:r700mag10rnd, 10rnd 7.62x54mm M700 Magazine
+mwc:ssg08mag, 8rnd .308 Winchester Magazine
+mwc:m110mag_2, 10rnd 7.62x51mm NATO Magazine
+mwc:z10mag, 10rnd 7.62x51mm NATO Z10 Magazine
+mwc:m1928mag, 50rnd .45 ACP Magazine (M1928)
+mwc:m1a1mag, 30rnd .45 ACP Magazine (M1A1)
+mwc:m712mag_2, 20rnd 7.63x25mm Mauser Magazine
+mwc:mg42mag_2, 50rnd 7.92x57mm MG Magazine
+mwc:dp28mag, 47rnd 7.62x54mm Magazine
+mwc:m1carbinemag, 15rnd .30 Carbine Magazine
+mwc:fnfalmag, 20rnd 7.62x51mm Magazine
+mwc:g3mag, 20rnd 7.62x51mm HK G3 Magazine
+mwc:mk14ebrmag_2, 20rnd 7.62x51mm NATO EBR Magazine
+mwc:m14drum50, 50rnd 7.62x51mm NATO EBR DRUM Magazine
+mwc:mp40mag_2, 32rnd 9x19mm MP Magazine
+mwc:mp5a5mag, 30rnd 9x19mm HK Magazine
+mwc:hk50drum, 50rnd 9x19mm HK Drum Magazine
+mwc:mp7mag, 40rnd 4.6x30mm Magazine
+mwc:mp7mag20, 20rnd 4.6x30mm Magazine
+mwc:ump45mag, 25rnd .45 ACP HK Magazine
+mwc:ump9mag, 30rnd 9x19mm HK UMP Magazine
+mwc:mpxmag, 30rnd 9x19mm MPX Magazine
+mwc:apc9mag, 30rnd 9x19mm APC9 Magazine
+mwc:scorpionmag, 30rnd 9x19mm EVO Magazine
+mwc:p90mag, 50rnd 5.7x28mm Magazine
+mwc:p90terminatormag, 65rnd 5.7x28mm Terminator Magazine
+mwc:mac10mag, 30rnd .45 ACP Magazine
+mwc:g11mag, 50rnd 4.73x33mm Magazine
+mwc:scarhmag_2, 20rnd 7.62x51mm NATO CQC Magazine
+mwc:scar40mag, 40rnd 7.62x51mm NATO CQC Magazine
+mwc:scar60mag, 60rnd 7.62x51mm NATO CQC Drum Magazine
+mwc:vssvintorezmag_2, 10rnd 9x39mm Magazine
+mwc:asvalmag, 20rnd 9x39mm Magazine
+mwc:stg44mag_2, 30rnd 7.92x33mm Magazine
+mwc:g43_gewehr_mag, 10rnd 7.92x57mm Gewehr Magazine
+mwc:sv98mag_2, 10rnd 7.62x54mm Izhmash Magazine
+mwc:uzimag_2, 32rnd 9x19mm Magazine
+mwc:vp70mag_2, 18rnd 9x19mm Magazine
+mwc:m4a1, M4A1
+mwc:ar15, AR-15
+mwc:m16a1, M16A1
+mwc:m16a4, M16A4
+mwc:m38_dmr, HK 416
+mwc:acr, Remington ACR
+mwc:ngsw_r, NGSW-R
+mwc:sig_mcx, SIG MCX
+mwc:aac_honey_badger, AAC Honey Badger
+mwc:ak47, AK-47
+mwc:ak15, AK-15
+mwc:malyuk, Malyuk
+mwc:ak12_kal, AK-12
+mwc:izhmash_ak12, AK-12 Prototype
+mwc:ak101, AK-101
+mwc:ak74, AK-74
+mwc:kbp_9a91, KBP 9A-91 Carbine
+mwc:k2c1, K2C1
+mwc:scar_h_cqc, Mk17 CQC Scar-H
+mwc:scar_l, Mk16 Scar-L
+mwc:sig556, SIG-556
+mwc:cz805_bren, CZ-805 Bren
+mwc:arx160, ARX-160
+mwc:type20, Type-20
+mwc:famas_f1, Famas F1
+mwc:g36c, HK G36C
+mwc:g11, HK G11
+mwc:f2000, FN F2000
+mwc:steyr_aug_a1, Steyr AUG A1
+mwc:stg44, StG-44
+mwc:m1_garand, M1 Garand
+mwc:m1941_johnson_rifle, M1941 Johnson (Rifle)
+mwc:g43_gewehr, G43 Gewehr
+mwc:m1_carbine, M1 Carbine
+mwc:m1873, M1873
+mwc:mares_leg, Mare's Leg
+mwc:ar10_super_sass, AR-10 Super SASS
+mwc:beowulf_50_cal, Beowulf .50 Cal
+mwc:m110_sass, M110 SASS
+mwc:zbroyar_z10, Zbroyar-Z10
+mwc:hk_417, HK 417
+mwc:mk14_ebr, M14 DMR
+mwc:fnfal, FN FAL
+mwc:g3, G3
+mwc:springfield, M1903 Springfield
+mwc:m82_barrett, M82 Barrett
+mwc:m40a6, M40A6
+mwc:svd_dragunov, SVD Dragunov
+mwc:vss_vintorez, VSS Vintorez
+mwc:as50, AS50
+mwc:ssg_08, SSG-08
+mwc:m200_intervention, M200 Intervention
+mwc:dsr1, DSR1
+mwc:l96a1, L96A1
+mwc:remington_700, Remington-700
+mwc:sv98, SV-98
+mwc:krag_jorgensen, Krag Jorgensen
+mwc:kar98k, Karabiner-98 Kurz
+mwc:mp7, HK MP7
+mwc:mp5a5, HK MP5
+mwc:p90, FN P90
+mwc:mac10, MAC-10
+mwc:kriss_vector, Kriss Vector
+mwc:ump_45, UMP45
+mwc:scorpion_evo3_a1, Scorpion EVO3 A1
+mwc:sig_mpx, SIG MPX
+mwc:fmg9, FMG-9
+mwc:uzi, Uzi
+mwc:s7_10_tricun, S7-10 Tricun
+mwc:apc9, APC9
+mwc:pp91_kedr, PP-91 Kedr
+mwc:mp40, MP-40
+mwc:m1928_thompson, M1928 Thompson
+mwc:origin12, Origin-12
+mwc:saiga12, Saiga 12
+mwc:spas_12, Spas-12
+mwc:m1014, M1014
+mwc:supernova, Benelli Supernova
+mwc:remington870, Remington-870
+mwc:ks23, KS-23
+mwc:m1897, M1897
+mwc:hs12, HS-12
+mwc:mp43e, MP-43E
+mwc:browning_auto_5, Browning Auto-5
+mwc:m60e4, M60E4
+mwc:mg42, MG-42
+mwc:mg34, MG-34
+mwc:dp28, DP-28
+mwc:bren_mkii, Bren MkII
+mwc:m1941_johnson, M1941 Johnson (LMG)
+mwc:m249, M249
+mwc:stonera1, Stoner A1
+mwc:m134, M134
+mwc:python, Colt Python
+mwc:taurus_raging_hunter, Taurus Raging Hunter .44 Magnum
+mwc:sw_500_magnum, S&W .500 Magnum
+mwc:chiappa_rhino, Chiappa Rhino
+mwc:aps, APS
+mwc:makarov_pm, Makarov PM
+mwc:desert_eagle, IMI Desert Eagle
+mwc:glock_18c, Glock-18C
+mwc:glock_19, Glock-19
+mwc:fiveseven, FN Five-Seven
+mwc:m9a1, M9A1 Beretta
+mwc:p226, SIG P226
+mwc:mp443, MP443
+mwc:vp70, VP-70
+mwc:m17, M17
+mwc:sccy_cpx_2, CPX-2
+mwc:hk_p12, HK P12
+mwc:mas_21, MAS-21
+mwc:g2_contender, G2 Contender
+mwc:m712, M712
+mwc:m1911, Colt M1911
+mwc:browning_hi_power, Browning Hi-Power
+mwc:m202, M202 FLASH
+mwc:rpg7, RPG-7
+mwc:m32_mgl, M32 MGL
+mwc:gl06, GL-06
+mwc:m79, M79 GL
+mwc:chainsaw, Chainsaw
+mwc:turretgun, item.turretgun.name
+mwc:turretgunupgraded, item.turretgunupgraded.name
+mwc:turretgunsilenced, item.turretgunsilenced.name
+mwc:tablet, Tablet
+mwc:wcam, Camera
+mwc:gas-detector, Gas Detector
+mwc:grenadesafetypin, item.mwc_GrenadeSafetyPin.name
+mwc:m67frag, M67 Frag Grenade
+mwc:impactgrenade, Impact Grenade
+mwc:m18white, M18 Smoke Grenade (White)
+mwc:gasgrenade, Gas Grenade
+mwc:flash, Flash Grenade
+mwc:turret, Automated Turret
+mwc:turretupgraded, Automated Turret vers.2
+mwc:turretsilenced, Automated Turret vers.SA
+mwc:turret_base, Turret Base
+mwc:weapons_case, Weapons Case
+mwc:weapons_case_small, Small Weapons Case
+mwc:russian_weapons_case, Russian Weapons Case
+mwc:ammo_box, Ammo Box
+mwc:weapons_locker, Weapons Locker
+mwc:fridge_open, Fridge Open Prop
+mwc:fridge_closed, Fridge Closed Prop
+mwc:artillery_prop, Artillery Prop
+mwc:supply_drop, Supply Drop
+mwc:medical_crate, Medical Crate
+mwc:locker, Locker
+mwc:scp_locker, SCP Locker
+mwc:barrel, Barrel
+mwc:explosive_barrel, Explosive Barrel
+mwc:pc, PC
+mwc:laptop, Laptop
+mwc:monitor, Monitor
+mwc:filingcabinet, Filing Cabinet
+mwc:filingcabinet_opened, Filing Cabinet Open
+mwc:shelf_right, Shelf Right
+mwc:shelf_left, Shelf Left
+mwc:shelf_top, Shelf Top
+mwc:tv, TV
+mwc:ceiling_tv, Ceiling TV
+mwc:ceiling_tv_rotated, Ceiling TV (Rotated)
+mwc:office_chair, Office Chair Prop
+mwc:office_chair_2, Office Chair 2 Prop
+mwc:desk_corner, Desk Corner Prop
+mwc:desk_corner_alt1, Desk Corner (ALT1)
+mwc:desk_left, Desk Left
+mwc:desk_left_alt1, Desk Left (ALT1)
+mwc:desk_middle, Desk Middle
+mwc:desk_middle_alt1, Desk Middle (ALT1)
+mwc:desk_right, Desk Right
+mwc:desk_right_alt1, Desk Right (ALT1)
+mwc:desk_shelf, Desk Shelf
+mwc:desk_shelf_alt1, Desk Shelf (ALT1)
+mwc:desk_shelf_alt2, Desk Shelf (ALT2)
+mwc:desk_shelf_alt3, Desk Shelf (ALT3)
+mwc:barrier, Barrier
+mwc:barrier_rotated, Barrier (Rotated)
+mwc:body_bag, Body Bag
+mwc:hanging_body, Hanging Body
+mwc:impaled_body, Impaled Body
+mwc:dumpster, Dumpster
+mwc:wooden_crate, Wooden Crate
+mwc:wooden_crate_opened, Wooden Crate Opened
+mwc:operating_table, Operating Table
+mwc:operating_table_alt, Operating Table (ALT)
+mwc:forklift, Forklift
+mwc:forklift_alt, Forklift (ALT)
+mwc:trusses, Trusses
+mwc:ceiling_lamp, Ceiling Lamp
+mwc:ceiling_lamp_alt, Ceiling Lamp (ALT)
+mwc:vent, Vent
+mwc:vent_rotated, Vent (Rotated)
+mwc:vent_corner, Vent Corner
+mwc:vent_corner_rotated, Vent Corner (Rotated)
+mwc:vent_corner_rotated_alt, Vent Corner (Rotated ALT)
+mwc:vent_intersection, Vent Intersection
+mwc:vent_end, Vent End
+mwc:white_desk_left, White Desk Left
+mwc:white_desk_middle, White Desk Middle
+mwc:white_desk_right, White Desk Right
+mwc:trash_bin, Trash Bin
+mwc:caution_sign, Caution Sign
+mwc:electric_box, Electric Box
+mwc:electric_box_opened, Electric Box Opened
+mwc:home_chair, Home Chair
+mwc:outdoor_chair, Outdoor Chair
+mwc:home_chair_rotated, Home Chair (Rotated)
+mwc:outdoor_chair_rotated, Outdoor Chair (Rotated)
+mwc:vending_machine, Vending Machine
+mwc:serverrackleft, Server Rack Left
+mwc:serverrackemptyleft, Server Rack Empty Left
+mwc:serverrackleftalt, Server Rack Left (ALT)
+mwc:serverrackleftalt2, Server Rack Left (ALT2)
+mwc:serverrackleftalt3, Server Rack Left (ALT3)
+mwc:serverrackemptyright, Server Rack Empty Right
+mwc:serverrackright, Server Rack Right
+mwc:serverrackrightalt, Server Rack Right (ALT)
+mwc:serverracktopleft, Server Rack Top Left
+mwc:serverracktopright, Server Rack Top Right
+mwc:duelfloodlight, Duel Flood Light
+mwc:floodlight, Flood Light
+mwc:radio_rotated, Radio (Rotated)
+mwc:radio, Radio
+mwc:camera_rotated, Camera (Rotated)
+mwc:propanetank, Propane Tank
+mwc:towablefloodlight, Towable Flood Light
+mwc:sandbag, Sand Bag
+mwc:sandbagwall, Sand Bag Wall
+mwc:crossgravestone, Gravestone Cross 1
+mwc:crossgravestone2, Gravestone Cross 2
+mwc:crossgravestone3, Gravestone Cross 3
+mwc:gravestoneskull, Gravestone Skull
+mwc:gravestone, Gravestone
+mwc:scarecrow, Scarecrow
+mwc:spookyghost, Spooky Ghost 1
+mwc:spookyghost2, Spooky Ghost 2
+mwc:spookyghost3, Spooky Ghost 3
+mwc:swat_truck, SWAT Truck
+mwc:tactical_tomahawk, Tactical Tomahawk
+mwc:baseball_bat, Baseball Bat
+mwc:baseball_bat_nails, Nailed Baseball Bat
+mwc:night_stick, Night Stick
+mwc:weapon_workbench, Weapons/Armor Workbench
+mwc:ammo_press, Ammo Press
 hbm:test_render, tile.test_render.name
 hbm:obj_tester, tile.obj_tester.name
 hbm:cheater_virus, Gelid Euphemium
@@ -12623,6 +13670,11 @@ appliedenergistics2:facade:0, Cable Facade - Green Elevator
 appliedenergistics2:facade:0, Cable Facade - Red Elevator
 appliedenergistics2:facade:0, Cable Facade - Black Elevator
 appliedenergistics2:facade:0, Cable Facade - Flux Block
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Sulfur Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Graphite Ore
 appliedenergistics2:facade:0, Cable Facade - Redstone-Sensitive Glass Block (Light Emitting)
 appliedenergistics2:facade:0, Cable Facade - Redstone-Sensitive Glass Block (White-Stained)
 appliedenergistics2:facade:0, Cable Facade - Redstone-Sensitive Glass Block (Red-Stained)
@@ -13157,6 +14209,26 @@ fluxnetworks:fluxcontroller, Flux Controller
 fluxnetworks:fluxstorage, Basic Flux Storage
 fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
+mwc:copper_ingot, Copper Ingot
+mwc:tin_ingot, Tin Ingot
+mwc:lead_ingot, Lead Ingot
+mwc:sulfur_dust, Sulfur Dust
+mwc:steel_dust, Steel Dust
+mwc:graphite_chunk, Graphite Chunk
+mwc:gunmetal_composite, Gunmetal Composite
+mwc:carbon_fiber, Kevlar
+mwc:synthetic_polymer_composite, Nylon
+mwc:synthetic_plastic, Plastic Plate
+mwc:steel_ingot, Steel Ingot
+mwc:gunmetal_ingot, Gunmetal Ingot
+mwc:gunmetal_plate, Gunmetal Plate
+mwc:carbon_composite, Carbon Composite
+mwc:vest_render, item.vest_render.name
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
 retro_sophisticated_backpacks:backpack_leather, Leather Backpack
@@ -13856,6 +14928,27 @@ srparasites:consumed_fence, Consumed Fence
 srparasites:bruisewood_fence, Bruisewood Fence
 srparasites:flesh_fence, Flesh Fence
 srparasites:cooked_flesh_fence, Cooked Flesh Fence
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13906,27 +14999,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -14061,34 +15133,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
 tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Fletching Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -14978,62 +16050,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -15111,12 +16183,12 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
-torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 xtones:base, Xtone Tile
 xtones:lamp_flat, Flat Lamp
 xtones:agon:0, Agon 1
