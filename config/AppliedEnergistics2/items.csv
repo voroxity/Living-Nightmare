@@ -13306,6 +13306,50 @@ rsgauges:bistableswitch_rustic6, Bistable Switch
 rsgauges:switchlink_pearl, Switch Link Pearl
 snad:snad:0, Snad
 snad:snad:1, Red Snad
+srparasites:infested_furnace, Infested Furnace
+srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
+srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
+srparasites:parasiterubbleslabhalf:2, Hivestone Slab
+srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
+srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
+srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
+srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
+srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
+srparasites:parasitestainslabhalf:0, Hivesoil Slab
+srparasites:parasitestainslabhalf:1, Visceral Mud Slab
+srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
+srparasites:parasitestainslabhalf:3, Compressed Artery Slab
+srparasites:parasitestainslabhalf:4, Mycelium Network Slab
+srparasites:parasitestainslabhalf:5, Contusion Slab
+srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
+srparasites:relay_base, Relay Terminal | Bottom
+srparasites:relay_middle, Relay Structure | Middle
+srparasites:relay_roof, Relay Antennas | Top
+srparasites:relaycontroller, Relay Controller
+srparasites:flesh_stairs, Flesh Plank Stairs
+srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
+srparasites:harleskinn_stairs, Harleskinn Stairs
+srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
+srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
+srparasites:goth_planks_stairs, Goth Planks Stairs
+srparasites:infested_planks_stairs, Infested Planks Stairs
+srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
+srparasites:consumed_planks_stairs, Consumed Plank Stairs
+srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
+srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
+srparasites:infested_stone_stairs, Infested Stone Stairs
+srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
+srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
+srparasites:deadhead_plank_stairs, Deadhead Stairs
+srparasites:residue_stairs, Residue Brick Stairs
+srparasites:harleskinn_fence, Harleskinn Fence
+srparasites:infested_fence, Infested Fence
+srparasites:deadhead_fence, Deadhead Fence
+srparasites:goth_fence, Goth Fence
+srparasites:consumed_fence, Consumed Fence
+srparasites:bruisewood_fence, Bruisewood Fence
+srparasites:flesh_fence, Flesh Fence
+srparasites:cooked_flesh_fence, Cooked Flesh Fence
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -13813,50 +13857,27 @@ srparasites:discone, Duality
 srparasites:disctwo, We'll Meet Again
 srparasites:discthree, Serenity
 srparasites:thornshade_decanter, §5Thornshade Decanter
-srparasites:infested_furnace, Infested Furnace
-srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
-srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
-srparasites:parasiterubbleslabhalf:2, Hivestone Slab
-srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
-srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
-srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
-srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
-srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
-srparasites:parasitestainslabhalf:0, Hivesoil Slab
-srparasites:parasitestainslabhalf:1, Visceral Mud Slab
-srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
-srparasites:parasitestainslabhalf:3, Compressed Artery Slab
-srparasites:parasitestainslabhalf:4, Mycelium Network Slab
-srparasites:parasitestainslabhalf:5, Contusion Slab
-srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
-srparasites:relay_base, Relay Terminal | Bottom
-srparasites:relay_middle, Relay Structure | Middle
-srparasites:relay_roof, Relay Antennas | Top
-srparasites:relaycontroller, Relay Controller
-srparasites:flesh_stairs, Flesh Plank Stairs
-srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
-srparasites:harleskinn_stairs, Harleskinn Stairs
-srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
-srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
-srparasites:goth_planks_stairs, Goth Planks Stairs
-srparasites:infested_planks_stairs, Infested Planks Stairs
-srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
-srparasites:consumed_planks_stairs, Consumed Plank Stairs
-srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
-srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
-srparasites:infested_stone_stairs, Infested Stone Stairs
-srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
-srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
-srparasites:deadhead_plank_stairs, Deadhead Stairs
-srparasites:residue_stairs, Residue Brick Stairs
-srparasites:harleskinn_fence, Harleskinn Fence
-srparasites:infested_fence, Infested Fence
-srparasites:deadhead_fence, Deadhead Fence
-srparasites:goth_fence, Goth Fence
-srparasites:consumed_fence, Consumed Fence
-srparasites:bruisewood_fence, Bruisewood Fence
-srparasites:flesh_fence, Flesh Fence
-srparasites:cooked_flesh_fence, Cooked Flesh Fence
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -13907,27 +13928,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -14062,34 +14062,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -14979,62 +14979,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks

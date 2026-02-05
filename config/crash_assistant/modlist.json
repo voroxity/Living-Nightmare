@@ -60,6 +60,13 @@
     "curseForgeHash": 2860985311,
     "modrinthHash": "098882484be6966b47af3615d43efb9a0f0adef5"
   },
+  "betterbiomeblend-1.12.2-1.1.7-forge.jar": {
+    "jarName": "betterbiomeblend-1.12.2-1.1.7-forge.jar",
+    "modId": "betterbiomeblend",
+    "version": "1.12.2-1.1.7-forge",
+    "curseForgeHash": 3162109178,
+    "modrinthHash": "a9463fed7357f39515707b5bbb4cac780916abf5"
+  },
   "brigo_forge-1.1.1+1.12.x.jar": {
     "jarName": "brigo_forge-1.1.1+1.12.x.jar",
     "modId": "brigo",
@@ -253,6 +260,13 @@
     "version": "1.4.150",
     "curseForgeHash": 424401967,
     "modrinthHash": "d5e32554a78d95e40ecb85c32138531cb433f19f"
+  },
+  "phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar": {
+    "jarName": "phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar",
+    "modId": "phosphor-lighting",
+    "version": "1.12.2-0.2.9.3-SNAPSHOT",
+    "curseForgeHash": 94752938,
+    "modrinthHash": "ddeddd44e33fd636a6a36fbac001bbc91c518f19"
   },
   "ProjectRed-1.12.2-4.9.4.120-Base.jar": {
     "jarName": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
