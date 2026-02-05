@@ -303,12 +303,12 @@
     "curseForgeHash": 730723642,
     "modrinthHash": "f5af46afabe353f8b27a3acfa8961ca9877ff394"
   },
-  "RTG-1.12.2-7.3.2.jar": {
-    "jarName": "RTG-1.12.2-7.3.2.jar",
+  "RTGU-1.12.2-1.1.0.jar": {
+    "jarName": "RTGU-1.12.2-1.1.0.jar",
     "modId": "rtg",
-    "version": "7.3",
-    "curseForgeHash": 2205695719,
-    "modrinthHash": "cb55d33fed8d5ee81420c9f286d2eab115f4d2de"
+    "version": "1.1.0",
+    "curseForgeHash": 2751998499,
+    "modrinthHash": "c92f573c2f7c6f391658060d77031a3d400563c3"
   },
   "Snad-1.12.1-1.7.09.16a.jar": {
     "jarName": "Snad-1.12.1-1.7.09.16a.jar",
