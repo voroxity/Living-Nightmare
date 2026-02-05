@@ -39,12 +39,26 @@
     "curseForgeHash": 1004384984,
     "modrinthHash": "5cdc64def700aa1554bca3584dc3d278ba608d22"
   },
+  "AmbientEnvironment-1.0.2.jar": {
+    "jarName": "AmbientEnvironment-1.0.2.jar",
+    "modId": "ambientenvironment",
+    "version": "1.0.2",
+    "curseForgeHash": 3636691541,
+    "modrinthHash": "6959d9f89b3b9bd0b0c16949b111370f5158d647"
+  },
   "AppleSkin-mc1.12-1.0.14.jar": {
     "jarName": "AppleSkin-mc1.12-1.0.14.jar",
     "modId": "appleskin",
     "version": "1.0.14",
     "curseForgeHash": 1189087403,
     "modrinthHash": "d798af79de48be0f00c772943e5ec5a2fb5659fa"
+  },
+  "AquaAcrobatics-1.15.4.jar": {
+    "jarName": "AquaAcrobatics-1.15.4.jar",
+    "modId": "aquaacrobatics",
+    "version": "1.15.4",
+    "curseForgeHash": 2860985311,
+    "modrinthHash": "098882484be6966b47af3615d43efb9a0f0adef5"
   },
   "brigo_forge-1.1.1+1.12.x.jar": {
     "jarName": "brigo_forge-1.1.1+1.12.x.jar",
@@ -59,6 +73,13 @@
     "version": "2.8.4",
     "curseForgeHash": 1053424356,
     "modrinthHash": "7f33f2343bf0af70d5d853378d465657beea3740"
+  },
+  "Chameleon-1.12-4.1.3.jar": {
+    "jarName": "Chameleon-1.12-4.1.3.jar",
+    "modId": "chameleon",
+    "version": "1.12-4.1.3",
+    "curseForgeHash": 2760206313,
+    "modrinthHash": "5ed3dd5fd1ebded57bfe525b4ece11232bd14e5e"
   },
   "Chisel-MC1.12.2-1.0.2.45.jar": {
     "jarName": "Chisel-MC1.12.2-1.0.2.45.jar",
@@ -288,6 +309,13 @@
     "version": "1.10.0",
     "curseForgeHash": 2821879658,
     "modrinthHash": "03a5127ccc95476acefbec7023db0d37ef981f9a"
+  },
+  "StorageDrawers-1.12.2-5.5.3.jar": {
+    "jarName": "StorageDrawers-1.12.2-5.5.3.jar",
+    "modId": "storagedrawers",
+    "version": "5.5.3",
+    "curseForgeHash": 535207350,
+    "modrinthHash": "8be312005dc837372bfbe2dfb8db77822d326062"
   },
   "TConstruct-1.12.2-2.13.0.183.jar": {
     "jarName": "TConstruct-1.12.2-2.13.0.183.jar",
