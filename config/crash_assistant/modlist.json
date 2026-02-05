@@ -25,6 +25,13 @@
     "curseForgeHash": 2621803774,
     "modrinthHash": "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
   },
+  "!Red-Core-MC-1.8-1.12-0.7.1.jar": {
+    "jarName": "!Red-Core-MC-1.8-1.12-0.7.1.jar",
+    "modId": "redcore",
+    "version": "0.7.1",
+    "curseForgeHash": 2660540505,
+    "modrinthHash": "d272efd0c807908138edbac8e6cb2d90127ac01a"
+  },
   "+unimixins-all-1.7.10-0.2.1.jar": {
     "jarName": "+unimixins-all-1.7.10-0.2.1.jar",
     "modId": "unimixins",
@@ -32,12 +39,24 @@
     "curseForgeHash": 436445407,
     "modrinthHash": "21db670c715e2a24eda05bd0c1d3b834e3949857"
   },
-  "ae2-uel-v0.56.6.jar": {
-    "jarName": "ae2-uel-v0.56.6.jar",
+  "_MixinBootstrap-1.1.0.jar": {
+    "jarName": "_MixinBootstrap-1.1.0.jar",
+    "curseForgeHash": 2764134718,
+    "modrinthHash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
+  },
+  "ae2-uel-v0.56.7.jar": {
+    "jarName": "ae2-uel-v0.56.7.jar",
     "modId": "appliedenergistics2",
-    "version": "v0.56.6",
-    "curseForgeHash": 1004384984,
-    "modrinthHash": "5cdc64def700aa1554bca3584dc3d278ba608d22"
+    "version": "v0.56.7",
+    "curseForgeHash": 2199621341,
+    "modrinthHash": "972169ccbb3c214108f7775fc9ffe9edea66a118"
+  },
+  "Alfheim-1.6.jar": {
+    "jarName": "Alfheim-1.6.jar",
+    "modId": "alfheim",
+    "version": "1.6",
+    "curseForgeHash": 3900301727,
+    "modrinthHash": "15aaa39a13e18ab2f29456b25fd9732da1949329"
   },
   "AmbientEnvironment-1.0.2.jar": {
     "jarName": "AmbientEnvironment-1.0.2.jar",
@@ -130,6 +149,13 @@
     "curseForgeHash": 2428811536,
     "modrinthHash": "7701eb987d8102a345e46725f4f2c6b9fc83005c"
   },
+  "EntityCulling-1.12.2-6.5.0.jar": {
+    "jarName": "EntityCulling-1.12.2-6.5.0.jar",
+    "modId": "entityculling",
+    "version": "6.5.0",
+    "curseForgeHash": 2866554357,
+    "modrinthHash": "cf4a4a6b11b1721fbda1edeb32bdc3b1ac3a8560"
+  },
   "environmentaltech-1.12.2-2.0.20.1.jar": {
     "jarName": "environmentaltech-1.12.2-2.0.20.1.jar",
     "modId": "environmentaltech",
@@ -212,12 +238,12 @@
     "curseForgeHash": 2810798110,
     "modrinthHash": "a1e5d5c197dae3e92637cafb8cd996185191165b"
   },
-  "modularui-3.1.0.jar": {
-    "jarName": "modularui-3.1.0.jar",
+  "modularui-3.1.1.jar": {
+    "jarName": "modularui-3.1.1.jar",
     "modId": "modularui",
-    "version": "3.1.0",
-    "curseForgeHash": 2141999152,
-    "modrinthHash": "c270f720431551c2a00eff4ee63f85b257ab73d1"
+    "version": "3.1.1",
+    "curseForgeHash": 3932278637,
+    "modrinthHash": "1db903363dbb5476fe49309603c0987719cc6e35"
   },
   "MouseTweaks-2.10-mc1.12.2.jar": {
     "jarName": "MouseTweaks-2.10-mc1.12.2.jar",
@@ -261,13 +287,6 @@
     "curseForgeHash": 424401967,
     "modrinthHash": "d5e32554a78d95e40ecb85c32138531cb433f19f"
   },
-  "phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar": {
-    "jarName": "phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar",
-    "modId": "phosphor-lighting",
-    "version": "1.12.2-0.2.9.3-SNAPSHOT",
-    "curseForgeHash": 94752938,
-    "modrinthHash": "ddeddd44e33fd636a6a36fbac001bbc91c518f19"
-  },
   "ProjectRed-1.12.2-4.9.4.120-Base.jar": {
     "jarName": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
     "modId": "projectred-core",
@@ -288,6 +307,13 @@
     "version": "4.9.4.120",
     "curseForgeHash": 3280433554,
     "modrinthHash": "41e17cd9ad1a6a27767df0a2366972f181d9ff89"
+  },
+  "RenderLib-1.12.2-1.4.5.jar": {
+    "jarName": "RenderLib-1.12.2-1.4.5.jar",
+    "modId": "renderlib",
+    "version": "1.4.5",
+    "curseForgeHash": 97899486,
+    "modrinthHash": "da121ecfd63ea615de9a26276614bb0ab9306d95"
   },
   "Retro-Sophisticated-Backpacks-1.1.0.jar": {
     "jarName": "Retro-Sophisticated-Backpacks-1.1.0.jar",
@@ -317,12 +343,12 @@
     "curseForgeHash": 189619338,
     "modrinthHash": "c978dbfca262e0b2f5cc0132dd76a5e2d2901304"
   },
-  "SRParasites-1.12.2v1.10.0.jar": {
-    "jarName": "SRParasites-1.12.2v1.10.0.jar",
+  "SRParasites-1.12.2v1.10.1.jar": {
+    "jarName": "SRParasites-1.12.2v1.10.1.jar",
     "modId": "srparasites",
     "version": "1.10.0",
-    "curseForgeHash": 2821879658,
-    "modrinthHash": "03a5127ccc95476acefbec7023db0d37ef981f9a"
+    "curseForgeHash": 2449226168,
+    "modrinthHash": "8bf2d208fc1f78f2cd8e21e365103960aea8f862"
   },
   "StorageDrawers-1.12.2-5.5.3.jar": {
     "jarName": "StorageDrawers-1.12.2-5.5.3.jar",
@@ -365,6 +391,13 @@
     "version": "1.8.5.0",
     "curseForgeHash": 614090222,
     "modrinthHash": "8bc4bae76967b025746768473462d446ee09f505"
+  },
+  "Valkyrie-0.3-Dev-5.jar": {
+    "jarName": "Valkyrie-0.3-Dev-5.jar",
+    "modId": "valkyrie",
+    "version": "0.3-Dev-5",
+    "curseForgeHash": 895534436,
+    "modrinthHash": "feb963863186fc8f9fb3b4b2f1dc75ef773a0370"
   },
   "valkyrielib-1.12.2-2.0.20.1.jar": {
     "jarName": "valkyrielib-1.12.2-2.0.20.1.jar",
