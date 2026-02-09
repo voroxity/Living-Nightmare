@@ -62,7 +62,7 @@
   "FML": "8.0.99.99",
   "rtg": "1.1.0",
   "spongemixins": "2.0.1",
-  "modularui": "3.1.1",
+  "modularui": "3.1.2",
   "ambientenvironment": "1.0.1",
   "projectred-integration": "4.9.4.120",
   "srparasites": "1.10.0",

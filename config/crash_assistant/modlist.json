@@ -247,12 +247,12 @@
     "curseForgeHash": 1271867795,
     "modrinthHash": "273b8ecd34c9f89a0eb03c6374933e48af928366"
   },
-  "modularui-3.1.1.jar": {
-    "jarName": "modularui-3.1.1.jar",
+  "modularui-3.1.2.jar": {
+    "jarName": "modularui-3.1.2.jar",
     "modId": "modularui",
-    "version": "3.1.1",
-    "curseForgeHash": 3932278637,
-    "modrinthHash": "1db903363dbb5476fe49309603c0987719cc6e35"
+    "version": "3.1.2",
+    "curseForgeHash": 3275514886,
+    "modrinthHash": "785ab6850800e22db48c9cb00fce532ac8675dfc"
   },
   "MouseTweaks-2.10-mc1.12.2.jar": {
     "jarName": "MouseTweaks-2.10-mc1.12.2.jar",
@@ -324,12 +324,12 @@
     "curseForgeHash": 97899486,
     "modrinthHash": "da121ecfd63ea615de9a26276614bb0ab9306d95"
   },
-  "Retro-Sophisticated-Backpacks-1.1.0.jar": {
-    "jarName": "Retro-Sophisticated-Backpacks-1.1.0.jar",
+  "Retro-Sophisticated-Backpacks-1.1.1.jar": {
+    "jarName": "Retro-Sophisticated-Backpacks-1.1.1.jar",
     "modId": "retro_sophisticated_backpacks",
-    "version": "1.1.0",
-    "curseForgeHash": 562265032,
-    "modrinthHash": "da557f2297cc21fbacc5b95386fc69c7e3b2810b"
+    "version": "1.1.1",
+    "curseForgeHash": 3521091811,
+    "modrinthHash": "127cec9f0b942e3f4a41e831c2f022725722e6ae"
   },
   "rsgauges-1.12.2-1.2.8.jar": {
     "jarName": "rsgauges-1.12.2-1.2.8.jar",
