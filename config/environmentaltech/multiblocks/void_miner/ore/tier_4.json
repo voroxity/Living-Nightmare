@@ -86,6 +86,11 @@
       "id": "OD:oreTin"
     },
     {
+      "target": "gray",
+      "weight": 602,
+      "id": "mwc:tin_ore"
+    },
+    {
       "target": "silver",
       "weight": 381,
       "id": "OD:oreSilver"
@@ -209,6 +214,11 @@
       "target": "black",
       "weight": 190,
       "id": "OD:oreGraphite"
+    },
+    {
+      "target": "black",
+      "weight": 190,
+      "id": "mwc:graphite_ore"
     },
     {
       "target": "black",
