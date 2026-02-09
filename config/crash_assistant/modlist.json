@@ -128,6 +128,13 @@
     "curseForgeHash": 2940918666,
     "modrinthHash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
   },
+  "CoFHWorld-1.12.2-1.4.0.1-universal.jar": {
+    "jarName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "modId": "cofhworld",
+    "version": "1.4.0.1",
+    "curseForgeHash": 928719472,
+    "modrinthHash": "863e1524fe0087d434a5e44d27cc2dd0353b9399"
+  },
   "Controlling-3.0.12.4.jar": {
     "jarName": "Controlling-3.0.12.4.jar",
     "modId": "controlling",
@@ -428,6 +435,13 @@
     "version": "0.6.2",
     "curseForgeHash": 1319026169,
     "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+  },
+  "World-Stripper-1.6.0-1.12.2.jar": {
+    "jarName": "World-Stripper-1.6.0-1.12.2.jar",
+    "modId": "worldstripper",
+    "version": "1.6.0-1.12.2",
+    "curseForgeHash": 2474798541,
+    "modrinthHash": "3455b11f340529b5146140e8b217d459bc222b69"
   },
   "Xtones-1.2.2.jar": {
     "jarName": "Xtones-1.2.2.jar",
