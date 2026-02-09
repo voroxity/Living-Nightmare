@@ -3486,6 +3486,7 @@ hbm:fluid_tank_full:4056, Universal Fluid Tank: Plutonium Bromide
 hbm:fluid_tank_full:4057, Universal Fluid Tank: Schrabidium Bromide
 hbm:fluid_tank_full:4058, Universal Fluid Tank: Thorium Bromide
 hbm:fluid_tank_full:4063, Universal Fluid Tank: hbmfluid.gaseous_hydrogen
+hbm:fluid_tank_full:4065, Universal Fluid Tank: hbmfluid.lithydro
 hbm:fluid_tank_lead_empty, Empty Hazardous Material Tank
 hbm:fluid_tank_lead_full:152, Hazardous Material Tank: Compressed Air
 hbm:fluid_tank_lead_full:1, Hazardous Material Tank: Water
@@ -3683,6 +3684,7 @@ hbm:fluid_tank_lead_full:4056, Hazardous Material Tank: Plutonium Bromide
 hbm:fluid_tank_lead_full:4057, Hazardous Material Tank: Schrabidium Bromide
 hbm:fluid_tank_lead_full:4058, Hazardous Material Tank: Thorium Bromide
 hbm:fluid_tank_lead_full:4063, Hazardous Material Tank: hbmfluid.gaseous_hydrogen
+hbm:fluid_tank_lead_full:4065, Hazardous Material Tank: hbmfluid.lithydro
 hbm:fluid_barrel_empty, Empty Fluid Barrel
 hbm:fluid_barrel_full:152, Fluid Barrel: Compressed Air
 hbm:fluid_barrel_full:1, Fluid Barrel: Water
@@ -3878,6 +3880,7 @@ hbm:fluid_barrel_full:4056, Fluid Barrel: Plutonium Bromide
 hbm:fluid_barrel_full:4057, Fluid Barrel: Schrabidium Bromide
 hbm:fluid_barrel_full:4058, Fluid Barrel: Thorium Bromide
 hbm:fluid_barrel_full:4063, Fluid Barrel: hbmfluid.gaseous_hydrogen
+hbm:fluid_barrel_full:4065, Fluid Barrel: hbmfluid.lithydro
 hbm:fluid_barrel_infinite, Infinite Fluid Barrel
 hbm:fluid_pack_empty, Large Fluid Container
 hbm:fluid_pack_full:152, Packaged Compressed Air
@@ -4074,6 +4077,7 @@ hbm:fluid_pack_full:4056, Packaged Plutonium Bromide
 hbm:fluid_pack_full:4057, Packaged Schrabidium Bromide
 hbm:fluid_pack_full:4058, Packaged Thorium Bromide
 hbm:fluid_pack_full:4063, Packaged hbmfluid.gaseous_hydrogen
+hbm:fluid_pack_full:4065, Packaged hbmfluid.lithydro
 hbm:pipette, Pipette
 hbm:pipette_boron, Boron Pipette
 hbm:pipette_laboratory, Laboratory Grade Pipette
@@ -4209,6 +4213,7 @@ hbm:disperser_canister:4048, Disperser Canister: Condensed Milk
 hbm:disperser_canister:4049, Disperser Canister: Heavy Whipping Cream
 hbm:disperser_canister:4050, Disperser Canister: Dicyanoacetylene
 hbm:disperser_canister:4063, Disperser Canister: hbmfluid.gaseous_hydrogen
+hbm:disperser_canister:4065, Disperser Canister: hbmfluid.lithydro
 hbm:glyphid_gland_empty, Glyphid's Fluid Gland
 hbm:glyphid_gland:75, Sulfuric Acid Gland
 hbm:glyphid_gland:132, Booster Pheromone Gland
@@ -4801,6 +4806,10 @@ hbm:nuclear_waste_short:4, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short:5, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short:6, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short:7, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:8, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:9, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:10, Short-Lived Nuclear Waste
+hbm:nuclear_waste_short:11, Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:0, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:1, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:2, Tiny Pile of Short-Lived Nuclear Waste
@@ -4809,6 +4818,10 @@ hbm:nuclear_waste_short_tiny:4, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:5, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:6, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_tiny:7, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:8, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:9, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:10, Tiny Pile of Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_tiny:11, Tiny Pile of Short-Lived Nuclear Waste
 hbm:nuclear_waste_long_depleted:0, Decayed Long-Lived Nuclear Waste
 hbm:nuclear_waste_long_depleted:1, Decayed Long-Lived Nuclear Waste
 hbm:nuclear_waste_long_depleted:2, Decayed Long-Lived Nuclear Waste
@@ -4827,6 +4840,10 @@ hbm:nuclear_waste_short_depleted:4, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted:5, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted:6, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted:7, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:8, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:9, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:10, Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted:11, Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:0, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:1, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:2, Tiny Pile of Decayed Short-Lived Nuclear Waste
@@ -4835,6 +4852,10 @@ hbm:nuclear_waste_short_depleted_tiny:4, Tiny Pile of Decayed Short-Lived Nuclea
 hbm:nuclear_waste_short_depleted_tiny:5, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:6, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste_short_depleted_tiny:7, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:8, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:9, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:10, Tiny Pile of Decayed Short-Lived Nuclear Waste
+hbm:nuclear_waste_short_depleted_tiny:11, Tiny Pile of Decayed Short-Lived Nuclear Waste
 hbm:nuclear_waste, Nuclear Waste
 hbm:nuclear_waste_tiny, Tiny Pile of Nuclear Waste
 hbm:nuclear_waste_vitrified, Vitrified Nuclear Waste
@@ -5188,6 +5209,7 @@ hbm:scraps:2800, Foundry Scraps
 hbm:scraps:3100, Foundry Scraps
 hbm:scraps:3000, Foundry Scraps
 hbm:scraps:2993, Foundry Scraps
+hbm:scraps:7700, Foundry Scraps
 hbm:scraps:24000, Foundry Scraps
 hbm:scraps:24001, Foundry Scraps
 hbm:scraps:24002, Foundry Scraps
@@ -5208,6 +5230,7 @@ hbm:ingot_raw:6000, Neodymium Ingot
 hbm:ingot_raw:501, Borax Ingot
 hbm:ingot_raw:1100, Sodium Ingot
 hbm:ingot_raw:3800, Strontium Ingot
+hbm:ingot_raw:7700, Iridium Ingot
 hbm:plate_cast:2600, Cast Iron Plate
 hbm:plate_cast:7900, Cast Gold Plate
 hbm:plate_cast:12626, Cast Schrabidium Plate
@@ -6244,6 +6267,7 @@ hbm:ff_fluid_duct:4056, Fluid Duct: Plutonium Bromide
 hbm:ff_fluid_duct:4057, Fluid Duct: Schrabidium Bromide
 hbm:ff_fluid_duct:4058, Fluid Duct: Thorium Bromide
 hbm:ff_fluid_duct:4063, Fluid Duct: hbmfluid.gaseous_hydrogen
+hbm:ff_fluid_duct:4065, Fluid Duct: hbmfluid.lithydro
 hbm:mese_gavel, Mese Gavel
 hbm:mese_pickaxe, Mese Pickaxe
 hbm:mese_axe, Mese Axe
@@ -7122,6 +7146,7 @@ hbm:fluid_icon:4061, Gaseous Schrabidium Bromide
 hbm:fluid_icon:4062, Gaseous Thorium Bromide
 hbm:fluid_icon:4063, hbmfluid.gaseous_hydrogen
 hbm:fluid_icon:4064, Gaseous Poisonous Mud
+hbm:fluid_icon:4065, hbmfluid.lithydro
 hbm:gadget_explosive, First Generation Explosive Lens
 hbm:gadget_explosive8, Bundle of First Generation Implosion Propellant
 hbm:gadget_wireing, Wiring
@@ -8088,6 +8113,10 @@ hbmspace:vinyl_log, Hardened Vinyl Log
 hbmspace:pvc_log, PVC Log
 hbmspace:vinyl_planks, Vinyl Planks
 hbmspace:pvc_planks, PVC Planks
+hbmspace:lattice_log, Latticed Log
+hbmspace:bf_log, Balefire Log
+hbmspace:primed_log, Primed Log
+hbmspace:eu_log, Anti-Mass Log
 hbmspace:flesh_block, tile.flesh_block.name
 hbmspace:charred_flesh_block, tile.charred_flesh_block.name
 hbmspace:carbonized_flesh_block, tile.carbonized_flesh_block.name
@@ -11558,6 +11587,10 @@ appliedenergistics2:facade:0, Cable Facade - Hardened Vinyl Log
 appliedenergistics2:facade:0, Cable Facade - PVC Log
 appliedenergistics2:facade:0, Cable Facade - Vinyl Planks
 appliedenergistics2:facade:0, Cable Facade - PVC Planks
+appliedenergistics2:facade:0, Cable Facade - Latticed Log
+appliedenergistics2:facade:0, Cable Facade - Balefire Log
+appliedenergistics2:facade:0, Cable Facade - Primed Log
+appliedenergistics2:facade:0, Cable Facade - Anti-Mass Log
 appliedenergistics2:facade:0, Cable Facade - Tekto Silt
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
@@ -14105,6 +14138,11 @@ fluxnetworks:fluxcontroller, Flux Controller
 fluxnetworks:fluxstorage, Basic Flux Storage
 fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -14120,11 +14158,6 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
 retro_sophisticated_backpacks:backpack_leather, Leather Backpack
@@ -14824,27 +14857,6 @@ srparasites:hijacked_iron_leggings, Hijacked Iron Leggings
 srparasites:hijacked_iron_boots, Hijacked Iron Boots
 srparasites:discthree, §bSerenity
 srparasites:thornshade_decanter, §5Thornshade Decanter
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -14895,6 +14907,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -15029,34 +15062,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Fletching Pattern
 tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -15947,30 +15980,30 @@ tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
 tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
@@ -15978,30 +16011,30 @@ tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
 tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks

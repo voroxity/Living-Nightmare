@@ -9015,35 +9015,6 @@
       "icon": ["hbm:fluid_icon",1,89]
     },
     {
-      "name": "ass.packagehbmfluid.custom_demo",
-      "inputItem": [
-        ["item","hbm:fluid_pack_empty"]
-      ],
-      "inputFluid": [
-        ["CUSTOM_DEMO",32000]
-      ],
-      "outputItem": [
-        ["single",["hbm:fluid_pack_full",1,1000]]
-      ],
-      "duration": 40,
-      "power": 100
-    },
-    {
-      "name": "ass.unpackagehbmfluid.custom_demo",
-      "inputItem": [
-        ["item","hbm:fluid_pack_full",1,1000]
-      ],
-      "outputItem": [
-        ["single",["hbm:fluid_pack_empty"]]
-      ],
-      "outputFluid": [
-        ["CUSTOM_DEMO",32000]
-      ],
-      "duration": 40,
-      "power": 100,
-      "icon": ["hbm:fluid_icon",1,1000]
-    },
-    {
       "name": "ass.packagehbmfluid.earthair",
       "inputItem": [
         ["item","hbm:fluid_pack_empty"]
@@ -10753,6 +10724,64 @@
       "duration": 40,
       "power": 100,
       "icon": ["hbm:fluid_icon",1,4063]
+    },
+    {
+      "name": "ass.packagehbmfluid.lithydro",
+      "inputItem": [
+        ["item","hbm:fluid_pack_empty"]
+      ],
+      "inputFluid": [
+        ["LITHYDRO",32000]
+      ],
+      "outputItem": [
+        ["single",["hbm:fluid_pack_full",1,4065]]
+      ],
+      "duration": 40,
+      "power": 100
+    },
+    {
+      "name": "ass.unpackagehbmfluid.lithydro",
+      "inputItem": [
+        ["item","hbm:fluid_pack_full",1,4065]
+      ],
+      "outputItem": [
+        ["single",["hbm:fluid_pack_empty"]]
+      ],
+      "outputFluid": [
+        ["LITHYDRO",32000]
+      ],
+      "duration": 40,
+      "power": 100,
+      "icon": ["hbm:fluid_icon",1,4065]
+    },
+    {
+      "name": "ass.packagehbmfluid.custom_demo",
+      "inputItem": [
+        ["item","hbm:fluid_pack_empty"]
+      ],
+      "inputFluid": [
+        ["CUSTOM_DEMO",32000]
+      ],
+      "outputItem": [
+        ["single",["hbm:fluid_pack_full",1,1000]]
+      ],
+      "duration": 40,
+      "power": 100
+    },
+    {
+      "name": "ass.unpackagehbmfluid.custom_demo",
+      "inputItem": [
+        ["item","hbm:fluid_pack_full",1,1000]
+      ],
+      "outputItem": [
+        ["single",["hbm:fluid_pack_empty"]]
+      ],
+      "outputFluid": [
+        ["CUSTOM_DEMO",32000]
+      ],
+      "duration": 40,
+      "power": 100,
+      "icon": ["hbm:fluid_icon",1,1000]
     }
   ]
 }

@@ -275,12 +275,12 @@
     "curseForgeHash": 198255722,
     "modrinthHash": "60bcf179cab708f67bbce98d201e82f3e7be9266"
   },
-  "NTM-CE-1.12.2-1.5.2.1_TEMP.jar": {
-    "jarName": "NTM-CE-1.12.2-1.5.2.1_TEMP.jar",
+  "NTM-CE-1.12.2-2.0.0.0.jar": {
+    "jarName": "NTM-CE-1.12.2-2.0.0.0.jar",
     "modId": "hbm",
-    "version": "1.5.2.1",
-    "curseForgeHash": 3302885662,
-    "modrinthHash": "4dcf010ae261703249f2de5ab8eb268f82480379"
+    "version": "2.0.0.0",
+    "curseForgeHash": 3662099180,
+    "modrinthHash": "fbeec44e52496552fe4edd64a37addc3630955f6"
   },
   "NTM-Space-1.12.2-0.8_TEMP.jar": {
     "jarName": "NTM-Space-1.12.2-0.8_TEMP.jar",
