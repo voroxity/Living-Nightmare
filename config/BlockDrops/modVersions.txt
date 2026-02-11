@@ -76,6 +76,7 @@
   "worldstripper": "1.6.0-1.12.2",
   "environmentaltech": "1.12.2-2.0.20.1",
   "minecraftmultipartcbe": "2.6.2.83",
+  "hardcoredarkness": "2.0",
   "forgemultipartcbe": "2.6.2.83",
   "tinkersjei": "1.2",
   "unimixins": "0.2.1",

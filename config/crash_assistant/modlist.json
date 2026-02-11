@@ -212,6 +212,13 @@
     "curseForgeHash": 1899009469,
     "modrinthHash": "095b3b85d05118602c7678beb1e56d26930fd0e7"
   },
+  "HardcoreDarkness-MC1.12.2-2.0.jar": {
+    "jarName": "HardcoreDarkness-MC1.12.2-2.0.jar",
+    "modId": "hardcoredarkness",
+    "version": "2.0",
+    "curseForgeHash": 1381892724,
+    "modrinthHash": "1bced77c70bbc1442412c397e1ca108627bda282"
+  },
   "Hwyla-1.8.26-B41_1.12.2.jar": {
     "jarName": "Hwyla-1.8.26-B41_1.12.2.jar",
     "modId": "waila",
