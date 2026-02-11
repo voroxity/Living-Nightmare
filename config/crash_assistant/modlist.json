@@ -289,12 +289,12 @@
     "curseForgeHash": 3275514886,
     "modrinthHash": "785ab6850800e22db48c9cb00fce532ac8675dfc"
   },
-  "MouseTweaks-2.10-mc1.12.2.jar": {
-    "jarName": "MouseTweaks-2.10-mc1.12.2.jar",
+  "mousetweaks-1.12.2-3.1.5.jar": {
+    "jarName": "mousetweaks-1.12.2-3.1.5.jar",
     "modId": "mousetweaks",
-    "version": "2.10",
-    "curseForgeHash": 533666569,
-    "modrinthHash": "0d3b0589021905b2eab8ba93805e9fdef463288e"
+    "version": "3.1.5",
+    "curseForgeHash": 2807017189,
+    "modrinthHash": "793920175608d000688a88fce14f4c04efdedc58"
   },
   "MrTJPCore-1.12.2-2.1.4.43-universal.jar": {
     "jarName": "MrTJPCore-1.12.2-2.1.4.43-universal.jar",
