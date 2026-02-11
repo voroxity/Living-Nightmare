@@ -39,6 +39,13 @@
     "curseForgeHash": 436445407,
     "modrinthHash": "21db670c715e2a24eda05bd0c1d3b834e3949857"
   },
+  "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
+    "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
+    "modId": "key_binding_patch",
+    "version": "1.3.3.3",
+    "curseForgeHash": 1044045050,
+    "modrinthHash": "9c4f758e158ae780dbf091d7c05e30eb13d8175f"
+  },
   "_MixinBootstrap-1.1.0.jar": {
     "jarName": "_MixinBootstrap-1.1.0.jar",
     "curseForgeHash": 2764134718,
@@ -92,6 +99,13 @@
     "version": "1.12.2-1.4.0",
     "curseForgeHash": 2072195003,
     "modrinthHash": "b47558862e4bb042ec8e851334b564b04388d35e"
+  },
+  "bogosorter-1.6.1.jar": {
+    "jarName": "bogosorter-1.6.1.jar",
+    "modId": "bogosorter",
+    "version": "1.6.1",
+    "curseForgeHash": 1576178836,
+    "modrinthHash": "35d11d6e3c01ca55ab6b03008c2ad3d0928f7f3a"
   },
   "brigo_forge-1.1.1+1.12.x.jar": {
     "jarName": "brigo_forge-1.1.1+1.12.x.jar",
@@ -156,6 +170,26 @@
     "curseForgeHash": 1477774991,
     "modrinthHash": "892e0788531269bfa2f356e4e12825e19d4e5412"
   },
+  "darkness-forge-1.12.x-0.5.0.jar": {
+    "jarName": "darkness-forge-1.12.x-0.5.0.jar",
+    "modId": "darkness",
+    "version": "0.5.0",
+    "curseForgeHash": 1235813334,
+    "modrinthHash": "e305092922affc619e2a7206a4949c24363fbf3d"
+  },
+  "DynamicLights-1.12.2.jar": {
+    "jarName": "DynamicLights-1.12.2.jar",
+    "modId": "DynamicLights",
+    "curseForgeHash": 2580720566,
+    "modrinthHash": "fd011557b484f764367b9bc9d93e22a5ab2051d1"
+  },
+  "DynamicSurroundings-1.12.2-3.6.1.0.jar": {
+    "jarName": "DynamicSurroundings-1.12.2-3.6.1.0.jar",
+    "modId": "dsurround",
+    "version": "1.12.2-3.6.1.0",
+    "curseForgeHash": 1977391340,
+    "modrinthHash": "3d5d62c9d44517991d19e165d2051209b2d06bf3"
+  },
   "ElevatorMod-1.12.2-1.3.14.jar": {
     "jarName": "ElevatorMod-1.12.2-1.3.14.jar",
     "modId": "elevatorid",
@@ -211,13 +245,6 @@
     "version": "1.12-2.1.8-63",
     "curseForgeHash": 1899009469,
     "modrinthHash": "095b3b85d05118602c7678beb1e56d26930fd0e7"
-  },
-  "HardcoreDarkness-MC1.12.2-2.0.jar": {
-    "jarName": "HardcoreDarkness-MC1.12.2-2.0.jar",
-    "modId": "hardcoredarkness",
-    "version": "2.0",
-    "curseForgeHash": 1381892724,
-    "modrinthHash": "1bced77c70bbc1442412c397e1ca108627bda282"
   },
   "Hwyla-1.8.26-B41_1.12.2.jar": {
     "jarName": "Hwyla-1.8.26-B41_1.12.2.jar",
@@ -331,6 +358,13 @@
     "curseForgeHash": 424401967,
     "modrinthHash": "d5e32554a78d95e40ecb85c32138531cb433f19f"
   },
+  "OreLib-1.12.2-3.6.0.1.jar": {
+    "jarName": "OreLib-1.12.2-3.6.0.1.jar",
+    "modId": "orelib",
+    "version": "1.12.2-3.6.0.1",
+    "curseForgeHash": 3666807815,
+    "modrinthHash": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8"
+  },
   "ProjectRed-1.12.2-4.9.4.120-Base.jar": {
     "jarName": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
     "modId": "projectred-core",
@@ -351,6 +385,13 @@
     "version": "4.9.4.120",
     "curseForgeHash": 3280433554,
     "modrinthHash": "41e17cd9ad1a6a27767df0a2366972f181d9ff89"
+  },
+  "relictium-1.2.0.jar": {
+    "jarName": "relictium-1.2.0.jar",
+    "modId": "vintagium",
+    "version": "1.2.0",
+    "curseForgeHash": 591948431,
+    "modrinthHash": "d8846857f6ff33052d9c754c01c61c9d49561a3d"
   },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
