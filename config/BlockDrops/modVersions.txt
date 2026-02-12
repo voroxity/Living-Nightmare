@@ -34,7 +34,6 @@
   "aquaacrobatics": "1.15.4",
   "brigo": "1.1.1",
   "key_binding_patch": "1.3.3.3",
-  "betterbiomeblend": "1.12.2-1.1.7-forge",
   "oreexcavation": "1.4.150",
   "mixingasm": "0.3",
   "projectred-transmission": "4.9.4.120",
