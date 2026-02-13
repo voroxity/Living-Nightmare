@@ -1,0 +1,24 @@
+{
+    "stats": {
+        "damage": 5,
+        "fireRate": 0.6,
+        "recoil": 3,
+        "gravity": 0.02,
+        "zoom": 0.9,
+        "group": "HANDGUN"
+    },
+    "shooting": {
+        "single": true,
+        "burst": 0,
+        "auto": true
+    },
+    "sound": {
+        "shoot": "aps",
+        "silencedShoot": "m9a1_silenced",
+        "reload": "aps_reload",
+        "unload": "pistol_unload",
+        "endOfShootSound": "gun_click",
+        "inspect": "inspection",
+        "draw": "handgun_draw"
+    }
+}
