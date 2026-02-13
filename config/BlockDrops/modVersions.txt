@@ -82,6 +82,7 @@
   "dynamiclights_flamearrows": "1.0.1",
   "jeiintegration": "1.6.0",
   "mantle": "1.12-1.3.3.55",
+  "pwem": "3.0",
   "fluxnetworks": "4.1.0",
   "storagedrawers": "5.5.3",
   "gtnhmixins": "2.2.0",

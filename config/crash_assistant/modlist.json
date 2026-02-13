@@ -386,6 +386,13 @@
     "curseForgeHash": 3280433554,
     "modrinthHash": "41e17cd9ad1a6a27767df0a2366972f181d9ff89"
   },
+  "PWEM-3.0.jar": {
+    "jarName": "PWEM-3.0.jar",
+    "modId": "pwem",
+    "version": "3.0",
+    "curseForgeHash": 2109433973,
+    "modrinthHash": "4d90c4ea435bd44dc50793b51168b8c62c9b5c6b"
+  },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
     "modId": "renderlib",
