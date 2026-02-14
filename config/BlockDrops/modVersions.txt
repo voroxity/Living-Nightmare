@@ -69,7 +69,7 @@
   "forge": "14.23.5.2864",
   "testdummy": "2.0.6",
   "orelib": "3.6.0.1",
-  "dsurround": "3.6.1.0",
+  "dsurround": "@VERSION@",
   "tellme": "0.7.0-dev.20200919.184303",
   "minecraft": "1.12.2",
   "tconstruct": "1.12.2-2.13.0.183",
