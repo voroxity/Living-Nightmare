@@ -1,0 +1,106 @@
+{
+  "packName": "default",
+  "version": "1.0",
+  "packManagerVersion": "1.3",
+  "globalParameters": {
+    "damageMultiplier": 1.0,
+    "recoilMultiplier": 1.0,
+    "hipFireSpread": 7.5
+  },
+  "gunConfigurations": [
+    {
+      "name": "exampleWeapon",
+      "enabled": true,
+      "damage": 8.0,
+      "recoil": 1.0,
+      "firerate": 0.5,
+      "inaccuracy": 0.0
+    }
+  ],
+  "categoryConfigurations": [
+    {
+      "group": "SNIPER_RIFLE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "CARBINE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "LONG_GUN",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "RIFLE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "SUBMACHINE_GUN",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "HANDGUN",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "HEAVY",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "NONE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "DMR",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "LONG_RANGE_RIFLES",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "ASSAULT_RIFLE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "BATTLE_RIFLE",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "SHOTGUN",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    },
+    {
+      "group": "MACHINE_GUN",
+      "damageMultiplier": 1.0,
+      "recoilMultiplier": 1.0,
+      "hipFireSpreadMultiplier": 1.0
+    }
+  ]
+}
