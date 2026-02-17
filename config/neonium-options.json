@@ -5,7 +5,7 @@
     "leaves_quality": "DEFAULT",
     "biome_blend_radius": 2,
     "entity_distance_scaling": 1.0,
-    "enable_vignette": true,
+    "enable_vignette": false,
     "enable_clouds": true,
     "smooth_lighting": "HIGH"
   },
