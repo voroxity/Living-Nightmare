@@ -39,13 +39,6 @@
     "curseForgeHash": 436445407,
     "modrinthHash": "21db670c715e2a24eda05bd0c1d3b834e3949857"
   },
-  "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
-    "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
-    "modId": "key_binding_patch",
-    "version": "1.3.3.3",
-    "curseForgeHash": 1044045050,
-    "modrinthHash": "9c4f758e158ae780dbf091d7c05e30eb13d8175f"
-  },
   "_MixinBootstrap-1.1.0.jar": {
     "jarName": "_MixinBootstrap-1.1.0.jar",
     "curseForgeHash": 2764134718,
@@ -93,13 +86,6 @@
     "curseForgeHash": 2072195003,
     "modrinthHash": "b47558862e4bb042ec8e851334b564b04388d35e"
   },
-  "bogosorter-1.6.1.jar": {
-    "jarName": "bogosorter-1.6.1.jar",
-    "modId": "bogosorter",
-    "version": "1.6.1",
-    "curseForgeHash": 1576178836,
-    "modrinthHash": "35d11d6e3c01ca55ab6b03008c2ad3d0928f7f3a"
-  },
   "brigo_forge-1.1.1+1.12.x.jar": {
     "jarName": "brigo_forge-1.1.1+1.12.x.jar",
     "modId": "brigo",
@@ -141,13 +127,6 @@
     "version": "3.0.12.4",
     "curseForgeHash": 100641208,
     "modrinthHash": "d588b1fefb912c1080d397834b6300e59409183c"
-  },
-  "corpse-1.12.2-1.0.8.jar": {
-    "jarName": "corpse-1.12.2-1.0.8.jar",
-    "modId": "corpse",
-    "version": "1.12.2-1.0.8",
-    "curseForgeHash": 3671212029,
-    "modrinthHash": "e367bec5785091dc9c928c1a95672a4774b0f0fd"
   },
   "CosmeticArmorReworked-1.12.2-v5a.jar": {
     "jarName": "CosmeticArmorReworked-1.12.2-v5a.jar",
@@ -239,6 +218,27 @@
     "curseForgeHash": 3090990458,
     "modrinthHash": "3306ea22380bc9b6a0170b23fa0251085d5a6e25"
   },
+  "FTBLib-5.4.7.2.jar": {
+    "jarName": "FTBLib-5.4.7.2.jar",
+    "modId": "ftblib",
+    "version": "5.4.7.2",
+    "curseForgeHash": 957833589,
+    "modrinthHash": "7c20cd223bc2334edf153e074f35acdbcab3c976"
+  },
+  "FTBUtilities-5.4.1.131.jar": {
+    "jarName": "FTBUtilities-5.4.1.131.jar",
+    "modId": "ftbutilities",
+    "version": "5.4.1.131",
+    "curseForgeHash": 679359278,
+    "modrinthHash": "d1f6545ac58ad895f2c8bcd0d4963d92f14b1938"
+  },
+  "gravestone-1.10.3.jar": {
+    "jarName": "gravestone-1.10.3.jar",
+    "modId": "gravestone",
+    "version": "1.10.3",
+    "curseForgeHash": 3366698974,
+    "modrinthHash": "b2cc9a25054fd6878ba242a6080a2866140bbeb0"
+  },
   "groovyscript-1.3.4.jar": {
     "jarName": "groovyscript-1.3.4.jar",
     "modId": "groovyscript",
@@ -259,6 +259,13 @@
     "version": "1.8.26",
     "curseForgeHash": 637705220,
     "modrinthHash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
+  },
+  "inventorysorter-1.12.2-1.13.3+57.jar": {
+    "jarName": "inventorysorter-1.12.2-1.13.3+57.jar",
+    "modId": "inventorysorter",
+    "version": "1.13.3+57",
+    "curseForgeHash": 3283463975,
+    "modrinthHash": "963c9943f0df194c0484ef038f2f7a7684b2d0e2"
   },
   "Jade-0.1.0.jar": {
     "jarName": "Jade-0.1.0.jar",
@@ -532,5 +539,12 @@
     "version": "1.2.2",
     "curseForgeHash": 2165807258,
     "modrinthHash": "0e4d2c453000370722e384eaca047958f898996f"
+  },
+  "yasleepvoting-1.0.0.jar": {
+    "jarName": "yasleepvoting-1.0.0.jar",
+    "modId": "yasleepvoting",
+    "version": "1.0.0",
+    "curseForgeHash": 344367081,
+    "modrinthHash": "8546bb7062a0ba8db94a7a250af5222df3c51f66"
   }
 }
