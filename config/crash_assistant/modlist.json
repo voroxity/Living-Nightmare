@@ -407,6 +407,13 @@
     "curseForgeHash": 3280433554,
     "modrinthHash": "41e17cd9ad1a6a27767df0a2366972f181d9ff89"
   },
+  "reap-1.5.2.jar": {
+    "jarName": "reap-1.5.2.jar",
+    "modId": "reap",
+    "version": "1.5.2",
+    "curseForgeHash": 3596857920,
+    "modrinthHash": "a1911be2c8b501d1b493e90d6fb3a447d20361f3"
+  },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
     "modId": "renderlib",

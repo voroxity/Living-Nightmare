@@ -60,6 +60,7 @@
   "jei": "4.16.1.301",
   "vintagium": "1.0",
   "dynamiclights_theplayer": "1.1.3",
+  "reap": "1.5.2",
   "mcp": "9.42",
   "unimixins-mixin": "0.2.1",
   "journeymap": "1.12.2-5.7.1p3",
