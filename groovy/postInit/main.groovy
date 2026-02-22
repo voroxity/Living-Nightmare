@@ -1,5 +1,6 @@
 
 log.info('postint loaded')
+furnace.add(item('hbm:sulfur'), item('minecraft:gunpowder'))
 ore_dict.remove('gunpowder', item('mwc:sulfur_dust'))
 ore_dict.remove('dustSulfur', item('mwc:sulfur_dust'))
 ore_dict.remove('ingotCopper', item('mwc:copper_ingot'))

@@ -14145,6 +14145,11 @@ fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -14160,11 +14165,6 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
 retro_sophisticated_backpacks:backpack_leather, Leather Backpack
@@ -14865,6 +14865,27 @@ srparasites:consumed_fence, Consumed Fence
 srparasites:bruisewood_fence, Bruisewood Fence
 srparasites:flesh_fence, Flesh Fence
 srparasites:cooked_flesh_fence, Cooked Flesh Fence
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -14915,27 +14936,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -15070,34 +15070,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -15987,62 +15987,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -16922,4 +16922,38 @@ environmentaltech:nano_cont_personal_4, Personal Nano Bot Beacon Tier 4
 environmentaltech:nano_cont_personal_5, Personal Nano Bot Beacon Tier 5
 environmentaltech:nano_cont_personal_6, Personal Nano Bot Beacon Tier 6
 testdummy:dummy, Test Dummy
+nae2:material:0, ME Void Storage Component
+nae2:material:1, §c256k§r ME Storage Component
+nae2:material:2, §61024k§r ME Storage Component
+nae2:material:3, §e4096k§r ME Storage Component
+nae2:material:4, §a16384k§r ME Storage Component
+nae2:material:5, §c256k§r ME Fluid Storage Component
+nae2:material:6, §61024k§r ME Fluid Storage Component
+nae2:material:7, §e4096k§r ME Fluid Storage Component
+nae2:material:8, §a16384k§r ME Fluid Storage Component
+nae2:virtual_pattern, item.nae2.virtual_pattern.name
+nae2:pattern_multiplier, Pattern Multi-Tool
+nae2:storage_cell_void, ME Void Storage Cell
+nae2:fluid_storage_cell_void, ME Fluid Void Storage Cell
+nae2:storage_cell_256k, §c256k§r ME Storage Cell
+nae2:storage_cell_1024k, §61024k§r ME Storage Cell
+nae2:storage_cell_4096k, §e4096k§r ME Storage Cell
+nae2:storage_cell_16384k, §a16384k§r ME Storage Cell
+nae2:storage_cell_fluid_256k, §c256k§r ME Fluid Storage Cell
+nae2:storage_cell_fluid_1024k, §61024k§r ME Fluid Storage Cell
+nae2:storage_cell_fluid_4096k, §e4096k§r ME Fluid Storage Cell
+nae2:storage_cell_fluid_16384k, §a16384k§r ME Fluid Storage Cell
+nae2:part:0, ME Beam Former
+nae2:part:2, ME Storage Exposer
+nae2:part:1, P2P Tunnel - ME Interface
+nae2:upgrade:0, Hyper-Acceleration Card
+nae2:upgrade:1, Job Auto-Complete Card
+nae2:storage_crafting_256k, §c256k§r Crafting Storage
+nae2:storage_crafting_1024k, §61024k§r Crafting Storage
+nae2:storage_crafting_4096k, §e4096k§r Crafting Storage
+nae2:storage_crafting_16384k, §a16384k§r Crafting Storage
+nae2:coprocessor_4x, §b4x§r Crafting Co-Processing Unit
+nae2:coprocessor_16x, §d16x§r Crafting Co-Processing Unit
+nae2:coprocessor_64x, §964x§r Crafting Co-Processing Unit
+nae2:exposer, ME Storage Exposer
 guideapi:woot-guide, item.guideapi.book.woot.guide.name

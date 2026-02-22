@@ -1308,6 +1308,154 @@
     {
       "input": ["minecraft:diamond_ore"],
       "output": ["hbm:gravel_diamond",2]
+    },
+    {
+      "input": ["appliedenergistics2:material",1,0],
+      "output": ["appliedenergistics2:material",1,2]
+    },
+    {
+      "input": ["appliedenergistics2:material",1,1],
+      "output": ["appliedenergistics2:material",1,2]
+    },
+    {
+      "input": ["appliedenergistics2:material",1,7],
+      "output": ["appliedenergistics2:material",1,8]
+    },
+    {
+      "input": ["chisel:limestone",1,0],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,1],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,2],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,3],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,4],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,5],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,6],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,7],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,8],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,9],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,10],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,11],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,12],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,13],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,14],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone",1,15],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,0],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,1],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,2],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,3],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,4],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,5],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,6],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,7],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,8],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone1",1,9],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,0],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,1],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,2],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,3],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,4],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,5],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,6],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["chisel:limestone2",1,7],
+      "output": ["hbm:powder_limestone",4]
     }
   ]
 }

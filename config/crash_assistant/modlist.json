@@ -344,6 +344,13 @@
     "curseForgeHash": 4068050300,
     "modrinthHash": "981382e6c623e8fe68cee07c8ee1f6f2c77b94dd"
   },
+  "nae2-1.6.4.jar": {
+    "jarName": "nae2-1.6.4.jar",
+    "modId": "nae2",
+    "version": "1.6.4",
+    "curseForgeHash": 2324987361,
+    "modrinthHash": "02018e1e520d478b2b82a63ddb679452957bd415"
+  },
   "NaturesCompass-1.12.2-1.8.5.jar": {
     "jarName": "NaturesCompass-1.12.2-1.8.5.jar",
     "modId": "naturescompass",
