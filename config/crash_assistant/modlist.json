@@ -51,6 +51,13 @@
     "curseForgeHash": 2199621341,
     "modrinthHash": "972169ccbb3c214108f7775fc9ffe9edea66a118"
   },
+  "ae2stuff-1.12.2-0.10.jar": {
+    "jarName": "ae2stuff-1.12.2-0.10.jar",
+    "modId": "ae2stuff",
+    "version": "0.10",
+    "curseForgeHash": 1277156106,
+    "modrinthHash": "bee5d1abcb2a5df0535fd217e2c62d3f6cb46803"
+  },
   "Alfheim-1.6.jar": {
     "jarName": "Alfheim-1.6.jar",
     "modId": "alfheim",
@@ -78,6 +85,13 @@
     "version": "1.15.4",
     "curseForgeHash": 2860985311,
     "modrinthHash": "098882484be6966b47af3615d43efb9a0f0adef5"
+  },
+  "bdlib-1.14.4.1-mc1.12.2.jar": {
+    "jarName": "bdlib-1.14.4.1-mc1.12.2.jar",
+    "modId": "bdlib",
+    "version": "1.14.4.1",
+    "curseForgeHash": 3999087316,
+    "modrinthHash": "6cb8cb1edc2897cf30f5071b04c29a2482d2b109"
   },
   "blockdrops-1.12.2-1.4.0.jar": {
     "jarName": "blockdrops-1.12.2-1.4.0.jar",
