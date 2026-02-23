@@ -7,6 +7,22 @@
       "name": "postInit.main",
       "path": "postInit/main.groovy",
       "lm": 1771694984242
+    },
+    {
+      "name": "postInit.repeating_logger",
+      "path": "postInit/repeating_logger.groovy",
+      "lm": 1771809809863,
+      "inner": [
+        "postInit.repeating_logger$_run_closure1",
+        "postInit.repeating_logger$_run_closure2",
+        "postInit.repeating_logger$_run_closure3",
+        "postInit.repeating_logger$_run_closure4",
+        "postInit.repeating_logger$_runAndCapture_closure5",
+        "postInit.repeating_logger$_appendToLog_closure6"
+      ],
+      "preprocessors": [
+        "debug_only"
+      ]
     }
   ]
 }
