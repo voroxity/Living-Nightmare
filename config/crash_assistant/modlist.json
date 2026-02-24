@@ -44,6 +44,13 @@
     "curseForgeHash": 2764134718,
     "modrinthHash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
   },
+  "AdvancedBackups-forge-1.12-3.7.1.jar": {
+    "jarName": "AdvancedBackups-forge-1.12-3.7.1.jar",
+    "modId": "advancedbackups",
+    "version": "3.7.1",
+    "curseForgeHash": 2099313081,
+    "modrinthHash": "43d4300e5804fb865dae402a2f6f302bdbdc1588"
+  },
   "ae2-uel-v0.56.7.jar": {
     "jarName": "ae2-uel-v0.56.7.jar",
     "modId": "appliedenergistics2",
@@ -434,6 +441,13 @@
     "version": "1.5.2",
     "curseForgeHash": 3596857920,
     "modrinthHash": "a1911be2c8b501d1b493e90d6fb3a447d20361f3"
+  },
+  "ReAuth-1.12-Forge-4.0.7.jar": {
+    "jarName": "ReAuth-1.12-Forge-4.0.7.jar",
+    "modId": "reauth",
+    "version": "4.0.7",
+    "curseForgeHash": 2194555961,
+    "modrinthHash": "faf758374f9ada273155f43d451829d8ec4c4bf0"
   },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
