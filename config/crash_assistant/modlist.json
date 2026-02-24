@@ -323,6 +323,20 @@
     "curseForgeHash": 537556958,
     "modrinthHash": "3d4c9b8bb4ad948c7e26b7becd1c836f8cb34d07"
   },
+  "malisiscore-1.12.2-6.5.1.jar": {
+    "jarName": "malisiscore-1.12.2-6.5.1.jar",
+    "modId": "malisiscore",
+    "version": "1.12.2-6.5.1-SNAPSHOT",
+    "curseForgeHash": 578924288,
+    "modrinthHash": "4b4a9fd82030ec2e31e64c9807779695323800c3"
+  },
+  "malisisdoors-1.12.2-7.3.0.jar": {
+    "jarName": "malisisdoors-1.12.2-7.3.0.jar",
+    "modId": "malisisdoors",
+    "version": "1.12.2-7.3.0",
+    "curseForgeHash": 2375017557,
+    "modrinthHash": "87e694ed0722b4106242faf5dd33f7e86929ec88"
+  },
   "Mantle-1.12-1.3.3.55.jar": {
     "jarName": "Mantle-1.12-1.3.3.55.jar",
     "modId": "mantle",

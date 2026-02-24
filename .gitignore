@@ -31,3 +31,7 @@ config/hbmConfig/_hbmFluidTraits.json
 /journeymap
 mods/temp mods.zip
 /config/tellme
+/fonts
+backups/restore-script.bat
+backups/restore-script.sh
+/backups
