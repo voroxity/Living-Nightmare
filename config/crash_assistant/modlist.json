@@ -183,6 +183,13 @@
     "curseForgeHash": 1105414388,
     "modrinthHash": "62fc23aa49ba392f4bbeb14ff0aae276ff3a27f4"
   },
+  "elegant-networking-1.12-3.14.jar": {
+    "jarName": "elegant-networking-1.12-3.14.jar",
+    "modId": "elegant_networking",
+    "version": "3.14",
+    "curseForgeHash": 2467861496,
+    "modrinthHash": "6e6b1db6ccaf7258043e4d67a5f935b44f2db650"
+  },
   "ElevatorMod-1.12.2-1.3.14.jar": {
     "jarName": "ElevatorMod-1.12.2-1.3.14.jar",
     "modId": "elevatorid",
@@ -344,6 +351,13 @@
     "curseForgeHash": 2810798110,
     "modrinthHash": "a1e5d5c197dae3e92637cafb8cd996185191165b"
   },
+  "mcheli-ce-1.4.2.jar": {
+    "jarName": "mcheli-ce-1.4.2.jar",
+    "modId": "mcheli",
+    "version": "1.4.2",
+    "curseForgeHash": 1002520210,
+    "modrinthHash": "2a9d11ff970dc0ec165874e55689b0a459af17c6"
+  },
   "MmmMmmMmmMmm-1.12-2.0.6.jar": {
     "jarName": "MmmMmmMmmMmm-1.12-2.0.6.jar",
     "modId": "testdummy",
@@ -407,12 +421,12 @@
     "curseForgeHash": 540719463,
     "modrinthHash": "7d5a32b1ef5d93457894cd6c75e066b6873bba79"
   },
-  "NTM-Space-1.12.2-0.8_TEMP.jar": {
-    "jarName": "NTM-Space-1.12.2-0.8_TEMP.jar",
+  "NTM-Space-1.12.2-0.9.jar": {
+    "jarName": "NTM-Space-1.12.2-0.9.jar",
     "modId": "hbmspace",
-    "version": "0.8",
-    "curseForgeHash": 1072357499,
-    "modrinthHash": "c5ffd33f232abef5340e5d2db4140a5acb207f13"
+    "version": "0.9",
+    "curseForgeHash": 1649333055,
+    "modrinthHash": "3d1d0c8e6e00f14eb2470896f26ede6ef69678f9"
   },
   "OreExcavation-1.4.150.jar": {
     "jarName": "OreExcavation-1.4.150.jar",
