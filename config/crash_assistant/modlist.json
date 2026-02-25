@@ -142,6 +142,20 @@
     "curseForgeHash": 2940918666,
     "modrinthHash": "b6a7e3b889c354216059a3bfad298e30a1e46a2d"
   },
+  "CoFHCore-1.12.2-4.6.6.1-universal.jar": {
+    "jarName": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "modId": "cofhcore",
+    "version": "4.6.6.1",
+    "curseForgeHash": 3315557568,
+    "modrinthHash": "4dd5aa3ff30d7966ae253556f79bb3f13bc5576e"
+  },
+  "CoFHWorld-1.12.2-1.4.0.1-universal.jar": {
+    "jarName": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "modId": "cofhworld",
+    "version": "1.4.0.1",
+    "curseForgeHash": 928719472,
+    "modrinthHash": "863e1524fe0087d434a5e44d27cc2dd0353b9399"
+  },
   "Controlling-3.0.12.4.jar": {
     "jarName": "Controlling-3.0.12.4.jar",
     "modId": "controlling",
@@ -421,12 +435,12 @@
     "curseForgeHash": 540719463,
     "modrinthHash": "7d5a32b1ef5d93457894cd6c75e066b6873bba79"
   },
-  "NTM-Space-1.12.2-0.9.jar": {
-    "jarName": "NTM-Space-1.12.2-0.9.jar",
+  "NTM-Space-1.12.2-0.8.jar": {
+    "jarName": "NTM-Space-1.12.2-0.8.jar",
     "modId": "hbmspace",
-    "version": "0.9",
-    "curseForgeHash": 1649333055,
-    "modrinthHash": "3d1d0c8e6e00f14eb2470896f26ede6ef69678f9"
+    "version": "0.8",
+    "curseForgeHash": 700483329,
+    "modrinthHash": "1c681d7d8aff08e13c0b2b6d7a007bb8bb21b1ef"
   },
   "OreExcavation-1.4.150.jar": {
     "jarName": "OreExcavation-1.4.150.jar",
@@ -476,6 +490,13 @@
     "version": "4.0.7",
     "curseForgeHash": 2194555961,
     "modrinthHash": "faf758374f9ada273155f43d451829d8ec4c4bf0"
+  },
+  "RedstoneFlux-1.12-2.1.1.1-universal.jar": {
+    "jarName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "modId": "redstoneflux",
+    "version": "2.1.1.1",
+    "curseForgeHash": 1893256567,
+    "modrinthHash": "7835c1dcc006e5d4a406a6b0615012b825e25044"
   },
   "RenderLib-1.12.2-1.4.5.jar": {
     "jarName": "RenderLib-1.12.2-1.4.5.jar",
@@ -546,6 +567,27 @@
     "version": "0.7.0-dev.20200919.184303",
     "curseForgeHash": 1980151138,
     "modrinthHash": "6e637d9047af361f8b64bfb2053f7da891938571"
+  },
+  "ThermalDynamics-1.12.2-2.5.6.1-universal.jar": {
+    "jarName": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+    "modId": "thermaldynamics",
+    "version": "2.5.6.1",
+    "curseForgeHash": 2554678431,
+    "modrinthHash": "691d7fafc4e104e41b878d8e1ce885785c995840"
+  },
+  "ThermalExpansion-1.12.2-5.5.7.1-universal.jar": {
+    "jarName": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "modId": "thermalexpansion",
+    "version": "5.5.7.1",
+    "curseForgeHash": 2287283150,
+    "modrinthHash": "3568d977c90987c58ad2c7cb3837c4ac8de49216"
+  },
+  "ThermalFoundation-1.12.2-2.6.7.1-universal.jar": {
+    "jarName": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+    "modId": "thermalfoundation",
+    "version": "2.6.7.1",
+    "curseForgeHash": 3785001149,
+    "modrinthHash": "6bd93897638fd68794cae17c9520b68a85fc97d0"
   },
   "tinkersjei-1.2.jar": {
     "jarName": "tinkersjei-1.2.jar",

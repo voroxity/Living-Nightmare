@@ -4355,12 +4355,8 @@ hbm:scraps:34, Foundry Scraps
 hbm:scraps:2800, Foundry Scraps
 hbm:scraps:3100, Foundry Scraps
 hbm:scraps:3000, Foundry Scraps
-hbm:scraps:7200, Foundry Scraps
 hbm:scraps:2993, Foundry Scraps
 hbm:scraps:7700, Foundry Scraps
-hbm:scraps:13800, Foundry Scraps
-hbm:scraps:13895, Foundry Scraps
-hbm:scraps:13851, Foundry Scraps
 hbm:scraps:24000, Foundry Scraps
 hbm:scraps:24001, Foundry Scraps
 hbm:scraps:24002, Foundry Scraps
@@ -4520,70 +4516,163 @@ hbm:casing:3, Large Weapon Steel Casing
 hbm:casing:4, Black Powder Shotshell Casing
 hbm:casing:5, Plastic Shotshell Casing
 hbm:casing:6, Advanced Shotshell Casing
-hbm:bedrock_ore_new:6, Light Metal Bedrock Ore (Earth)
-hbm:bedrock_ore_new:7, Heavy Metal Bedrock Ore (Earth)
-hbm:bedrock_ore_new:8, Non-Metal Bedrock Ore (Earth)
-hbm:bedrock_ore_new:9, Crystalline Bedrock Ore (Earth)
-hbm:bedrock_ore_new:10, Light Metal Bedrock Ore (Mun)
-hbm:bedrock_ore_new:11, Heavy Metal Bedrock Ore (Mun)
-hbm:bedrock_ore_new:12, Rare Earth Bedrock Ore (Mun)
-hbm:bedrock_ore_new:13, Non-Metal Bedrock Ore (Mun)
-hbm:bedrock_ore_new:14, Crystalline Bedrock Ore (Mun)
-hbm:bedrock_ore_new:15, Light Metal Bedrock Ore (Minmus)
-hbm:bedrock_ore_new:16, Heavy Metal Bedrock Ore (Minmus)
-hbm:bedrock_ore_new:17, Rare Earth Bedrock Ore (Minmus)
-hbm:bedrock_ore_new:18, Non-Metal Bedrock Ore (Minmus)
-hbm:bedrock_ore_new:19, Crystalline Bedrock Ore (Minmus)
-hbm:bedrock_ore_new:20, Light Metal Bedrock Ore (Duna)
-hbm:bedrock_ore_new:21, Heavy Metal Bedrock Ore (Duna)
-hbm:bedrock_ore_new:22, Rare Earth Bedrock Ore (Duna)
-hbm:bedrock_ore_new:23, Actinide Bedrock Ore (Duna)
-hbm:bedrock_ore_new:24, Non-Metal Bedrock Ore (Duna)
-hbm:bedrock_ore_new:25, Crystalline Bedrock Ore (Duna)
-hbm:bedrock_ore_new:26, Light Metal Bedrock Ore (Moho)
-hbm:bedrock_ore_new:27, Heavy Metal Bedrock Ore (Moho)
-hbm:bedrock_ore_new:28, Rare Earth Bedrock Ore (Moho)
-hbm:bedrock_ore_new:29, Actinide Bedrock Ore (Moho)
-hbm:bedrock_ore_new:30, Non-Metal Bedrock Ore (Moho)
-hbm:bedrock_ore_new:31, Crystalline Bedrock Ore (Moho)
-hbm:bedrock_ore_new:32, Light Metal Bedrock Ore (Dres)
-hbm:bedrock_ore_new:33, Heavy Metal Bedrock Ore (Dres)
-hbm:bedrock_ore_new:34, Rare Earth Bedrock Ore (Dres)
-hbm:bedrock_ore_new:35, Actinide Bedrock Ore (Dres)
-hbm:bedrock_ore_new:36, Non-Metal Bedrock Ore (Dres)
-hbm:bedrock_ore_new:37, Crystalline Bedrock Ore (Dres)
-hbm:bedrock_ore_new:38, Light Metal Bedrock Ore (Eve)
-hbm:bedrock_ore_new:39, Heavy Metal Bedrock Ore (Eve)
-hbm:bedrock_ore_new:40, Rare Earth Bedrock Ore (Eve)
-hbm:bedrock_ore_new:41, Actinide Bedrock Ore (Eve)
-hbm:bedrock_ore_new:42, Schrabidic Bedrock Ore (Eve)
-hbm:bedrock_ore_new:43, Crystalline Bedrock Ore (Eve)
-hbm:bedrock_ore_new:44, Light Metal Bedrock Ore (Ike)
-hbm:bedrock_ore_new:45, Heavy Metal Bedrock Ore (Ike)
-hbm:bedrock_ore_new:46, Rare Earth Bedrock Ore (Ike)
-hbm:bedrock_ore_new:47, Hazardous Waste Bedrock Ore (Ike)
-hbm:bedrock_ore_new:48, Light Metal Bedrock Ore (Laythe)
-hbm:bedrock_ore_new:49, Heavy Metal Bedrock Ore (Laythe)
-hbm:bedrock_ore_new:50, Rare Earth Bedrock Ore (Laythe)
-hbm:bedrock_ore_new:51, Actinide Bedrock Ore (Laythe)
-hbm:bedrock_ore_new:52, Non-Metal Bedrock Ore (Laythe)
-hbm:bedrock_ore_new:53, Crystalline Bedrock Ore (Laythe)
-hbm:bedrock_ore_new:54, Light Metal Bedrock Ore (Tekto)
-hbm:bedrock_ore_new:55, Heavy Metal Bedrock Ore (Tekto)
-hbm:bedrock_ore_new:56, Rare Earth Bedrock Ore (Tekto)
-hbm:bedrock_ore_new:57, Actinide Bedrock Ore (Tekto)
-hbm:bedrock_ore_new:58, Crystalline Bedrock Ore (Tekto)
-hbm:bedrock_ore_new:59, Plastic Bedrock Ore (Tekto)
-hbm:bedrock_ore_base:1, Raw Bedrock Ore
-hbm:bedrock_ore_base:2, Raw Bedrock Ore
-hbm:bedrock_ore_base:3, Raw Bedrock Ore
-hbm:bedrock_ore_base:4, Raw Bedrock Ore
-hbm:bedrock_ore_base:5, Raw Bedrock Ore
-hbm:bedrock_ore_base:6, Raw Bedrock Ore
-hbm:bedrock_ore_base:7, Raw Bedrock Ore
-hbm:bedrock_ore_base:8, Raw Bedrock Ore
-hbm:bedrock_ore_base:9, Raw Bedrock Ore
-hbm:bedrock_ore_base:10, Raw Bedrock Ore
+hbm:bedrock_ore_new:0, Light Metal Bedrock Ore
+hbm:bedrock_ore_new:16, Roasted Light Metal Bedrock Ore
+hbm:bedrock_ore_new:32, Washed Light Metal Bedrock Ore
+hbm:bedrock_ore_new:48, Light Metal Bedrock Ore, Primary Fraction
+hbm:bedrock_ore_new:64, Light Metal Bedrock Ore, Roasted Primary Fraction
+hbm:bedrock_ore_new:80, Light Metal Bedrock Ore, Sulfuric Primary Fraction
+hbm:bedrock_ore_new:96, Light Metal Bedrock Ore, Separated Sulfuric Primary Fraction
+hbm:bedrock_ore_new:112, Light Metal Bedrock Ore, Dissolved Primary Fraction
+hbm:bedrock_ore_new:128, Light Metal Bedrock Ore, Separated Dissolved Primary Fraction
+hbm:bedrock_ore_new:144, Light Metal Bedrock Ore, Cleaned Primary Fraction
+hbm:bedrock_ore_new:160, Light Metal Bedrock Ore, Separated Cleaned Primary Fraction
+hbm:bedrock_ore_new:176, Light Metal Bedrock Ore, Primary Fraction, Higher Weight
+hbm:bedrock_ore_new:192, Light Metal Bedrock Ore, Primary Fraction, Lower Weight
+hbm:bedrock_ore_new:208, Light Metal Bedrock Ore Crumbs
+hbm:bedrock_ore_new:224, Light Metal Bedrock Ore, Sulfuric Byproduct
+hbm:bedrock_ore_new:240, Light Metal Bedrock Ore, Roasted Sulfuric Byproduct
+hbm:bedrock_ore_new:256, Light Metal Bedrock Ore, Seared Sulfuric Byproduct
+hbm:bedrock_ore_new:272, Light Metal Bedrock Ore, Washed Sulfuric Byproduct
+hbm:bedrock_ore_new:288, Light Metal Bedrock Ore, Dissolved Byproduct
+hbm:bedrock_ore_new:304, Light Metal Bedrock Ore, Roasted Dissolved Byproduct
+hbm:bedrock_ore_new:320, Light Metal Bedrock Ore, Seared Dissolved Byproduct
+hbm:bedrock_ore_new:336, Light Metal Bedrock Ore, Washed Dissolved Byproduct
+hbm:bedrock_ore_new:352, Light Metal Bedrock Ore, Cleaned Byproduct
+hbm:bedrock_ore_new:368, Light Metal Bedrock Ore, Roasted Cleaned Byproduct
+hbm:bedrock_ore_new:384, Light Metal Bedrock Ore, Seared Cleaned Byproduct
+hbm:bedrock_ore_new:400, Light Metal Bedrock Ore, Washed Cleaned Byproduct
+hbm:bedrock_ore_new:1, Heavy Metal Bedrock Ore
+hbm:bedrock_ore_new:17, Roasted Heavy Metal Bedrock Ore
+hbm:bedrock_ore_new:33, Washed Heavy Metal Bedrock Ore
+hbm:bedrock_ore_new:49, Heavy Metal Bedrock Ore, Primary Fraction
+hbm:bedrock_ore_new:65, Heavy Metal Bedrock Ore, Roasted Primary Fraction
+hbm:bedrock_ore_new:81, Heavy Metal Bedrock Ore, Sulfuric Primary Fraction
+hbm:bedrock_ore_new:97, Heavy Metal Bedrock Ore, Separated Sulfuric Primary Fraction
+hbm:bedrock_ore_new:113, Heavy Metal Bedrock Ore, Dissolved Primary Fraction
+hbm:bedrock_ore_new:129, Heavy Metal Bedrock Ore, Separated Dissolved Primary Fraction
+hbm:bedrock_ore_new:145, Heavy Metal Bedrock Ore, Cleaned Primary Fraction
+hbm:bedrock_ore_new:161, Heavy Metal Bedrock Ore, Separated Cleaned Primary Fraction
+hbm:bedrock_ore_new:177, Heavy Metal Bedrock Ore, Primary Fraction, Higher Weight
+hbm:bedrock_ore_new:193, Heavy Metal Bedrock Ore, Primary Fraction, Lower Weight
+hbm:bedrock_ore_new:209, Heavy Metal Bedrock Ore Crumbs
+hbm:bedrock_ore_new:225, Heavy Metal Bedrock Ore, Sulfuric Byproduct
+hbm:bedrock_ore_new:241, Heavy Metal Bedrock Ore, Roasted Sulfuric Byproduct
+hbm:bedrock_ore_new:257, Heavy Metal Bedrock Ore, Seared Sulfuric Byproduct
+hbm:bedrock_ore_new:273, Heavy Metal Bedrock Ore, Washed Sulfuric Byproduct
+hbm:bedrock_ore_new:289, Heavy Metal Bedrock Ore, Dissolved Byproduct
+hbm:bedrock_ore_new:305, Heavy Metal Bedrock Ore, Roasted Dissolved Byproduct
+hbm:bedrock_ore_new:321, Heavy Metal Bedrock Ore, Seared Dissolved Byproduct
+hbm:bedrock_ore_new:337, Heavy Metal Bedrock Ore, Washed Dissolved Byproduct
+hbm:bedrock_ore_new:353, Heavy Metal Bedrock Ore, Cleaned Byproduct
+hbm:bedrock_ore_new:369, Heavy Metal Bedrock Ore, Roasted Cleaned Byproduct
+hbm:bedrock_ore_new:385, Heavy Metal Bedrock Ore, Seared Cleaned Byproduct
+hbm:bedrock_ore_new:401, Heavy Metal Bedrock Ore, Washed Cleaned Byproduct
+hbm:bedrock_ore_new:2, Rare Earth Bedrock Ore
+hbm:bedrock_ore_new:18, Roasted Rare Earth Bedrock Ore
+hbm:bedrock_ore_new:34, Washed Rare Earth Bedrock Ore
+hbm:bedrock_ore_new:50, Rare Earth Bedrock Ore, Primary Fraction
+hbm:bedrock_ore_new:66, Rare Earth Bedrock Ore, Roasted Primary Fraction
+hbm:bedrock_ore_new:82, Rare Earth Bedrock Ore, Sulfuric Primary Fraction
+hbm:bedrock_ore_new:98, Rare Earth Bedrock Ore, Separated Sulfuric Primary Fraction
+hbm:bedrock_ore_new:114, Rare Earth Bedrock Ore, Dissolved Primary Fraction
+hbm:bedrock_ore_new:130, Rare Earth Bedrock Ore, Separated Dissolved Primary Fraction
+hbm:bedrock_ore_new:146, Rare Earth Bedrock Ore, Cleaned Primary Fraction
+hbm:bedrock_ore_new:162, Rare Earth Bedrock Ore, Separated Cleaned Primary Fraction
+hbm:bedrock_ore_new:178, Rare Earth Bedrock Ore, Primary Fraction, Higher Weight
+hbm:bedrock_ore_new:194, Rare Earth Bedrock Ore, Primary Fraction, Lower Weight
+hbm:bedrock_ore_new:210, Rare Earth Bedrock Ore Crumbs
+hbm:bedrock_ore_new:226, Rare Earth Bedrock Ore, Sulfuric Byproduct
+hbm:bedrock_ore_new:242, Rare Earth Bedrock Ore, Roasted Sulfuric Byproduct
+hbm:bedrock_ore_new:258, Rare Earth Bedrock Ore, Seared Sulfuric Byproduct
+hbm:bedrock_ore_new:274, Rare Earth Bedrock Ore, Washed Sulfuric Byproduct
+hbm:bedrock_ore_new:290, Rare Earth Bedrock Ore, Dissolved Byproduct
+hbm:bedrock_ore_new:306, Rare Earth Bedrock Ore, Roasted Dissolved Byproduct
+hbm:bedrock_ore_new:322, Rare Earth Bedrock Ore, Seared Dissolved Byproduct
+hbm:bedrock_ore_new:338, Rare Earth Bedrock Ore, Washed Dissolved Byproduct
+hbm:bedrock_ore_new:354, Rare Earth Bedrock Ore, Cleaned Byproduct
+hbm:bedrock_ore_new:370, Rare Earth Bedrock Ore, Roasted Cleaned Byproduct
+hbm:bedrock_ore_new:386, Rare Earth Bedrock Ore, Seared Cleaned Byproduct
+hbm:bedrock_ore_new:402, Rare Earth Bedrock Ore, Washed Cleaned Byproduct
+hbm:bedrock_ore_new:3, Actinide Bedrock Ore
+hbm:bedrock_ore_new:19, Roasted Actinide Bedrock Ore
+hbm:bedrock_ore_new:35, Washed Actinide Bedrock Ore
+hbm:bedrock_ore_new:51, Actinide Bedrock Ore, Primary Fraction
+hbm:bedrock_ore_new:67, Actinide Bedrock Ore, Roasted Primary Fraction
+hbm:bedrock_ore_new:83, Actinide Bedrock Ore, Sulfuric Primary Fraction
+hbm:bedrock_ore_new:99, Actinide Bedrock Ore, Separated Sulfuric Primary Fraction
+hbm:bedrock_ore_new:115, Actinide Bedrock Ore, Dissolved Primary Fraction
+hbm:bedrock_ore_new:131, Actinide Bedrock Ore, Separated Dissolved Primary Fraction
+hbm:bedrock_ore_new:147, Actinide Bedrock Ore, Cleaned Primary Fraction
+hbm:bedrock_ore_new:163, Actinide Bedrock Ore, Separated Cleaned Primary Fraction
+hbm:bedrock_ore_new:179, Actinide Bedrock Ore, Primary Fraction, Higher Weight
+hbm:bedrock_ore_new:195, Actinide Bedrock Ore, Primary Fraction, Lower Weight
+hbm:bedrock_ore_new:211, Actinide Bedrock Ore Crumbs
+hbm:bedrock_ore_new:227, Actinide Bedrock Ore, Sulfuric Byproduct
+hbm:bedrock_ore_new:243, Actinide Bedrock Ore, Roasted Sulfuric Byproduct
+hbm:bedrock_ore_new:259, Actinide Bedrock Ore, Seared Sulfuric Byproduct
+hbm:bedrock_ore_new:275, Actinide Bedrock Ore, Washed Sulfuric Byproduct
+hbm:bedrock_ore_new:291, Actinide Bedrock Ore, Dissolved Byproduct
+hbm:bedrock_ore_new:307, Actinide Bedrock Ore, Roasted Dissolved Byproduct
+hbm:bedrock_ore_new:323, Actinide Bedrock Ore, Seared Dissolved Byproduct
+hbm:bedrock_ore_new:339, Actinide Bedrock Ore, Washed Dissolved Byproduct
+hbm:bedrock_ore_new:355, Actinide Bedrock Ore, Cleaned Byproduct
+hbm:bedrock_ore_new:371, Actinide Bedrock Ore, Roasted Cleaned Byproduct
+hbm:bedrock_ore_new:387, Actinide Bedrock Ore, Seared Cleaned Byproduct
+hbm:bedrock_ore_new:403, Actinide Bedrock Ore, Washed Cleaned Byproduct
+hbm:bedrock_ore_new:4, Non-Metal Bedrock Ore
+hbm:bedrock_ore_new:20, Roasted Non-Metal Bedrock Ore
+hbm:bedrock_ore_new:36, Washed Non-Metal Bedrock Ore
+hbm:bedrock_ore_new:52, Non-Metal Bedrock Ore, Primary Fraction
+hbm:bedrock_ore_new:68, Non-Metal Bedrock Ore, Roasted Primary Fraction
+hbm:bedrock_ore_new:84, Non-Metal Bedrock Ore, Sulfuric Primary Fraction
+hbm:bedrock_ore_new:100, Non-Metal Bedrock Ore, Separated Sulfuric Primary Fraction
+hbm:bedrock_ore_new:116, Non-Metal Bedrock Ore, Dissolved Primary Fraction
+hbm:bedrock_ore_new:132, Non-Metal Bedrock Ore, Separated Dissolved Primary Fraction
+hbm:bedrock_ore_new:148, Non-Metal Bedrock Ore, Cleaned Primary Fraction
+hbm:bedrock_ore_new:164, Non-Metal Bedrock Ore, Separated Cleaned Primary Fraction
+hbm:bedrock_ore_new:180, Non-Metal Bedrock Ore, Primary Fraction, Higher Weight
+hbm:bedrock_ore_new:196, Non-Metal Bedrock Ore, Primary Fraction, Lower Weight
+hbm:bedrock_ore_new:212, Non-Metal Bedrock Ore Crumbs
+hbm:bedrock_ore_new:228, Non-Metal Bedrock Ore, Sulfuric Byproduct
+hbm:bedrock_ore_new:244, Non-Metal Bedrock Ore, Roasted Sulfuric Byproduct
+hbm:bedrock_ore_new:260, Non-Metal Bedrock Ore, Seared Sulfuric Byproduct
+hbm:bedrock_ore_new:276, Non-Metal Bedrock Ore, Washed Sulfuric Byproduct
+hbm:bedrock_ore_new:292, Non-Metal Bedrock Ore, Dissolved Byproduct
+hbm:bedrock_ore_new:308, Non-Metal Bedrock Ore, Roasted Dissolved Byproduct
+hbm:bedrock_ore_new:324, Non-Metal Bedrock Ore, Seared Dissolved Byproduct
+hbm:bedrock_ore_new:340, Non-Metal Bedrock Ore, Washed Dissolved Byproduct
+hbm:bedrock_ore_new:356, Non-Metal Bedrock Ore, Cleaned Byproduct
+hbm:bedrock_ore_new:372, Non-Metal Bedrock Ore, Roasted Cleaned Byproduct
+hbm:bedrock_ore_new:388, Non-Metal Bedrock Ore, Seared Cleaned Byproduct
+hbm:bedrock_ore_new:404, Non-Metal Bedrock Ore, Washed Cleaned Byproduct
+hbm:bedrock_ore_new:5, Crystalline Bedrock Ore
+hbm:bedrock_ore_new:21, Roasted Crystalline Bedrock Ore
+hbm:bedrock_ore_new:37, Washed Crystalline Bedrock Ore
+hbm:bedrock_ore_new:53, Crystalline Bedrock Ore, Primary Fraction
+hbm:bedrock_ore_new:69, Crystalline Bedrock Ore, Roasted Primary Fraction
+hbm:bedrock_ore_new:85, Crystalline Bedrock Ore, Sulfuric Primary Fraction
+hbm:bedrock_ore_new:101, Crystalline Bedrock Ore, Separated Sulfuric Primary Fraction
+hbm:bedrock_ore_new:117, Crystalline Bedrock Ore, Dissolved Primary Fraction
+hbm:bedrock_ore_new:133, Crystalline Bedrock Ore, Separated Dissolved Primary Fraction
+hbm:bedrock_ore_new:149, Crystalline Bedrock Ore, Cleaned Primary Fraction
+hbm:bedrock_ore_new:165, Crystalline Bedrock Ore, Separated Cleaned Primary Fraction
+hbm:bedrock_ore_new:181, Crystalline Bedrock Ore, Primary Fraction, Higher Weight
+hbm:bedrock_ore_new:197, Crystalline Bedrock Ore, Primary Fraction, Lower Weight
+hbm:bedrock_ore_new:213, Crystalline Bedrock Ore Crumbs
+hbm:bedrock_ore_new:229, Crystalline Bedrock Ore, Sulfuric Byproduct
+hbm:bedrock_ore_new:245, Crystalline Bedrock Ore, Roasted Sulfuric Byproduct
+hbm:bedrock_ore_new:261, Crystalline Bedrock Ore, Seared Sulfuric Byproduct
+hbm:bedrock_ore_new:277, Crystalline Bedrock Ore, Washed Sulfuric Byproduct
+hbm:bedrock_ore_new:293, Crystalline Bedrock Ore, Dissolved Byproduct
+hbm:bedrock_ore_new:309, Crystalline Bedrock Ore, Roasted Dissolved Byproduct
+hbm:bedrock_ore_new:325, Crystalline Bedrock Ore, Seared Dissolved Byproduct
+hbm:bedrock_ore_new:341, Crystalline Bedrock Ore, Washed Dissolved Byproduct
+hbm:bedrock_ore_new:357, Crystalline Bedrock Ore, Cleaned Byproduct
+hbm:bedrock_ore_new:373, Crystalline Bedrock Ore, Roasted Cleaned Byproduct
+hbm:bedrock_ore_new:389, Crystalline Bedrock Ore, Seared Cleaned Byproduct
+hbm:bedrock_ore_new:405, Crystalline Bedrock Ore, Washed Cleaned Byproduct
+hbm:bedrock_ore_base, Raw Bedrock Ore
 hbm:bedrock_ore_fragment:600, Coal Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:601, Lignite Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1430, Diamond Bedrock Ore Fragment
@@ -4627,22 +4716,10 @@ hbm:bedrock_ore_fragment:8001, Cinnabar Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1400, Silicon Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1401, Asbestos Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:20000, Rare Earth Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:20001, Polymer Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:20003, Rubber Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:20005, PVC Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:5, Glowstone Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:1402, Quartz Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:1501, White Phosphorus Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:2800, Nickel Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:2800, hbmmat.nickelpure Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:3100, Gallium Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:3000, Zinc Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:3500, Bromine Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:5300, Iodine Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:7200, Hafnium Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:13800, Australium Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:13895, Tasmanite Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:13851, Ayerite Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:24003, Semtex Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:24003, hbmmat.semtex Bedrock Ore Fragment
 hbm:chunk_ore:0, Rare Earth Ore Chunk
 hbm:chunk_ore:1, Malachite Chunk
 hbm:chunk_ore:2, Cryolite Chunk
@@ -7879,7 +7956,6 @@ hbmspace:hard_drive_full:6, Hard Drive
 hbmspace:hard_drive_full:7, Hard Drive
 hbmspace:hard_drive_full:8, Hard Drive
 hbmspace:hard_drive_full:9, Hard Drive
-hbmspace:hard_drive_full:10, Hard Drive
 hbmspace:circuit:0, Printed GaAs Wafer
 hbmspace:circuit:1, Avionics Circuit Board
 hbmspace:circuit:2, Avionics Unit
@@ -7952,8 +8028,8 @@ hbmspace:stick_vinyl, Vinyl Stick
 hbmspace:sat_dyson_relay, Satellite Dyson Relay
 hbmspace:sat_war, item.sat_war.name
 hbmspace:scuttertail, Scuttertail
-hbmspace:rubber_leaf, item.rubber_leaf.name
-hbmspace:pet_leaf, item.pet_leaf.name
+hbmspace:rubber_leaves, Rubber Leaves
+hbmspace:pet_leaves, Plastic Leaves
 hbmspace:powder_rubber, Rubber Powder
 hbmspace:powder_pvc, PVC Powder
 hbmspace:ingot_nickel, Nickel Ingot
@@ -8123,11 +8199,6 @@ hbmspace:block_osmiridium, Block of Osmiridium
 hbmspace:deco_stainless, Stainless Steel Deco Block
 hbmspace:stone_resource:0, Conglomerate
 hbmspace:stone_resource:1, Calcium
-hbmspace:rubber_tall:0, Tall Rubber Plant
-hbmspace:rubber_tall:1, Tall Rubber Plant
-hbmspace:rubber_tall:2, Tall Rubber Plant
-hbmspace:vinyl_sand, Vinyl Sand
-hbmspace:vinyl_vine, Vinyl Vines
 hbmspace:vinyl_log, Hardened Vinyl Log
 hbmspace:pvc_log, PVC Log
 hbmspace:vinyl_planks, Vinyl Planks
@@ -8158,7 +8229,6 @@ hbmspace:machine_alkylation, Alkylation Unit
 hbmspace:machine_solar, Solar Panel
 hbmspace:air_vent, Air Vent
 hbmspace:air_scrubber, CO2 Scrubber
-hbmspace:algae_film, Microgravity Algae Film
 hbmspace:hydrobay, Industrial Greenhouse
 hbmspace:machine_cryo_distill, Cryogenic Distillation Machine
 hbmspace:machine_milk_reformer, Dairy Processing Tank
@@ -8169,44 +8239,19 @@ hbmspace:machine_discharger, Matter Discharging Device (LEGACY)
 hbmspace:machine_atmo_tower, Atmospheric Liquefaction Tower
 hbmspace:machine_atmo_vent, Atmospheric Compressor
 hbmspace:gas_dock, Gas Giant Harvester
-hbmspace:orrery, Orrery
 hbmspace:rbmk_burner, RBMK Fluid Burner
 hbmspace:dyson_launcher, Dyson Spinlauncher
 hbmspace:dyson_receiver, Dyson Receiver
 hbmspace:dyson_converter_tu, Dyson Heat Converter
 hbmspace:dyson_converter_he, Dyson Power Converter
 hbmspace:dyson_converter_anatmogenesis, Dyson Anatmogenesis Terraformer
-hbmspace:geysir_electric, Discharge Geyser
-hbmspace:geysir_chloric, DCM Geysir
-hbmspace:sapling:0, Vinyl Sapling
-hbmspace:sapling:1, Plastic Sapling
-hbmspace:laythe_kelp, Laythe Kelp
-hbmspace:plant_tall_laythe:0, Saltgrass
-hbmspace:laythe_seagrass:0, tile.laythe_seagrass_0.name
-hbmspace:laythe_glowgrass:0, tile.laythe_glowgrass_0.name
 hbmspace:crop_strawberry, Strawberries
 hbmspace:crop_mint, Mint
 hbmspace:crop_coffee, Coffee
 hbmspace:crop_tea, Tea
 hbmspace:crop_paraffin, Wax Crop
-hbmspace:laythe_coral:0, Laythe Coral
-hbmspace:laythe_coral:1, Laythe Coral
-hbmspace:laythe_coral:2, Laythe Coral
-hbmspace:laythe_coral:3, Laythe Coral
-hbmspace:laythe_coral:4, Laythe Coral
-hbmspace:laythe_coral_block:0, Block of Laythe Coral
-hbmspace:laythe_coral_block:1, Block of Laythe Coral
-hbmspace:laythe_coral_block:2, Block of Laythe Coral
-hbmspace:laythe_coral_block:3, Block of Laythe Coral
-hbmspace:laythe_coral_block:4, Block of Laythe Coral
 hbmspace:rubber_farmland, Tekto Farmland
-hbmspace:rubber_plant:0, Short Rubber Plant
-hbmspace:rubber_plant:1, Short Rubber Plant
-hbmspace:rubber_plant:2, Short Rubber Plant
-hbmspace:rubber_grass, Rubber Grass
-hbmspace:rubber_leaves, Rubber Leaves
 hbmspace:rubber_silt, Tekto Silt
-hbmspace:pet_leaves, Plastic Leaves
 hbmspace:ccl_block, CCL
 hbmspace:dummy_beam, Integrated Lamp
 hbmspace:furnace, Furnace
@@ -8548,6 +8593,1621 @@ projectred-illumination:inverted_cage_lamp:12, Inverted Brown Cage Lamp
 projectred-illumination:inverted_cage_lamp:13, Inverted Green Cage Lamp
 projectred-illumination:inverted_cage_lamp:14, Inverted Red Cage Lamp
 projectred-illumination:inverted_cage_lamp:15, Inverted Black Cage Lamp
+thermalfoundation:ore:0, Copper Ore
+thermalfoundation:ore:1, Tin Ore
+thermalfoundation:ore:2, Silver Ore
+thermalfoundation:ore:3, Lead Ore
+thermalfoundation:ore:4, Aluminum Ore
+thermalfoundation:ore:5, Nickel Ore
+thermalfoundation:ore:6, Platinum Ore
+thermalfoundation:ore:7, Iridium Ore
+thermalfoundation:ore:8, Mana Infused Ore
+thermalfoundation:ore_fluid:0, Oil Sand
+thermalfoundation:ore_fluid:1, Oil Shale
+thermalfoundation:ore_fluid:2, Destabilized Redstone Ore
+thermalfoundation:ore_fluid:3, Energized Netherrack
+thermalfoundation:ore_fluid:4, Resonant End Stone
+thermalfoundation:ore_fluid:5, Oil Sand
+thermalfoundation:storage:0, Block of Copper
+thermalfoundation:storage:1, Block of Tin
+thermalfoundation:storage:2, Block of Silver
+thermalfoundation:storage:3, Block of Lead
+thermalfoundation:storage:4, Block of Aluminum
+thermalfoundation:storage:5, Block of Nickel
+thermalfoundation:storage:6, Block of Platinum
+thermalfoundation:storage:7, Block of Iridium
+thermalfoundation:storage:8, Block of Mana Infused Metal
+thermalfoundation:storage_alloy:0, Block of Steel
+thermalfoundation:storage_alloy:1, Block of Electrum
+thermalfoundation:storage_alloy:2, Block of Invar
+thermalfoundation:storage_alloy:3, Block of Bronze
+thermalfoundation:storage_alloy:4, Block of Constantan
+thermalfoundation:storage_alloy:5, Block of Signalum
+thermalfoundation:storage_alloy:6, Block of Lumium
+thermalfoundation:storage_alloy:7, Block of Enderium
+thermalfoundation:storage_resource:0, Block of Charcoal
+thermalfoundation:storage_resource:1, Block of Coal Coke
+thermalfoundation:glass:0, Hardened Copper Glass
+thermalfoundation:glass:1, Hardened Tin Glass
+thermalfoundation:glass:2, Hardened Silver Glass
+thermalfoundation:glass:3, Hardened Glass
+thermalfoundation:glass:4, Hardened Aluminum Glass
+thermalfoundation:glass:5, Hardened Nickel Glass
+thermalfoundation:glass:6, Hardened Platinum Glass
+thermalfoundation:glass:7, Hardened Iridium Glass
+thermalfoundation:glass:8, Hardened Mana Infused Glass
+thermalfoundation:glass_alloy:0, Hardened Steel Glass
+thermalfoundation:glass_alloy:1, Hardened Electrum Glass
+thermalfoundation:glass_alloy:2, Hardened Invar Glass
+thermalfoundation:glass_alloy:3, Hardened Bronze Glass
+thermalfoundation:glass_alloy:4, Hardened Constantan Glass
+thermalfoundation:glass_alloy:5, Hardened Signalum Glass
+thermalfoundation:glass_alloy:6, Hardened Lumium Glass
+thermalfoundation:glass_alloy:7, Hardened Enderium Glass
+thermalfoundation:rockwool:0, Black Rockwool
+thermalfoundation:rockwool:1, Red Rockwool
+thermalfoundation:rockwool:2, Green Rockwool
+thermalfoundation:rockwool:3, Brown Rockwool
+thermalfoundation:rockwool:4, Blue Rockwool
+thermalfoundation:rockwool:5, Purple Rockwool
+thermalfoundation:rockwool:6, Cyan Rockwool
+thermalfoundation:rockwool:7, Light Gray Rockwool
+thermalfoundation:rockwool:8, Gray Rockwool
+thermalfoundation:rockwool:9, Pink Rockwool
+thermalfoundation:rockwool:10, Lime Rockwool
+thermalfoundation:rockwool:11, Yellow Rockwool
+thermalfoundation:rockwool:12, Light Blue Rockwool
+thermalfoundation:rockwool:13, Magenta Rockwool
+thermalfoundation:rockwool:14, Orange Rockwool
+thermalfoundation:rockwool:15, White Rockwool
+thermalfoundation:wrench:0, Crescent Hammer
+thermalfoundation:meter:0, Multimeter
+thermalfoundation:upgrade:0, Hardened Upgrade Kit
+thermalfoundation:upgrade:1, Reinforced Upgrade Kit
+thermalfoundation:upgrade:2, Signalum Upgrade Kit
+thermalfoundation:upgrade:3, Resonant Upgrade Kit
+thermalfoundation:upgrade:33, Reinforced Conversion Kit
+thermalfoundation:upgrade:34, Signalum Conversion Kit
+thermalfoundation:upgrade:35, Resonant Conversion Kit
+thermalfoundation:upgrade:256, Creative Conversion Kit
+thermalfoundation:security:0, Signalum Security Lock
+thermalfoundation:diagram_redprint, Redprint
+thermalfoundation:tome_lexicon, Forge Lexicon
+thermalfoundation:tome_experience, Tome of Knowledge
+thermalfoundation:coin:0, Iron Coin
+thermalfoundation:coin:1, Gold Coin
+thermalfoundation:coin:64, Copper Coin
+thermalfoundation:coin:65, Tin Coin
+thermalfoundation:coin:66, Silver Coin
+thermalfoundation:coin:67, Lead Coin
+thermalfoundation:coin:68, Aluminum Coin
+thermalfoundation:coin:69, Nickel Coin
+thermalfoundation:coin:70, Platinum Coin
+thermalfoundation:coin:71, Iridium Coin
+thermalfoundation:coin:72, Mana Infused Coin
+thermalfoundation:coin:96, Steel Coin
+thermalfoundation:coin:97, Electrum Coin
+thermalfoundation:coin:98, Invar Coin
+thermalfoundation:coin:99, Bronze Coin
+thermalfoundation:coin:100, Constantan Coin
+thermalfoundation:coin:101, Signalum Coin
+thermalfoundation:coin:102, Lumium Coin
+thermalfoundation:coin:103, Enderium Coin
+thermalfoundation:fertilizer:0, Phyto-Gro
+thermalfoundation:fertilizer:1, Rich Phyto-Gro
+thermalfoundation:fertilizer:2, Fluxed Phyto-Gro
+thermalfoundation:bait:0, Aqua-Chow
+thermalfoundation:bait:1, Rich Aqua-Chow
+thermalfoundation:bait:2, Fluxed Aqua-Chow
+thermalfoundation:dye:0, Black Pigment
+thermalfoundation:dye:1, Red Pigment
+thermalfoundation:dye:2, Green Pigment
+thermalfoundation:dye:3, Brown Pigment
+thermalfoundation:dye:4, Blue Pigment
+thermalfoundation:dye:5, Purple Pigment
+thermalfoundation:dye:6, Cyan Pigment
+thermalfoundation:dye:7, Light Gray Pigment
+thermalfoundation:dye:8, Gray Pigment
+thermalfoundation:dye:9, Pink Pigment
+thermalfoundation:dye:10, Lime Pigment
+thermalfoundation:dye:11, Yellow Pigment
+thermalfoundation:dye:12, Light Blue Pigment
+thermalfoundation:dye:13, Magenta Pigment
+thermalfoundation:dye:14, Orange Pigment
+thermalfoundation:dye:15, White Pigment
+thermalfoundation:material:0, Pulverized Iron
+thermalfoundation:material:1, Pulverized Gold
+thermalfoundation:material:16, Diamond Nugget
+thermalfoundation:material:17, Emerald Nugget
+thermalfoundation:material:22, Wooden Gear
+thermalfoundation:material:23, Stone Gear
+thermalfoundation:material:24, Iron Gear
+thermalfoundation:material:25, Gold Gear
+thermalfoundation:material:26, Diamond Gear
+thermalfoundation:material:27, Emerald Gear
+thermalfoundation:material:32, Iron Plate
+thermalfoundation:material:33, Gold Plate
+thermalfoundation:material:64, Pulverized Copper
+thermalfoundation:material:65, Pulverized Tin
+thermalfoundation:material:66, Pulverized Silver
+thermalfoundation:material:67, Pulverized Lead
+thermalfoundation:material:68, Pulverized Aluminum
+thermalfoundation:material:69, Pulverized Nickel
+thermalfoundation:material:70, Pulverized Platinum
+thermalfoundation:material:71, Pulverized Iridium
+thermalfoundation:material:72, Pulverized Mana Infused Metal
+thermalfoundation:material:96, Steel Blend
+thermalfoundation:material:97, Electrum Blend
+thermalfoundation:material:98, Invar Blend
+thermalfoundation:material:99, Bronze Blend
+thermalfoundation:material:100, Constantan Blend
+thermalfoundation:material:101, Signalum Blend
+thermalfoundation:material:102, Lumium Blend
+thermalfoundation:material:103, Enderium Blend
+thermalfoundation:material:128, Copper Ingot
+thermalfoundation:material:129, Tin Ingot
+thermalfoundation:material:130, Silver Ingot
+thermalfoundation:material:131, Lead Ingot
+thermalfoundation:material:132, Aluminum Ingot
+thermalfoundation:material:133, Nickel Ingot
+thermalfoundation:material:134, Platinum Ingot
+thermalfoundation:material:135, Iridium Ingot
+thermalfoundation:material:136, Mana Infused Ingot
+thermalfoundation:material:160, Steel Ingot
+thermalfoundation:material:161, Electrum Ingot
+thermalfoundation:material:162, Invar Ingot
+thermalfoundation:material:163, Bronze Ingot
+thermalfoundation:material:164, Constantan Ingot
+thermalfoundation:material:165, Signalum Ingot
+thermalfoundation:material:166, Lumium Ingot
+thermalfoundation:material:167, Enderium Ingot
+thermalfoundation:material:192, Copper Nugget
+thermalfoundation:material:193, Tin Nugget
+thermalfoundation:material:194, Silver Nugget
+thermalfoundation:material:195, Lead Nugget
+thermalfoundation:material:196, Aluminum Nugget
+thermalfoundation:material:197, Nickel Nugget
+thermalfoundation:material:198, Platinum Nugget
+thermalfoundation:material:199, Iridium Nugget
+thermalfoundation:material:200, Mana Infused Nugget
+thermalfoundation:material:224, Steel Nugget
+thermalfoundation:material:225, Electrum Nugget
+thermalfoundation:material:226, Invar Nugget
+thermalfoundation:material:227, Bronze Nugget
+thermalfoundation:material:228, Constantan Nugget
+thermalfoundation:material:229, Signalum Nugget
+thermalfoundation:material:230, Lumium Nugget
+thermalfoundation:material:231, Enderium Nugget
+thermalfoundation:material:256, Copper Gear
+thermalfoundation:material:257, Tin Gear
+thermalfoundation:material:258, Silver Gear
+thermalfoundation:material:259, Lead Gear
+thermalfoundation:material:260, Aluminum Gear
+thermalfoundation:material:261, Nickel Gear
+thermalfoundation:material:262, Platinum Gear
+thermalfoundation:material:263, Iridium Gear
+thermalfoundation:material:264, Mana Infused Gear
+thermalfoundation:material:288, Steel Gear
+thermalfoundation:material:289, Electrum Gear
+thermalfoundation:material:290, Invar Gear
+thermalfoundation:material:291, Bronze Gear
+thermalfoundation:material:292, Constantan Gear
+thermalfoundation:material:293, Signalum Gear
+thermalfoundation:material:294, Lumium Gear
+thermalfoundation:material:295, Enderium Gear
+thermalfoundation:material:320, Copper Plate
+thermalfoundation:material:321, Tin Plate
+thermalfoundation:material:322, Silver Plate
+thermalfoundation:material:323, Lead Plate
+thermalfoundation:material:324, Aluminum Plate
+thermalfoundation:material:325, Nickel Plate
+thermalfoundation:material:326, Platinum Plate
+thermalfoundation:material:327, Iridium Plate
+thermalfoundation:material:328, Mana Infused Plate
+thermalfoundation:material:352, Steel Plate
+thermalfoundation:material:353, Electrum Plate
+thermalfoundation:material:354, Invar Plate
+thermalfoundation:material:355, Bronze Plate
+thermalfoundation:material:356, Constantan Plate
+thermalfoundation:material:357, Signalum Plate
+thermalfoundation:material:358, Lumium Plate
+thermalfoundation:material:359, Enderium Plate
+thermalfoundation:material:512, Redstone Servo
+thermalfoundation:material:513, Redstone Reception Coil
+thermalfoundation:material:514, Redstone Transmission Coil
+thermalfoundation:material:515, Redstone Conductance Coil
+thermalfoundation:material:640, Tool Casing
+thermalfoundation:material:656, Drill Head
+thermalfoundation:material:657, Saw Blade
+thermalfoundation:material:768, Pulverized Coal
+thermalfoundation:material:769, Pulverized Charcoal
+thermalfoundation:material:770, Pulverized Obsidian
+thermalfoundation:material:771, Sulfur
+thermalfoundation:material:772, Niter
+thermalfoundation:material:800, Sawdust
+thermalfoundation:material:801, Compressed Sawdust
+thermalfoundation:material:802, Coal Coke
+thermalfoundation:material:816, Pulped Biomass
+thermalfoundation:material:817, Rich Biomass
+thermalfoundation:material:818, Pulped Bioblend
+thermalfoundation:material:819, Rich Bioblend
+thermalfoundation:material:832, Rosin
+thermalfoundation:material:833, Tar
+thermalfoundation:material:864, Slag
+thermalfoundation:material:865, Rich Slag
+thermalfoundation:material:866, Cinnabar
+thermalfoundation:material:892, Bitumen
+thermalfoundation:material:893, Destabilized Clathrate
+thermalfoundation:material:894, Energized Clathrate
+thermalfoundation:material:895, Resonant Clathrate
+thermalfoundation:material:1024, Pyrotheum Dust
+thermalfoundation:material:1025, Cryotheum Dust
+thermalfoundation:material:1026, Aerotheum Dust
+thermalfoundation:material:1027, Petrotheum Dust
+thermalfoundation:material:1028, Mana Dust
+thermalfoundation:material:2048, Blizz Rod
+thermalfoundation:material:2049, Blizz Powder
+thermalfoundation:material:2050, Blitz Rod
+thermalfoundation:material:2051, Blitz Powder
+thermalfoundation:material:2052, Basalz Rod
+thermalfoundation:material:2053, Basalz Powder
+thermalfoundation:geode:0, Geode
+thermalfoundation:armor.helmet_copper, Copper Helmet
+thermalfoundation:armor.plate_copper, Copper Chestplate
+thermalfoundation:armor.legs_copper, Copper Leggings
+thermalfoundation:armor.boots_copper, Copper Boots
+thermalfoundation:armor.helmet_tin, Tin Helmet
+thermalfoundation:armor.plate_tin, Tin Chestplate
+thermalfoundation:armor.legs_tin, Tin Leggings
+thermalfoundation:armor.boots_tin, Tin Boots
+thermalfoundation:armor.helmet_silver, Silver Helmet
+thermalfoundation:armor.plate_silver, Silver Chestplate
+thermalfoundation:armor.legs_silver, Silver Leggings
+thermalfoundation:armor.boots_silver, Silver Boots
+thermalfoundation:armor.helmet_lead, Lead Helmet
+thermalfoundation:armor.plate_lead, Lead Chestplate
+thermalfoundation:armor.legs_lead, Lead Leggings
+thermalfoundation:armor.boots_lead, Lead Boots
+thermalfoundation:armor.helmet_aluminum, Aluminum Helmet
+thermalfoundation:armor.plate_aluminum, Aluminum Chestplate
+thermalfoundation:armor.legs_aluminum, Aluminum Leggings
+thermalfoundation:armor.boots_aluminum, Aluminum Boots
+thermalfoundation:armor.helmet_nickel, Nickel Helmet
+thermalfoundation:armor.plate_nickel, Nickel Chestplate
+thermalfoundation:armor.legs_nickel, Nickel Leggings
+thermalfoundation:armor.boots_nickel, Nickel Boots
+thermalfoundation:armor.helmet_platinum, Platinum Helmet
+thermalfoundation:armor.plate_platinum, Platinum Chestplate
+thermalfoundation:armor.legs_platinum, Platinum Leggings
+thermalfoundation:armor.boots_platinum, Platinum Boots
+thermalfoundation:armor.helmet_steel, Steel Helmet
+thermalfoundation:armor.plate_steel, Steel Chestplate
+thermalfoundation:armor.legs_steel, Steel Leggings
+thermalfoundation:armor.boots_steel, Steel Boots
+thermalfoundation:armor.helmet_electrum, Electrum Helmet
+thermalfoundation:armor.plate_electrum, Electrum Chestplate
+thermalfoundation:armor.legs_electrum, Electrum Leggings
+thermalfoundation:armor.boots_electrum, Electrum Boots
+thermalfoundation:armor.helmet_invar, Invar Helmet
+thermalfoundation:armor.plate_invar, Invar Chestplate
+thermalfoundation:armor.legs_invar, Invar Leggings
+thermalfoundation:armor.boots_invar, Invar Boots
+thermalfoundation:armor.helmet_bronze, Bronze Helmet
+thermalfoundation:armor.plate_bronze, Bronze Chestplate
+thermalfoundation:armor.legs_bronze, Bronze Leggings
+thermalfoundation:armor.boots_bronze, Bronze Boots
+thermalfoundation:armor.helmet_constantan, Constantan Helmet
+thermalfoundation:armor.plate_constantan, Constantan Chestplate
+thermalfoundation:armor.legs_constantan, Constantan Leggings
+thermalfoundation:armor.boots_constantan, Constantan Boots
+thermalfoundation:tool.sword_copper, Copper Sword
+thermalfoundation:tool.shovel_copper, Copper Shovel
+thermalfoundation:tool.pickaxe_copper, Copper Pickaxe
+thermalfoundation:tool.axe_copper, Copper Axe
+thermalfoundation:tool.hoe_copper, Copper Hoe
+thermalfoundation:tool.bow_copper, Copper Reinforced Bow
+thermalfoundation:tool.fishing_rod_copper, Copper Fishing Rod
+thermalfoundation:tool.shears_copper, Copper Shears
+thermalfoundation:tool.sickle_copper, Copper Sickle
+thermalfoundation:tool.hammer_copper, Copper Hammer
+thermalfoundation:tool.excavator_copper, Copper Excavator
+thermalfoundation:tool.shield_copper, Copper Shield
+thermalfoundation:tool.sword_tin, Tin Sword
+thermalfoundation:tool.shovel_tin, Tin Shovel
+thermalfoundation:tool.pickaxe_tin, Tin Pickaxe
+thermalfoundation:tool.axe_tin, Tin Axe
+thermalfoundation:tool.hoe_tin, Tin Hoe
+thermalfoundation:tool.bow_tin, Tin Reinforced Bow
+thermalfoundation:tool.fishing_rod_tin, Tin Fishing Rod
+thermalfoundation:tool.shears_tin, Tin Shears
+thermalfoundation:tool.sickle_tin, Tin Sickle
+thermalfoundation:tool.hammer_tin, Tin Hammer
+thermalfoundation:tool.excavator_tin, Tin Excavator
+thermalfoundation:tool.shield_tin, Tin Shield
+thermalfoundation:tool.sword_silver, Silver Sword
+thermalfoundation:tool.shovel_silver, Silver Shovel
+thermalfoundation:tool.pickaxe_silver, Silver Pickaxe
+thermalfoundation:tool.axe_silver, Silver Axe
+thermalfoundation:tool.hoe_silver, Silver Hoe
+thermalfoundation:tool.bow_silver, Silver Reinforced Bow
+thermalfoundation:tool.fishing_rod_silver, Silver Fishing Rod
+thermalfoundation:tool.shears_silver, Silver Shears
+thermalfoundation:tool.sickle_silver, Silver Sickle
+thermalfoundation:tool.hammer_silver, Silver Hammer
+thermalfoundation:tool.excavator_silver, Silver Excavator
+thermalfoundation:tool.shield_silver, Silver Shield
+thermalfoundation:tool.sword_lead, Lead Sword
+thermalfoundation:tool.shovel_lead, Lead Shovel
+thermalfoundation:tool.pickaxe_lead, Lead Pickaxe
+thermalfoundation:tool.axe_lead, Lead Axe
+thermalfoundation:tool.hoe_lead, Lead Hoe
+thermalfoundation:tool.bow_lead, Lead Reinforced Bow
+thermalfoundation:tool.fishing_rod_lead, Lead Fishing Rod
+thermalfoundation:tool.shears_lead, Lead Shears
+thermalfoundation:tool.sickle_lead, Lead Sickle
+thermalfoundation:tool.hammer_lead, Lead Hammer
+thermalfoundation:tool.excavator_lead, Lead Excavator
+thermalfoundation:tool.shield_lead, Lead Shield
+thermalfoundation:tool.sword_aluminum, Aluminum Sword
+thermalfoundation:tool.shovel_aluminum, Aluminum Shovel
+thermalfoundation:tool.pickaxe_aluminum, Aluminum Pickaxe
+thermalfoundation:tool.axe_aluminum, Aluminum Axe
+thermalfoundation:tool.hoe_aluminum, Aluminum Hoe
+thermalfoundation:tool.bow_aluminum, Aluminum Reinforced Bow
+thermalfoundation:tool.fishing_rod_aluminum, Aluminum Fishing Rod
+thermalfoundation:tool.shears_aluminum, Aluminum Shears
+thermalfoundation:tool.sickle_aluminum, Aluminum Sickle
+thermalfoundation:tool.hammer_aluminum, Aluminum Hammer
+thermalfoundation:tool.excavator_aluminum, Aluminum Excavator
+thermalfoundation:tool.shield_aluminum, Aluminum Shield
+thermalfoundation:tool.sword_nickel, Nickel Sword
+thermalfoundation:tool.shovel_nickel, Nickel Shovel
+thermalfoundation:tool.pickaxe_nickel, Nickel Pickaxe
+thermalfoundation:tool.axe_nickel, Nickel Axe
+thermalfoundation:tool.hoe_nickel, Nickel Hoe
+thermalfoundation:tool.bow_nickel, Nickel Reinforced Bow
+thermalfoundation:tool.fishing_rod_nickel, Nickel Fishing Rod
+thermalfoundation:tool.shears_nickel, Nickel Shears
+thermalfoundation:tool.sickle_nickel, Nickel Sickle
+thermalfoundation:tool.hammer_nickel, Nickel Hammer
+thermalfoundation:tool.excavator_nickel, Nickel Excavator
+thermalfoundation:tool.shield_nickel, Nickel Shield
+thermalfoundation:tool.sword_platinum, Platinum Sword
+thermalfoundation:tool.shovel_platinum, Platinum Shovel
+thermalfoundation:tool.pickaxe_platinum, Platinum Pickaxe
+thermalfoundation:tool.axe_platinum, Platinum Axe
+thermalfoundation:tool.hoe_platinum, Platinum Hoe
+thermalfoundation:tool.bow_platinum, Platinum Reinforced Bow
+thermalfoundation:tool.fishing_rod_platinum, Platinum Fishing Rod
+thermalfoundation:tool.shears_platinum, Platinum Shears
+thermalfoundation:tool.sickle_platinum, Platinum Sickle
+thermalfoundation:tool.hammer_platinum, Platinum Hammer
+thermalfoundation:tool.excavator_platinum, Platinum Excavator
+thermalfoundation:tool.shield_platinum, Platinum Shield
+thermalfoundation:tool.sword_steel, Steel Sword
+thermalfoundation:tool.shovel_steel, Steel Shovel
+thermalfoundation:tool.pickaxe_steel, Steel Pickaxe
+thermalfoundation:tool.axe_steel, Steel Axe
+thermalfoundation:tool.hoe_steel, Steel Hoe
+thermalfoundation:tool.bow_steel, Steel Reinforced Bow
+thermalfoundation:tool.fishing_rod_steel, Steel Fishing Rod
+thermalfoundation:tool.shears_steel, Steel Shears
+thermalfoundation:tool.sickle_steel, Steel Sickle
+thermalfoundation:tool.hammer_steel, Steel Hammer
+thermalfoundation:tool.excavator_steel, Steel Excavator
+thermalfoundation:tool.shield_steel, Steel Shield
+thermalfoundation:tool.sword_electrum, Electrum Sword
+thermalfoundation:tool.shovel_electrum, Electrum Shovel
+thermalfoundation:tool.pickaxe_electrum, Electrum Pickaxe
+thermalfoundation:tool.axe_electrum, Electrum Axe
+thermalfoundation:tool.hoe_electrum, Electrum Hoe
+thermalfoundation:tool.bow_electrum, Electrum Reinforced Bow
+thermalfoundation:tool.fishing_rod_electrum, Electrum Fishing Rod
+thermalfoundation:tool.shears_electrum, Electrum Shears
+thermalfoundation:tool.sickle_electrum, Electrum Sickle
+thermalfoundation:tool.hammer_electrum, Electrum Hammer
+thermalfoundation:tool.excavator_electrum, Electrum Excavator
+thermalfoundation:tool.shield_electrum, Electrum Shield
+thermalfoundation:tool.sword_invar, Invar Sword
+thermalfoundation:tool.shovel_invar, Invar Shovel
+thermalfoundation:tool.pickaxe_invar, Invar Pickaxe
+thermalfoundation:tool.axe_invar, Invar Axe
+thermalfoundation:tool.hoe_invar, Invar Hoe
+thermalfoundation:tool.bow_invar, Invar Reinforced Bow
+thermalfoundation:tool.fishing_rod_invar, Invar Fishing Rod
+thermalfoundation:tool.shears_invar, Invar Shears
+thermalfoundation:tool.sickle_invar, Invar Sickle
+thermalfoundation:tool.hammer_invar, Invar Hammer
+thermalfoundation:tool.excavator_invar, Invar Excavator
+thermalfoundation:tool.shield_invar, Invar Shield
+thermalfoundation:tool.sword_bronze, Bronze Sword
+thermalfoundation:tool.shovel_bronze, Bronze Shovel
+thermalfoundation:tool.pickaxe_bronze, Bronze Pickaxe
+thermalfoundation:tool.axe_bronze, Bronze Axe
+thermalfoundation:tool.hoe_bronze, Bronze Hoe
+thermalfoundation:tool.bow_bronze, Bronze Reinforced Bow
+thermalfoundation:tool.fishing_rod_bronze, Bronze Fishing Rod
+thermalfoundation:tool.shears_bronze, Bronze Shears
+thermalfoundation:tool.sickle_bronze, Bronze Sickle
+thermalfoundation:tool.hammer_bronze, Bronze Hammer
+thermalfoundation:tool.excavator_bronze, Bronze Excavator
+thermalfoundation:tool.shield_bronze, Bronze Shield
+thermalfoundation:tool.sword_constantan, Constantan Sword
+thermalfoundation:tool.shovel_constantan, Constantan Shovel
+thermalfoundation:tool.pickaxe_constantan, Constantan Pickaxe
+thermalfoundation:tool.axe_constantan, Constantan Axe
+thermalfoundation:tool.hoe_constantan, Constantan Hoe
+thermalfoundation:tool.bow_constantan, Constantan Reinforced Bow
+thermalfoundation:tool.fishing_rod_constantan, Constantan Fishing Rod
+thermalfoundation:tool.shears_constantan, Constantan Shears
+thermalfoundation:tool.sickle_constantan, Constantan Sickle
+thermalfoundation:tool.hammer_constantan, Constantan Hammer
+thermalfoundation:tool.excavator_constantan, Constantan Excavator
+thermalfoundation:tool.shield_constantan, Constantan Shield
+thermalfoundation:tool.shears_wood, Wooden Shears
+thermalfoundation:tool.sickle_wood, Wooden Sickle
+thermalfoundation:tool.hammer_wood, Wooden Hammer
+thermalfoundation:tool.excavator_wood, Wooden Excavator
+thermalfoundation:tool.bow_stone, Stone Reinforced Bow
+thermalfoundation:tool.fishing_rod_stone, Stone Fishing Rod
+thermalfoundation:tool.shears_stone, Stone Shears
+thermalfoundation:tool.sickle_stone, Stone Sickle
+thermalfoundation:tool.hammer_stone, Stone Hammer
+thermalfoundation:tool.excavator_stone, Stone Excavator
+thermalfoundation:tool.shield_stone, Stone Shield
+thermalfoundation:tool.bow_iron, Iron Reinforced Bow
+thermalfoundation:tool.fishing_rod_iron, Iron Fishing Rod
+thermalfoundation:tool.sickle_iron, Iron Sickle
+thermalfoundation:tool.hammer_iron, Iron Hammer
+thermalfoundation:tool.excavator_iron, Iron Excavator
+thermalfoundation:tool.shield_iron, Iron Shield
+thermalfoundation:tool.bow_diamond, Diamond Reinforced Bow
+thermalfoundation:tool.fishing_rod_diamond, Diamond Fishing Rod
+thermalfoundation:tool.shears_diamond, Diamond Shears
+thermalfoundation:tool.sickle_diamond, Diamond Sickle
+thermalfoundation:tool.hammer_diamond, Diamond Hammer
+thermalfoundation:tool.excavator_diamond, Diamond Excavator
+thermalfoundation:tool.shield_diamond, Diamond Shield
+thermalfoundation:tool.bow_gold, Gold Reinforced Bow
+thermalfoundation:tool.fishing_rod_gold, Gold Fishing Rod
+thermalfoundation:tool.shears_gold, Gold Shears
+thermalfoundation:tool.sickle_gold, Gold Sickle
+thermalfoundation:tool.hammer_gold, Gold Hammer
+thermalfoundation:tool.excavator_gold, Gold Excavator
+thermalfoundation:tool.shield_gold, Gold Shield
+thermalfoundation:horse_armor_copper, Copper Horse Armor
+thermalfoundation:horse_armor_tin, Tin Horse Armor
+thermalfoundation:horse_armor_silver, Silver Horse Armor
+thermalfoundation:horse_armor_lead, Lead Horse Armor
+thermalfoundation:horse_armor_aluminum, Aluminum Horse Armor
+thermalfoundation:horse_armor_nickel, Nickel Horse Armor
+thermalfoundation:horse_armor_platinum, Platinum Horse Armor
+thermalfoundation:horse_armor_steel, Steel Horse Armor
+thermalfoundation:horse_armor_electrum, Electrum Horse Armor
+thermalfoundation:horse_armor_invar, Invar Horse Armor
+thermalfoundation:horse_armor_bronze, Bronze Horse Armor
+thermalfoundation:horse_armor_constantan, Constantan Horse Armor
+thermalfoundation:fluid_crude_oil, Crude Oil
+thermalfoundation:fluid_redstone, Destabilized Redstone
+thermalfoundation:fluid_glowstone, Energized Glowstone
+thermalfoundation:fluid_ender, Resonant Ender
+thermalfoundation:fluid_pyrotheum, Blazing Pyrotheum
+thermalfoundation:fluid_cryotheum, Gelid Cryotheum
+thermalfoundation:fluid_aerotheum, Zephyrean Aerotheum
+thermalfoundation:fluid_petrotheum, Tectonic Petrotheum
+thermalfoundation:fluid_mana, Primal Mana
+thermalexpansion:machine:0, Redstone Furnace (Basic)
+thermalexpansion:machine:1, Pulverizer (Basic)
+thermalexpansion:machine:2, Sawmill (Basic)
+thermalexpansion:machine:3, Induction Smelter (Basic)
+thermalexpansion:machine:4, Phytogenic Insolator (Basic)
+thermalexpansion:machine:5, Compactor (Basic)
+thermalexpansion:machine:6, Magma Crucible (Basic)
+thermalexpansion:machine:7, Fractionating Still (Basic)
+thermalexpansion:machine:8, Fluid Transposer (Basic)
+thermalexpansion:machine:9, Energetic Infuser (Basic)
+thermalexpansion:machine:10, Centrifugal Separator (Basic)
+thermalexpansion:machine:11, Sequential Fabricator (Basic)
+thermalexpansion:machine:12, Alchemical Imbuer (Basic)
+thermalexpansion:machine:13, Arcane Ensorcellator (Basic)
+thermalexpansion:machine:14, Glacial Precipitator (Basic)
+thermalexpansion:machine:15, Igneous Extruder (Basic)
+thermalexpansion:device:0, Aqueous Accumulator
+thermalexpansion:device:1, Nullifier
+thermalexpansion:device:2, Thermal Mediator
+thermalexpansion:device:3, Arboreal Extractor
+thermalexpansion:device:4, Aquatic Entangler
+thermalexpansion:device:5, Item Allocator
+thermalexpansion:device:6, Fluid Allocator
+thermalexpansion:device:7, Lexical Transmuter
+thermalexpansion:device:8, Insightful Condenser
+thermalexpansion:device:9, Decoctive Diffuser
+thermalexpansion:device:10, Factorizer
+thermalexpansion:device:11, Creature Encaptulator
+thermalexpansion:device:12, Vacuumulator
+thermalexpansion:dynamo:0, Steam Dynamo (Basic)
+thermalexpansion:dynamo:1, Magmatic Dynamo (Basic)
+thermalexpansion:dynamo:2, Compression Dynamo (Basic)
+thermalexpansion:dynamo:3, Reactant Dynamo (Basic)
+thermalexpansion:dynamo:4, Enervation Dynamo (Basic)
+thermalexpansion:dynamo:5, Numismatic Dynamo (Basic)
+thermalexpansion:cell:0, Energy Cell (Basic)
+thermalexpansion:tank:0, Portable Tank (Basic)
+thermalexpansion:cache:0, Cache (Basic)
+thermalexpansion:strongbox:0, Strongbox (Basic)
+thermalexpansion:capacitor:0, Flux Capacitor (Basic)
+thermalexpansion:capacitor:1, Flux Capacitor (Hardened)
+thermalexpansion:capacitor:2, Flux Capacitor (Reinforced)
+thermalexpansion:capacitor:3, Flux Capacitor (Signalum)
+thermalexpansion:capacitor:4, Flux Capacitor (Resonant)
+thermalexpansion:capacitor:32000, Flux Capacitor (Creative)
+thermalexpansion:reservoir:0, Reservoir (Basic)
+thermalexpansion:reservoir:1, Reservoir (Hardened)
+thermalexpansion:reservoir:2, Reservoir (Reinforced)
+thermalexpansion:reservoir:3, Reservoir (Signalum)
+thermalexpansion:reservoir:4, Reservoir (Resonant)
+thermalexpansion:reservoir:32000, Reservoir (Creative)
+thermalexpansion:satchel:0, Satchel (Basic)
+thermalexpansion:satchel:1, Satchel (Hardened)
+thermalexpansion:satchel:2, Satchel (Reinforced)
+thermalexpansion:satchel:3, Satchel (Signalum)
+thermalexpansion:satchel:4, Satchel (Resonant)
+thermalexpansion:satchel:100, Satchel (Void)
+thermalexpansion:satchel:32000, Satchel (Creative)
+thermalexpansion:frame:0, Machine Frame
+thermalexpansion:frame:64, Device Frame
+thermalexpansion:frame:128, Energy Cell Frame
+thermalexpansion:frame:129, Hardened Cell Frame
+thermalexpansion:frame:130, Reinforced Cell Frame (Empty)
+thermalexpansion:frame:131, Signalum Cell Frame (Empty)
+thermalexpansion:frame:132, Resonant Cell Frame (Empty)
+thermalexpansion:frame:146, Reinforced Cell Frame (Full)
+thermalexpansion:frame:147, Signalum Cell Frame (Full)
+thermalexpansion:frame:148, Resonant Cell Frame (Full)
+thermalexpansion:augment:128, Augment: Auxiliary Reception Coil
+thermalexpansion:augment:129, Augment: Auxiliary Sieve
+thermalexpansion:augment:130, Augment: Nullification Chamber
+thermalexpansion:augment:256, Augment: Trivection Chamber
+thermalexpansion:augment:257, Augment: Flux Anodizers
+thermalexpansion:augment:258, Augment: Pyrolytic Conversion
+thermalexpansion:augment:273, Augment: Tectonic Initiator
+thermalexpansion:augment:288, Augment: Resin Funnel
+thermalexpansion:augment:303, Augment: Metallurgical Recovery
+thermalexpansion:augment:304, Augment: Pyro-Concentrator
+thermalexpansion:augment:320, Augment: Nutrient Recovery
+thermalexpansion:augment:323, Augment: Sapling Infuser
+thermalexpansion:augment:324, Augment: Monoculture Cycle
+thermalexpansion:augment:336, Augment: Numismatic Press
+thermalexpansion:augment:337, Augment: Gearworking Die
+thermalexpansion:augment:352, Augment: Pyroconvective Loop
+thermalexpansion:augment:368, Augment: Reflux Column
+thermalexpansion:augment:369, Augment: Alchemical Retort
+thermalexpansion:augment:400, Augment: Flux Linkage Concentrator
+thermalexpansion:augment:401, Augment: Flux Reconstruction
+thermalexpansion:augment:402, Augment: Parabolic Flux Coupling
+thermalexpansion:augment:416, Augment: Enstabulation Apparatus
+thermalexpansion:augment:432, Augment: Pattern Validation
+thermalexpansion:augment:433, Augment: Fluidic Fabrication
+thermalexpansion:augment:448, Augment: Reagent Recovery
+thermalexpansion:augment:496, Augment: Pyroclastic Injection
+thermalexpansion:augment:497, Augment: Clastic Deposition
+thermalexpansion:augment:512, Augment: Auxiliary Transmission Coil
+thermalexpansion:augment:513, Augment: Fuel Catalyzer
+thermalexpansion:augment:514, Augment: Transmission Coil Ducting
+thermalexpansion:augment:515, Augment: Excitation Field Limiter
+thermalexpansion:augment:576, Augment: Boiler Conversion
+thermalexpansion:augment:640, Augment: Turbine Conversion
+thermalexpansion:augment:656, Augment: Isentropic Reservoir
+thermalexpansion:augment:672, Augment: Closed-Loop Cooling
+thermalexpansion:augment:673, Augment: Ignition Plugs
+thermalexpansion:augment:674, Augment: Agitative Manifold
+thermalexpansion:augment:688, Augment: Elemental Catalyzer
+thermalexpansion:augment:704, Augment: Disjunctive Extraction
+thermalexpansion:augment:720, Augment: Lapidary Calibration
+thermalexpansion:florb:0, Florb (Empty§r)
+thermalexpansion:florb:1, Magmatic Florb (Empty§r)
+thermalexpansion:morb:0, Morb (Empty§r)
+thermalexpansion:morb:1, Reusable Morb (Empty§r)
+thermaldynamics:duct_0:0, Leadstone Fluxduct
+thermaldynamics:duct_0:1, Hardened Fluxduct
+thermaldynamics:duct_0:2, Redstone Energy Fluxduct
+thermaldynamics:duct_0:3, Signalum Fluxduct
+thermaldynamics:duct_0:4, Resonant Fluxduct
+thermaldynamics:duct_0:5, Cryo-Stabilized Fluxduct
+thermaldynamics:duct_0:6, Redstone Energy Fluxduct (Empty)
+thermaldynamics:duct_0:7, Signalum Fluxduct (Empty)
+thermaldynamics:duct_0:8, Resonant Fluxduct (Empty)
+thermaldynamics:duct_0:9, Cryo-Stabilized Fluxduct (Empty)
+thermaldynamics:duct_16:0, Fluiduct
+thermaldynamics:duct_16:1, Fluiduct (Opaque)
+thermaldynamics:duct_16:2, Hardened Fluiduct
+thermaldynamics:duct_16:3, Hardened Fluiduct (Opaque)
+thermaldynamics:duct_16:4, Signalum-Plated Fluiduct
+thermaldynamics:duct_16:5, Signalum-Plated Fluiduct (Opaque)
+thermaldynamics:duct_16:6, Super-Laminar Fluiduct
+thermaldynamics:duct_16:7, Super-Laminar Fluiduct (Opaque)
+thermaldynamics:duct_32:0, Vacuum Itemduct
+thermaldynamics:duct_32:0, Dense Itemduct
+thermaldynamics:duct_32:0, Itemduct
+thermaldynamics:duct_32:1, Vacuum Itemduct (Opaque)
+thermaldynamics:duct_32:1, Dense Itemduct (Opaque)
+thermaldynamics:duct_32:1, Itemduct (Opaque)
+thermaldynamics:duct_32:2, Vacuum Impulse Itemduct
+thermaldynamics:duct_32:2, Dense Impulse Itemduct
+thermaldynamics:duct_32:2, Impulse Itemduct
+thermaldynamics:duct_32:3, Vacuum Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:3, Dense Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:3, Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:4, Vacuum Signalum-Plated Itemduct
+thermaldynamics:duct_32:4, Dense Signalum-Plated Itemduct
+thermaldynamics:duct_32:4, Signalum-Plated Itemduct
+thermaldynamics:duct_32:5, Vacuum Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:5, Dense Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:5, Signalum-Plated Itemduct (Opaque)
+thermaldynamics:duct_32:6, Vacuum Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:6, Dense Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:6, Signalum-Plated Impulse Itemduct
+thermaldynamics:duct_32:7, Vacuum Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:7, Dense Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_32:7, Signalum-Plated Impulse Itemduct (Opaque)
+thermaldynamics:duct_48:0, Structuralduct
+thermaldynamics:duct_64:0, Viaduct
+thermaldynamics:duct_64:1, Long Range Viaduct
+thermaldynamics:duct_64:2, Long Range Linking Viaduct
+thermaldynamics:duct_64:3, Viaduct (Untreated)
+thermaldynamics:servo:0, Servo
+thermaldynamics:servo:1, Hardened Servo
+thermaldynamics:servo:2, Reinforced Servo
+thermaldynamics:servo:3, Signalum Servo
+thermaldynamics:servo:4, Resonant Servo
+thermaldynamics:filter:0, Filter
+thermaldynamics:filter:1, Hardened Filter
+thermaldynamics:filter:2, Reinforced Filter
+thermaldynamics:filter:3, Signalum Filter
+thermaldynamics:filter:4, Resonant Filter
+thermaldynamics:retriever:0, Retriever
+thermaldynamics:retriever:1, Hardened Retriever
+thermaldynamics:retriever:2, Reinforced Retriever
+thermaldynamics:retriever:3, Signalum Retriever
+thermaldynamics:retriever:4, Resonant Retriever
+thermaldynamics:relay:0, Redstone Relay
+thermaldynamics:cover:0, Stone Cover
+thermaldynamics:cover:0, Granite Cover
+thermaldynamics:cover:0, Polished Granite Cover
+thermaldynamics:cover:0, Diorite Cover
+thermaldynamics:cover:0, Polished Diorite Cover
+thermaldynamics:cover:0, Andesite Cover
+thermaldynamics:cover:0, Polished Andesite Cover
+thermaldynamics:cover:0, Grass Block Cover
+thermaldynamics:cover:0, Dirt Cover
+thermaldynamics:cover:0, Coarse Dirt Cover
+thermaldynamics:cover:0, Podzol Cover
+thermaldynamics:cover:0, Cobblestone Cover
+thermaldynamics:cover:0, Oak Wood Planks Cover
+thermaldynamics:cover:0, Spruce Wood Planks Cover
+thermaldynamics:cover:0, Birch Wood Planks Cover
+thermaldynamics:cover:0, Jungle Wood Planks Cover
+thermaldynamics:cover:0, Acacia Wood Planks Cover
+thermaldynamics:cover:0, Dark Oak Wood Planks Cover
+thermaldynamics:cover:0, Bedrock Cover
+thermaldynamics:cover:0, Sand Cover
+thermaldynamics:cover:0, Red Sand Cover
+thermaldynamics:cover:0, Gravel Cover
+thermaldynamics:cover:0, Gold Ore Cover
+thermaldynamics:cover:0, Iron Ore Cover
+thermaldynamics:cover:0, Coal Ore Cover
+thermaldynamics:cover:0, Oak Wood Cover
+thermaldynamics:cover:0, Spruce Wood Cover
+thermaldynamics:cover:0, Birch Wood Cover
+thermaldynamics:cover:0, Jungle Wood Cover
+thermaldynamics:cover:0, Oak Leaves Cover
+thermaldynamics:cover:0, Spruce Leaves Cover
+thermaldynamics:cover:0, Birch Leaves Cover
+thermaldynamics:cover:0, Jungle Leaves Cover
+thermaldynamics:cover:0, Sponge Cover
+thermaldynamics:cover:0, Wet Sponge Cover
+thermaldynamics:cover:0, Glass Cover
+thermaldynamics:cover:0, Lapis Lazuli Ore Cover
+thermaldynamics:cover:0, Lapis Lazuli Block Cover
+thermaldynamics:cover:0, Sandstone Cover
+thermaldynamics:cover:0, Chiseled Sandstone Cover
+thermaldynamics:cover:0, Smooth Sandstone Cover
+thermaldynamics:cover:0, White Wool Cover
+thermaldynamics:cover:0, Orange Wool Cover
+thermaldynamics:cover:0, Magenta Wool Cover
+thermaldynamics:cover:0, Light Blue Wool Cover
+thermaldynamics:cover:0, Yellow Wool Cover
+thermaldynamics:cover:0, Lime Wool Cover
+thermaldynamics:cover:0, Pink Wool Cover
+thermaldynamics:cover:0, Gray Wool Cover
+thermaldynamics:cover:0, Light Gray Wool Cover
+thermaldynamics:cover:0, Cyan Wool Cover
+thermaldynamics:cover:0, Purple Wool Cover
+thermaldynamics:cover:0, Blue Wool Cover
+thermaldynamics:cover:0, Brown Wool Cover
+thermaldynamics:cover:0, Green Wool Cover
+thermaldynamics:cover:0, Red Wool Cover
+thermaldynamics:cover:0, Black Wool Cover
+thermaldynamics:cover:0, Block of Gold Cover
+thermaldynamics:cover:0, Block of Iron Cover
+thermaldynamics:cover:0, Stone Slab Cover
+thermaldynamics:cover:0, Sandstone Slab Cover
+thermaldynamics:cover:0, Cobblestone Slab Cover
+thermaldynamics:cover:0, Bricks Slab Cover
+thermaldynamics:cover:0, Stone Bricks Slab Cover
+thermaldynamics:cover:0, Nether Brick Slab Cover
+thermaldynamics:cover:0, Quartz Slab Cover
+thermaldynamics:cover:0, Bricks Cover
+thermaldynamics:cover:0, TNT Cover
+thermaldynamics:cover:0, Bookshelf Cover
+thermaldynamics:cover:0, Moss Stone Cover
+thermaldynamics:cover:0, Obsidian Cover
+thermaldynamics:cover:0, Oak Wood Stairs Cover
+thermaldynamics:cover:0, Diamond Ore Cover
+thermaldynamics:cover:0, Block of Diamond Cover
+thermaldynamics:cover:0, Crafting Table Cover
+thermaldynamics:cover:0, Cobblestone Stairs Cover
+thermaldynamics:cover:0, Redstone Ore Cover
+thermaldynamics:cover:0, Ice Cover
+thermaldynamics:cover:0, Snow Cover
+thermaldynamics:cover:0, Cactus Cover
+thermaldynamics:cover:0, Clay Cover
+thermaldynamics:cover:0, Pumpkin Cover
+thermaldynamics:cover:0, Netherrack Cover
+thermaldynamics:cover:0, Soul Sand Cover
+thermaldynamics:cover:0, Glowstone Cover
+thermaldynamics:cover:0, Jack o'Lantern Cover
+thermaldynamics:cover:0, White Stained Glass Cover
+thermaldynamics:cover:0, Orange Stained Glass Cover
+thermaldynamics:cover:0, Magenta Stained Glass Cover
+thermaldynamics:cover:0, Light Blue Stained Glass Cover
+thermaldynamics:cover:0, Yellow Stained Glass Cover
+thermaldynamics:cover:0, Lime Stained Glass Cover
+thermaldynamics:cover:0, Pink Stained Glass Cover
+thermaldynamics:cover:0, Gray Stained Glass Cover
+thermaldynamics:cover:0, Light Gray Stained Glass Cover
+thermaldynamics:cover:0, Cyan Stained Glass Cover
+thermaldynamics:cover:0, Purple Stained Glass Cover
+thermaldynamics:cover:0, Blue Stained Glass Cover
+thermaldynamics:cover:0, Brown Stained Glass Cover
+thermaldynamics:cover:0, Green Stained Glass Cover
+thermaldynamics:cover:0, Red Stained Glass Cover
+thermaldynamics:cover:0, Black Stained Glass Cover
+thermaldynamics:cover:0, Stone Monster Egg Cover
+thermaldynamics:cover:0, Cobblestone Monster Egg Cover
+thermaldynamics:cover:0, Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Mossy Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Cracked Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Chiseled Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Stone Bricks Cover
+thermaldynamics:cover:0, Mossy Stone Bricks Cover
+thermaldynamics:cover:0, Cracked Stone Bricks Cover
+thermaldynamics:cover:0, Chiseled Stone Bricks Cover
+thermaldynamics:cover:0, Iron Bars Cover
+thermaldynamics:cover:0, Glass Pane Cover
+thermaldynamics:cover:0, Melon Cover
+thermaldynamics:cover:0, Brick Stairs Cover
+thermaldynamics:cover:0, Stone Brick Stairs Cover
+thermaldynamics:cover:0, Mycelium Cover
+thermaldynamics:cover:0, Nether Brick Cover
+thermaldynamics:cover:0, Nether Brick Stairs Cover
+thermaldynamics:cover:0, End Portal Cover
+thermaldynamics:cover:0, End Stone Cover
+thermaldynamics:cover:0, Redstone Lamp Cover
+thermaldynamics:cover:0, Oak Wood Slab Cover
+thermaldynamics:cover:0, Spruce Wood Slab Cover
+thermaldynamics:cover:0, Birch Wood Slab Cover
+thermaldynamics:cover:0, Jungle Wood Slab Cover
+thermaldynamics:cover:0, Acacia Wood Slab Cover
+thermaldynamics:cover:0, Dark Oak Wood Slab Cover
+thermaldynamics:cover:0, Sandstone Stairs Cover
+thermaldynamics:cover:0, Emerald Ore Cover
+thermaldynamics:cover:0, Tripwire Hook Cover
+thermaldynamics:cover:0, Block of Emerald Cover
+thermaldynamics:cover:0, Spruce Wood Stairs Cover
+thermaldynamics:cover:0, Birch Wood Stairs Cover
+thermaldynamics:cover:0, Jungle Wood Stairs Cover
+thermaldynamics:cover:0, Block of Redstone Cover
+thermaldynamics:cover:0, Nether Quartz Ore Cover
+thermaldynamics:cover:0, Block of Quartz Cover
+thermaldynamics:cover:0, Chiseled Quartz Block Cover
+thermaldynamics:cover:0, Pillar Quartz Block Cover
+thermaldynamics:cover:0, Quartz Stairs Cover
+thermaldynamics:cover:0, White Terracotta Cover
+thermaldynamics:cover:0, Orange Terracotta Cover
+thermaldynamics:cover:0, Magenta Terracotta Cover
+thermaldynamics:cover:0, Light Blue Terracotta Cover
+thermaldynamics:cover:0, Yellow Terracotta Cover
+thermaldynamics:cover:0, Lime Terracotta Cover
+thermaldynamics:cover:0, Pink Terracotta Cover
+thermaldynamics:cover:0, Gray Terracotta Cover
+thermaldynamics:cover:0, Light Gray Terracotta Cover
+thermaldynamics:cover:0, Cyan Terracotta Cover
+thermaldynamics:cover:0, Purple Terracotta Cover
+thermaldynamics:cover:0, Blue Terracotta Cover
+thermaldynamics:cover:0, Brown Terracotta Cover
+thermaldynamics:cover:0, Green Terracotta Cover
+thermaldynamics:cover:0, Red Terracotta Cover
+thermaldynamics:cover:0, Black Terracotta Cover
+thermaldynamics:cover:0, White Stained Glass Pane Cover
+thermaldynamics:cover:0, Orange Stained Glass Pane Cover
+thermaldynamics:cover:0, Magenta Stained Glass Pane Cover
+thermaldynamics:cover:0, Light Blue Stained Glass Pane Cover
+thermaldynamics:cover:0, Yellow Stained Glass Pane Cover
+thermaldynamics:cover:0, Lime Stained Glass Pane Cover
+thermaldynamics:cover:0, Pink Stained Glass Pane Cover
+thermaldynamics:cover:0, Gray Stained Glass Pane Cover
+thermaldynamics:cover:0, Light Gray Stained Glass Pane Cover
+thermaldynamics:cover:0, Cyan Stained Glass Pane Cover
+thermaldynamics:cover:0, Purple Stained Glass Pane Cover
+thermaldynamics:cover:0, Blue Stained Glass Pane Cover
+thermaldynamics:cover:0, Brown Stained Glass Pane Cover
+thermaldynamics:cover:0, Green Stained Glass Pane Cover
+thermaldynamics:cover:0, Red Stained Glass Pane Cover
+thermaldynamics:cover:0, Black Stained Glass Pane Cover
+thermaldynamics:cover:0, Acacia Leaves Cover
+thermaldynamics:cover:0, Dark Oak Leaves Cover
+thermaldynamics:cover:0, Acacia Wood Cover
+thermaldynamics:cover:0, Dark Oak Wood Cover
+thermaldynamics:cover:0, Acacia Wood Stairs Cover
+thermaldynamics:cover:0, Dark Oak Wood Stairs Cover
+thermaldynamics:cover:0, Slime Block Cover
+thermaldynamics:cover:0, Prismarine Cover
+thermaldynamics:cover:0, Prismarine Bricks Cover
+thermaldynamics:cover:0, Dark Prismarine Cover
+thermaldynamics:cover:0, Sea Lantern Cover
+thermaldynamics:cover:0, Hay Bale Cover
+thermaldynamics:cover:0, Terracotta Cover
+thermaldynamics:cover:0, Block of Coal Cover
+thermaldynamics:cover:0, Packed Ice Cover
+thermaldynamics:cover:0, Red Sandstone Cover
+thermaldynamics:cover:0, Chiseled Red Sandstone Cover
+thermaldynamics:cover:0, Smooth Red Sandstone Cover
+thermaldynamics:cover:0, Red Sandstone Stairs Cover
+thermaldynamics:cover:0, Red Sandstone Slab Cover
+thermaldynamics:cover:0, Purpur Block Cover
+thermaldynamics:cover:0, Purpur Pillar Cover
+thermaldynamics:cover:0, Purpur Stairs Cover
+thermaldynamics:cover:0, Purpur Slab Cover
+thermaldynamics:cover:0, End Stone Bricks Cover
+thermaldynamics:cover:0, Magma Block Cover
+thermaldynamics:cover:0, Nether Wart Block Cover
+thermaldynamics:cover:0, Red Nether Brick Cover
+thermaldynamics:cover:0, Bone Block Cover
+thermaldynamics:cover:0, Observer Cover
+thermaldynamics:cover:0, White Glazed Terracotta Cover
+thermaldynamics:cover:0, Orange Glazed Terracotta Cover
+thermaldynamics:cover:0, Magenta Glazed Terracotta Cover
+thermaldynamics:cover:0, Light Blue Glazed Terracotta Cover
+thermaldynamics:cover:0, Yellow Glazed Terracotta Cover
+thermaldynamics:cover:0, Lime Glazed Terracotta Cover
+thermaldynamics:cover:0, Pink Glazed Terracotta Cover
+thermaldynamics:cover:0, Gray Glazed Terracotta Cover
+thermaldynamics:cover:0, Light Gray Glazed Terracotta Cover
+thermaldynamics:cover:0, Cyan Glazed Terracotta Cover
+thermaldynamics:cover:0, Purple Glazed Terracotta Cover
+thermaldynamics:cover:0, Blue Glazed Terracotta Cover
+thermaldynamics:cover:0, Brown Glazed Terracotta Cover
+thermaldynamics:cover:0, Green Glazed Terracotta Cover
+thermaldynamics:cover:0, Red Glazed Terracotta Cover
+thermaldynamics:cover:0, Black Glazed Terracotta Cover
+thermaldynamics:cover:0, White Concrete Cover
+thermaldynamics:cover:0, Orange Concrete Cover
+thermaldynamics:cover:0, Magenta Concrete Cover
+thermaldynamics:cover:0, Light Blue Concrete Cover
+thermaldynamics:cover:0, Yellow Concrete Cover
+thermaldynamics:cover:0, Lime Concrete Cover
+thermaldynamics:cover:0, Pink Concrete Cover
+thermaldynamics:cover:0, Gray Concrete Cover
+thermaldynamics:cover:0, Light Gray Concrete Cover
+thermaldynamics:cover:0, Cyan Concrete Cover
+thermaldynamics:cover:0, Purple Concrete Cover
+thermaldynamics:cover:0, Blue Concrete Cover
+thermaldynamics:cover:0, Brown Concrete Cover
+thermaldynamics:cover:0, Green Concrete Cover
+thermaldynamics:cover:0, Red Concrete Cover
+thermaldynamics:cover:0, Black Concrete Cover
+thermaldynamics:cover:0, White Concrete Powder Cover
+thermaldynamics:cover:0, Orange Concrete Powder Cover
+thermaldynamics:cover:0, Magenta Concrete Powder Cover
+thermaldynamics:cover:0, Light Blue Concrete Powder Cover
+thermaldynamics:cover:0, Yellow Concrete Powder Cover
+thermaldynamics:cover:0, Lime Concrete Powder Cover
+thermaldynamics:cover:0, Pink Concrete Powder Cover
+thermaldynamics:cover:0, Gray Concrete Powder Cover
+thermaldynamics:cover:0, Light Gray Concrete Powder Cover
+thermaldynamics:cover:0, Cyan Concrete Powder Cover
+thermaldynamics:cover:0, Purple Concrete Powder Cover
+thermaldynamics:cover:0, Blue Concrete Powder Cover
+thermaldynamics:cover:0, Brown Concrete Powder Cover
+thermaldynamics:cover:0, Green Concrete Powder Cover
+thermaldynamics:cover:0, Red Concrete Powder Cover
+thermaldynamics:cover:0, Black Concrete Powder Cover
+thermaldynamics:cover:0, Rusty Hatch Cover
+thermaldynamics:cover:0, Rusty Ladder Cover
+thermaldynamics:cover:0, Hi-tech Door Cover
+thermaldynamics:cover:0, Asphalt Cover
+thermaldynamics:cover:0, Glowing Asphalt Cover
+thermaldynamics:cover:0, Reinforced Glass Cover
+thermaldynamics:cover:0, Reinforced Glowstone Cover
+thermaldynamics:cover:0, Reinforced Lamp Cover
+thermaldynamics:cover:0, Dense Stone Cover
+thermaldynamics:cover:0, Concrete Bricks Cover
+thermaldynamics:cover:0, Mossy Concrete Bricks Cover
+thermaldynamics:cover:0, Cracked Concrete Bricks Cover
+thermaldynamics:cover:0, Broken Concrete Bricks Cover
+thermaldynamics:cover:0, Marked Concrete Bricks Cover
+thermaldynamics:cover:0, Reinforced Stone Cover
+thermaldynamics:cover:0, Compound Mesh Cover
+thermaldynamics:cover:0, Light Bricks Cover
+thermaldynamics:cover:0, Asbestos Bricks Cover
+thermaldynamics:cover:0, Reinforced Sandstone Cover
+thermaldynamics:cover:0, Obsidian Bricks Cover
+thermaldynamics:cover:0, CMB Steel Tile Cover
+thermaldynamics:cover:0, Reinforced CMB Bricks Cover
+thermaldynamics:cover:0, Concrete Tile Cover
+thermaldynamics:cover:0, Concrete Cover
+thermaldynamics:cover:0, White Concrete Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Industrial Tinge Cover
+thermaldynamics:cover:0, Reinforced Concrete Cover
+thermaldynamics:cover:0, Über Concrete Cover
+thermaldynamics:cover:0, Moldy Debris Cover
+thermaldynamics:cover:0, Asbestos Concrete Cover
+thermaldynamics:cover:0, Rebar Reinforced Concrete Pillar Cover
+thermaldynamics:cover:0, Ducrete Tile Cover
+thermaldynamics:cover:0, Ducrete Cover
+thermaldynamics:cover:0, Ducrete Brick Cover
+thermaldynamics:cover:0, Reinforced Ducrete Cover
+thermaldynamics:cover:0, Raw Lightstone Cover
+thermaldynamics:cover:0, Large Vinyl Tile Cover
+thermaldynamics:cover:0, Laboratory Tiles Cover
+thermaldynamics:cover:0, Cracked Laboratory Tiles Cover
+thermaldynamics:cover:0, Broken Laboratory Tiles Cover
+thermaldynamics:cover:0, Dense Stone Stairs Cover
+thermaldynamics:cover:0, Concrete Brick Stairs Cover
+thermaldynamics:cover:0, Mossy Concrete Brick Stairs Cover
+thermaldynamics:cover:0, Cracked Concrete Brick Stairs Cover
+thermaldynamics:cover:0, Broken Concrete Brick Stairs Cover
+thermaldynamics:cover:0, Reinforced Stone Stairs Cover
+thermaldynamics:cover:0, Compound Mesh Stairs Cover
+thermaldynamics:cover:0, Asbestos Brick Stairs Cover
+thermaldynamics:cover:0, Reinforced Sand Stairs Cover
+thermaldynamics:cover:0, Obsidian Brick Stairs Cover
+thermaldynamics:cover:0, Reinforced CMB Brick Stairs Cover
+thermaldynamics:cover:0, Concrete Tile Stairs Cover
+thermaldynamics:cover:0, Concrete Stairs Cover
+thermaldynamics:cover:0, White Concrete Stairs Cover
+thermaldynamics:cover:0, Orange Concrete Stairs Cover
+thermaldynamics:cover:0, Magenta Concrete Stairs Cover
+thermaldynamics:cover:0, Light Blue Concrete Stairs Cover
+thermaldynamics:cover:0, Yellow Concrete Stairs Cover
+thermaldynamics:cover:0, Lime Concrete Stairs Cover
+thermaldynamics:cover:0, Pink Concrete Stairs Cover
+thermaldynamics:cover:0, Gray Concrete Stairs Cover
+thermaldynamics:cover:0, Silver Concrete Stairs Cover
+thermaldynamics:cover:0, Cyan Concrete Stairs Cover
+thermaldynamics:cover:0, Purple Concrete Stairs Cover
+thermaldynamics:cover:0, Blue Concrete Stairs Cover
+thermaldynamics:cover:0, Brown Concrete Stairs Cover
+thermaldynamics:cover:0, Green Concrete Stairs Cover
+thermaldynamics:cover:0, Red Concrete Stairs Cover
+thermaldynamics:cover:0, Black Concrete Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Industrial Tinge Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Industrial Stripe Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Deep Indigo Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Mysterious Purple Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Manly Pink Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Hazard Stripe Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Desert Storm Stairs Cover
+thermaldynamics:cover:0, Builder's Choice Concrete - Bronze Plating Stairs Cover
+thermaldynamics:cover:0, Asbestos Concrete Stairs Cover
+thermaldynamics:cover:0, Ducrete Tile Stairs Cover
+thermaldynamics:cover:0, Ducrete Stairs Cover
+thermaldynamics:cover:0, Ducrete Brick Stairs Cover
+thermaldynamics:cover:0, Reinforced Ducrete Stairs Cover
+thermaldynamics:cover:0, Laboratory Tile Stairs Cover
+thermaldynamics:cover:0, Cracked Laboratory Tile Stairs Cover
+thermaldynamics:cover:0, Broken Laboratory Tile Stairs Cover
+thermaldynamics:cover:0, Reinforced Stone Slab Cover
+thermaldynamics:cover:0, Concrete Brick Slab Cover
+thermaldynamics:cover:0, Mossy Concrete Slab Cover
+thermaldynamics:cover:0, Cracked Concrete Slab Cover
+thermaldynamics:cover:0, Broken Concrete Slab Cover
+thermaldynamics:cover:0, Reinforced Brick Slab Cover
+thermaldynamics:cover:0, Compound Mesh Slab Cover
+thermaldynamics:cover:0, Asbestos Brick Slab Cover
+thermaldynamics:cover:0, Reinforced Sand Slab Cover
+thermaldynamics:cover:0, Obsidian Brick Slab Cover
+thermaldynamics:cover:0, Reinforced CMB Brick Slab Cover
+thermaldynamics:cover:0, Concrete Tile Slab Cover
+thermaldynamics:cover:0, Concrete Slab Cover
+thermaldynamics:cover:0, White Concrete Slab Cover
+thermaldynamics:cover:0, Orange Concrete Slab Cover
+thermaldynamics:cover:0, Magenta Concrete Slab Cover
+thermaldynamics:cover:0, Light Blue Concrete Slab Cover
+thermaldynamics:cover:0, Yellow Concrete Slab Cover
+thermaldynamics:cover:0, Lime Concrete Slab Cover
+thermaldynamics:cover:0, Pink Concrete Slab Cover
+thermaldynamics:cover:0, Gray Concrete Slab Cover
+thermaldynamics:cover:0, Silver Concrete Slab Cover
+thermaldynamics:cover:0, Cyan Concrete Slab Cover
+thermaldynamics:cover:0, Purple Concrete Slab Cover
+thermaldynamics:cover:0, Blue Concrete Slab Cover
+thermaldynamics:cover:0, Brown Concrete Slab Cover
+thermaldynamics:cover:0, Green Concrete Slab Cover
+thermaldynamics:cover:0, Red Concrete Slab Cover
+thermaldynamics:cover:0, Black Concrete Slab Cover
+thermaldynamics:cover:0, Asbestos Concrete Slab Cover
+thermaldynamics:cover:0, Ducrete Tile Slab Cover
+thermaldynamics:cover:0, Ducrete Slab Cover
+thermaldynamics:cover:0, Ducrete Brick Slab Cover
+thermaldynamics:cover:0, Reinforced Ducrete Slab Cover
+thermaldynamics:cover:0, Laboratory Tile Slab Cover
+thermaldynamics:cover:0, Cracked Laboratory Tile Slab Cover
+thermaldynamics:cover:0, Broken Laboratory Tile Slab Cover
+thermaldynamics:cover:0, Block of Scrap Cover
+thermaldynamics:cover:0, Block of Electrical Scrap Cover
+thermaldynamics:cover:0, Uranium Ore Cover
+thermaldynamics:cover:0, Scorched Uranium Ore Cover
+thermaldynamics:cover:0, Schrabidium Ore Cover
+thermaldynamics:cover:0, Sellafite Emerald Ore Cover
+thermaldynamics:cover:0, Scorched Sellafite Uranium Ore Cover
+thermaldynamics:cover:0, Sellafite Schrabidium Ore Cover
+thermaldynamics:cover:0, Sellafite Diamond Ore Cover
+thermaldynamics:cover:0, Sellafite Radioactive Gem Ore Cover
+thermaldynamics:cover:0, Thorium Ore Cover
+thermaldynamics:cover:0, Titanium Ore Cover
+thermaldynamics:cover:0, Sulfur Ore Cover
+thermaldynamics:cover:0, Niter Ore Cover
+thermaldynamics:cover:0, Copper Ore Cover
+thermaldynamics:cover:0, Tungsten Ore Cover
+thermaldynamics:cover:0, Aluminium-Bearing Ore Cover
+thermaldynamics:cover:0, Fluorite Ore Cover
+thermaldynamics:cover:0, Lead Ore Cover
+thermaldynamics:cover:0, Beryllium Ore Cover
+thermaldynamics:cover:0, Lignite Ore Cover
+thermaldynamics:cover:0, Asbestos Ore Cover
+thermaldynamics:cover:0, Rare Earth Ore Cover
+thermaldynamics:cover:0, Iron Ore Cluster Cover
+thermaldynamics:cover:0, Titanium Ore Cluster Cover
+thermaldynamics:cover:0, Aluminium Ore Cluster Cover
+thermaldynamics:cover:0, Copper Ore Cluster Cover
+thermaldynamics:cover:0, Cobalt Ore Cover
+thermaldynamics:cover:0, Cinnabar Ore Cover
+thermaldynamics:cover:0, Coltan Ore Cover
+thermaldynamics:cover:0, Australian Ore Cover
+thermaldynamics:cover:0, Depth Rock Cover
+thermaldynamics:cover:0, Depth Cinnabar Ore Cover
+thermaldynamics:cover:0, Depth Zirconium Ore Cover
+thermaldynamics:cover:0, Depth Borax Ore Cover
+thermaldynamics:cover:0, Alexandrite Ore Cover
+thermaldynamics:cover:0, Depth Iron Ore Cluster Cover
+thermaldynamics:cover:0, Depth Titanium Ore Cluster Cover
+thermaldynamics:cover:0, Depth Tungsten Ore Cluster Cover
+thermaldynamics:cover:0, Bedrock Coltan Ore Cover
+thermaldynamics:cover:0, Bedrock Oil Deposit Cover
+thermaldynamics:cover:0, Oil Deposit Cover
+thermaldynamics:cover:0, Empty Oil Deposit Cover
+thermaldynamics:cover:0, Tar Sand Cover
+thermaldynamics:cover:0, Graphitic Schist Cover
+thermaldynamics:cover:0, Schist Brick Cover
+thermaldynamics:cover:0, Schist Tile Cover
+thermaldynamics:cover:0, Chiseled Schist Cover
+thermaldynamics:cover:0, Schist Iron Ore Cover
+thermaldynamics:cover:0, Schist Gold Ore Cover
+thermaldynamics:cover:0, Schist Uranium Ore Cover
+thermaldynamics:cover:0, Scorched Schist Uranium Ore Cover
+thermaldynamics:cover:0, Schist Copper Ore Cover
+thermaldynamics:cover:0, Schist Asbestos Ore Cover
+thermaldynamics:cover:0, Schist Lithium Ore Cover
+thermaldynamics:cover:0, Schist Schrabidium Ore Cover
+thermaldynamics:cover:0, Schist Rare Earth Ore Cover
+thermaldynamics:cover:0, Gas Shale Cover
+thermaldynamics:cover:0, Trixite Cover
+thermaldynamics:cover:0, Burning Nether Coal Ore Cover
+thermaldynamics:cover:0, Smoldering Netherrack Cover
+thermaldynamics:cover:0, Nether Cobalt Ore Cover
+thermaldynamics:cover:0, Nether Tungsten Ore Cover
+thermaldynamics:cover:0, Nether Sulfur Ore Cover
+thermaldynamics:cover:0, Nether Phosphorus Ore Cover
+thermaldynamics:cover:0, Nether Uranium Ore Cover
+thermaldynamics:cover:0, Scorched Nether Uranium Ore Cover
+thermaldynamics:cover:0, Nether Plutonium Ore Cover
+thermaldynamics:cover:0, Nether Schrabidium Ore Cover
+thermaldynamics:cover:0, Nether Depth Rock Cover
+thermaldynamics:cover:0, Nether Depth Neodymium Ore Cover
+thermaldynamics:cover:0, Nether Depth Nitanium Ore Cover
+thermaldynamics:cover:0, Meteorite Block Cover
+thermaldynamics:cover:0, Meteorite Cobblestone Cover
+thermaldynamics:cover:0, Broken Meteorite Block Cover
+thermaldynamics:cover:0, Hot Meteorite Cobblestone Cover
+thermaldynamics:cover:0, Meteorite Treasure Block Cover
+thermaldynamics:cover:0, Meteor Iron Ore Cover
+thermaldynamics:cover:0, Polished Meteor Block Cover
+thermaldynamics:cover:0, Meteor Bricks Cover
+thermaldynamics:cover:0, Mossy Meteor Bricks Cover
+thermaldynamics:cover:0, Cracked Meteor Bricks Cover
+thermaldynamics:cover:0, Chiseled Meteor Bricks Cover
+thermaldynamics:cover:0, Meteor Pillar Cover
+thermaldynamics:cover:0, Starmetal Static Electricity Generator Cover
+thermaldynamics:cover:0, Enargite Bricks Cover
+thermaldynamics:cover:0, Cracked Enargite Bricks Cover
+thermaldynamics:cover:0, Magmatic Enargite Bricks Cover
+thermaldynamics:cover:0, Radioactive Enargite Bricks Cover
+thermaldynamics:cover:0, Arcane Enargite Bricks Cover
+thermaldynamics:cover:0, Enargite Glyph Bricks Cover
+thermaldynamics:cover:0, Mechanist's Circle Cover
+thermaldynamics:cover:0, IBM Personal Computer 300PL Cover
+thermaldynamics:cover:0, Old CRT Screen Cover
+thermaldynamics:cover:0, Broken Toaster Cover
+thermaldynamics:cover:0, Berzelianite Bricks Cover
+thermaldynamics:cover:0, Berzelianite Block Cover
+thermaldynamics:cover:0, Berzelianite Tile Cover
+thermaldynamics:cover:0, Berzelianite Cirlce Cover
+thermaldynamics:cover:0, Block of Niter Cover
+thermaldynamics:cover:0, Reinforced Block of Niter Cover
+thermaldynamics:cover:0, Block of Sulfur Cover
+thermaldynamics:cover:0, Block of Thorium-232 Cover
+thermaldynamics:cover:0, Block of Thorium Fuel Cover
+thermaldynamics:cover:0, Block of Neptunium Cover
+thermaldynamics:cover:0, Block of Polonium-210 Cover
+thermaldynamics:cover:0, Block of MOX Fuel Cover
+thermaldynamics:cover:0, Block of Plutonium Cover
+thermaldynamics:cover:0, Block of Plutonium-238 Cover
+thermaldynamics:cover:0, Block of Plutonium-239 Cover
+thermaldynamics:cover:0, Block of Plutonium-240 Cover
+thermaldynamics:cover:0, Block of Reactor Grade Plutonium Cover
+thermaldynamics:cover:0, Block of Plutonium Fuel Cover
+thermaldynamics:cover:0, Block of Uranium Cover
+thermaldynamics:cover:0, Block of Uranium-233 Cover
+thermaldynamics:cover:0, Block of Uranium-235 Cover
+thermaldynamics:cover:0, Block of Uranium-238 Cover
+thermaldynamics:cover:0, Block of Uranium Fuel Cover
+thermaldynamics:cover:0, Block of Titanium Cover
+thermaldynamics:cover:0, Block of Copper Cover
+thermaldynamics:cover:0, Block of Red Copper Cover
+thermaldynamics:cover:0, Block of Advanced Alloy Cover
+thermaldynamics:cover:0, Block of Tungsten Cover
+thermaldynamics:cover:0, Block of Aluminium Cover
+thermaldynamics:cover:0, Block of Fluorite Cover
+thermaldynamics:cover:0, Block of Steel Cover
+thermaldynamics:cover:0, Block of Lead Cover
+thermaldynamics:cover:0, Block of Technetium Steel Cover
+thermaldynamics:cover:0, Block of Cadmium Steel Cover
+thermaldynamics:cover:0, Block of Cadmium Cover
+thermaldynamics:cover:0, Block of Bismuth Cover
+thermaldynamics:cover:0, Block of Coltan Cover
+thermaldynamics:cover:0, Block of Tantalium Cover
+thermaldynamics:cover:0, Block of Niobium Cover
+thermaldynamics:cover:0, Block of Trinitite Cover
+thermaldynamics:cover:0, Block of Beryllium Cover
+thermaldynamics:cover:0, Block of Schraranium Cover
+thermaldynamics:cover:0, Block of Schrabidium Cover
+thermaldynamics:cover:0, Block of Ferric Schrabidate Cover
+thermaldynamics:cover:0, Block of Solinium Cover
+thermaldynamics:cover:0, Block of Schrabidium Fuel Cover
+thermaldynamics:cover:0, Block of Gold-198 Cover
+thermaldynamics:cover:0, Block of Euphemium Cover
+thermaldynamics:cover:0, Block of Dineutronium Cover
+thermaldynamics:cover:0, Schrabidium Cluster Cover
+thermaldynamics:cover:0, Euphemium-Etched Schrabidium Cluster Cover
+thermaldynamics:cover:0, Block of CMB Steel Cover
+thermaldynamics:cover:0, Block of Magnetized Tungsten Cover
+thermaldynamics:cover:0, Reinforced Block of Desh Cover
+thermaldynamics:cover:0, Reinforced Block of High-Speed Steel Cover
+thermaldynamics:cover:0, Block of Saturnite Cover
+thermaldynamics:cover:0, Tektite Cover
+thermaldynamics:cover:0, Osmiridium-Infused Tektite Cover
+thermaldynamics:cover:0, Scorched Dirt Cover
+thermaldynamics:cover:0, Crushed Obsidian Cover
+thermaldynamics:cover:0, Diamond Gravel Cover
+thermaldynamics:cover:0, Moon Turf Cover
+thermaldynamics:cover:0, Titanium Deco Block Cover
+thermaldynamics:cover:0, Red Copper Deco Block Cover
+thermaldynamics:cover:0, Tungsten Deco Block Cover
+thermaldynamics:cover:0, Aluminium Deco Block Cover
+thermaldynamics:cover:0, Steel Deco Block Cover
+thermaldynamics:cover:0, Rusty Steel Deco Block Cover
+thermaldynamics:cover:0, Lead Deco Block Cover
+thermaldynamics:cover:0, Beryllium Deco Block Cover
+thermaldynamics:cover:0, Asbestos Roof Cover
+thermaldynamics:cover:0, RBMK Deco Block Cover
+thermaldynamics:cover:0, Smooth RBMK Deco Block Cover
+thermaldynamics:cover:0, Hazmat Cloth Block Cover
+thermaldynamics:cover:0, Tape Recorder Cover
+thermaldynamics:cover:0, Steel Pole Cover
+thermaldynamics:cover:0, Antenna Top Cover
+thermaldynamics:cover:0, Steel Beam Cover
+thermaldynamics:cover:0, Steel Grate Cover
+thermaldynamics:cover:0, Item Grate Cover
+thermaldynamics:cover:0, Steel Pipe Cover
+thermaldynamics:cover:0, Rusty Steel Pipe Cover
+thermaldynamics:cover:0, Green Steel Pipe Cover
+thermaldynamics:cover:0, Rusty Green Steel Pipe Cover
+thermaldynamics:cover:0, Red Steel Pipe Cover
+thermaldynamics:cover:0, Gas Pipe Cover
+thermaldynamics:cover:0, Steel Pipe (Rimmed) Cover
+thermaldynamics:cover:0, Rusty Steel Pipe (Rimmed) Cover
+thermaldynamics:cover:0, Green Steel Pipe (Rimmed) Cover
+thermaldynamics:cover:0, Rusty Green Steel Pipe (Rimmed) Cover
+thermaldynamics:cover:0, Red Steel Pipe (Rimmed) Cover
+thermaldynamics:cover:0, Gas Pipe (Rimmed) Cover
+thermaldynamics:cover:0, Steel Pipe (Framed) Cover
+thermaldynamics:cover:0, Rusty Steel Pipe (Framed) Cover
+thermaldynamics:cover:0, Green Steel Pipe (Framed) Cover
+thermaldynamics:cover:0, Rusty Green Steel Pipe (Framed) Cover
+thermaldynamics:cover:0, Red Steel Pipe (Framed) Cover
+thermaldynamics:cover:0, Gas Pipe (Framed) Cover
+thermaldynamics:cover:0, Steel Pipes Cover
+thermaldynamics:cover:0, Rusty Steel Pipes Cover
+thermaldynamics:cover:0, Green Steel Pipes Cover
+thermaldynamics:cover:0, Rusty Green Steel Pipes Cover
+thermaldynamics:cover:0, Red Steel Pipes Cover
+thermaldynamics:cover:0, Gas Pipes Cover
+thermaldynamics:cover:0, Glyphid Hive Block Cover
+thermaldynamics:cover:0, Glowing Mushroom Cover
+thermaldynamics:cover:0, Grown Glowing Shroom Cover
+thermaldynamics:cover:0, Grown Glowing Shroom Stem Cover
+thermaldynamics:cover:0, Block of Nuclear Waste Cover
+thermaldynamics:cover:0, Painted Block of Nuclear Waste Cover
+thermaldynamics:cover:0, Vitrified Block of Nuclear Waste Cover
+thermaldynamics:cover:0, Glowing Mycelium Cover
+thermaldynamics:cover:0, Dead Grass Cover
+thermaldynamics:cover:0, Trinitite Ore Cover
+thermaldynamics:cover:0, Red Trinitite Ore Cover
+thermaldynamics:cover:0, Charred Log Cover
+thermaldynamics:cover:0, Charred Wooden Planks Cover
+thermaldynamics:cover:0, Waste Grass Cover
+thermaldynamics:cover:0, Burning Grass Cover
+thermaldynamics:cover:0, Dead Plant Cover
+thermaldynamics:cover:0, Foxglove Cover
+thermaldynamics:cover:0, Hemp Cover
+thermaldynamics:cover:0, Dead Dirt Cover
+thermaldynamics:cover:0, Oily Dirt Cover
+thermaldynamics:cover:0, Oily Sand Cover
+thermaldynamics:cover:0, Red Oily Sand Cover
+thermaldynamics:cover:0, Cracked Stone Cover
+thermaldynamics:cover:0, Frozen Grass Cover
+thermaldynamics:cover:0, Frozen Log Cover
+thermaldynamics:cover:0, Frozen Planks Cover
+thermaldynamics:cover:0, Frozen Dirt Cover
+thermaldynamics:cover:0, Fallout Cover
+thermaldynamics:cover:0, Block of Fallout Cover
+thermaldynamics:cover:0, Foam layer Cover
+thermaldynamics:cover:0, Boron Sand Layer Cover
+thermaldynamics:cover:0, Fallen Leaves Cover
+thermaldynamics:cover:0, Oil Spill Cover
+thermaldynamics:cover:0, Block of Boron Cover
+thermaldynamics:cover:0, Block of Lanthanium Cover
+thermaldynamics:cover:0, Block of Radium-226 Cover
+thermaldynamics:cover:0, Block of Actinium Cover
+thermaldynamics:cover:0, Block of Tritium Cells Cover
+thermaldynamics:cover:0, Block of Semtex Cover
+thermaldynamics:cover:0, Block of C-4 Cover
+thermaldynamics:cover:0, Block of S'more Cover
+thermaldynamics:cover:0, Block of Slag Cover
+thermaldynamics:cover:0, Slaked Sellafite Cover
+thermaldynamics:cover:0, Bedrock Sellafite Cover
+thermaldynamics:cover:0, Sellafite Cover
+thermaldynamics:cover:0, Block of Yellowcake Cover
+thermaldynamics:cover:0, §9Block of Starmetal§r Cover
+thermaldynamics:cover:0, Block of Polymer Cover
+thermaldynamics:cover:0, Block of Bakelite Cover
+thermaldynamics:cover:0, Block of Rubber Cover
+thermaldynamics:cover:0, Block of Asbestos Cover
+thermaldynamics:cover:0, Firebricks Cover
+thermaldynamics:cover:0, Block of Cobalt Cover
+thermaldynamics:cover:0, Block of Lithium Cover
+thermaldynamics:cover:0, Block of Zirconium Cover
+thermaldynamics:cover:0, Roll of Insulation Cover
+thermaldynamics:cover:0, Roll of Fiberglass Cover
+thermaldynamics:cover:0, Block of White Phosphorus Cover
+thermaldynamics:cover:0, Block of Red Phosphorus Cover
+thermaldynamics:cover:0, Foam Cover
+thermaldynamics:cover:0, Block of Coal Coke Cover
+thermaldynamics:cover:0, Block of Graphite Cover
+thermaldynamics:cover:0, Block of Australium Cover
+thermaldynamics:cover:0, Depth Bricks Cover
+thermaldynamics:cover:0, Depth Tiles Cover
+thermaldynamics:cover:0, Nether Depth Bricks Cover
+thermaldynamics:cover:0, Nether Depth Tiles Cover
+thermaldynamics:cover:0, DNT-Reinforced Depth Bricks Cover
+thermaldynamics:cover:0, Porous Stone Cover
+thermaldynamics:cover:0, Basalt Cover
+thermaldynamics:cover:0, Sulfur-Rich Basalt Cover
+thermaldynamics:cover:0, Smooth Basalt Cover
+thermaldynamics:cover:0, Basalt Bricks Cover
+thermaldynamics:cover:0, Polished Basalt Cover
+thermaldynamics:cover:0, Basalt Tiles Cover
+thermaldynamics:cover:0, Block of Nuka Cola Bottle Caps Cover
+thermaldynamics:cover:0, Dynamite Cover
+thermaldynamics:cover:0, Actual TNT Cover
+thermaldynamics:cover:0, Semtex Cover
+thermaldynamics:cover:0, C-4 Cover
+thermaldynamics:cover:0, Fissure Bomb Cover
+thermaldynamics:cover:0, Flame War in a Box Cover
+thermaldynamics:cover:0, Levitation Bomb Cover
+thermaldynamics:cover:0, EMP Device Cover
+thermaldynamics:cover:0, Endothermic Bomb Cover
+thermaldynamics:cover:0, Exothermic Bomb Cover
+thermaldynamics:cover:0, Det Cord Cover
+thermaldynamics:cover:0, Mining Charge Cover
+thermaldynamics:cover:0, Explosive Charge Cover
+thermaldynamics:cover:0, N² Charge Cover
+thermaldynamics:cover:0, Nuclear Charge Cover
+thermaldynamics:cover:0, Balefire Charge Cover
+thermaldynamics:cover:0, Explosive Barrel Cover
+thermaldynamics:cover:0, Kerosene Barrel Cover
+thermaldynamics:cover:0, Radioactive Barrel Cover
+thermaldynamics:cover:0, Vitrified Nuclear Waste Drum Cover
+thermaldynamics:cover:0, LOX Barrel Cover
+thermaldynamics:cover:0, IMP Residue Barrel Cover
+thermaldynamics:cover:0, Armor Modification Table Cover
+thermaldynamics:cover:0, Weapon Modification Table Cover
+thermaldynamics:cover:0, High Speed Rail Cover
+thermaldynamics:cover:0, High Speed Booster Rail Cover
+thermaldynamics:cover:0, Suit Battery Cover
+thermaldynamics:cover:0, Chainlink Fence Cover
+thermaldynamics:cover:0, Chainlink Fence Post Cover
+thermaldynamics:cover:0, Ash Cover
+thermaldynamics:cover:0, Boron Sand Cover
+thermaldynamics:cover:0, Lead Sand Cover
+thermaldynamics:cover:0, Uranium Sand Cover
+thermaldynamics:cover:0, Polonium Sand Cover
+thermaldynamics:cover:0, Quartz Sand Cover
+thermaldynamics:cover:0, Gold Sand Cover
+thermaldynamics:cover:0, Gold-198 Sand Cover
+thermaldynamics:cover:0, Uranium Glass Cover
+thermaldynamics:cover:0, Trinity Glass Cover
+thermaldynamics:cover:0, Polonium Glass Cover
+thermaldynamics:cover:0, Boron Glass Cover
+thermaldynamics:cover:0, Lead Glass Cover
+thermaldynamics:cover:0, Ash Glass Cover
+thermaldynamics:cover:0, Quartz Glass Cover
+thermaldynamics:cover:0, Polarized Glass Cover
+thermaldynamics:cover:0, Silo Hatch Frame Cover
+thermaldynamics:cover:0, Silo Hatch Opener Cover
+thermaldynamics:cover:0, Barbed Wire Cover
+thermaldynamics:cover:0, Flaming Barbed Wire Cover
+thermaldynamics:cover:0, Poisoned Barbed Wire Cover
+thermaldynamics:cover:0, Caustic Barbed Wire Cover
+thermaldynamics:cover:0, Withered Barbed Wire Cover
+thermaldynamics:cover:0, Radioactive Barbed Wire Cover
+thermaldynamics:cover:0, Spikes Cover
+thermaldynamics:cover:0, Supply Crate Cover
+thermaldynamics:cover:0, Weapon Crate Cover
+thermaldynamics:cover:0, Hazmat Crate Cover
+thermaldynamics:cover:0, Machine Crate Cover
+thermaldynamics:cover:0, Conserve Crate Cover
+thermaldynamics:cover:0, Enargite Crate Cover
+thermaldynamics:cover:0, Starmetal Crate Cover
+thermaldynamics:cover:0, Hbm's Nuclear Tech Mod Manual [LEGACY] Cover
+thermaldynamics:cover:0, 10k-20Hz Transformer Cover
+thermaldynamics:cover:0, 10k-1Hz Transformer Cover
+thermaldynamics:cover:0, DNT-20Hz Transformer Cover
+thermaldynamics:cover:0, DNT-1Hz Transformer Cover
+thermaldynamics:cover:0, Burner Press Preheater Cover
+thermaldynamics:cover:0, RBMK Steam Connector Cover
+thermaldynamics:cover:0, RBMK Debris Cover
+thermaldynamics:cover:0, Flaming RBMK Debris Cover
+thermaldynamics:cover:0, Smoldering RBMK Debris Cover
+thermaldynamics:cover:0, Blackened RBMK Debris Cover
+thermaldynamics:cover:0, Corium Cover
+thermaldynamics:cover:0, Corebblestone Cover
+thermaldynamics:cover:0, Iron Anvil Cover
+thermaldynamics:cover:0, Lead Anvil Cover
+thermaldynamics:cover:0, Steel Anvil Cover
+thermaldynamics:cover:0, Desh Anvil Cover
+thermaldynamics:cover:0, Ferrouranium Anvil Cover
+thermaldynamics:cover:0, Saturnite Anvil Cover
+thermaldynamics:cover:0, Bismuth Bronze Anvil Cover
+thermaldynamics:cover:0, Arsenic Bronze Anvil Cover
+thermaldynamics:cover:0, Ferric Schrabidate Anvil Cover
+thermaldynamics:cover:0, Dineutronium Anvil Cover
+thermaldynamics:cover:0, Osmiridium Anvil Cover
+thermaldynamics:cover:0, Murky Anvil Cover
+thermaldynamics:cover:0, Conveyor Belt Cover
+thermaldynamics:cover:0, Double-Lane Conveyor Belt Cover
+thermaldynamics:cover:0, Triple-Lane Conveyor Belt Cover
+thermaldynamics:cover:0, Express Conveyor Belt Cover
+thermaldynamics:cover:0, Conveyor Chute Cover
+thermaldynamics:cover:0, Conveyor Chain Lift Cover
+thermaldynamics:cover:0, Sandbags Cover
+thermaldynamics:cover:0, Teleportation Anchor Cover
+thermaldynamics:cover:0, High Energy Field Jammer Cover
+thermaldynamics:cover:0, Capacitor Bus Cover
+thermaldynamics:cover:0, Muffler Cover
+thermaldynamics:cover:0, Launch Pad Component Block Cover
+thermaldynamics:cover:0, Launch Pad Scaffold Block Cover
+thermaldynamics:cover:0, Wooden Barrier Cover
+thermaldynamics:cover:0, PWR Fuel Rod Cover
+thermaldynamics:cover:0, PWR Control Rod Cover
+thermaldynamics:cover:0, PWR Coolant Channel Cover
+thermaldynamics:cover:0, PWR Heat Exchanger Cover
+thermaldynamics:cover:0, PWR Heatsink Cover
+thermaldynamics:cover:0, PWR Neutron Source Cover
+thermaldynamics:cover:0, PWR Neutron Reflector Cover
+thermaldynamics:cover:0, PWR Pressure Vessel Cover
+thermaldynamics:cover:0, PWR Access Port Cover
+thermaldynamics:cover:0, Plasma Heater Component Cover
+thermaldynamics:cover:0, Duct Deco Block Cover
+thermaldynamics:cover:0, Fusion Reactor Control Cover
+thermaldynamics:cover:0, Plasma Cover
+thermaldynamics:cover:0, Superconducting BSCCO Coils Cover
+thermaldynamics:cover:0, ICF Stability Element Cover
+thermaldynamics:cover:0, ICF Laser Casing Cover
+thermaldynamics:cover:0, Watz Reaction Chamber Cover
+thermaldynamics:cover:0, Watz Reactor Supercooler Cover
+thermaldynamics:cover:0, Watz Stability Element Cover
+thermaldynamics:cover:0, Watz Stability Element (Riveted) Cover
+thermaldynamics:cover:0, Particle Accelerator Plating Cover
+thermaldynamics:cover:0, Particle Accelerator Plating (Blue) Cover
+thermaldynamics:cover:0, Particle Accelerator Plating (Black) Cover
+thermaldynamics:cover:0, Particle Accelerator Plating (YelloDye) Cover
+thermaldynamics:cover:0, Particle Accelerator Plating (Cool Hazard Stripes) Cover
+thermaldynamics:cover:0, Particle Accelerator Plating (VOLTZ) Cover
+thermaldynamics:cover:0, Particle Accelerator Plating (Window) Cover
+thermaldynamics:cover:0, Dense Superconducting Coil Cover
+thermaldynamics:cover:0, Dense Gold Coil Cover
+thermaldynamics:cover:0, Dense Neodymium Coil Cover
+thermaldynamics:cover:0, Dense 4000K Superconductor Coil Cover
+thermaldynamics:cover:0, Dense Schrabidic Coil Cover
+thermaldynamics:cover:0, Dense Schrabidate Coil Cover
+thermaldynamics:cover:0, Dense Starmetal Coil Cover
+thermaldynamics:cover:0, Dense Chlorophyte Coil Cover
+thermaldynamics:cover:0, Dense Mese Coil Cover
+thermaldynamics:cover:0, Particle Accelerator Analysis Chamber Wall Cover
+thermaldynamics:cover:0, Particle Accelerator Analysis Chamber Window Cover
+thermaldynamics:cover:0, Radiation Absorber Cover
+thermaldynamics:cover:0, Radiation Absorber (LEGACY) Cover
+thermaldynamics:cover:0, Enhanced Radiation Absorber (LEGACY) Cover
+thermaldynamics:cover:0, Advanced Radiation Absorber (LEGACY) Cover
+thermaldynamics:cover:0, Elite Radiation Absorber (LEGACY) Cover
+thermaldynamics:cover:0, Volcano Core Cover
+thermaldynamics:cover:0, Taint Cover
+thermaldynamics:cover:0, Cloud Residue Cover
+thermaldynamics:cover:0, Chlorine Gas Cover
+thermaldynamics:cover:0, Sulfurous Stone Cover
+thermaldynamics:cover:0, Sulfurous Stalagmite Cover
+thermaldynamics:cover:0, Sulfurous Stalactite Cover
+thermaldynamics:cover:0, Radon Gas Cover
+thermaldynamics:cover:0, Dense Radon Gas Cover
+thermaldynamics:cover:0, Tomb Gas Cover
+thermaldynamics:cover:0, Meltdown Gas Cover
+thermaldynamics:cover:0, Carbon Monoxide Cover
+thermaldynamics:cover:0, Airborne Asbestos Particles Cover
+thermaldynamics:cover:0, Airborne Coal Dust Cover
+thermaldynamics:cover:0, Flammable Gas Cover
+thermaldynamics:cover:0, Explosive Gas Cover
+thermaldynamics:cover:0, Ancient Scrap Metal Cover
+thermaldynamics:cover:0, Metal Chain Cover
+thermaldynamics:cover:0, Sturdy Wooden Ladder Cover
+thermaldynamics:cover:0, Iron Ladder Cover
+thermaldynamics:cover:0, Golden Ladder Cover
+thermaldynamics:cover:0, Aluminium Ladder Cover
+thermaldynamics:cover:0, Copper Ladder Cover
+thermaldynamics:cover:0, Titanium Ladder Cover
+thermaldynamics:cover:0, Lead Ladder Cover
+thermaldynamics:cover:0, Cobalt Ladder Cover
+thermaldynamics:cover:0, Steel Ladder Cover
+thermaldynamics:cover:0, Tungsten Ladder Cover
+thermaldynamics:cover:0, Red Ladder Cover
+thermaldynamics:cover:0, Red Ladder Top Cover
+thermaldynamics:cover:0, Steel Trapdoor Cover
+thermaldynamics:cover:0, Railing End (Floor) Cover
+thermaldynamics:cover:0, Railing End (Self) Cover
+thermaldynamics:cover:0, Railing End Flipped (Floor) Cover
+thermaldynamics:cover:0, Railing End Flipped (Self) Cover
+thermaldynamics:cover:0, Railing Cover
+thermaldynamics:cover:0, Railing Bend Cover
+thermaldynamics:cover:0, Structure Wand Block (Air) Cover
+thermaldynamics:cover:0, Moon Rock Cover
+thermaldynamics:cover:0, Fleshy Mass Cover
+thermaldynamics:cover:0, Duna Sand Cover
+thermaldynamics:cover:0, Duna Cobblestone Cover
+thermaldynamics:cover:0, Duna Rock Cover
+thermaldynamics:cover:0, Dry Ice Cover
+thermaldynamics:cover:0, Ferric Clay Cover
+thermaldynamics:cover:0, Eve Silt Cover
+thermaldynamics:cover:0, Eve Rock Cover
+thermaldynamics:cover:0, Laythe Silt Cover
+thermaldynamics:cover:0, Ike Regolith Cover
+thermaldynamics:cover:0, Ike Stone Cover
+thermaldynamics:cover:0, Dres Rock Cover
+thermaldynamics:cover:0, Moho Regolith Cover
+thermaldynamics:cover:0, Moho Stone Cover
+thermaldynamics:cover:0, Minmus Regolith Cover
+thermaldynamics:cover:0, Minmus Stone Cover
+thermaldynamics:cover:0, Smooth Minmus Rock Cover
+thermaldynamics:cover:0, Block of Nickel Cover
+thermaldynamics:cover:0, Block of Osmiridium Cover
+thermaldynamics:cover:0, Stainless Steel Deco Block Cover
+thermaldynamics:cover:0, Conglomerate Cover
+thermaldynamics:cover:0, Hardened Vinyl Log Cover
+thermaldynamics:cover:0, PVC Log Cover
+thermaldynamics:cover:0, Vinyl Planks Cover
+thermaldynamics:cover:0, PVC Planks Cover
+thermaldynamics:cover:0, Latticed Log Cover
+thermaldynamics:cover:0, Balefire Log Cover
+thermaldynamics:cover:0, Primed Log Cover
+thermaldynamics:cover:0, Anti-Mass Log Cover
+thermaldynamics:cover:0, tile.flesh_block.name Cover
+thermaldynamics:cover:0, tile.charred_flesh_block.name Cover
+thermaldynamics:cover:0, tile.carbonized_flesh_block.name Cover
+thermaldynamics:cover:0, Strawberries Cover
+thermaldynamics:cover:0, Mint Cover
+thermaldynamics:cover:0, Coffee Cover
+thermaldynamics:cover:0, Tea Cover
+thermaldynamics:cover:0, Wax Crop Cover
+thermaldynamics:cover:0, Tekto Farmland Cover
+thermaldynamics:cover:0, Tekto Silt Cover
+thermaldynamics:cover:0, Copper Ore Cover
+thermaldynamics:cover:0, Tin Ore Cover
+thermaldynamics:cover:0, Silver Ore Cover
+thermaldynamics:cover:0, Lead Ore Cover
+thermaldynamics:cover:0, Aluminum Ore Cover
+thermaldynamics:cover:0, Nickel Ore Cover
+thermaldynamics:cover:0, Platinum Ore Cover
+thermaldynamics:cover:0, Iridium Ore Cover
+thermaldynamics:cover:0, Mana Infused Ore Cover
+thermaldynamics:cover:0, Oil Sand Cover
+thermaldynamics:cover:0, Oil Shale Cover
+thermaldynamics:cover:0, Destabilized Redstone Ore Cover
+thermaldynamics:cover:0, Energized Netherrack Cover
+thermaldynamics:cover:0, Resonant End Stone Cover
+thermaldynamics:cover:0, Oil Sand Cover
+thermaldynamics:cover:0, Block of Copper Cover
+thermaldynamics:cover:0, Block of Tin Cover
+thermaldynamics:cover:0, Block of Silver Cover
+thermaldynamics:cover:0, Block of Lead Cover
+thermaldynamics:cover:0, Block of Aluminum Cover
+thermaldynamics:cover:0, Block of Nickel Cover
+thermaldynamics:cover:0, Block of Platinum Cover
+thermaldynamics:cover:0, Block of Iridium Cover
+thermaldynamics:cover:0, Block of Mana Infused Metal Cover
+thermaldynamics:cover:0, Block of Steel Cover
+thermaldynamics:cover:0, Block of Electrum Cover
+thermaldynamics:cover:0, Block of Invar Cover
+thermaldynamics:cover:0, Block of Bronze Cover
+thermaldynamics:cover:0, Block of Constantan Cover
+thermaldynamics:cover:0, Block of Signalum Cover
+thermaldynamics:cover:0, Block of Lumium Cover
+thermaldynamics:cover:0, Block of Enderium Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
+thermaldynamics:cover:0, Block of Coal Coke Cover
+thermaldynamics:cover:0, Hardened Copper Glass Cover
+thermaldynamics:cover:0, Hardened Tin Glass Cover
+thermaldynamics:cover:0, Hardened Silver Glass Cover
+thermaldynamics:cover:0, Hardened Glass Cover
+thermaldynamics:cover:0, Hardened Aluminum Glass Cover
+thermaldynamics:cover:0, Hardened Nickel Glass Cover
+thermaldynamics:cover:0, Hardened Platinum Glass Cover
+thermaldynamics:cover:0, Hardened Iridium Glass Cover
+thermaldynamics:cover:0, Hardened Mana Infused Glass Cover
+thermaldynamics:cover:0, Hardened Steel Glass Cover
+thermaldynamics:cover:0, Hardened Electrum Glass Cover
+thermaldynamics:cover:0, Hardened Invar Glass Cover
+thermaldynamics:cover:0, Hardened Bronze Glass Cover
+thermaldynamics:cover:0, Hardened Constantan Glass Cover
+thermaldynamics:cover:0, Hardened Signalum Glass Cover
+thermaldynamics:cover:0, Hardened Lumium Glass Cover
+thermaldynamics:cover:0, Hardened Enderium Glass Cover
+thermaldynamics:cover:0, Black Rockwool Cover
+thermaldynamics:cover:0, Red Rockwool Cover
+thermaldynamics:cover:0, Green Rockwool Cover
+thermaldynamics:cover:0, Brown Rockwool Cover
+thermaldynamics:cover:0, Blue Rockwool Cover
+thermaldynamics:cover:0, Purple Rockwool Cover
+thermaldynamics:cover:0, Cyan Rockwool Cover
+thermaldynamics:cover:0, Light Gray Rockwool Cover
+thermaldynamics:cover:0, Gray Rockwool Cover
+thermaldynamics:cover:0, Pink Rockwool Cover
+thermaldynamics:cover:0, Lime Rockwool Cover
+thermaldynamics:cover:0, Yellow Rockwool Cover
+thermaldynamics:cover:0, Light Blue Rockwool Cover
+thermaldynamics:cover:0, Magenta Rockwool Cover
+thermaldynamics:cover:0, Orange Rockwool Cover
+thermaldynamics:cover:0, White Rockwool Cover
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -11630,7 +13290,6 @@ appliedenergistics2:facade:0, Cable Facade - Block of Nickel
 appliedenergistics2:facade:0, Cable Facade - Block of Osmiridium
 appliedenergistics2:facade:0, Cable Facade - Stainless Steel Deco Block
 appliedenergistics2:facade:0, Cable Facade - Conglomerate
-appliedenergistics2:facade:0, Cable Facade - Vinyl Sand
 appliedenergistics2:facade:0, Cable Facade - Hardened Vinyl Log
 appliedenergistics2:facade:0, Cable Facade - PVC Log
 appliedenergistics2:facade:0, Cable Facade - Vinyl Planks
@@ -11639,11 +13298,57 @@ appliedenergistics2:facade:0, Cable Facade - Latticed Log
 appliedenergistics2:facade:0, Cable Facade - Balefire Log
 appliedenergistics2:facade:0, Cable Facade - Primed Log
 appliedenergistics2:facade:0, Cable Facade - Anti-Mass Log
-appliedenergistics2:facade:0, Cable Facade - Block of Laythe Coral
-appliedenergistics2:facade:0, Cable Facade - Rubber Grass
-appliedenergistics2:facade:0, Cable Facade - Rubber Leaves
 appliedenergistics2:facade:0, Cable Facade - Tekto Silt
-appliedenergistics2:facade:0, Cable Facade - Plastic Leaves
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Platinum Ore
+appliedenergistics2:facade:0, Cable Facade - Iridium Ore
+appliedenergistics2:facade:0, Cable Facade - Mana Infused Ore
+appliedenergistics2:facade:0, Cable Facade - Oil Sand
+appliedenergistics2:facade:0, Cable Facade - Oil Shale
+appliedenergistics2:facade:0, Cable Facade - Destabilized Redstone Ore
+appliedenergistics2:facade:0, Cable Facade - Energized Netherrack
+appliedenergistics2:facade:0, Cable Facade - Resonant End Stone
+appliedenergistics2:facade:0, Cable Facade - Oil Sand
+appliedenergistics2:facade:0, Cable Facade - Block of Copper
+appliedenergistics2:facade:0, Cable Facade - Block of Tin
+appliedenergistics2:facade:0, Cable Facade - Block of Silver
+appliedenergistics2:facade:0, Cable Facade - Block of Lead
+appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
+appliedenergistics2:facade:0, Cable Facade - Block of Nickel
+appliedenergistics2:facade:0, Cable Facade - Block of Platinum
+appliedenergistics2:facade:0, Cable Facade - Block of Iridium
+appliedenergistics2:facade:0, Cable Facade - Block of Mana Infused Metal
+appliedenergistics2:facade:0, Cable Facade - Block of Steel
+appliedenergistics2:facade:0, Cable Facade - Block of Electrum
+appliedenergistics2:facade:0, Cable Facade - Block of Invar
+appliedenergistics2:facade:0, Cable Facade - Block of Bronze
+appliedenergistics2:facade:0, Cable Facade - Block of Constantan
+appliedenergistics2:facade:0, Cable Facade - Block of Signalum
+appliedenergistics2:facade:0, Cable Facade - Block of Lumium
+appliedenergistics2:facade:0, Cable Facade - Block of Enderium
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
+appliedenergistics2:facade:0, Cable Facade - Black Rockwool
+appliedenergistics2:facade:0, Cable Facade - Red Rockwool
+appliedenergistics2:facade:0, Cable Facade - Green Rockwool
+appliedenergistics2:facade:0, Cable Facade - Brown Rockwool
+appliedenergistics2:facade:0, Cable Facade - Blue Rockwool
+appliedenergistics2:facade:0, Cable Facade - Purple Rockwool
+appliedenergistics2:facade:0, Cable Facade - Cyan Rockwool
+appliedenergistics2:facade:0, Cable Facade - Light Gray Rockwool
+appliedenergistics2:facade:0, Cable Facade - Gray Rockwool
+appliedenergistics2:facade:0, Cable Facade - Pink Rockwool
+appliedenergistics2:facade:0, Cable Facade - Lime Rockwool
+appliedenergistics2:facade:0, Cable Facade - Yellow Rockwool
+appliedenergistics2:facade:0, Cable Facade - Light Blue Rockwool
+appliedenergistics2:facade:0, Cable Facade - Magenta Rockwool
+appliedenergistics2:facade:0, Cable Facade - Orange Rockwool
+appliedenergistics2:facade:0, Cable Facade - White Rockwool
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -14331,11 +16036,6 @@ mcheli:krupp_c_34, Krupp C/34 40.6cm Coastal-Artillery "Adolfkanone"
 mcheli:15.5, 15.5 cm/60 3rd Year Type Naval Gun
 mcheli:12.7, 12.7 cm/40 Type 89 Naval Gun
 mcheli:drafting_table, Drafting Table
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -14351,6 +16051,11 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
 retro_sophisticated_backpacks:backpack_leather, Leather Backpack
@@ -15256,34 +16961,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -16103,6 +17808,13 @@ tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:pickaxe, Pickaxe
 tconstruct:shovel, Shovel
 tconstruct:hatchet, Hatchet
@@ -16173,62 +17885,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -16306,12 +18018,12 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
-torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 woot:die:0, Mesh Die
 woot:die:1, Plate Die
 woot:die:2, Core Die
