@@ -8256,6 +8256,201 @@ hbmspace:ccl_block, CCL
 hbmspace:dummy_beam, Integrated Lamp
 hbmspace:furnace, Furnace
 hbmspace:lit_furnace, tile.lit_furnace.name
+openblocks:elevator:0, Elevator
+openblocks:elevator:1, Elevator
+openblocks:elevator:2, Elevator
+openblocks:elevator:3, Elevator
+openblocks:elevator:4, Elevator
+openblocks:elevator:5, Elevator
+openblocks:elevator:6, Elevator
+openblocks:elevator:7, Elevator
+openblocks:elevator:8, Elevator
+openblocks:elevator:9, Elevator
+openblocks:elevator:10, Elevator
+openblocks:elevator:11, Elevator
+openblocks:elevator:12, Elevator
+openblocks:elevator:13, Elevator
+openblocks:elevator:14, Elevator
+openblocks:elevator:15, Elevator
+openblocks:elevator_rotating:0, Rotating Elevator
+openblocks:elevator_rotating:1, Rotating Elevator
+openblocks:elevator_rotating:2, Rotating Elevator
+openblocks:elevator_rotating:3, Rotating Elevator
+openblocks:elevator_rotating:4, Rotating Elevator
+openblocks:elevator_rotating:5, Rotating Elevator
+openblocks:elevator_rotating:6, Rotating Elevator
+openblocks:elevator_rotating:7, Rotating Elevator
+openblocks:elevator_rotating:8, Rotating Elevator
+openblocks:elevator_rotating:9, Rotating Elevator
+openblocks:elevator_rotating:10, Rotating Elevator
+openblocks:elevator_rotating:11, Rotating Elevator
+openblocks:elevator_rotating:12, Rotating Elevator
+openblocks:elevator_rotating:13, Rotating Elevator
+openblocks:elevator_rotating:14, Rotating Elevator
+openblocks:elevator_rotating:15, Rotating Elevator
+openblocks:tank, Tank
+openblocks:xp_drain, XP Drain
+openblocks:projector, Height Map Projector
+openblocks:sky:0, Sky Block
+openblocks:sky:1, Sky Block
+openblocks:xp_shower, XP Shower
+openblocks:xp_bucket, XP Bucket
+openblocks:sleeping_bag, Sleeping Bag
+openblocks:empty_map, Empty Map
+openblocks:cartographer:0, Cartographer
+opencomputers:adapter:0, Adapter
+opencomputers:assembler:0, Electronics Assembler
+opencomputers:cable:0, Cable
+opencomputers:capacitor:0, Capacitor
+opencomputers:case1:0, Computer Case (Tier 1)
+opencomputers:case3:0, Computer Case (Tier 3)
+opencomputers:case2:0, Computer Case (Tier 2)
+opencomputers:chameliumblock:0, Block of Chamelium
+opencomputers:charger:0, Charger
+opencomputers:disassembler:0, Disassembler
+opencomputers:diskdrive:0, Disk Drive
+opencomputers:geolyzer:0, Geolyzer
+opencomputers:hologram1:0, Hologram Projector (Tier 1)
+opencomputers:hologram2:0, Hologram Projector (Tier 2)
+opencomputers:keyboard:0, Keyboard
+opencomputers:motionsensor:0, Motion Sensor
+opencomputers:powerconverter:0, Power Converter
+opencomputers:powerdistributor:0, Power Distributor
+opencomputers:printer:0, 3D Printer
+opencomputers:raid:0, Raid
+opencomputers:redstone:0, Redstone I/O
+opencomputers:relay:0, Relay
+opencomputers:screen1:0, Screen (Tier 1)
+opencomputers:screen3:0, Screen (Tier 3)
+opencomputers:screen2:0, Screen (Tier 2)
+opencomputers:rack:0, Rack
+opencomputers:waypoint:0, Waypoint
+opencomputers:casecreative:0, Computer Case (Creative)
+opencomputers:microcontroller:0, Microcontroller
+opencomputers:print:0, 3D Print
+opencomputers:robotafterimage:0, Robot
+opencomputers:robot:0, robot.name
+opencomputers:endstone:0, End Stone
+opencomputers:netsplitter:0, Net Splitter
+opencomputers:transposer:0, Transposer
+opencomputers:carpetedcapacitor:0, Carpeted Capacitor
+opencomputers:material:1, Grog
+opencomputers:material:10, Arithmetic Logic Unit (ALU)
+opencomputers:material:15, Arrow Keys
+opencomputers:material:14, Button Group
+opencomputers:material:5, Card Base
+opencomputers:material:28, Chamelium
+opencomputers:material:3, Circuit Board
+opencomputers:material:11, Control Unit (CU)
+opencomputers:material:0, Cutting Wire
+opencomputers:material:29, Diamond Chip
+opencomputers:material:12, Disk Platter
+opencomputers:material:23, Drone Case (Tier 1)
+opencomputers:material:24, Drone Case (Tier 2)
+opencomputers:material:25, Drone Case (Creative)
+opencomputers:material:27, Ink Cartridge
+opencomputers:material:26, Ink Cartridge (Empty)
+opencomputers:material:13, Interweb
+opencomputers:material:7, Microchip (Tier 1)
+opencomputers:material:8, Microchip (Tier 2)
+opencomputers:material:9, Microchip (Tier 3)
+opencomputers:material:20, Microcontroller Case (Tier 1)
+opencomputers:material:21, Microcontroller Case (Tier 2)
+opencomputers:material:22, Microcontroller Case (Creative)
+opencomputers:material:16, Numeric Keypad
+opencomputers:material:4, Printed Circuit Board (PCB)
+opencomputers:material:2, Raw Circuit Board
+opencomputers:material:17, Tablet Case (Tier 1)
+opencomputers:material:18, Tablet Case (Tier 2)
+opencomputers:material:19, Tablet Case (Creative)
+opencomputers:material:6, Transistor
+opencomputers:tool:0, Analyzer
+opencomputers:tool:1, Network Debugger
+opencomputers:tool:4, OpenComputers Manual
+opencomputers:tool:5, Nanomachines
+opencomputers:tool:2, Remote Terminal
+opencomputers:tool:3, Texture Picker
+opencomputers:wrench, Scrench
+opencomputers:hoverboots, Hover Boots
+opencomputers:component:16, Accelerated Processing Unit (APU) (Tier 2)
+opencomputers:component:17, Accelerated Processing Unit (APU) (Tier 3)
+opencomputers:component:18, Accelerated Processing Unit (APU) (Creative)
+opencomputers:component:3, Component Bus (Tier 1)
+opencomputers:component:4, Component Bus (Tier 2)
+opencomputers:component:5, Component Bus (Tier 3)
+opencomputers:component:0, Central Processing Unit (CPU) (Tier 1)
+opencomputers:component:1, Central Processing Unit (CPU) (Tier 2)
+opencomputers:component:2, Central Processing Unit (CPU) (Tier 3)
+opencomputers:component:20, Disk Drive
+opencomputers:component:6, Memory (Tier 1)
+opencomputers:component:7, Memory (Tier 1.5)
+opencomputers:component:8, Memory (Tier 2)
+opencomputers:component:9, Memory (Tier 2.5)
+opencomputers:component:10, Memory (Tier 3)
+opencomputers:component:11, Memory (Tier 3.5)
+opencomputers:component:13, Server (Tier 1)
+opencomputers:component:14, Server (Tier 2)
+opencomputers:component:15, Server (Tier 3)
+opencomputers:component:12, Server (Creative)
+opencomputers:component:19, Terminal Server
+opencomputers:card:10, Data Card (Tier 1)
+opencomputers:card:11, Data Card (Tier 2)
+opencomputers:card:12, Data Card (Tier 3)
+opencomputers:card:0, Debug Card
+opencomputers:card:1, Graphics Card (Tier 1)
+opencomputers:card:2, Graphics Card (Tier 2)
+opencomputers:card:3, Graphics Card (Tier 3)
+opencomputers:card:8, Internet Card
+opencomputers:card:9, Linked Card
+opencomputers:card:6, Network Card
+opencomputers:card:4, Redstone Card (Tier 1)
+opencomputers:card:7, Wireless Network Card (Tier 2)
+opencomputers:upgrade:32, Component Bus (Creative)
+opencomputers:upgrade:0, Angel Upgrade
+opencomputers:upgrade:1, Battery Upgrade (Tier 1)
+opencomputers:upgrade:2, Battery Upgrade (Tier 2)
+opencomputers:upgrade:3, Battery Upgrade (Tier 3)
+opencomputers:upgrade:4, Chunkloader Upgrade
+opencomputers:upgrade:5, Card Container (Tier 1)
+opencomputers:upgrade:6, Card Container (Tier 2)
+opencomputers:upgrade:7, Card Container (Tier 3)
+opencomputers:upgrade:8, Upgrade Container (Tier 1)
+opencomputers:upgrade:9, Upgrade Container (Tier 2)
+opencomputers:upgrade:10, Upgrade Container (Tier 3)
+opencomputers:upgrade:11, Crafting Upgrade
+opencomputers:upgrade:12, Database Upgrade (Tier 1)
+opencomputers:upgrade:13, Database Upgrade (Tier 2)
+opencomputers:upgrade:14, Database Upgrade (Tier 3)
+opencomputers:upgrade:15, Experience Upgrade
+opencomputers:upgrade:16, Generator Upgrade
+opencomputers:upgrade:27, Hover Upgrade (Tier 1)
+opencomputers:upgrade:28, Hover Upgrade (Tier 2)
+opencomputers:upgrade:17, Inventory Upgrade
+opencomputers:upgrade:18, Inventory Controller Upgrade
+opencomputers:upgrade:26, Leash Upgrade
+opencomputers:upgrade:30, MFU
+opencomputers:upgrade:19, Navigation Upgrade
+opencomputers:upgrade:20, Piston Upgrade
+opencomputers:upgrade:21, Sign I/O Upgrade
+opencomputers:upgrade:22, Solar Generator Upgrade
+opencomputers:upgrade:33, Sticky Piston Upgrade
+opencomputers:upgrade:23, Tank Upgrade
+opencomputers:upgrade:24, Tank Controller Upgrade
+opencomputers:upgrade:25, Tractor Beam Upgrade
+opencomputers:upgrade:29, Trading Upgrade
+opencomputers:upgrade:31, Wireless Network Card (Tier 1)
+opencomputers:storage:0, EEPROM
+opencomputers:storage:1, Floppy Disk
+opencomputers:storage:2, Hard Disk Drive (Tier 1) (1MB)
+opencomputers:storage:3, Hard Disk Drive (Tier 2) (2MB)
+opencomputers:storage:4, Hard Disk Drive (Tier 3) (4MB)
+opencomputers:misc:1, Crecopter
+opencomputers:misc:0, Microcontroller
+opencomputers:misc:0, Creatix
+opencomputers:misc:0, Tablet
+opencomputers:misc:0, Hover Boots
+opencomputers:misc:0, EEPROM (Lua BIOS)
+opencomputers:misc:1, Floppy Disk
 projectred-core:resource_item:0, Circuit Plate
 projectred-core:resource_item:1, Conductive Plate
 projectred-core:resource_item:2, Wired Plate
@@ -9113,7 +9308,6 @@ thermalexpansion:machine:13, Arcane Ensorcellator (Basic)
 thermalexpansion:machine:14, Glacial Precipitator (Basic)
 thermalexpansion:machine:15, Igneous Extruder (Basic)
 thermalexpansion:device:0, Aqueous Accumulator
-thermalexpansion:device:1, Nullifier
 thermalexpansion:device:2, Thermal Mediator
 thermalexpansion:device:3, Arboreal Extractor
 thermalexpansion:device:4, Aquatic Entangler
@@ -9123,14 +9317,7 @@ thermalexpansion:device:7, Lexical Transmuter
 thermalexpansion:device:8, Insightful Condenser
 thermalexpansion:device:9, Decoctive Diffuser
 thermalexpansion:device:10, Factorizer
-thermalexpansion:device:11, Creature Encaptulator
 thermalexpansion:device:12, Vacuumulator
-thermalexpansion:dynamo:0, Steam Dynamo (Basic)
-thermalexpansion:dynamo:1, Magmatic Dynamo (Basic)
-thermalexpansion:dynamo:2, Compression Dynamo (Basic)
-thermalexpansion:dynamo:3, Reactant Dynamo (Basic)
-thermalexpansion:dynamo:4, Enervation Dynamo (Basic)
-thermalexpansion:dynamo:5, Numismatic Dynamo (Basic)
 thermalexpansion:cell:0, Energy Cell (Basic)
 thermalexpansion:tank:0, Portable Tank (Basic)
 thermalexpansion:cache:0, Cache (Basic)
@@ -10141,6 +10328,24 @@ thermaldynamics:cover:0, Tea Cover
 thermaldynamics:cover:0, Wax Crop Cover
 thermaldynamics:cover:0, Tekto Farmland Cover
 thermaldynamics:cover:0, Tekto Silt Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Elevator Cover
+thermaldynamics:cover:0, Block of Chamelium Cover
+thermaldynamics:cover:0, End Stone Cover
 thermaldynamics:cover:0, Copper Ore Cover
 thermaldynamics:cover:0, Tin Ore Cover
 thermaldynamics:cover:0, Silver Ore Cover
@@ -13299,6 +13504,9 @@ appliedenergistics2:facade:0, Cable Facade - Balefire Log
 appliedenergistics2:facade:0, Cable Facade - Primed Log
 appliedenergistics2:facade:0, Cable Facade - Anti-Mass Log
 appliedenergistics2:facade:0, Cable Facade - Tekto Silt
+appliedenergistics2:facade:0, Cable Facade - Elevator
+appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
+appliedenergistics2:facade:0, Cable Facade - End Stone
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Silver Ore
@@ -15339,22 +15547,6 @@ appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Orange Wool
 appliedenergistics2:facade:0, Cable Facade - Wool
 appliedenergistics2:facade:0, Cable Facade - Wool
-appliedenergistics2:facade:0, Cable Facade - White Elevator
-appliedenergistics2:facade:0, Cable Facade - Orange Elevator
-appliedenergistics2:facade:0, Cable Facade - Magenta Elevator
-appliedenergistics2:facade:0, Cable Facade - Light Blue Elevator
-appliedenergistics2:facade:0, Cable Facade - Yellow Elevator
-appliedenergistics2:facade:0, Cable Facade - Lime Elevator
-appliedenergistics2:facade:0, Cable Facade - Pink Elevator
-appliedenergistics2:facade:0, Cable Facade - Gray Elevator
-appliedenergistics2:facade:0, Cable Facade - Light Gray Elevator
-appliedenergistics2:facade:0, Cable Facade - Cyan Elevator
-appliedenergistics2:facade:0, Cable Facade - Purple Elevator
-appliedenergistics2:facade:0, Cable Facade - Blue Elevator
-appliedenergistics2:facade:0, Cable Facade - Brown Elevator
-appliedenergistics2:facade:0, Cable Facade - Green Elevator
-appliedenergistics2:facade:0, Cable Facade - Red Elevator
-appliedenergistics2:facade:0, Cable Facade - Black Elevator
 appliedenergistics2:facade:0, Cable Facade - Flux Block
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
@@ -15500,26 +15692,35 @@ appliedenergistics2:facade:0, Cable Facade - Blue Slimy Mud
 appliedenergistics2:facade:0, Cable Facade - Graveyard Soil
 appliedenergistics2:facade:0, Cable Facade - Consecrated Soil
 appliedenergistics2:facade:0, Cable Facade - Slimy Magma Mud
-appliedenergistics2:facade:0, Cable Facade - Slime Block
-appliedenergistics2:facade:0, Cable Facade - Slime Block
+appliedenergistics2:facade:0, Cable Facade - Blue Slime Block
+appliedenergistics2:facade:0, Cable Facade - Purple Slime Block
 appliedenergistics2:facade:0, Cable Facade - Blood Slime Block
-appliedenergistics2:facade:0, Cable Facade - Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
-appliedenergistics2:facade:0, Cable Facade - Congealed Bloodblock
-appliedenergistics2:facade:0, Cable Facade - Congealed Slime Block
+appliedenergistics2:facade:0, Cable Facade - Magma Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Green Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Blue Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Purple Slime Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Blood Block
+appliedenergistics2:facade:0, Cable Facade - Congealed Magma Slime Block
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Ardite Ore
 appliedenergistics2:facade:0, Cable Facade - Lavawood
 appliedenergistics2:facade:0, Cable Facade - Firewood
 appliedenergistics2:facade:0, Cable Facade - Mud Bricks
+appliedenergistics2:facade:0, Cable Facade - Block of Copper
+appliedenergistics2:facade:0, Cable Facade - Block of Tin
+appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
+appliedenergistics2:facade:0, Cable Facade - Block of Bronze
+appliedenergistics2:facade:0, Cable Facade - Block of Steel
 appliedenergistics2:facade:0, Cable Facade - Block of Cobalt
 appliedenergistics2:facade:0, Cable Facade - Block of Ardite
 appliedenergistics2:facade:0, Cable Facade - Block of Manyullyn
 appliedenergistics2:facade:0, Cable Facade - Block of Knightslime
 appliedenergistics2:facade:0, Cable Facade - Block of Pigiron
 appliedenergistics2:facade:0, Cable Facade - Silky Block of Jewel
+appliedenergistics2:facade:0, Cable Facade - Block of Alumite
 appliedenergistics2:facade:0, Cable Facade - Green Slimy Dirt
 appliedenergistics2:facade:0, Cable Facade - Blue Slimy Dirt
 appliedenergistics2:facade:0, Cable Facade - Purple Slimy Dirt
@@ -15539,9 +15740,9 @@ appliedenergistics2:facade:0, Cable Facade - Green Slimy Grass
 appliedenergistics2:facade:0, Cable Facade - Blue Slimy Grass
 appliedenergistics2:facade:0, Cable Facade - Purple Slimy Grass
 appliedenergistics2:facade:0, Cable Facade - Magma Slimy Grass
-appliedenergistics2:facade:0, Cable Facade - Slimy Leaves
-appliedenergistics2:facade:0, Cable Facade - Slimy Leaves
-appliedenergistics2:facade:0, Cable Facade - Slimy Leaves
+appliedenergistics2:facade:0, Cable Facade - Blue Slimy Leaves
+appliedenergistics2:facade:0, Cable Facade - Purple Slimy Leaves
+appliedenergistics2:facade:0, Cable Facade - Magma Slimy Leaves
 appliedenergistics2:facade:0, Cable Facade - Dried Clay
 appliedenergistics2:facade:0, Cable Facade - Dried Bricks
 appliedenergistics2:facade:0, Cable Facade - Smooth Brownstone
@@ -15871,22 +16072,6 @@ chisel:chisel_iron, Chisel
 chisel:chisel_diamond, Diamond Chisel
 chisel:chisel_hitech, iChisel
 chisel:offsettool, Ender Offset Wand
-elevatorid:elevator_white, White Elevator
-elevatorid:elevator_orange, Orange Elevator
-elevatorid:elevator_magenta, Magenta Elevator
-elevatorid:elevator_light_blue, Light Blue Elevator
-elevatorid:elevator_yellow, Yellow Elevator
-elevatorid:elevator_lime, Lime Elevator
-elevatorid:elevator_pink, Pink Elevator
-elevatorid:elevator_gray, Gray Elevator
-elevatorid:elevator_silver, Light Gray Elevator
-elevatorid:elevator_cyan, Cyan Elevator
-elevatorid:elevator_purple, Purple Elevator
-elevatorid:elevator_blue, Blue Elevator
-elevatorid:elevator_brown, Brown Elevator
-elevatorid:elevator_green, Green Elevator
-elevatorid:elevator_red, Red Elevator
-elevatorid:elevator_black, Black Elevator
 fluxnetworks:flux, Flux
 fluxnetworks:fluxcore, Flux Core
 fluxnetworks:fluxconfigurator, Flux Configurator
@@ -15900,6 +16085,22 @@ fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
+immersiverailroading:item_rolling_stock, item.immersiverailroading:item_rolling_stock.name
+immersiverailroading:item_rolling_stock_component, item.immersiverailroading:item_rolling_stock_component.name
+immersiverailroading:item_large_wrench, Large Wrench
+immersiverailroading:item_hook, Coupling Hook
+immersiverailroading:item_augment, item.immersiverailroading:item_augment.name
+immersiverailroading:item_rail, Track Blueprint
+immersiverailroading:item_manual, Immersive Railroading Manual
+immersiverailroading:item_rail_part, Rail Segment
+immersiverailroading:item_plate, item.immersiverailroading:item_plate.name
+immersiverailroading:item_cast_rail, Rail Casting
+immersiverailroading:item_conductor_whistle, Conductor's Whistle
+immersiverailroading:item_paint_brush, Paint Brush
+immersiverailroading:item_golden_spike, Golden Spike
+immersiverailroading:item_radio_control_card, Train Radio-control Card
+immersiverailroading:item_switch_key, Switch Key
+immersiverailroading:item_track_exchanger, Track Exchanger
 mcheli:spawn_gunner_vs_monster, Gunner (vs Monster)
 mcheli:spawn_gunner_vs_player, Gunner (vs Player of other team)
 mcheli:rangefinder, Laser Rangefinder
@@ -16036,6 +16237,11 @@ mcheli:krupp_c_34, Krupp C/34 40.6cm Coastal-Artillery "Adolfkanone"
 mcheli:15.5, 15.5 cm/60 3rd Year Type Naval Gun
 mcheli:12.7, 12.7 cm/40 Type 89 Naval Gun
 mcheli:drafting_table, Drafting Table
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -16051,11 +16257,6 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
 retro_sophisticated_backpacks:backpack_leather, Leather Backpack
@@ -16206,50 +16407,6 @@ rsgauges:bistableswitch_rustic6, Bistable Switch
 rsgauges:switchlink_pearl, Switch Link Pearl
 snad:snad:0, Snad
 snad:snad:1, Red Snad
-srparasites:infested_furnace, Infested Furnace
-srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
-srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
-srparasites:parasiterubbleslabhalf:2, Hivestone Slab
-srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
-srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
-srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
-srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
-srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
-srparasites:parasitestainslabhalf:0, Hivesoil Slab
-srparasites:parasitestainslabhalf:1, Visceral Mud Slab
-srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
-srparasites:parasitestainslabhalf:3, Compressed Artery Slab
-srparasites:parasitestainslabhalf:4, Mycelium Network Slab
-srparasites:parasitestainslabhalf:5, Contusion Slab
-srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
-srparasites:relay_base, Relay Terminal §l|§r §oBottom
-srparasites:relay_middle, Relay Structure §l|§r §oMiddle
-srparasites:relay_roof, Relay Antennas §l|§r §oTop
-srparasites:relaycontroller, Relay Controller
-srparasites:flesh_stairs, Flesh Plank Stairs
-srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
-srparasites:harleskinn_stairs, Harleskinn Stairs
-srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
-srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
-srparasites:goth_planks_stairs, Goth Planks Stairs
-srparasites:infested_planks_stairs, Infested Planks Stairs
-srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
-srparasites:consumed_planks_stairs, Consumed Plank Stairs
-srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
-srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
-srparasites:infested_stone_stairs, Infested Stone Stairs
-srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
-srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
-srparasites:deadhead_plank_stairs, Deadhead Stairs
-srparasites:residue_stairs, Residue Brick Stairs
-srparasites:harleskinn_fence, Harleskinn Fence
-srparasites:infested_fence, Infested Fence
-srparasites:deadhead_fence, Deadhead Fence
-srparasites:goth_fence, Goth Fence
-srparasites:consumed_fence, Consumed Fence
-srparasites:bruisewood_fence, Bruisewood Fence
-srparasites:flesh_fence, Flesh Fence
-srparasites:cooked_flesh_fence, Cooked Flesh Fence
 srparasites:infestedstain, Infested Dirt
 srparasites:infestremain, Infested Residue
 srparasites:infestedtrunk, Infested Log
@@ -16756,6 +16913,50 @@ srparasites:hijacked_iron_leggings, Hijacked Iron Leggings
 srparasites:hijacked_iron_boots, Hijacked Iron Boots
 srparasites:discthree, §bSerenity
 srparasites:thornshade_decanter, §5Thornshade Decanter
+srparasites:infested_furnace, Infested Furnace
+srparasites:parasiterubbleslabhalf:0, Concentrated Flesh Slab
+srparasites:parasiterubbleslabhalf:1, Fortified Bone Slab
+srparasites:parasiterubbleslabhalf:2, Hivestone Slab
+srparasites:parasiterubbleslabhalf:3, Hivestone Debris Slab
+srparasites:parasiterubbleslabhalf:4, Consumed Wood Slab
+srparasites:parasiterubbleslabhalf:5, Hivestone Brick Slab
+srparasites:parasiterubbleslabhalf:6, Hivesteel Slab
+srparasites:parasiterubbleslabhalf:7, Bleeding Obsidian Slab
+srparasites:parasitestainslabhalf:0, Hivesoil Slab
+srparasites:parasitestainslabhalf:1, Visceral Mud Slab
+srparasites:parasitestainslabhalf:2, Flesh Chunk Slab
+srparasites:parasitestainslabhalf:3, Compressed Artery Slab
+srparasites:parasitestainslabhalf:4, Mycelium Network Slab
+srparasites:parasitestainslabhalf:5, Contusion Slab
+srparasites:parasitestainslabhalf:6, Sacked Flesh Slab
+srparasites:relay_base, Relay Terminal §l|§r §oBottom
+srparasites:relay_middle, Relay Structure §l|§r §oMiddle
+srparasites:relay_roof, Relay Antennas §l|§r §oTop
+srparasites:relaycontroller, Relay Controller
+srparasites:flesh_stairs, Flesh Plank Stairs
+srparasites:cooked_flesh_stairs, Cooked Flesh Stairs
+srparasites:harleskinn_stairs, Harleskinn Stairs
+srparasites:bruisewood_plank_stairs, Bruisewood Plank Stairs
+srparasites:infested_sandstone_stairs, Infested Sandstone Stairs
+srparasites:goth_planks_stairs, Goth Planks Stairs
+srparasites:infested_planks_stairs, Infested Planks Stairs
+srparasites:frost_weathered_stone_stairs, Frost Weathered Stone Stairs
+srparasites:consumed_planks_stairs, Consumed Plank Stairs
+srparasites:infested_stone_bricks_stairs, Infested Stone Bricks Stairs
+srparasites:infested_polished_stone_bricks_stairs, Infested Polished Stone Bricks Stairs
+srparasites:infested_stone_stairs, Infested Stone Stairs
+srparasites:wheathered_bricks_stairs, Weathered Bricks Stairs
+srparasites:wheathered_cobblestone_stairs, Weathered Cobblestone Stairs
+srparasites:deadhead_plank_stairs, Deadhead Stairs
+srparasites:residue_stairs, Residue Brick Stairs
+srparasites:harleskinn_fence, Harleskinn Fence
+srparasites:infested_fence, Infested Fence
+srparasites:deadhead_fence, Deadhead Fence
+srparasites:goth_fence, Goth Fence
+srparasites:consumed_fence, Consumed Fence
+srparasites:bruisewood_fence, Bruisewood Fence
+srparasites:flesh_fence, Flesh Fence
+srparasites:cooked_flesh_fence, Cooked Flesh Fence
 storagedrawers:upgrade_template, Upgrade Template
 storagedrawers:upgrade_storage:0, Storage Upgrade (I)
 storagedrawers:upgrade_storage:1, Storage Upgrade (II)
@@ -16834,15 +17035,15 @@ tconstruct:soil:2, Blue Slimy Mud
 tconstruct:soil:3, Graveyard Soil
 tconstruct:soil:4, Consecrated Soil
 tconstruct:soil:5, Slimy Magma Mud
-tconstruct:slime:1, Slime Block
-tconstruct:slime:2, Slime Block
+tconstruct:slime:1, Blue Slime Block
+tconstruct:slime:2, Purple Slime Block
 tconstruct:slime:3, Blood Slime Block
-tconstruct:slime:4, Slime Block
-tconstruct:slime_congealed:0, Congealed Slime Block
-tconstruct:slime_congealed:1, Congealed Slime Block
-tconstruct:slime_congealed:2, Congealed Slime Block
-tconstruct:slime_congealed:3, Congealed Bloodblock
-tconstruct:slime_congealed:4, Congealed Slime Block
+tconstruct:slime:4, Magma Slime Block
+tconstruct:slime_congealed:0, Congealed Green Slime Block
+tconstruct:slime_congealed:1, Congealed Blue Slime Block
+tconstruct:slime_congealed:2, Congealed Purple Slime Block
+tconstruct:slime_congealed:3, Congealed Blood Block
+tconstruct:slime_congealed:4, Congealed Magma Slime Block
 tconstruct:ore:0, Cobalt Ore
 tconstruct:ore:1, Ardite Ore
 tconstruct:firewood:0, Lavawood
@@ -16876,11 +17077,13 @@ tconstruct:nuggets:1, Ardite Nugget
 tconstruct:nuggets:2, Manyullyn Nugget
 tconstruct:nuggets:3, Knightslime Nugget
 tconstruct:nuggets:4, Pigiron Nugget
+tconstruct:nuggets:6, Alumite Nugget
 tconstruct:ingots:0, Cobalt Ingot
 tconstruct:ingots:1, Ardite Ingot
 tconstruct:ingots:2, Manyullyn Ingot
 tconstruct:ingots:3, Knightslime Ingot
 tconstruct:ingots:4, Pigiron Ingot
+tconstruct:ingots:6, Alumite Ingot
 tconstruct:materials:0, Seared Brick
 tconstruct:materials:1, Mud Brick
 tconstruct:materials:2, Dried Brick
@@ -16895,13 +17098,17 @@ tconstruct:materials:16, Silky Jewel
 tconstruct:materials:17, Necrotic Bone
 tconstruct:materials:18, Ball of Moss
 tconstruct:materials:19, Mending Moss
+tconstruct:materials:20, Bloody Bone
+tconstruct:materials:21, Venomous Bone
+tconstruct:materials:22, Blazin' Bone
+tconstruct:materials:23, Lava Crystal
 tconstruct:materials:50, Creative Modifier
 tconstruct:edible:0, Bacon
-tconstruct:edible:1, Slimeball
-tconstruct:edible:2, Slimeball
+tconstruct:edible:1, Blue Slimeball
+tconstruct:edible:2, Purple Slimeball
 tconstruct:edible:3, Coagulated Blood
-tconstruct:edible:4, Slimeball
-tconstruct:edible:5, Slimeball
+tconstruct:edible:4, Magma Slimeball
+tconstruct:edible:5, Pink Slimeball
 tconstruct:edible:10, Monster Jerky
 tconstruct:edible:11, Beef Jerky
 tconstruct:edible:12, Chicken Jerky
@@ -16912,17 +17119,36 @@ tconstruct:edible:20, Fish Jerky
 tconstruct:edible:21, Salmon Jerky
 tconstruct:edible:22, Clownfish Jerky
 tconstruct:edible:23, Fugu Jerky
-tconstruct:edible:30, Gelatinous Slime Drop
-tconstruct:edible:31, Gelatinous Slime Drop
-tconstruct:edible:32, Gelatinous Slime Drop
+tconstruct:edible:30, Green Gelatinous Slime Drop
+tconstruct:edible:31, Blue Gelatinous Slime Drop
+tconstruct:edible:32, Purple Gelatinous Slime Drop
 tconstruct:edible:33, Coagulated Blood Drop
-tconstruct:edible:34, Gelatinous Slime Drop
+tconstruct:edible:34, Magma Gelatinous Slime Drop
+tconstruct:common_nuggets:0, Copper Nugget
+tconstruct:common_nuggets:1, Tin Nugget
+tconstruct:common_nuggets:2, Aluminum Nugget
+tconstruct:common_nuggets:3, Bronze Nugget
+tconstruct:common_nuggets:4, Steel Nugget
+tconstruct:common_ingots:0, Copper Ingot
+tconstruct:common_ingots:1, Tin Ingot
+tconstruct:common_ingots:2, Aluminum Ingot
+tconstruct:common_ingots:3, Bronze Ingot
+tconstruct:common_ingots:4, Steel Ingot
+tconstruct:common_ore:0, Copper Ore
+tconstruct:common_ore:1, Tin Ore
+tconstruct:common_ore:2, Aluminum Ore
+tconstruct:common_metal:0, Block of Copper
+tconstruct:common_metal:1, Block of Tin
+tconstruct:common_metal:2, Block of Aluminum
+tconstruct:common_metal:3, Block of Bronze
+tconstruct:common_metal:4, Block of Steel
 tconstruct:metal:0, Block of Cobalt
 tconstruct:metal:1, Block of Ardite
 tconstruct:metal:2, Block of Manyullyn
 tconstruct:metal:3, Block of Knightslime
 tconstruct:metal:4, Block of Pigiron
 tconstruct:metal:6, Silky Block of Jewel
+tconstruct:metal:7, Block of Alumite
 tconstruct:slime_dirt:0, Green Slimy Dirt
 tconstruct:slime_dirt:1, Blue Slimy Dirt
 tconstruct:slime_dirt:2, Purple Slimy Dirt
@@ -16942,9 +17168,9 @@ tconstruct:slime_grass:11, Green Slimy Grass
 tconstruct:slime_grass:12, Blue Slimy Grass
 tconstruct:slime_grass:13, Purple Slimy Grass
 tconstruct:slime_grass:14, Magma Slimy Grass
-tconstruct:slime_leaves:0, Slimy Leaves
-tconstruct:slime_leaves:1, Slimy Leaves
-tconstruct:slime_leaves:2, Slimy Leaves
+tconstruct:slime_leaves:0, Blue Slimy Leaves
+tconstruct:slime_leaves:1, Purple Slimy Leaves
+tconstruct:slime_leaves:2, Magma Slimy Leaves
 tconstruct:slime_grass_tall:0, Tall Slimy Grass
 tconstruct:slime_grass_tall:4, Tall Slimy Grass
 tconstruct:slime_grass_tall:8, Tall Slimy Grass
@@ -16961,33 +17187,33 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
@@ -17006,10 +17232,13 @@ tconstruct:shard:0, Knightslime Shard
 tconstruct:shard:0, Slime Shard
 tconstruct:shard:0, Slime Shard
 tconstruct:shard:0, Magma Slime Shard
+tconstruct:shard:0, Aluminum Brass Shard
+tconstruct:shard:0, Alumite Shard
 tconstruct:shard:0, Netherrack Shard
 tconstruct:shard:0, Cobalt Shard
 tconstruct:shard:0, Ardite Shard
 tconstruct:shard:0, Manyullyn Shard
+tconstruct:shard:0, Bloody Bone Shard
 tconstruct:shard:0, Copper Shard
 tconstruct:shard:0, Bronze Shard
 tconstruct:shard:0, Lead Shard
@@ -17033,10 +17262,13 @@ tconstruct:sharpening_kit:0, Knightslime Sharpening Kit
 tconstruct:sharpening_kit:0, Slime Sharpening Kit
 tconstruct:sharpening_kit:0, Slime Sharpening Kit
 tconstruct:sharpening_kit:0, Magma Slime Sharpening Kit
+tconstruct:sharpening_kit:0, Aluminum Brass Sharpening Kit
+tconstruct:sharpening_kit:0, Alumite Sharpening Kit
 tconstruct:sharpening_kit:0, Netherrack Sharpening Kit
 tconstruct:sharpening_kit:0, Cobalt Sharpening Kit
 tconstruct:sharpening_kit:0, Ardite Sharpening Kit
 tconstruct:sharpening_kit:0, Manyullyn Sharpening Kit
+tconstruct:sharpening_kit:0, Bloody Bone Sharpening Kit
 tconstruct:sharpening_kit:0, Copper Sharpening Kit
 tconstruct:sharpening_kit:0, Bronze Sharpening Kit
 tconstruct:sharpening_kit:0, Lead Sharpening Kit
@@ -17060,10 +17292,13 @@ tconstruct:pick_head:0, Knightslime Pickaxe Head
 tconstruct:pick_head:0, Slime Pickaxe Head
 tconstruct:pick_head:0, Slime Pickaxe Head
 tconstruct:pick_head:0, Magma Slime Pickaxe Head
+tconstruct:pick_head:0, Aluminum Brass Pickaxe Head
+tconstruct:pick_head:0, Alumite Pickaxe Head
 tconstruct:pick_head:0, Netherrack Pickaxe Head
 tconstruct:pick_head:0, Cobalt Pickaxe Head
 tconstruct:pick_head:0, Ardite Pickaxe Head
 tconstruct:pick_head:0, Manyullyn Pickaxe Head
+tconstruct:pick_head:0, Bloody Bone Pickaxe Head
 tconstruct:pick_head:0, Copper Pickaxe Head
 tconstruct:pick_head:0, Bronze Pickaxe Head
 tconstruct:pick_head:0, Lead Pickaxe Head
@@ -17087,10 +17322,13 @@ tconstruct:shovel_head:0, Knightslime Shovel Head
 tconstruct:shovel_head:0, Slime Shovel Head
 tconstruct:shovel_head:0, Slime Shovel Head
 tconstruct:shovel_head:0, Magma Slime Shovel Head
+tconstruct:shovel_head:0, Aluminum Brass Shovel Head
+tconstruct:shovel_head:0, Alumite Shovel Head
 tconstruct:shovel_head:0, Netherrack Shovel Head
 tconstruct:shovel_head:0, Cobalt Shovel Head
 tconstruct:shovel_head:0, Ardite Shovel Head
 tconstruct:shovel_head:0, Manyullyn Shovel Head
+tconstruct:shovel_head:0, Bloody Bone Shovel Head
 tconstruct:shovel_head:0, Copper Shovel Head
 tconstruct:shovel_head:0, Bronze Shovel Head
 tconstruct:shovel_head:0, Lead Shovel Head
@@ -17114,10 +17352,13 @@ tconstruct:axe_head:0, Knightslime Axe Head
 tconstruct:axe_head:0, Slime Axe Head
 tconstruct:axe_head:0, Slime Axe Head
 tconstruct:axe_head:0, Magma Slime Axe Head
+tconstruct:axe_head:0, Aluminum Brass Axe Head
+tconstruct:axe_head:0, Alumite Axe Head
 tconstruct:axe_head:0, Netherrack Axe Head
 tconstruct:axe_head:0, Cobalt Axe Head
 tconstruct:axe_head:0, Ardite Axe Head
 tconstruct:axe_head:0, Manyullyn Axe Head
+tconstruct:axe_head:0, Bloody Bone Axe Head
 tconstruct:axe_head:0, Copper Axe Head
 tconstruct:axe_head:0, Bronze Axe Head
 tconstruct:axe_head:0, Lead Axe Head
@@ -17141,10 +17382,13 @@ tconstruct:broad_axe_head:0, Knightslime Broad Axe Head
 tconstruct:broad_axe_head:0, Slime Broad Axe Head
 tconstruct:broad_axe_head:0, Slime Broad Axe Head
 tconstruct:broad_axe_head:0, Magma Slime Broad Axe Head
+tconstruct:broad_axe_head:0, Aluminum Brass Broad Axe Head
+tconstruct:broad_axe_head:0, Alumite Broad Axe Head
 tconstruct:broad_axe_head:0, Netherrack Broad Axe Head
 tconstruct:broad_axe_head:0, Cobalt Broad Axe Head
 tconstruct:broad_axe_head:0, Ardite Broad Axe Head
 tconstruct:broad_axe_head:0, Manyullyn Broad Axe Head
+tconstruct:broad_axe_head:0, Bloody Bone Broad Axe Head
 tconstruct:broad_axe_head:0, Copper Broad Axe Head
 tconstruct:broad_axe_head:0, Bronze Broad Axe Head
 tconstruct:broad_axe_head:0, Lead Broad Axe Head
@@ -17168,10 +17412,13 @@ tconstruct:sword_blade:0, Knightslime Sword Blade
 tconstruct:sword_blade:0, Slime Sword Blade
 tconstruct:sword_blade:0, Slime Sword Blade
 tconstruct:sword_blade:0, Magma Slime Sword Blade
+tconstruct:sword_blade:0, Aluminum Brass Sword Blade
+tconstruct:sword_blade:0, Alumite Sword Blade
 tconstruct:sword_blade:0, Netherrack Sword Blade
 tconstruct:sword_blade:0, Cobalt Sword Blade
 tconstruct:sword_blade:0, Ardite Sword Blade
 tconstruct:sword_blade:0, Manyullyn Sword Blade
+tconstruct:sword_blade:0, Bloody Bone Sword Blade
 tconstruct:sword_blade:0, Copper Sword Blade
 tconstruct:sword_blade:0, Bronze Sword Blade
 tconstruct:sword_blade:0, Lead Sword Blade
@@ -17195,10 +17442,13 @@ tconstruct:large_sword_blade:0, Knightslime Large Sword Blade
 tconstruct:large_sword_blade:0, Slime Large Sword Blade
 tconstruct:large_sword_blade:0, Slime Large Sword Blade
 tconstruct:large_sword_blade:0, Magma Slime Large Sword Blade
+tconstruct:large_sword_blade:0, Aluminum Brass Large Sword Blade
+tconstruct:large_sword_blade:0, Alumite Large Sword Blade
 tconstruct:large_sword_blade:0, Netherrack Large Sword Blade
 tconstruct:large_sword_blade:0, Cobalt Large Sword Blade
 tconstruct:large_sword_blade:0, Ardite Large Sword Blade
 tconstruct:large_sword_blade:0, Manyullyn Large Sword Blade
+tconstruct:large_sword_blade:0, Bloody Bone Large Sword Blade
 tconstruct:large_sword_blade:0, Copper Large Sword Blade
 tconstruct:large_sword_blade:0, Bronze Large Sword Blade
 tconstruct:large_sword_blade:0, Lead Large Sword Blade
@@ -17222,10 +17472,13 @@ tconstruct:hammer_head:0, Knightslime Hammer Head
 tconstruct:hammer_head:0, Slime Hammer Head
 tconstruct:hammer_head:0, Slime Hammer Head
 tconstruct:hammer_head:0, Magma Slime Hammer Head
+tconstruct:hammer_head:0, Aluminum Brass Hammer Head
+tconstruct:hammer_head:0, Alumite Hammer Head
 tconstruct:hammer_head:0, Netherrack Hammer Head
 tconstruct:hammer_head:0, Cobalt Hammer Head
 tconstruct:hammer_head:0, Ardite Hammer Head
 tconstruct:hammer_head:0, Manyullyn Hammer Head
+tconstruct:hammer_head:0, Bloody Bone Hammer Head
 tconstruct:hammer_head:0, Copper Hammer Head
 tconstruct:hammer_head:0, Bronze Hammer Head
 tconstruct:hammer_head:0, Lead Hammer Head
@@ -17249,10 +17502,13 @@ tconstruct:excavator_head:0, Knightslime Excavator Head
 tconstruct:excavator_head:0, Slime Excavator Head
 tconstruct:excavator_head:0, Slime Excavator Head
 tconstruct:excavator_head:0, Magma Slime Excavator Head
+tconstruct:excavator_head:0, Aluminum Brass Excavator Head
+tconstruct:excavator_head:0, Alumite Excavator Head
 tconstruct:excavator_head:0, Netherrack Excavator Head
 tconstruct:excavator_head:0, Cobalt Excavator Head
 tconstruct:excavator_head:0, Ardite Excavator Head
 tconstruct:excavator_head:0, Manyullyn Excavator Head
+tconstruct:excavator_head:0, Bloody Bone Excavator Head
 tconstruct:excavator_head:0, Copper Excavator Head
 tconstruct:excavator_head:0, Bronze Excavator Head
 tconstruct:excavator_head:0, Lead Excavator Head
@@ -17276,10 +17532,13 @@ tconstruct:kama_head:0, Knightslime Kama Head
 tconstruct:kama_head:0, Slime Kama Head
 tconstruct:kama_head:0, Slime Kama Head
 tconstruct:kama_head:0, Magma Slime Kama Head
+tconstruct:kama_head:0, Aluminum Brass Kama Head
+tconstruct:kama_head:0, Alumite Kama Head
 tconstruct:kama_head:0, Netherrack Kama Head
 tconstruct:kama_head:0, Cobalt Kama Head
 tconstruct:kama_head:0, Ardite Kama Head
 tconstruct:kama_head:0, Manyullyn Kama Head
+tconstruct:kama_head:0, Bloody Bone Kama Head
 tconstruct:kama_head:0, Copper Kama Head
 tconstruct:kama_head:0, Bronze Kama Head
 tconstruct:kama_head:0, Lead Kama Head
@@ -17303,10 +17562,13 @@ tconstruct:scythe_head:0, Knightslime Scythe Head
 tconstruct:scythe_head:0, Slime Scythe Head
 tconstruct:scythe_head:0, Slime Scythe Head
 tconstruct:scythe_head:0, Magma Slime Scythe Head
+tconstruct:scythe_head:0, Aluminum Brass Scythe Head
+tconstruct:scythe_head:0, Alumite Scythe Head
 tconstruct:scythe_head:0, Netherrack Scythe Head
 tconstruct:scythe_head:0, Cobalt Scythe Head
 tconstruct:scythe_head:0, Ardite Scythe Head
 tconstruct:scythe_head:0, Manyullyn Scythe Head
+tconstruct:scythe_head:0, Bloody Bone Scythe Head
 tconstruct:scythe_head:0, Copper Scythe Head
 tconstruct:scythe_head:0, Bronze Scythe Head
 tconstruct:scythe_head:0, Lead Scythe Head
@@ -17330,10 +17592,13 @@ tconstruct:pan_head:0, Knightslime Pan
 tconstruct:pan_head:0, Slime Pan
 tconstruct:pan_head:0, Slime Pan
 tconstruct:pan_head:0, Magma Slime Pan
+tconstruct:pan_head:0, Aluminum Brass Pan
+tconstruct:pan_head:0, Alumite Pan
 tconstruct:pan_head:0, Netherrack Pan
 tconstruct:pan_head:0, Cobalt Pan
 tconstruct:pan_head:0, Ardite Pan
 tconstruct:pan_head:0, Manyullyn Pan
+tconstruct:pan_head:0, Bloody Bone Pan
 tconstruct:pan_head:0, Copper Pan
 tconstruct:pan_head:0, Bronze Pan
 tconstruct:pan_head:0, Lead Pan
@@ -17357,10 +17622,13 @@ tconstruct:sign_head:0, Knightslime Sign Plate
 tconstruct:sign_head:0, Slime Sign Plate
 tconstruct:sign_head:0, Slime Sign Plate
 tconstruct:sign_head:0, Magma Slime Sign Plate
+tconstruct:sign_head:0, Aluminum Brass Sign Plate
+tconstruct:sign_head:0, Alumite Sign Plate
 tconstruct:sign_head:0, Netherrack Sign Plate
 tconstruct:sign_head:0, Cobalt Sign Plate
 tconstruct:sign_head:0, Ardite Sign Plate
 tconstruct:sign_head:0, Manyullyn Sign Plate
+tconstruct:sign_head:0, Bloody Bone Sign Plate
 tconstruct:sign_head:0, Copper Sign Plate
 tconstruct:sign_head:0, Bronze Sign Plate
 tconstruct:sign_head:0, Lead Sign Plate
@@ -17384,10 +17652,13 @@ tconstruct:tool_rod:0, Knightslime Tool Rod
 tconstruct:tool_rod:0, Slime Tool Rod
 tconstruct:tool_rod:0, Slime Tool Rod
 tconstruct:tool_rod:0, Magma Slime Tool Rod
+tconstruct:tool_rod:0, Aluminum Brass Tool Rod
+tconstruct:tool_rod:0, Alumite Tool Rod
 tconstruct:tool_rod:0, Netherrack Tool Rod
 tconstruct:tool_rod:0, Cobalt Tool Rod
 tconstruct:tool_rod:0, Ardite Tool Rod
 tconstruct:tool_rod:0, Manyullyn Tool Rod
+tconstruct:tool_rod:0, Bloody Bone Tool Rod
 tconstruct:tool_rod:0, Copper Tool Rod
 tconstruct:tool_rod:0, Bronze Tool Rod
 tconstruct:tool_rod:0, Lead Tool Rod
@@ -17411,10 +17682,13 @@ tconstruct:tough_tool_rod:0, Knightslime Tough Tool Rod
 tconstruct:tough_tool_rod:0, Slime Tough Tool Rod
 tconstruct:tough_tool_rod:0, Slime Tough Tool Rod
 tconstruct:tough_tool_rod:0, Magma Slime Tough Tool Rod
+tconstruct:tough_tool_rod:0, Aluminum Brass Tough Tool Rod
+tconstruct:tough_tool_rod:0, Alumite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Netherrack Tough Tool Rod
 tconstruct:tough_tool_rod:0, Cobalt Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ardite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Manyullyn Tough Tool Rod
+tconstruct:tough_tool_rod:0, Bloody Bone Tough Tool Rod
 tconstruct:tough_tool_rod:0, Copper Tough Tool Rod
 tconstruct:tough_tool_rod:0, Bronze Tough Tool Rod
 tconstruct:tough_tool_rod:0, Lead Tough Tool Rod
@@ -17438,10 +17712,13 @@ tconstruct:binding:0, Knightslime Binding
 tconstruct:binding:0, Slime Binding
 tconstruct:binding:0, Slime Binding
 tconstruct:binding:0, Magma Slime Binding
+tconstruct:binding:0, Aluminum Brass Binding
+tconstruct:binding:0, Alumite Binding
 tconstruct:binding:0, Netherrack Binding
 tconstruct:binding:0, Cobalt Binding
 tconstruct:binding:0, Ardite Binding
 tconstruct:binding:0, Manyullyn Binding
+tconstruct:binding:0, Bloody Bone Binding
 tconstruct:binding:0, Copper Binding
 tconstruct:binding:0, Bronze Binding
 tconstruct:binding:0, Lead Binding
@@ -17465,10 +17742,13 @@ tconstruct:tough_binding:0, Knightslime Tough Binding
 tconstruct:tough_binding:0, Slime Tough Binding
 tconstruct:tough_binding:0, Slime Tough Binding
 tconstruct:tough_binding:0, Magma Slime Tough Binding
+tconstruct:tough_binding:0, Aluminum Brass Tough Binding
+tconstruct:tough_binding:0, Alumite Tough Binding
 tconstruct:tough_binding:0, Netherrack Tough Binding
 tconstruct:tough_binding:0, Cobalt Tough Binding
 tconstruct:tough_binding:0, Ardite Tough Binding
 tconstruct:tough_binding:0, Manyullyn Tough Binding
+tconstruct:tough_binding:0, Bloody Bone Tough Binding
 tconstruct:tough_binding:0, Copper Tough Binding
 tconstruct:tough_binding:0, Bronze Tough Binding
 tconstruct:tough_binding:0, Lead Tough Binding
@@ -17492,10 +17772,13 @@ tconstruct:wide_guard:0, Knightslime Wide Guard
 tconstruct:wide_guard:0, Slime Wide Guard
 tconstruct:wide_guard:0, Slime Wide Guard
 tconstruct:wide_guard:0, Magma Slime Wide Guard
+tconstruct:wide_guard:0, Aluminum Brass Wide Guard
+tconstruct:wide_guard:0, Alumite Wide Guard
 tconstruct:wide_guard:0, Netherrack Wide Guard
 tconstruct:wide_guard:0, Cobalt Wide Guard
 tconstruct:wide_guard:0, Ardite Wide Guard
 tconstruct:wide_guard:0, Manyullyn Wide Guard
+tconstruct:wide_guard:0, Bloody Bone Wide Guard
 tconstruct:wide_guard:0, Copper Wide Guard
 tconstruct:wide_guard:0, Bronze Wide Guard
 tconstruct:wide_guard:0, Lead Wide Guard
@@ -17519,10 +17802,13 @@ tconstruct:hand_guard:0, Knightslime Hand Guard
 tconstruct:hand_guard:0, Slime Hand Guard
 tconstruct:hand_guard:0, Slime Hand Guard
 tconstruct:hand_guard:0, Magma Slime Hand Guard
+tconstruct:hand_guard:0, Aluminum Brass Hand Guard
+tconstruct:hand_guard:0, Alumite Hand Guard
 tconstruct:hand_guard:0, Netherrack Hand Guard
 tconstruct:hand_guard:0, Cobalt Hand Guard
 tconstruct:hand_guard:0, Ardite Hand Guard
 tconstruct:hand_guard:0, Manyullyn Hand Guard
+tconstruct:hand_guard:0, Bloody Bone Hand Guard
 tconstruct:hand_guard:0, Copper Hand Guard
 tconstruct:hand_guard:0, Bronze Hand Guard
 tconstruct:hand_guard:0, Lead Hand Guard
@@ -17546,10 +17832,13 @@ tconstruct:cross_guard:0, Knightslime Cross Guard
 tconstruct:cross_guard:0, Slime Cross Guard
 tconstruct:cross_guard:0, Slime Cross Guard
 tconstruct:cross_guard:0, Magma Slime Cross Guard
+tconstruct:cross_guard:0, Aluminum Brass Cross Guard
+tconstruct:cross_guard:0, Alumite Cross Guard
 tconstruct:cross_guard:0, Netherrack Cross Guard
 tconstruct:cross_guard:0, Cobalt Cross Guard
 tconstruct:cross_guard:0, Ardite Cross Guard
 tconstruct:cross_guard:0, Manyullyn Cross Guard
+tconstruct:cross_guard:0, Bloody Bone Cross Guard
 tconstruct:cross_guard:0, Copper Cross Guard
 tconstruct:cross_guard:0, Bronze Cross Guard
 tconstruct:cross_guard:0, Lead Cross Guard
@@ -17573,10 +17862,13 @@ tconstruct:large_plate:0, Knightslime Large Plate
 tconstruct:large_plate:0, Slime Large Plate
 tconstruct:large_plate:0, Slime Large Plate
 tconstruct:large_plate:0, Magma Slime Large Plate
+tconstruct:large_plate:0, Aluminum Brass Large Plate
+tconstruct:large_plate:0, Alumite Large Plate
 tconstruct:large_plate:0, Netherrack Large Plate
 tconstruct:large_plate:0, Cobalt Large Plate
 tconstruct:large_plate:0, Ardite Large Plate
 tconstruct:large_plate:0, Manyullyn Large Plate
+tconstruct:large_plate:0, Bloody Bone Large Plate
 tconstruct:large_plate:0, Copper Large Plate
 tconstruct:large_plate:0, Bronze Large Plate
 tconstruct:large_plate:0, Lead Large Plate
@@ -17600,10 +17892,13 @@ tconstruct:knife_blade:0, Knightslime Knife Blade
 tconstruct:knife_blade:0, Slime Knife Blade
 tconstruct:knife_blade:0, Slime Knife Blade
 tconstruct:knife_blade:0, Magma Slime Knife Blade
+tconstruct:knife_blade:0, Aluminum Brass Knife Blade
+tconstruct:knife_blade:0, Alumite Knife Blade
 tconstruct:knife_blade:0, Netherrack Knife Blade
 tconstruct:knife_blade:0, Cobalt Knife Blade
 tconstruct:knife_blade:0, Ardite Knife Blade
 tconstruct:knife_blade:0, Manyullyn Knife Blade
+tconstruct:knife_blade:0, Bloody Bone Knife Blade
 tconstruct:knife_blade:0, Copper Knife Blade
 tconstruct:knife_blade:0, Bronze Knife Blade
 tconstruct:knife_blade:0, Lead Knife Blade
@@ -17627,10 +17922,13 @@ tconstruct:bow_limb:0, Knightslime Bowlimb
 tconstruct:bow_limb:0, Slime Bowlimb
 tconstruct:bow_limb:0, Slime Bowlimb
 tconstruct:bow_limb:0, Magma Slime Bowlimb
+tconstruct:bow_limb:0, Aluminum Brass Bowlimb
+tconstruct:bow_limb:0, Alumite Bowlimb
 tconstruct:bow_limb:0, Netherrack Bowlimb
 tconstruct:bow_limb:0, Cobalt Bowlimb
 tconstruct:bow_limb:0, Ardite Bowlimb
 tconstruct:bow_limb:0, Manyullyn Bowlimb
+tconstruct:bow_limb:0, Bloody Bone Bowlimb
 tconstruct:bow_limb:0, Copper Bowlimb
 tconstruct:bow_limb:0, Bronze Bowlimb
 tconstruct:bow_limb:0, Lead Bowlimb
@@ -17638,8 +17936,8 @@ tconstruct:bow_limb:0, Silver Bowlimb
 tconstruct:bow_limb:0, Electrum Bowlimb
 tconstruct:bow_limb:0, Steel Bowlimb
 tconstruct:bow_string:0, String Bowstring
-tconstruct:bow_string:0, Slimevine Bowstring
-tconstruct:bow_string:0, Slimevine Bowstring
+tconstruct:bow_string:0, Blue Slimevine Bowstring
+tconstruct:bow_string:0, Purple Slimevine Bowstring
 tconstruct:bow_string:0, Vines Bowstring
 tconstruct:arrow_head:0, Wooden Arrow Head
 tconstruct:arrow_head:0, Stone Arrow Head
@@ -17658,10 +17956,13 @@ tconstruct:arrow_head:0, Knightslime Arrow Head
 tconstruct:arrow_head:0, Slime Arrow Head
 tconstruct:arrow_head:0, Slime Arrow Head
 tconstruct:arrow_head:0, Magma Slime Arrow Head
+tconstruct:arrow_head:0, Aluminum Brass Arrow Head
+tconstruct:arrow_head:0, Alumite Arrow Head
 tconstruct:arrow_head:0, Netherrack Arrow Head
 tconstruct:arrow_head:0, Cobalt Arrow Head
 tconstruct:arrow_head:0, Ardite Arrow Head
 tconstruct:arrow_head:0, Manyullyn Arrow Head
+tconstruct:arrow_head:0, Bloody Bone Arrow Head
 tconstruct:arrow_head:0, Copper Arrow Head
 tconstruct:arrow_head:0, Bronze Arrow Head
 tconstruct:arrow_head:0, Lead Arrow Head
@@ -17675,9 +17976,9 @@ tconstruct:arrow_shaft:0, Reeds Arrow Shaft
 tconstruct:arrow_shaft:0, Ice Arrow Shaft
 tconstruct:arrow_shaft:0, Endrod Arrow Shaft
 tconstruct:fletching:0, Feather Fletching
-tconstruct:fletching:0, Slimeleaf Fletching
-tconstruct:fletching:0, Slimeleaf Fletching
-tconstruct:fletching:0, Slimeleaf Fletching
+tconstruct:fletching:0, Blue Slimeleaf Fletching
+tconstruct:fletching:0, Magma Slimeleaf Fletching
+tconstruct:fletching:0, Purple Slimeleaf Fletching
 tconstruct:fletching:0, Leaf Fletching
 tconstruct:bolt_core:0, Wood-Iron Bolt Core
 tconstruct:bolt_core:0, Bone-Iron Bolt Core
@@ -17815,6 +18116,7 @@ tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:pickaxe, Pickaxe
 tconstruct:shovel, Shovel
 tconstruct:hatchet, Hatchet
@@ -17858,6 +18160,7 @@ tconstruct:casting:0, Casting Table
 tconstruct:casting:1, Casting Basin
 tconstruct:smeltery_io:0, Seared Drain
 tconstruct:seared_glass:0, Seared Glass
+tconstruct:seared_ladder:0, Seared Ladder
 tconstruct:seared_furnace_controller:0, Seared Furnace Controller
 tconstruct:tinker_tank_controller:0, Tinker Tank Controller
 tconstruct:seared_slab:0, Seared Stone Slab
@@ -17885,30 +18188,30 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
@@ -17916,30 +18219,30 @@ tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
@@ -17949,11 +18252,11 @@ tconstruct:rack:1, Drying Rack
 tconstruct:wood_rail:0, Wooden Rail
 tconstruct:wood_rail_trapdoor:0, Wooden Rail with a Trapdoor
 tconstruct:wooden_hopper:0, Wooden Hopper
-tconstruct:slime_channel:0, Slime Channel
-tconstruct:slime_channel:1, Slime Channel
-tconstruct:slime_channel:2, Slime Channel
+tconstruct:slime_channel:0, Green Slime Channel
+tconstruct:slime_channel:1, Blue Slime Channel
+tconstruct:slime_channel:2, Purple Slime Channel
 tconstruct:slime_channel:3, Blood Channel
-tconstruct:slime_channel:4, Slime Channel
+tconstruct:slime_channel:4, Magma Slime Channel
 tconstruct:dried_clay:0, Dried Clay
 tconstruct:dried_clay:1, Dried Bricks
 tconstruct:dried_clay_slab:0, Dried Clay Slab
@@ -17996,16 +18299,16 @@ tconstruct:brownstone_stairs_brick_small:0, Small Brownstone Bricks Stairs
 tconstruct:brownstone_stairs_road:0, Brownstone Road Stairs
 tconstruct:brownstone_stairs_tile:0, Brownstone Tile Stairs
 tconstruct:brownstone_stairs_creeper:0, Brownstone Creeperface Stairs
-tconstruct:slimesling:0, Slimesling
-tconstruct:slimesling:1, Slimesling
-tconstruct:slimesling:2, Slimesling
-tconstruct:slimesling:3, Congealed Bloodsling
-tconstruct:slimesling:4, Slimesling
-tconstruct:slime_boots:0, Slime Boots
-tconstruct:slime_boots:1, Slime Boots
-tconstruct:slime_boots:2, Slime Boots
-tconstruct:slime_boots:3, Congealed Blood Boots
-tconstruct:slime_boots:4, Slime Boots
+tconstruct:slimesling:0, Green Slimesling
+tconstruct:slimesling:1, Blue Slimesling
+tconstruct:slimesling:2, Purple Slimesling
+tconstruct:slimesling:3, Coagulated Bloodsling
+tconstruct:slimesling:4, Magma Slimesling
+tconstruct:slime_boots:0, Green Slime Boots
+tconstruct:slime_boots:1, Blue Slime Boots
+tconstruct:slime_boots:2, Purple Slime Boots
+tconstruct:slime_boots:3, Coagulated Blood Boots
+tconstruct:slime_boots:4, Magma Slime Boots
 tconstruct:piggybackpack, Piggybackpack
 tconstruct:throwball:0, Glowball
 tconstruct:throwball:1, EFLN
