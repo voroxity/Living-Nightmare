@@ -83,6 +83,11 @@
       "hidden": true
     },
     {
+      "output": ["hbmspace:ingot_stainless",2],
+      "input1": ["dictframe","NickelPure"],
+      "input2": ["dictframe","Steel"]
+    },
+    {
       "fuel": ["dict","gemCoal"],
       "power": 200
     },

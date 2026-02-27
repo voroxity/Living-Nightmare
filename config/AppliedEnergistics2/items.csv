@@ -910,6 +910,19 @@ hbm:tile_lab_broken_slab:0, Broken Laboratory Tile Slab
 hbm:lamp_demon, Demon Core Lamp
 hbm:lantern, Lantern
 hbm:lantern_behemoth, Old Lantern
+hbm:lamp_tritium_green_off, Green Tritium Lamp
+hbm:lamp_tritium_green_on, Green Tritium Lamp
+hbm:lamp_tritium_blue_off, Blue Tritium Lamp
+hbm:lamp_tritium_blue_on, Blue Tritium Lamp
+hbm:spotlight_incandescent, Cage Lamp
+hbm:spotlight_incandescent_off, tile.spotlight_incandescent_off.name
+hbm:spotlight_fluoro, Fluorescent Light
+hbm:spotlight_fluoro_off, tile.spotlight_fluoro_off.name
+hbm:spotlight_halogen, Halogen Floodlight
+hbm:spotlight_halogen_off, tile.spotlight_halogen_off.name
+hbm:spotlight_beam, tile.spotlight_beam.name
+hbm:floodlight, Powered Floodlight
+hbm:floodlight_beam, tile.floodlight_beam.name
 hbm:block_scrap, Block of Scrap
 hbm:block_electrical_scrap, Block of Electrical Scrap
 hbm:ore_uranium, Uranium Ore
@@ -1637,6 +1650,7 @@ hbm:machine_assembler, Assembly Machine (Legacy)
 hbm:machine_assemfac, Assembly Factory
 hbm:machine_assembly_machine, Assembly Machine
 hbm:machine_assembly_factory, Assembly Factory
+hbm:machine_precass, Precision Assembly Machine
 hbm:machine_arc_welder, Arc Welder
 hbm:machine_soldering_station, Soldering Station
 hbm:machine_chemplant, Chemical Plant (Legacy)
@@ -1648,6 +1662,7 @@ hbm:machine_strand_caster, Strand Caster
 hbm:machine_mixer, Industrial Mixer
 hbm:machine_turbine, Steam Turbine
 hbm:machine_large_turbine, Industrial Steam Turbine
+hbm:machine_industrial_turbine, Industrial Steam Turbine
 hbm:machine_chungus, Leviathan Steam Turbine
 hbm:machine_condenser, Steam Condenser
 hbm:machine_condenser_powered, High-Power Steam Condenser
@@ -3510,6 +3525,10 @@ hbm:rpa_helmet, Remnants Power Armor Helmet
 hbm:rpa_plate, Remnants Power Armor Chestplate
 hbm:rpa_legs, Remnants Power Armor Leggings
 hbm:rpa_boots, Remnants Power Armor Boots
+hbm:ncrpa_helmet, NCR Ranger Power Armor Helmet
+hbm:ncrpa_plate, NCR Ranger Power Armor Chestplate
+hbm:ncrpa_legs, NCR Ranger Power Armor Leggings
+hbm:ncrpa_boots, NCR Ranger Power Armor Boots
 hbm:fau_helmet, Fau Helmet
 hbm:fau_plate, Fau Chestplate
 hbm:fau_legs, Fau Leggins
@@ -4007,29 +4026,7 @@ hbm:nuclear_waste, Nuclear Waste
 hbm:nuclear_waste_tiny, Tiny Pile of Nuclear Waste
 hbm:nuclear_waste_vitrified, Vitrified Nuclear Waste
 hbm:nuclear_waste_vitrified_tiny, Tiny Pile of Vitrified Nuclear Waste
-hbm:scrap_plastic:0, Plastic Scraps
-hbm:scrap_plastic:1, Plastic Scraps
-hbm:scrap_plastic:2, Plastic Scraps
-hbm:scrap_plastic:3, Plastic Scraps
-hbm:scrap_plastic:4, Plastic Scraps
-hbm:scrap_plastic:5, Plastic Scraps
-hbm:scrap_plastic:6, Plastic Scraps
-hbm:scrap_plastic:7, Plastic Scraps
-hbm:scrap_plastic:8, Plastic Scraps
-hbm:scrap_plastic:9, Plastic Scraps
-hbm:scrap_plastic:10, Plastic Scraps
-hbm:scrap_plastic:11, Plastic Scraps
-hbm:scrap_plastic:12, Plastic Scraps
-hbm:scrap_plastic:13, Plastic Scraps
-hbm:scrap_plastic:14, Plastic Scraps
-hbm:scrap_plastic:15, Plastic Scraps
-hbm:scrap_plastic:16, Plastic Scraps
-hbm:scrap_plastic:17, Plastic Scraps
-hbm:scrap_plastic:18, Plastic Scraps
-hbm:scrap_plastic:19, Plastic Scraps
-hbm:scrap_plastic:20, Plastic Scraps
-hbm:scrap_plastic:21, Plastic Scraps
-hbm:scrap_plastic:22, Plastic Scraps
+hbm:scrap_plastic, Plastic Scraps
 hbm:scrap, Scrap
 hbm:scrap_oil, Oily Scraps
 hbm:scrap_nuclear, Radioactive Scraps
@@ -4355,8 +4352,12 @@ hbm:scraps:34, Foundry Scraps
 hbm:scraps:2800, Foundry Scraps
 hbm:scraps:3100, Foundry Scraps
 hbm:scraps:3000, Foundry Scraps
+hbm:scraps:7200, Foundry Scraps
 hbm:scraps:2993, Foundry Scraps
 hbm:scraps:7700, Foundry Scraps
+hbm:scraps:13800, Foundry Scraps
+hbm:scraps:13895, Foundry Scraps
+hbm:scraps:13851, Foundry Scraps
 hbm:scraps:24000, Foundry Scraps
 hbm:scraps:24001, Foundry Scraps
 hbm:scraps:24002, Foundry Scraps
@@ -4516,163 +4517,70 @@ hbm:casing:3, Large Weapon Steel Casing
 hbm:casing:4, Black Powder Shotshell Casing
 hbm:casing:5, Plastic Shotshell Casing
 hbm:casing:6, Advanced Shotshell Casing
-hbm:bedrock_ore_new:0, Light Metal Bedrock Ore
-hbm:bedrock_ore_new:16, Roasted Light Metal Bedrock Ore
-hbm:bedrock_ore_new:32, Washed Light Metal Bedrock Ore
-hbm:bedrock_ore_new:48, Light Metal Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:64, Light Metal Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:80, Light Metal Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:96, Light Metal Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:112, Light Metal Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:128, Light Metal Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:144, Light Metal Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:160, Light Metal Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:176, Light Metal Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:192, Light Metal Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:208, Light Metal Bedrock Ore Crumbs
-hbm:bedrock_ore_new:224, Light Metal Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:240, Light Metal Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:256, Light Metal Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:272, Light Metal Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:288, Light Metal Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:304, Light Metal Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:320, Light Metal Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:336, Light Metal Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:352, Light Metal Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:368, Light Metal Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:384, Light Metal Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:400, Light Metal Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:1, Heavy Metal Bedrock Ore
-hbm:bedrock_ore_new:17, Roasted Heavy Metal Bedrock Ore
-hbm:bedrock_ore_new:33, Washed Heavy Metal Bedrock Ore
-hbm:bedrock_ore_new:49, Heavy Metal Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:65, Heavy Metal Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:81, Heavy Metal Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:97, Heavy Metal Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:113, Heavy Metal Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:129, Heavy Metal Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:145, Heavy Metal Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:161, Heavy Metal Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:177, Heavy Metal Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:193, Heavy Metal Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:209, Heavy Metal Bedrock Ore Crumbs
-hbm:bedrock_ore_new:225, Heavy Metal Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:241, Heavy Metal Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:257, Heavy Metal Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:273, Heavy Metal Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:289, Heavy Metal Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:305, Heavy Metal Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:321, Heavy Metal Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:337, Heavy Metal Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:353, Heavy Metal Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:369, Heavy Metal Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:385, Heavy Metal Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:401, Heavy Metal Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:2, Rare Earth Bedrock Ore
-hbm:bedrock_ore_new:18, Roasted Rare Earth Bedrock Ore
-hbm:bedrock_ore_new:34, Washed Rare Earth Bedrock Ore
-hbm:bedrock_ore_new:50, Rare Earth Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:66, Rare Earth Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:82, Rare Earth Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:98, Rare Earth Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:114, Rare Earth Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:130, Rare Earth Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:146, Rare Earth Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:162, Rare Earth Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:178, Rare Earth Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:194, Rare Earth Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:210, Rare Earth Bedrock Ore Crumbs
-hbm:bedrock_ore_new:226, Rare Earth Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:242, Rare Earth Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:258, Rare Earth Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:274, Rare Earth Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:290, Rare Earth Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:306, Rare Earth Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:322, Rare Earth Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:338, Rare Earth Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:354, Rare Earth Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:370, Rare Earth Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:386, Rare Earth Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:402, Rare Earth Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:3, Actinide Bedrock Ore
-hbm:bedrock_ore_new:19, Roasted Actinide Bedrock Ore
-hbm:bedrock_ore_new:35, Washed Actinide Bedrock Ore
-hbm:bedrock_ore_new:51, Actinide Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:67, Actinide Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:83, Actinide Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:99, Actinide Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:115, Actinide Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:131, Actinide Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:147, Actinide Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:163, Actinide Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:179, Actinide Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:195, Actinide Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:211, Actinide Bedrock Ore Crumbs
-hbm:bedrock_ore_new:227, Actinide Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:243, Actinide Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:259, Actinide Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:275, Actinide Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:291, Actinide Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:307, Actinide Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:323, Actinide Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:339, Actinide Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:355, Actinide Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:371, Actinide Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:387, Actinide Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:403, Actinide Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:4, Non-Metal Bedrock Ore
-hbm:bedrock_ore_new:20, Roasted Non-Metal Bedrock Ore
-hbm:bedrock_ore_new:36, Washed Non-Metal Bedrock Ore
-hbm:bedrock_ore_new:52, Non-Metal Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:68, Non-Metal Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:84, Non-Metal Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:100, Non-Metal Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:116, Non-Metal Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:132, Non-Metal Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:148, Non-Metal Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:164, Non-Metal Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:180, Non-Metal Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:196, Non-Metal Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:212, Non-Metal Bedrock Ore Crumbs
-hbm:bedrock_ore_new:228, Non-Metal Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:244, Non-Metal Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:260, Non-Metal Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:276, Non-Metal Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:292, Non-Metal Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:308, Non-Metal Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:324, Non-Metal Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:340, Non-Metal Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:356, Non-Metal Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:372, Non-Metal Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:388, Non-Metal Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:404, Non-Metal Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_new:5, Crystalline Bedrock Ore
-hbm:bedrock_ore_new:21, Roasted Crystalline Bedrock Ore
-hbm:bedrock_ore_new:37, Washed Crystalline Bedrock Ore
-hbm:bedrock_ore_new:53, Crystalline Bedrock Ore, Primary Fraction
-hbm:bedrock_ore_new:69, Crystalline Bedrock Ore, Roasted Primary Fraction
-hbm:bedrock_ore_new:85, Crystalline Bedrock Ore, Sulfuric Primary Fraction
-hbm:bedrock_ore_new:101, Crystalline Bedrock Ore, Separated Sulfuric Primary Fraction
-hbm:bedrock_ore_new:117, Crystalline Bedrock Ore, Dissolved Primary Fraction
-hbm:bedrock_ore_new:133, Crystalline Bedrock Ore, Separated Dissolved Primary Fraction
-hbm:bedrock_ore_new:149, Crystalline Bedrock Ore, Cleaned Primary Fraction
-hbm:bedrock_ore_new:165, Crystalline Bedrock Ore, Separated Cleaned Primary Fraction
-hbm:bedrock_ore_new:181, Crystalline Bedrock Ore, Primary Fraction, Higher Weight
-hbm:bedrock_ore_new:197, Crystalline Bedrock Ore, Primary Fraction, Lower Weight
-hbm:bedrock_ore_new:213, Crystalline Bedrock Ore Crumbs
-hbm:bedrock_ore_new:229, Crystalline Bedrock Ore, Sulfuric Byproduct
-hbm:bedrock_ore_new:245, Crystalline Bedrock Ore, Roasted Sulfuric Byproduct
-hbm:bedrock_ore_new:261, Crystalline Bedrock Ore, Seared Sulfuric Byproduct
-hbm:bedrock_ore_new:277, Crystalline Bedrock Ore, Washed Sulfuric Byproduct
-hbm:bedrock_ore_new:293, Crystalline Bedrock Ore, Dissolved Byproduct
-hbm:bedrock_ore_new:309, Crystalline Bedrock Ore, Roasted Dissolved Byproduct
-hbm:bedrock_ore_new:325, Crystalline Bedrock Ore, Seared Dissolved Byproduct
-hbm:bedrock_ore_new:341, Crystalline Bedrock Ore, Washed Dissolved Byproduct
-hbm:bedrock_ore_new:357, Crystalline Bedrock Ore, Cleaned Byproduct
-hbm:bedrock_ore_new:373, Crystalline Bedrock Ore, Roasted Cleaned Byproduct
-hbm:bedrock_ore_new:389, Crystalline Bedrock Ore, Seared Cleaned Byproduct
-hbm:bedrock_ore_new:405, Crystalline Bedrock Ore, Washed Cleaned Byproduct
-hbm:bedrock_ore_base, Raw Bedrock Ore
+hbm:bedrock_ore_new:6, Light Metal Bedrock Ore (Earth)
+hbm:bedrock_ore_new:7, Heavy Metal Bedrock Ore (Earth)
+hbm:bedrock_ore_new:8, Non-Metal Bedrock Ore (Earth)
+hbm:bedrock_ore_new:9, Crystalline Bedrock Ore (Earth)
+hbm:bedrock_ore_new:10, Light Metal Bedrock Ore (Mun)
+hbm:bedrock_ore_new:11, Heavy Metal Bedrock Ore (Mun)
+hbm:bedrock_ore_new:12, Rare Earth Bedrock Ore (Mun)
+hbm:bedrock_ore_new:13, Non-Metal Bedrock Ore (Mun)
+hbm:bedrock_ore_new:14, Crystalline Bedrock Ore (Mun)
+hbm:bedrock_ore_new:15, Light Metal Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:16, Heavy Metal Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:17, Rare Earth Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:18, Non-Metal Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:19, Crystalline Bedrock Ore (Minmus)
+hbm:bedrock_ore_new:20, Light Metal Bedrock Ore (Duna)
+hbm:bedrock_ore_new:21, Heavy Metal Bedrock Ore (Duna)
+hbm:bedrock_ore_new:22, Rare Earth Bedrock Ore (Duna)
+hbm:bedrock_ore_new:23, Actinide Bedrock Ore (Duna)
+hbm:bedrock_ore_new:24, Non-Metal Bedrock Ore (Duna)
+hbm:bedrock_ore_new:25, Crystalline Bedrock Ore (Duna)
+hbm:bedrock_ore_new:26, Light Metal Bedrock Ore (Moho)
+hbm:bedrock_ore_new:27, Heavy Metal Bedrock Ore (Moho)
+hbm:bedrock_ore_new:28, Rare Earth Bedrock Ore (Moho)
+hbm:bedrock_ore_new:29, Actinide Bedrock Ore (Moho)
+hbm:bedrock_ore_new:30, Non-Metal Bedrock Ore (Moho)
+hbm:bedrock_ore_new:31, Crystalline Bedrock Ore (Moho)
+hbm:bedrock_ore_new:32, Light Metal Bedrock Ore (Dres)
+hbm:bedrock_ore_new:33, Heavy Metal Bedrock Ore (Dres)
+hbm:bedrock_ore_new:34, Rare Earth Bedrock Ore (Dres)
+hbm:bedrock_ore_new:35, Actinide Bedrock Ore (Dres)
+hbm:bedrock_ore_new:36, Non-Metal Bedrock Ore (Dres)
+hbm:bedrock_ore_new:37, Crystalline Bedrock Ore (Dres)
+hbm:bedrock_ore_new:38, Light Metal Bedrock Ore (Eve)
+hbm:bedrock_ore_new:39, Heavy Metal Bedrock Ore (Eve)
+hbm:bedrock_ore_new:40, Rare Earth Bedrock Ore (Eve)
+hbm:bedrock_ore_new:41, Actinide Bedrock Ore (Eve)
+hbm:bedrock_ore_new:42, Schrabidic Bedrock Ore (Eve)
+hbm:bedrock_ore_new:43, Crystalline Bedrock Ore (Eve)
+hbm:bedrock_ore_new:44, Light Metal Bedrock Ore (Ike)
+hbm:bedrock_ore_new:45, Heavy Metal Bedrock Ore (Ike)
+hbm:bedrock_ore_new:46, Rare Earth Bedrock Ore (Ike)
+hbm:bedrock_ore_new:47, Hazardous Waste Bedrock Ore (Ike)
+hbm:bedrock_ore_new:48, Light Metal Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:49, Heavy Metal Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:50, Rare Earth Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:51, Actinide Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:52, Non-Metal Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:53, Crystalline Bedrock Ore (Laythe)
+hbm:bedrock_ore_new:54, Light Metal Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:55, Heavy Metal Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:56, Rare Earth Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:57, Actinide Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:58, Crystalline Bedrock Ore (Tekto)
+hbm:bedrock_ore_new:59, Plastic Bedrock Ore (Tekto)
+hbm:bedrock_ore_base:1, Raw Bedrock Ore
+hbm:bedrock_ore_base:2, Raw Bedrock Ore
+hbm:bedrock_ore_base:3, Raw Bedrock Ore
+hbm:bedrock_ore_base:4, Raw Bedrock Ore
+hbm:bedrock_ore_base:5, Raw Bedrock Ore
+hbm:bedrock_ore_base:6, Raw Bedrock Ore
+hbm:bedrock_ore_base:7, Raw Bedrock Ore
+hbm:bedrock_ore_base:8, Raw Bedrock Ore
+hbm:bedrock_ore_base:9, Raw Bedrock Ore
+hbm:bedrock_ore_base:10, Raw Bedrock Ore
 hbm:bedrock_ore_fragment:600, Coal Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:601, Lignite Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1430, Diamond Bedrock Ore Fragment
@@ -4716,10 +4624,22 @@ hbm:bedrock_ore_fragment:8001, Cinnabar Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1400, Silicon Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:1401, Asbestos Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:20000, Rare Earth Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:2800, hbmmat.nickelpure Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:20001, Polymer Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:20003, Rubber Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:20005, PVC Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:5, Glowstone Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:1402, Quartz Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:1501, White Phosphorus Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:2800, Nickel Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:3100, Gallium Bedrock Ore Fragment
 hbm:bedrock_ore_fragment:3000, Zinc Bedrock Ore Fragment
-hbm:bedrock_ore_fragment:24003, hbmmat.semtex Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:3500, Bromine Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:5300, Iodine Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:7200, Hafnium Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:13800, Australium Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:13895, Tasmanite Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:13851, Ayerite Bedrock Ore Fragment
+hbm:bedrock_ore_fragment:24003, Semtex Bedrock Ore Fragment
 hbm:chunk_ore:0, Rare Earth Ore Chunk
 hbm:chunk_ore:1, Malachite Chunk
 hbm:chunk_ore:2, Cryolite Chunk
@@ -6706,6 +6626,7 @@ hbm:ln2_8, item.ln2_8.name
 hbm:ln2_9, item.ln2_9.name
 hbm:ln2_10, item.ln2_10.name
 hbm:nothing, Nothing
+hbm:broken_item, item.broken_item.name
 hbm:ducc, ducc
 hbm:discharge, item.discharge.name
 hbm:undefined, Undefined
@@ -6926,6 +6847,7 @@ hbm:gun_laser_pistol_morning_glory, Morning Glory
 hbm:gun_lasrifle, Laser Rifle
 hbm:gun_tau, Tau Cannon
 hbm:gun_coilgun, Coilgun
+hbm:gun_n_i_4_n_i, N I 4 N I
 hbm:gun_fatman, Fat Man
 hbm:gun_bolter, Bolter
 hbm:gun_folly, Folly
@@ -6935,6 +6857,8 @@ hbm:gun_double_barrel, An Old Classic
 hbm:gun_double_barrel_sacred_dragon, Sacred Dragon
 hbm:gun_autoshotgun_heretic, The Heretic
 hbm:gun_drill, Powered Drill
+hbm:gun_pa_melee, Power Armor - Melee Controller
+hbm:gun_pa_ranged, Power Armor - Ranged Controller
 hbm:gun_aberrator, Aberrator
 hbm:gun_aberrator_eott, Eyes Of The Tempest
 hbm:weapon_mod_test:0, FIRE RATE UPGRADE
@@ -6981,17 +6905,19 @@ hbm:weapon_mod_special:12, Saturnite Skin
 hbm:weapon_mod_special:13, Laser Rifle Beam Splitter
 hbm:weapon_mod_special:14, Laser Rifle Extended Capacitor
 hbm:weapon_mod_special:15, Laser Rifle Automatic Receiver
-hbm:weapon_mod_special:16, Powered Drill - High-Speed Steel Drillbit
-hbm:weapon_mod_special:17, Powered Drill - Weapon Steel Drillbit
-hbm:weapon_mod_special:18, Powered Drill - Technetium Steel Drillbit
-hbm:weapon_mod_special:19, Powered Drill - Saturnite Drillbit
-hbm:weapon_mod_special:20, Powered Drill - Diesel Engine
-hbm:weapon_mod_special:21, Powered Drill - Aircraft Engine
-hbm:weapon_mod_special:22, Powered Drill - Electric Engine
-hbm:weapon_mod_special:23, Powered Drill - Turbo Engine
-hbm:weapon_mod_special:24, Powered Drill - Electromagnet
-hbm:weapon_mod_special:25, Powered Drill - Sifter
-hbm:weapon_mod_special:26, Powered Drill - Extension Canisters
+hbm:weapon_mod_special:16, item.weapon_mod_special.nickel.name
+hbm:weapon_mod_special:17, item.weapon_mod_special.doubloons.name
+hbm:weapon_mod_special:18, Powered Drill - High-Speed Steel Drillbit
+hbm:weapon_mod_special:19, Powered Drill - Weapon Steel Drillbit
+hbm:weapon_mod_special:20, Powered Drill - Technetium Steel Drillbit
+hbm:weapon_mod_special:21, Powered Drill - Saturnite Drillbit
+hbm:weapon_mod_special:22, Powered Drill - Diesel Engine
+hbm:weapon_mod_special:23, Powered Drill - Aircraft Engine
+hbm:weapon_mod_special:24, Powered Drill - Electric Engine
+hbm:weapon_mod_special:25, Powered Drill - Turbo Engine
+hbm:weapon_mod_special:26, Powered Drill - Electromagnet
+hbm:weapon_mod_special:27, Powered Drill - Sifter
+hbm:weapon_mod_special:28, Powered Drill - Extension Canisters
 hbm:weapon_mod_caliber:0, 9mm Conversion Kit
 hbm:weapon_mod_caliber:1, .45 Conversion Kit
 hbm:weapon_mod_caliber:2, .22 LR Conversion Kit
@@ -7956,6 +7882,7 @@ hbmspace:hard_drive_full:6, Hard Drive
 hbmspace:hard_drive_full:7, Hard Drive
 hbmspace:hard_drive_full:8, Hard Drive
 hbmspace:hard_drive_full:9, Hard Drive
+hbmspace:hard_drive_full:10, Hard Drive
 hbmspace:circuit:0, Printed GaAs Wafer
 hbmspace:circuit:1, Avionics Circuit Board
 hbmspace:circuit:2, Avionics Unit
@@ -8028,8 +7955,8 @@ hbmspace:stick_vinyl, Vinyl Stick
 hbmspace:sat_dyson_relay, Satellite Dyson Relay
 hbmspace:sat_war, item.sat_war.name
 hbmspace:scuttertail, Scuttertail
-hbmspace:rubber_leaves, Rubber Leaves
-hbmspace:pet_leaves, Plastic Leaves
+hbmspace:rubber_leaf, item.rubber_leaf.name
+hbmspace:pet_leaf, item.pet_leaf.name
 hbmspace:powder_rubber, Rubber Powder
 hbmspace:powder_pvc, PVC Powder
 hbmspace:ingot_nickel, Nickel Ingot
@@ -8199,6 +8126,11 @@ hbmspace:block_osmiridium, Block of Osmiridium
 hbmspace:deco_stainless, Stainless Steel Deco Block
 hbmspace:stone_resource:0, Conglomerate
 hbmspace:stone_resource:1, Calcium
+hbmspace:rubber_tall:0, Tall Rubber Plant
+hbmspace:rubber_tall:1, Tall Rubber Plant
+hbmspace:rubber_tall:2, Tall Rubber Plant
+hbmspace:vinyl_sand, Vinyl Sand
+hbmspace:vinyl_vine, Vinyl Vines
 hbmspace:vinyl_log, Hardened Vinyl Log
 hbmspace:pvc_log, PVC Log
 hbmspace:vinyl_planks, Vinyl Planks
@@ -8229,6 +8161,7 @@ hbmspace:machine_alkylation, Alkylation Unit
 hbmspace:machine_solar, Solar Panel
 hbmspace:air_vent, Air Vent
 hbmspace:air_scrubber, CO2 Scrubber
+hbmspace:algae_film, Microgravity Algae Film
 hbmspace:hydrobay, Industrial Greenhouse
 hbmspace:machine_cryo_distill, Cryogenic Distillation Machine
 hbmspace:machine_milk_reformer, Dairy Processing Tank
@@ -8239,19 +8172,44 @@ hbmspace:machine_discharger, Matter Discharging Device (LEGACY)
 hbmspace:machine_atmo_tower, Atmospheric Liquefaction Tower
 hbmspace:machine_atmo_vent, Atmospheric Compressor
 hbmspace:gas_dock, Gas Giant Harvester
+hbmspace:orrery, Orrery
 hbmspace:rbmk_burner, RBMK Fluid Burner
 hbmspace:dyson_launcher, Dyson Spinlauncher
 hbmspace:dyson_receiver, Dyson Receiver
 hbmspace:dyson_converter_tu, Dyson Heat Converter
 hbmspace:dyson_converter_he, Dyson Power Converter
 hbmspace:dyson_converter_anatmogenesis, Dyson Anatmogenesis Terraformer
+hbmspace:geysir_electric, Discharge Geyser
+hbmspace:geysir_chloric, DCM Geysir
+hbmspace:sapling:0, Vinyl Sapling
+hbmspace:sapling:1, Plastic Sapling
+hbmspace:laythe_kelp, Laythe Kelp
+hbmspace:plant_tall_laythe:0, Saltgrass
+hbmspace:laythe_seagrass:0, tile.laythe_seagrass_0.name
+hbmspace:laythe_glowgrass:0, tile.laythe_glowgrass_0.name
 hbmspace:crop_strawberry, Strawberries
 hbmspace:crop_mint, Mint
 hbmspace:crop_coffee, Coffee
 hbmspace:crop_tea, Tea
 hbmspace:crop_paraffin, Wax Crop
+hbmspace:laythe_coral:0, Laythe Coral
+hbmspace:laythe_coral:1, Laythe Coral
+hbmspace:laythe_coral:2, Laythe Coral
+hbmspace:laythe_coral:3, Laythe Coral
+hbmspace:laythe_coral:4, Laythe Coral
+hbmspace:laythe_coral_block:0, Block of Laythe Coral
+hbmspace:laythe_coral_block:1, Block of Laythe Coral
+hbmspace:laythe_coral_block:2, Block of Laythe Coral
+hbmspace:laythe_coral_block:3, Block of Laythe Coral
+hbmspace:laythe_coral_block:4, Block of Laythe Coral
 hbmspace:rubber_farmland, Tekto Farmland
+hbmspace:rubber_plant:0, Short Rubber Plant
+hbmspace:rubber_plant:1, Short Rubber Plant
+hbmspace:rubber_plant:2, Short Rubber Plant
+hbmspace:rubber_grass, Rubber Grass
+hbmspace:rubber_leaves, Rubber Leaves
 hbmspace:rubber_silt, Tekto Silt
+hbmspace:pet_leaves, Plastic Leaves
 hbmspace:ccl_block, CCL
 hbmspace:dummy_beam, Integrated Lamp
 hbmspace:furnace, Furnace
@@ -9832,6 +9790,11 @@ thermaldynamics:cover:0, Reinforced Ducrete Slab Cover
 thermaldynamics:cover:0, Laboratory Tile Slab Cover
 thermaldynamics:cover:0, Cracked Laboratory Tile Slab Cover
 thermaldynamics:cover:0, Broken Laboratory Tile Slab Cover
+thermaldynamics:cover:0, Green Tritium Lamp Cover
+thermaldynamics:cover:0, Blue Tritium Lamp Cover
+thermaldynamics:cover:0, Cage Lamp Cover
+thermaldynamics:cover:0, Fluorescent Light Cover
+thermaldynamics:cover:0, Halogen Floodlight Cover
 thermaldynamics:cover:0, Block of Scrap Cover
 thermaldynamics:cover:0, Block of Electrical Scrap Cover
 thermaldynamics:cover:0, Uranium Ore Cover
@@ -10310,6 +10273,9 @@ thermaldynamics:cover:0, Block of Nickel Cover
 thermaldynamics:cover:0, Block of Osmiridium Cover
 thermaldynamics:cover:0, Stainless Steel Deco Block Cover
 thermaldynamics:cover:0, Conglomerate Cover
+thermaldynamics:cover:0, Tall Rubber Plant Cover
+thermaldynamics:cover:0, Vinyl Sand Cover
+thermaldynamics:cover:0, Vinyl Vines Cover
 thermaldynamics:cover:0, Hardened Vinyl Log Cover
 thermaldynamics:cover:0, PVC Log Cover
 thermaldynamics:cover:0, Vinyl Planks Cover
@@ -10321,13 +10287,24 @@ thermaldynamics:cover:0, Anti-Mass Log Cover
 thermaldynamics:cover:0, tile.flesh_block.name Cover
 thermaldynamics:cover:0, tile.charred_flesh_block.name Cover
 thermaldynamics:cover:0, tile.carbonized_flesh_block.name Cover
+thermaldynamics:cover:0, Vinyl Sapling Cover
+thermaldynamics:cover:0, Plastic Sapling Cover
+thermaldynamics:cover:0, Laythe Kelp Cover
+thermaldynamics:cover:0, Saltgrass Cover
+thermaldynamics:cover:0, tile.laythe_seagrass_0.name Cover
+thermaldynamics:cover:0, tile.laythe_glowgrass_0.name Cover
 thermaldynamics:cover:0, Strawberries Cover
 thermaldynamics:cover:0, Mint Cover
 thermaldynamics:cover:0, Coffee Cover
 thermaldynamics:cover:0, Tea Cover
 thermaldynamics:cover:0, Wax Crop Cover
+thermaldynamics:cover:0, Block of Laythe Coral Cover
 thermaldynamics:cover:0, Tekto Farmland Cover
+thermaldynamics:cover:0, Short Rubber Plant Cover
+thermaldynamics:cover:0, Rubber Grass Cover
+thermaldynamics:cover:0, Rubber Leaves Cover
 thermaldynamics:cover:0, Tekto Silt Cover
+thermaldynamics:cover:0, Plastic Leaves Cover
 thermaldynamics:cover:0, Elevator Cover
 thermaldynamics:cover:0, Elevator Cover
 thermaldynamics:cover:0, Elevator Cover
@@ -13103,6 +13080,10 @@ appliedenergistics2:facade:0, Cable Facade - Large Vinyl Tile
 appliedenergistics2:facade:0, Cable Facade - Laboratory Tiles
 appliedenergistics2:facade:0, Cable Facade - Cracked Laboratory Tiles
 appliedenergistics2:facade:0, Cable Facade - Broken Laboratory Tiles
+appliedenergistics2:facade:0, Cable Facade - Green Tritium Lamp
+appliedenergistics2:facade:0, Cable Facade - Green Tritium Lamp
+appliedenergistics2:facade:0, Cable Facade - Blue Tritium Lamp
+appliedenergistics2:facade:0, Cable Facade - Blue Tritium Lamp
 appliedenergistics2:facade:0, Cable Facade - Block of Scrap
 appliedenergistics2:facade:0, Cable Facade - Block of Electrical Scrap
 appliedenergistics2:facade:0, Cable Facade - Uranium Ore
@@ -13495,6 +13476,7 @@ appliedenergistics2:facade:0, Cable Facade - Block of Nickel
 appliedenergistics2:facade:0, Cable Facade - Block of Osmiridium
 appliedenergistics2:facade:0, Cable Facade - Stainless Steel Deco Block
 appliedenergistics2:facade:0, Cable Facade - Conglomerate
+appliedenergistics2:facade:0, Cable Facade - Vinyl Sand
 appliedenergistics2:facade:0, Cable Facade - Hardened Vinyl Log
 appliedenergistics2:facade:0, Cable Facade - PVC Log
 appliedenergistics2:facade:0, Cable Facade - Vinyl Planks
@@ -13503,7 +13485,11 @@ appliedenergistics2:facade:0, Cable Facade - Latticed Log
 appliedenergistics2:facade:0, Cable Facade - Balefire Log
 appliedenergistics2:facade:0, Cable Facade - Primed Log
 appliedenergistics2:facade:0, Cable Facade - Anti-Mass Log
+appliedenergistics2:facade:0, Cable Facade - Block of Laythe Coral
+appliedenergistics2:facade:0, Cable Facade - Rubber Grass
+appliedenergistics2:facade:0, Cable Facade - Rubber Leaves
 appliedenergistics2:facade:0, Cable Facade - Tekto Silt
+appliedenergistics2:facade:0, Cable Facade - Plastic Leaves
 appliedenergistics2:facade:0, Cable Facade - Elevator
 appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:facade:0, Cable Facade - End Stone
@@ -16988,6 +16974,27 @@ srparasites:consumed_fence, Consumed Fence
 srparasites:bruisewood_fence, Bruisewood Fence
 srparasites:flesh_fence, Flesh Fence
 srparasites:cooked_flesh_fence, Cooked Flesh Fence
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -17038,27 +17045,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -17218,34 +17204,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -18219,62 +18205,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks

@@ -191,6 +191,46 @@
       "output": [
         ["BSCCO",72]
       ]
+    },
+    {
+      "id": 18,
+      "name": "crucible.hsss",
+      "frequency": 12,
+      "icon": ["hbm:ingot_dura_steel"],
+      "input": [
+        ["StainlessSteel",40],
+        ["Tungsten",24],
+        ["Cobalt",8]
+      ],
+      "output": [
+        ["DuraSteel",144]
+      ]
+    },
+    {
+      "id": 19,
+      "name": "crucible.arse",
+      "frequency": 9,
+      "icon": ["hbmspace:ingot_gaas"],
+      "input": [
+        ["Gallium",48],
+        ["Arsenic",24]
+      ],
+      "output": [
+        ["GalliumArsenide",72]
+      ]
+    },
+    {
+      "id": 20,
+      "name": "crucible.stainless",
+      "frequency": 2,
+      "icon": ["hbmspace:ingot_stainless"],
+      "input": [
+        ["Steel",8],
+        ["NickelPure",8]
+      ],
+      "output": [
+        ["StainlessSteel",16]
+      ]
     }
   ]
 }

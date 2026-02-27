@@ -128,6 +128,13 @@
     "curseForgeHash": 2429064344,
     "modrinthHash": "d378cee9195841ea78bb9800f543d718ef2c60ef"
   },
+  "Clumps-3.1.2.jar": {
+    "jarName": "Clumps-3.1.2.jar",
+    "modId": "clumps",
+    "version": "3.1.2",
+    "curseForgeHash": 1290884162,
+    "modrinthHash": "6ea78bea8006e3924bc37c2aef0115134c8af07b"
+  },
   "CodeChickenLib-1.12.2-3.2.3.358-universal.jar": {
     "jarName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
     "modId": "codechickenlib",
@@ -259,6 +266,13 @@
     "version": "5.4.1.131",
     "curseForgeHash": 679359278,
     "modrinthHash": "d1f6545ac58ad895f2c8bcd0d4963d92f14b1938"
+  },
+  "getittogetherdrops-1.12.2-v1.0.2.jar": {
+    "jarName": "getittogetherdrops-1.12.2-v1.0.2.jar",
+    "modId": "getittogetherdrops",
+    "version": "v1.0.2",
+    "curseForgeHash": 1455605306,
+    "modrinthHash": "dbf4143e35baa4eec8d3dfebee341bba3afab7dc"
   },
   "gravestone-1.10.3.jar": {
     "jarName": "gravestone-1.10.3.jar",
@@ -428,19 +442,19 @@
     "curseForgeHash": 1082679175,
     "modrinthHash": "6f669725dd3fe41b2f548894be5228696e715f48"
   },
-  "NTM-CE-1.12.2-2.1.0.0.jar": {
-    "jarName": "NTM-CE-1.12.2-2.1.0.0.jar",
+  "NTM-CE-1.12.2-2.1.1.0.jar": {
+    "jarName": "NTM-CE-1.12.2-2.1.1.0.jar",
     "modId": "hbm",
-    "version": "2.1.0.0",
-    "curseForgeHash": 540719463,
-    "modrinthHash": "7d5a32b1ef5d93457894cd6c75e066b6873bba79"
+    "version": "2.1.1.0",
+    "curseForgeHash": 411941580,
+    "modrinthHash": "d407259ded72e2d57a9bae796827a8a03e28d5ff"
   },
-  "NTM-Space-1.12.2-0.8.jar": {
-    "jarName": "NTM-Space-1.12.2-0.8.jar",
+  "NTM-Space-1.12.2-0.9.jar": {
+    "jarName": "NTM-Space-1.12.2-0.9.jar",
     "modId": "hbmspace",
-    "version": "0.8",
-    "curseForgeHash": 700483329,
-    "modrinthHash": "1c681d7d8aff08e13c0b2b6d7a007bb8bb21b1ef"
+    "version": "0.9",
+    "curseForgeHash": 1649333055,
+    "modrinthHash": "3d1d0c8e6e00f14eb2470896f26ede6ef69678f9"
   },
   "OpenBlocksReopened-1.12.2-1.8.3.1.jar": {
     "jarName": "OpenBlocksReopened-1.12.2-1.8.3.1.jar",
