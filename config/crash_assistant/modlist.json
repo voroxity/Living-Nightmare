@@ -491,6 +491,13 @@
     "curseForgeHash": 3280433554,
     "modrinthHash": "41e17cd9ad1a6a27767df0a2366972f181d9ff89"
   },
+  "railstuff-0.2.6.jar": {
+    "jarName": "railstuff-0.2.6.jar",
+    "modId": "examplemod",
+    "version": "0.2.6",
+    "curseForgeHash": 3012470413,
+    "modrinthHash": "479fa8cbc1265745cf4d32f19a883e187a37b8e6"
+  },
   "reap-1.5.2.jar": {
     "jarName": "reap-1.5.2.jar",
     "modId": "reap",
@@ -623,6 +630,13 @@
     "version": "1.2",
     "curseForgeHash": 2373647602,
     "modrinthHash": "e63bee0992b0a3403d8a95eb19676ce716691c50"
+  },
+  "trafficcontrol-1.1.1.jar": {
+    "jarName": "trafficcontrol-1.1.1.jar",
+    "modId": "trafficcontrol",
+    "version": "1.1.1",
+    "curseForgeHash": 4235254262,
+    "modrinthHash": "34d3edaeac9c6ed0c81c312543be26b1797a07ba"
   },
   "UniDict-1.12.2-3.0.10.jar": {
     "jarName": "UniDict-1.12.2-3.0.10.jar",

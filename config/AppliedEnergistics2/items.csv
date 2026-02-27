@@ -15553,6 +15553,13 @@ appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Sulfur Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Ore
 appliedenergistics2:facade:0, Cable Facade - Graphite Ore
+appliedenergistics2:facade:0, Cable Facade - Flag (Red)
+appliedenergistics2:facade:0, Cable Facade - Flag (Yellow)
+appliedenergistics2:facade:0, Cable Facade - Flag (Green)
+appliedenergistics2:facade:0, Cable Facade - Blue Flag
+appliedenergistics2:facade:0, Cable Facade - Mast
+appliedenergistics2:facade:0, Cable Facade - End ABS Sign
+appliedenergistics2:facade:0, Cable Facade - Whistle Post
 appliedenergistics2:facade:0, Cable Facade - Redstone-Sensitive Glass Block (Light Emitting)
 appliedenergistics2:facade:0, Cable Facade - Redstone-Sensitive Glass Block (White-Stained)
 appliedenergistics2:facade:0, Cable Facade - Redstone-Sensitive Glass Block (Red-Stained)
@@ -15757,6 +15764,17 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
+appliedenergistics2:facade:0, Cable Facade - Pole Base
+appliedenergistics2:facade:0, Cable Facade - Stand
+appliedenergistics2:facade:0, Cable Facade - Overhead Crossbuck
+appliedenergistics2:facade:0, Cable Facade - Cone
+appliedenergistics2:facade:0, Cable Facade - Channelizer
+appliedenergistics2:facade:0, Cable Facade - Drum
+appliedenergistics2:facade:0, Cable Facade - Guardrail
+appliedenergistics2:facade:0, Cable Facade - Horizontal Pole
+appliedenergistics2:facade:0, Cable Facade - Traffic Sensor (Left)
+appliedenergistics2:facade:0, Cable Facade - Traffic Sensor (Straight)
+appliedenergistics2:facade:0, Cable Facade - Traffic Sensor (Right)
 appliedenergistics2:facade:0, Cable Facade - Soul Stone
 appliedenergistics2:facade:0, Cable Facade - Stygian Iron Block
 appliedenergistics2:facade:0, Cable Facade - Stygian Iron Ore
@@ -16237,11 +16255,6 @@ mcheli:krupp_c_34, Krupp C/34 40.6cm Coastal-Artillery "Adolfkanone"
 mcheli:15.5, 15.5 cm/60 3rd Year Type Naval Gun
 mcheli:12.7, 12.7 cm/40 Type 89 Naval Gun
 mcheli:drafting_table, Drafting Table
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -16257,8 +16270,26 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
+railstuff:rolling_stock_assigner, Rolling Stock Assigner
+railstuff:paperwork, Paperwork
+railstuff:signal_surveyor, Signal Surveyor
+railstuff:manual_switch_stand, Manual Switch Stand
+railstuff:red_flag, Flag (Red)
+railstuff:yellow_flag, Flag (Yellow)
+railstuff:green_flag, Flag (Green)
+railstuff:blue_flag, Blue Flag
+railstuff:end_abs, End ABS Sign
+railstuff:mast, Mast
+railstuff:signal_head, Signal
+railstuff:milepost, Milepost
+railstuff:whistle, Whistle Post
 retro_sophisticated_backpacks:backpack_leather, Leather Backpack
 retro_sophisticated_backpacks:backpack_iron, Iron Backpack
 retro_sophisticated_backpacks:backpack_gold, Gold Backpack
@@ -16957,27 +16988,6 @@ srparasites:consumed_fence, Consumed Fence
 srparasites:bruisewood_fence, Bruisewood Fence
 srparasites:flesh_fence, Flesh Fence
 srparasites:cooked_flesh_fence, Cooked Flesh Fence
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -17028,6 +17038,27 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 tconstruct:book, Materials and You
 tconstruct:soil:0, Grout
 tconstruct:soil:1, Green Slimy Mud
@@ -17188,33 +17219,33 @@ tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
 tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Fletching Pattern
 tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -18188,62 +18219,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -18327,6 +18358,71 @@ torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
 torchmaster:frozen_pearl, Frozen Pearl
+trafficcontrol:crossing_relay_box, Crossing Gate Relay
+trafficcontrol:crossing_relay_tuner, Tuner
+trafficcontrol:traffic_light_bulb, item.null.name
+trafficcontrol:traffic_light_frame, Traffic Light Frame
+trafficcontrol:traffic_light_5_frame, Traffic Light Frame (5 Bulb)
+trafficcontrol:traffic_light_doghouse_frame, Traffic Light Frame (Doghouse)
+trafficcontrol:traffic_light_1_frame, Traffic Light Frame (One Bulb)
+trafficcontrol:traffic_light_2_frame, Traffic Light Frame (Two Bulbs)
+trafficcontrol:traffic_light_4_frame, Traffic Light Frame (Four Bulbs)
+trafficcontrol:traffic_light_6_frame, Traffic Light T Frame (Four Bulbs)
+trafficcontrol:screwdriver, Screwdriver
+trafficcontrol:traffic_light_card:0, Traffic Light Card (Tier 1)
+trafficcontrol:traffic_light_card:1, Traffic Light Card (Tier 2)
+trafficcontrol:traffic_light_card:2, Traffic Light Card (Tier 3)
+trafficcontrol:traffic_light_card:3, Traffic Light Card (Creative)
+trafficcontrol:crossing_gate_base, Pole Base
+trafficcontrol:stand, Stand
+trafficcontrol:crossing_gate_gate, Crossing Gate
+trafficcontrol:crossing_gate_lamps, Crossing Lamps
+trafficcontrol:crossing_gate_pole, Pole
+trafficcontrol:crossing_gate_crossbuck, Crossbuck (Pole)
+trafficcontrol:safetran_type_3, SafeTran Type 3 Electronic Bell
+trafficcontrol:overhead_pole, Overhead (Pole)
+trafficcontrol:overhead, Overhead
+trafficcontrol:overhead_lamps, Overhead Lamps
+trafficcontrol:overhead_crossbuck, Overhead Crossbuck
+trafficcontrol:safetran_mechanical, SafeTran Mechanical Bell
+trafficcontrol:sign, Sign
+trafficcontrol:cone, Cone
+trafficcontrol:channelizer, Channelizer
+trafficcontrol:drum, Drum
+trafficcontrol:street_light_single, Street Light (Single)
+trafficcontrol:street_light_double, Street Light (Double)
+trafficcontrol:traffic_light_control_box, Traffic Light Control Box
+trafficcontrol:wig_wag, Lower Quadrant Wig Wag
+trafficcontrol:shunt_border, Border Shunt
+trafficcontrol:shunt_island, Island Shunt
+trafficcontrol:type_3_barrier, Type 3 Barrier
+trafficcontrol:type_3_barrier_right, Type 3 Barrier
+trafficcontrol:traffic_rail, Guardrail
+trafficcontrol:vertical_wig_wag, Upper Quadrant Wig Wag
+trafficcontrol:wch_mechanical_bell, WCH Mechanical Bell
+trafficcontrol:concrete_barrier:0, White Concrete Barrier
+trafficcontrol:concrete_barrier:1, Orange Concrete Barrier
+trafficcontrol:concrete_barrier:2, Magenta Concrete Barrier
+trafficcontrol:concrete_barrier:3, Light Blue Concrete Barrier
+trafficcontrol:concrete_barrier:4, Yellow Concrete Barrier
+trafficcontrol:concrete_barrier:5, Lime Concrete Barrier
+trafficcontrol:concrete_barrier:6, Pink Concrete Barrier
+trafficcontrol:concrete_barrier:7, Gray Concrete Barrier
+trafficcontrol:concrete_barrier:8, Light Gray Concrete Barrier
+trafficcontrol:concrete_barrier:9, Cyan Concrete Barrier
+trafficcontrol:concrete_barrier:10, Purple Concrete Barrier
+trafficcontrol:concrete_barrier:11, Blue Concrete Barrier
+trafficcontrol:concrete_barrier:12, Brown Concrete Barrier
+trafficcontrol:concrete_barrier:13, Green Concrete Barrier
+trafficcontrol:concrete_barrier:14, Red Concrete Barrier
+trafficcontrol:concrete_barrier:15, Black Concrete Barrier
+trafficcontrol:horizontal_pole, Horizontal Pole
+trafficcontrol:wch_bell, WCH Electronic Bell
+trafficcontrol:traffic_sensor_left, Traffic Sensor (Left)
+trafficcontrol:traffic_sensor_straight, Traffic Sensor (Straight)
+trafficcontrol:street_sign, Street Sign
+trafficcontrol:pedestrian_button, Pedestrian Button
+trafficcontrol:traffic_sensor_right, Traffic Sensor (Right)
 woot:die:0, Mesh Die
 woot:die:1, Plate Die
 woot:die:2, Core Die
