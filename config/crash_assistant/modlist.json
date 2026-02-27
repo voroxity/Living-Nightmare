@@ -44,13 +44,6 @@
     "curseForgeHash": 2764134718,
     "modrinthHash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
   },
-  "AdvancedBackups-forge-1.12-3.7.1.jar": {
-    "jarName": "AdvancedBackups-forge-1.12-3.7.1.jar",
-    "modId": "advancedbackups",
-    "version": "3.7.1",
-    "curseForgeHash": 2099313081,
-    "modrinthHash": "43d4300e5804fb865dae402a2f6f302bdbdc1588"
-  },
   "ae2-uel-v0.56.7.jar": {
     "jarName": "ae2-uel-v0.56.7.jar",
     "modId": "appliedenergistics2",
@@ -246,6 +239,13 @@
     "curseForgeHash": 3090990458,
     "modrinthHash": "3306ea22380bc9b6a0170b23fa0251085d5a6e25"
   },
+  "FTBBackups-1.1.0.1.jar": {
+    "jarName": "FTBBackups-1.1.0.1.jar",
+    "modId": "ftbbackups",
+    "version": "1.1.0.1",
+    "curseForgeHash": 752442057,
+    "modrinthHash": "20ddf96ff380f1f3219305f2efc6742ab5999449"
+  },
   "FTBLib-5.4.7.2.jar": {
     "jarName": "FTBLib-5.4.7.2.jar",
     "modId": "ftblib",
@@ -294,6 +294,13 @@
     "version": "1.8.26",
     "curseForgeHash": 637705220,
     "modrinthHash": "7280d5c0dab42436549bcefc63ff64a1049e5501"
+  },
+  "IGW-Mod-1.12.2-1.4.4-15-universal.jar": {
+    "jarName": "IGW-Mod-1.12.2-1.4.4-15-universal.jar",
+    "modId": "igwmod",
+    "version": "1.4.4-15",
+    "curseForgeHash": 2204975449,
+    "modrinthHash": "1d5ed04375f2e3c4fe7486279813191566c1528c"
   },
   "ImmersiveRailroading-1.12.2-forge-1.10.0.jar": {
     "jarName": "ImmersiveRailroading-1.12.2-forge-1.10.0.jar",
@@ -617,6 +624,13 @@
     "curseForgeHash": 2373647602,
     "modrinthHash": "e63bee0992b0a3403d8a95eb19676ce716691c50"
   },
+  "UniDict-1.12.2-3.0.10.jar": {
+    "jarName": "UniDict-1.12.2-3.0.10.jar",
+    "modId": "unidict",
+    "version": "1.12.2-3.0.10",
+    "curseForgeHash": 1113472475,
+    "modrinthHash": "2b72e49682aca50fa55522c5080f2ba20173c565"
+  },
   "UniversalModCore-1.12.2-forge-1.2.2-3d12767.jar": {
     "jarName": "UniversalModCore-1.12.2-forge-1.2.2-3d12767.jar",
     "modId": "universalmodcore",
@@ -651,6 +665,13 @@
     "version": "0.6.2",
     "curseForgeHash": 1319026169,
     "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+  },
+  "WanionLib-1.12.2-2.91.jar": {
+    "jarName": "WanionLib-1.12.2-2.91.jar",
+    "modId": "wanionlib",
+    "version": "1.12.2-2.91",
+    "curseForgeHash": 3427414774,
+    "modrinthHash": "68196be7d926aee4fe8b5c0d535909c5b2ce3f2c"
   },
   "woot-1.12.2-1.4.11.jar": {
     "jarName": "woot-1.12.2-1.4.11.jar",
