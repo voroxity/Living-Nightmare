@@ -554,6 +554,13 @@
     "curseForgeHash": 189619338,
     "modrinthHash": "c978dbfca262e0b2f5cc0132dd76a5e2d2901304"
   },
+  "SoundFilters-0.12.1_for_1.12.jar": {
+    "jarName": "SoundFilters-0.12.1_for_1.12.jar",
+    "modId": "soundfilters",
+    "version": "0.12.1_for_1.12",
+    "curseForgeHash": 3515647174,
+    "modrinthHash": "3f86c275c0e6cb55ec901a76edf517ae1c478043"
+  },
   "spark-unforged-1.11.140-forge.jar": {
     "jarName": "spark-unforged-1.11.140-forge.jar",
     "modId": "spark",

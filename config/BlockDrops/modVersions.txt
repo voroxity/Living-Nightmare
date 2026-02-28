@@ -128,5 +128,6 @@
   "opencomputers|core": "1.8.9a",
   "dynamiclights_onfire": "1.0.7",
   "cosmeticarmorreworked": "1.12.2-v5a",
-  "mwc": "0.2-Dev-8"
+  "mwc": "0.2-Dev-8",
+  "soundfilters": "0.12.1_for_1.12"
 }
