@@ -86,6 +86,13 @@
     "curseForgeHash": 2860985311,
     "modrinthHash": "098882484be6966b47af3615d43efb9a0f0adef5"
   },
+  "BaublesEX-1.12.2-2.3.2.jar": {
+    "jarName": "BaublesEX-1.12.2-2.3.2.jar",
+    "modId": "baubles",
+    "version": "2.3.2",
+    "curseForgeHash": 3886092146,
+    "modrinthHash": "88c4c7c2b629bb975f1a01ebed63b3007240a9d2"
+  },
   "bdlib-1.14.4.1-mc1.12.2.jar": {
     "jarName": "bdlib-1.14.4.1-mc1.12.2.jar",
     "modId": "bdlib",
@@ -245,6 +252,13 @@
     "version": "2.6.2.83",
     "curseForgeHash": 3090990458,
     "modrinthHash": "3306ea22380bc9b6a0170b23fa0251085d5a6e25"
+  },
+  "ftb-ultimine-1202.3.5.jar": {
+    "jarName": "ftb-ultimine-1202.3.5.jar",
+    "modId": "ftbultimine",
+    "version": "1202.3.5",
+    "curseForgeHash": 634389787,
+    "modrinthHash": "bf9c4b0a068711c8e3c8a0f679861081f418cb36"
   },
   "FTBBackups-1.1.0.1.jar": {
     "jarName": "FTBBackups-1.1.0.1.jar",
@@ -462,13 +476,6 @@
     "version": "1.8.9a",
     "curseForgeHash": 422589412,
     "modrinthHash": "a6e7a567d112da7e3316bfe387d0ae48811c6fa5"
-  },
-  "OreExcavation-1.4.150.jar": {
-    "jarName": "OreExcavation-1.4.150.jar",
-    "modId": "oreexcavation",
-    "version": "1.4.150",
-    "curseForgeHash": 424401967,
-    "modrinthHash": "d5e32554a78d95e40ecb85c32138531cb433f19f"
   },
   "OreLib-1.12.2-3.6.0.1.jar": {
     "jarName": "OreLib-1.12.2-3.6.0.1.jar",
