@@ -177,6 +177,13 @@
     "curseForgeHash": 2918049805,
     "modrinthHash": "dae97e0a1539702b07ffa5e48410e57c470e3bd0"
   },
+  "CreativeCore_v1.10.71_mc1.12.2.jar": {
+    "jarName": "CreativeCore_v1.10.71_mc1.12.2.jar",
+    "modId": "creativecore",
+    "version": "1.10",
+    "curseForgeHash": 1624693386,
+    "modrinthHash": "2c60a20ae9c9431a3b215a331c2b2af7fa3a060c"
+  },
   "CTM-MC1.12.2-1.0.2.31.jar": {
     "jarName": "CTM-MC1.12.2-1.0.2.31.jar",
     "modId": "ctm",
@@ -484,6 +491,12 @@
     "curseForgeHash": 3666807815,
     "modrinthHash": "5debb0481552c54bb6ad72d56b05b31d92e2f5d8"
   },
+  "PlayerRevive_v1.2.40_mc1.12.2.jar": {
+    "jarName": "PlayerRevive_v1.2.40_mc1.12.2.jar",
+    "modId": "playerrevive",
+    "curseForgeHash": 792761027,
+    "modrinthHash": "1a71c772ce996d0a7dcad0497260de98f5cd757f"
+  },
   "ProjectRed-1.12.2-4.9.4.120-Base.jar": {
     "jarName": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
     "modId": "projectred-core",
@@ -700,6 +713,13 @@
     "version": "0.6.2",
     "curseForgeHash": 1319026169,
     "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+  },
+  "WailaHarvestability-mc1.12-1.1.12.jar": {
+    "jarName": "WailaHarvestability-mc1.12-1.1.12.jar",
+    "modId": "wailaharvestability",
+    "version": "1.1.12",
+    "curseForgeHash": 993638690,
+    "modrinthHash": "7e1abc8dd61390285167284a5eb3bf0e57a52760"
   },
   "WanionLib-1.12.2-2.91.jar": {
     "jarName": "WanionLib-1.12.2-2.91.jar",
