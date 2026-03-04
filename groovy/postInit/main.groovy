@@ -10,6 +10,15 @@ furnace.add(item('hbm:sulfur'), item('minecraft:gunpowder'))//NTM sulfur to gunp
 
 //DISSABLED
 /*
+mods.hbm.Bobmazon.recipeBuilder()
+    .output(item('minecraft:torch'))
+    .setRequirementHidden()
+    .setCost(1)
+    .setAuthor('voroxity')
+    .setComment('i told you not to use it but you couldent help it could you ')
+    .setCategoryHidden()
+    .setRating(1)
+    .register()
 //ordict
 ore_dict.remove('gunpowder', item('mwc:sulfur_dust'))
 ore_dict.remove('dustSulfur', item('mwc:sulfur_dust'))

@@ -218,6 +218,13 @@
     "curseForgeHash": 2467861496,
     "modrinthHash": "6e6b1db6ccaf7258043e4d67a5f935b44f2db650"
   },
+  "EntityCulling-1.12.2-6.5.0.jar": {
+    "jarName": "EntityCulling-1.12.2-6.5.0.jar",
+    "modId": "entityculling",
+    "version": "6.5.0",
+    "curseForgeHash": 2866554357,
+    "modrinthHash": "cf4a4a6b11b1721fbda1edeb32bdc3b1ac3a8560"
+  },
   "environmentaltech-1.12.2-2.0.20.1.jar": {
     "jarName": "environmentaltech-1.12.2-2.0.20.1.jar",
     "modId": "environmentaltech",
@@ -546,6 +553,13 @@
     "curseForgeHash": 1893256567,
     "modrinthHash": "7835c1dcc006e5d4a406a6b0615012b825e25044"
   },
+  "RenderLib-1.12.2-1.4.5.jar": {
+    "jarName": "RenderLib-1.12.2-1.4.5.jar",
+    "modId": "renderlib",
+    "version": "1.4.5",
+    "curseForgeHash": 97899486,
+    "modrinthHash": "da121ecfd63ea615de9a26276614bb0ab9306d95"
+  },
   "Retro-Sophisticated-Backpacks-1.1.1.jar": {
     "jarName": "Retro-Sophisticated-Backpacks-1.1.1.jar",
     "modId": "retro_sophisticated_backpacks",
@@ -594,6 +608,13 @@
     "version": "1.10.2",
     "curseForgeHash": 2000165898,
     "modrinthHash": "3d43e8235a294eedecce082390a76e6c11d9d05a"
+  },
+  "StellarCore-1.5.22.jar": {
+    "jarName": "StellarCore-1.5.22.jar",
+    "modId": "stellar_core",
+    "version": "1.5.22",
+    "curseForgeHash": 2216735623,
+    "modrinthHash": "7820ea638ae57736aa0edf991f22900637ad4469"
   },
   "StorageDrawers-1.12.2-5.5.3.jar": {
     "jarName": "StorageDrawers-1.12.2-5.5.3.jar",
@@ -713,6 +734,13 @@
     "version": "0.6.2",
     "curseForgeHash": 1319026169,
     "modrinthHash": "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+  },
+  "voicechat-forge-1.12.2-2.6.12.jar": {
+    "jarName": "voicechat-forge-1.12.2-2.6.12.jar",
+    "modId": "voicechat",
+    "version": "1.12.2-2.6.12",
+    "curseForgeHash": 705546625,
+    "modrinthHash": "6f5212262bebee2fa02754779b6228c2d4dea1c4"
   },
   "WailaHarvestability-mc1.12-1.1.12.jar": {
     "jarName": "WailaHarvestability-mc1.12-1.1.12.jar",
