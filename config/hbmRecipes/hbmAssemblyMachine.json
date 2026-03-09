@@ -11792,6 +11792,99 @@
       ],
       "duration": 200,
       "power": 100
+    },
+    {
+      "name": "ass.Growler_ITV",
+      "inputItem": [
+        ["dict","ingotRubber",8],
+        ["dict","plateSteel",16],
+        ["item","hbm:battery_pack",1,1],
+        ["item","hbm:machine_diesel",1],
+        ["item","hbm:motor",1],
+        ["item","Hbm:crate_iron",1]
+      ],
+      "outputItem": [
+        ["single",["mcheli:growler"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.MXT-MV_Husky_TSV",
+      "inputItem": [
+        ["dict","ingotRubber",8],
+        ["dict","plateSteel",32],
+        ["item","hbm:battery_pack",1,1],
+        ["item","hbm:machine_diesel",2],
+        ["item","hbm:motor",1],
+        ["item","Hbm:crate_iron",1]
+      ],
+      "outputItem": [
+        ["single",["mcheli:mxtmv"]]
+      ],
+      "duration": 300,
+      "power": 100
+    },
+    {
+      "name": "ass.M1A2_Abrams",
+      "inputItem": [
+        ["item","hbm:machine_combustion_engine",1],
+        ["dict","plateSteel",64],
+        ["item","hbm:battery_pack",1,1],
+        ["item","hbm:part_barrel_heavy",8,30],
+        ["item","hbm:plate_desh",8]
+      ],
+      "outputItem": [
+        ["single",["mcheli:m1a2"]]
+      ],
+      "duration": 2000,
+      "power": 100
+    },
+    {
+      "name": "ass.Bell_206L_longRanger",
+      "inputItem": [
+        ["dict","plateAluminum",24],
+        ["item","hbm:battery_pack",1,1],
+        ["item","hbm:machine_diesel",4],
+        ["item","Hbm:crate_iron",1]
+      ],
+      "outputItem": [
+        ["single",["mcheli:bell206l"]]
+      ],
+      "duration": 200,
+      "power": 100
+    },
+    {
+      "name": "ass.Ka-50N_Hokum_A",
+      "inputItem": [
+        ["dict","plateAluminum",24],
+        ["dict","plateSteel",16],
+        ["item","hbm:battery_pack",1,1],
+        ["item","hbm:machine_diesel",6],
+        ["item","hbm:motor",2],
+        ["item","hbm:part_barrel_heavy",2,30]
+      ],
+      "outputItem": [
+        ["single",["mcheli:ka50n"]]
+      ],
+      "duration": 400,
+      "power": 100
+    },
+    {
+      "name": "ass.MH-53E_Sea_Dragon",
+      "inputItem": [
+        ["dict","plateAluminum",48],
+        ["dict","plateSteel",24],
+        ["item","hbm:battery_pack",1,1],
+        ["item","hbm:machine_diesel",8],
+        ["item","hbm:motor",4],
+        ["item","hbm:part_barrel_heavy",4,30]
+      ],
+      "outputItem": [
+        ["single",["mcheli:mh-53e"]]
+      ],
+      "duration": 400,
+      "power": 100
     }
   ]
 }
