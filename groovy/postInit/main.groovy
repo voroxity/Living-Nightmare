@@ -1,5 +1,5 @@
 
-log.info('postint loaded')
+log.info('postInit main')
 
 //remove recipe
 crafting.removeByOutput(item('malisisdoors:forcefielditem'))//force field door

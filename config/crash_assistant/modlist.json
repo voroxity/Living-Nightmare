@@ -4,12 +4,12 @@
     "modId": "forge",
     "version": "forge-1.12.2-14.23.5.2864.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.10.30.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.10.30.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.11.0.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.11.0.jar",
     "modId": "crash_assistant",
-    "version": "1.10.30",
-    "curseForgeHash": 3581089756,
-    "modrinthHash": "cc73299793b9f2f2418cb2b9a2912da4ce0b326a"
+    "version": "1.11.0",
+    "curseForgeHash": 974601628,
+    "modrinthHash": "885196455e5421b692937ecaf0506b05d6aea098"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -379,6 +379,13 @@
     "curseForgeHash": 537556958,
     "modrinthHash": "3d4c9b8bb4ad948c7e26b7becd1c836f8cb34d07"
   },
+  "LegendaryTooltips-1.12.2-1.1.11.jar": {
+    "jarName": "LegendaryTooltips-1.12.2-1.1.11.jar",
+    "modId": "legendarytooltips",
+    "version": "1.1.11",
+    "curseForgeHash": 2390902534,
+    "modrinthHash": "f174a9ccf33df0bc1594713ef40dc8c0fce32205"
+  },
   "malisiscore-1.12.2-6.5.1.jar": {
     "jarName": "malisiscore-1.12.2-6.5.1.jar",
     "modId": "malisiscore",
@@ -602,12 +609,12 @@
     "curseForgeHash": 3551899529,
     "modrinthHash": "015557681e5f865c2aa42c8822600e4a064c0467"
   },
-  "SRParasites-1.10.2.jar": {
-    "jarName": "SRParasites-1.10.2.jar",
+  "SRParasites-1.10.3.jar": {
+    "jarName": "SRParasites-1.10.3.jar",
     "modId": "srparasites",
-    "version": "1.10.2",
-    "curseForgeHash": 2000165898,
-    "modrinthHash": "3d43e8235a294eedecce082390a76e6c11d9d05a"
+    "version": "1.10.3",
+    "curseForgeHash": 461936916,
+    "modrinthHash": "c52c97a6fe5a5d768a55cd2cf2be52851213b272"
   },
   "StellarCore-1.5.22.jar": {
     "jarName": "StellarCore-1.5.22.jar",

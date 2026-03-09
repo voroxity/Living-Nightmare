@@ -4986,7 +4986,6 @@ hbm:journal_pip, Survivalist's Journal
 hbm:journal_bj, Whiskey Drenched Notebook
 hbm:journal_silver, Contractor's Notes
 hbm:bobmazon, Bobmazon
-hbm:bobmazon_hidden, Hidden Catalog
 hbm:siren_track:1, Siren Track
 hbm:siren_track:2, Siren Track
 hbm:siren_track:3, Siren Track
@@ -16086,6 +16085,7 @@ fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
+placeholdername:d20, item.placeholdername.d20.name
 immersiverailroading:item_rolling_stock, item.immersiverailroading:item_rolling_stock.name
 immersiverailroading:item_rolling_stock_component, item.immersiverailroading:item_rolling_stock_component.name
 immersiverailroading:item_large_wrench, Large Wrench
@@ -16238,11 +16238,6 @@ mcheli:krupp_c_34, Krupp C/34 40.6cm Coastal-Artillery "Adolfkanone"
 mcheli:15.5, 15.5 cm/60 3rd Year Type Naval Gun
 mcheli:12.7, 12.7 cm/40 Type 89 Naval Gun
 mcheli:drafting_table, Drafting Table
-mwc:copper_ore, Copper Ore
-mwc:tin_ore, Tin Ore
-mwc:sulfur_ore, Sulfur Ore
-mwc:lead_ore, Lead Ore
-mwc:graphite_ore, Graphite Ore
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
 mwc:lead_ingot, Lead Ingot
@@ -16258,6 +16253,11 @@ mwc:gunmetal_ingot, Gunmetal Ingot
 mwc:gunmetal_plate, Gunmetal Plate
 mwc:carbon_composite, Carbon Composite
 mwc:vest_render, item.vest_render.name
+mwc:copper_ore, Copper Ore
+mwc:tin_ore, Tin Ore
+mwc:sulfur_ore, Sulfur Ore
+mwc:lead_ore, Lead Ore
+mwc:graphite_ore, Graphite Ore
 naturescompass:naturescompass, Nature's Compass
 hbmspace:insert_cmb, CMB Insert
 railstuff:rolling_stock_assigner, Rolling Stock Assigner
@@ -16445,6 +16445,8 @@ srparasites:residue_block, Residue Block
 srparasites:fog_nullifier, Fog Nullifier
 srparasites:residue_plants, Residue Bloomings
 srparasites:infuser_furnace, Metallurgical Infuser Furnace
+srparasites:trophy_void_orb, Kirin Trophy
+srparasites:trophy_boom_orb, Draconite Trophy
 srparasites:assimilated_blossom, Assimilated Blossom
 srparasites:potted_assimilated_blossom, Potted Assimilated Blossom
 srparasites:potted_consumed_assimilated_blossom, Consumed Potted Assimilated Blossom
@@ -16833,7 +16835,12 @@ srparasites:module_desmoid, Desmoid Module
 srparasites:module_eschar, Eschar Module
 srparasites:module_resistance, Resistance Module
 srparasites:module_ideal, Ideal Module
+srparasites:module_dislodgement, Dislodgement Module
 srparasites:module_origin, Origin Module
+srparasites:module_derived, Derived Module
+srparasites:module_assimara, Assimara Module
+srparasites:module_vectors, Vector Module
+srparasites:module_phase, Phase Module
 srparasites:alveoligrowth, Alveoli
 srparasites:ada_summoner_drop, §bSummoner Core
 srparasites:ada_yelloweye_drop, §bYelloweye Bone
@@ -16857,8 +16864,9 @@ srparasites:bloody_bone, Hijacked Bone
 srparasites:bloody_rod, Hijacked Blaze Rod
 srparasites:bloody_iron_ingot, Hijacked Iron Ingot
 srparasites:book_of_vengeance, §d§lThe Book of Vengeance
-srparasites:bough, Bough
-srparasites:greek_fire, Greek Fire
+srparasites:phase_report, Phase Report
+srparasites:bough, §eBough
+srparasites:greek_fire, §6Greek Fire
 srparasites:itemtab, §dNULL
 srparasites:itemassimilate, Assimilation Wand
 srparasites:itemevolve, Evolution Wand
@@ -16870,6 +16878,7 @@ srparasites:levelclock, §bLevel Clock
 srparasites:nodecompass, §cNode Compass
 srparasites:colonycompass, §cColony Compass
 srparasites:origincompass, §cVector Compass
+srparasites:dislodgement_report, Dislodgement Report
 srparasites:dried_tendons, §eDried Tendons
 srparasites:hardened_bone_handle, §eHardened Bone Handle
 srparasites:infectious_blade_fragment, §eInfectious Blade Fragment
@@ -16881,9 +16890,10 @@ srparasites:vile_shell, §eVile Shell
 srparasites:bone, §eStrange Bone
 srparasites:false_apple, False Apple
 srparasites:semiorganic_ingot, Semi-organic Ingot
-srparasites:the_sign_charm, The Sign
+srparasites:the_sign_charm, §dThe Sign
 srparasites:thornshade_berry, §5Thornshade Berry
 srparasites:infested_bonemeal, Infested Bonemeal
+srparasites:vector_map, Vector Map
 srparasites:lurecomponent1, §bRupter Viscera
 srparasites:lurecomponent2, §bDiseased Heart
 srparasites:lurecomponent3, §bAltered Tendons
@@ -17201,34 +17211,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -18202,62 +18212,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
