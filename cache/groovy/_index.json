@@ -9,19 +9,6 @@
       "lm": 1772657189164
     },
     {
-      "name": "preInit.customitems",
-      "path": "preInit/customitems.groovy",
-      "lm": 1772657121523
-    },
-    {
-      "name": "postInit.customitems",
-      "path": "postInit/customitems.groovy",
-      "lm": 1772658763192,
-      "inner": [
-        "postInit.customitems$_run_closure1"
-      ]
-    },
-    {
       "name": "postInit.repeating_logger",
       "path": "postInit/repeating_logger.groovy",
       "lm": 1771809809863,
