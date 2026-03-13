@@ -44,6 +44,13 @@
     "curseForgeHash": 2764134718,
     "modrinthHash": "f9173708d3d2850ab8df778b9594b81cb94b1df8"
   },
+  "AdvancementPlaques-1.12.2-1.4.10.jar": {
+    "jarName": "AdvancementPlaques-1.12.2-1.4.10.jar",
+    "modId": "advancementplaques",
+    "version": "1.4.10",
+    "curseForgeHash": 3249388086,
+    "modrinthHash": "37e1f4d871669df0b9bd0a9d80cc9fa8f9ac0665"
+  },
   "ae2-uel-v0.56.7.jar": {
     "jarName": "ae2-uel-v0.56.7.jar",
     "modId": "appliedenergistics2",
@@ -322,6 +329,13 @@
     "version": "4.29.15",
     "curseForgeHash": 3758786409,
     "modrinthHash": "fd9311a4bf189b6f9c99183d9a2dae8485b80dc7"
+  },
+  "Highlighter-1.12.2-forge-1.1.7.jar": {
+    "jarName": "Highlighter-1.12.2-forge-1.1.7.jar",
+    "modId": "highlighter",
+    "version": "1.1.7",
+    "curseForgeHash": 3768432033,
+    "modrinthHash": "5260bc0f2d4a27adf6409e707fb385899065982e"
   },
   "Hwyla-1.8.26-B41_1.12.2.jar": {
     "jarName": "Hwyla-1.8.26-B41_1.12.2.jar",
