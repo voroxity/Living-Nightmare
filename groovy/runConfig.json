@@ -1,7 +1,7 @@
 {
-  "packName": "PlaceHolder name",
-  "packId": "placeholdername",
-  "author": "Placeholder, author",
+  "packName": "Living Nightmare",
+  "packId": "livingnightmare",
+  "author": "voroxity, jackdiesel",
   "version": "1.0.0",
   "debug": false,
   "loaders": {

@@ -7,18 +7,19 @@ crafting.removeByOutput(item('malisisdoors:forcefielditem'))//force field door
 //Add recipe
 crafting.addShapeless(item('hbm:sulfur'), [item('thermalfoundation:material', 771)])//Thermal sulfur to NTM sulfur
 furnace.add(item('hbm:sulfur'), item('minecraft:gunpowder'))//NTM sulfur to gunpowder
+crafting.addShaped(item('livingnightmare:luna'), [[item('srparasites:lurecomponent5'),item('minecraft:wool'),item('minecraft:wool')],[item('srparasites:lurecomponent1'),item('srparasites:lurecomponent2'),item('srparasites:lurecomponent1')],[item('minecraft:wool'), null,item('minecraft:wool')]])
+mods.hbm.Bobmazon.recipeBuilder()
+    .output(item('livingnightmare:d6'))
+    .setRequirementHidden()
+    .setCost(64)
+    .setAuthor('voroxity')
+    .setComment('LETS GO GAMBLING')
+    .setCategoryNormal()
+    .setRating(5)
+    .register()
 
 //DISSABLED
 /*
-mods.hbm.Bobmazon.recipeBuilder()
-    .output(item('minecraft:torch'))
-    .setRequirementHidden()
-    .setCost(1)
-    .setAuthor('voroxity')
-    .setComment('i told you not to use it but you couldent help it could you ')
-    .setCategoryHidden()
-    .setRating(1)
-    .register()
 //ordict
 ore_dict.remove('gunpowder', item('mwc:sulfur_dust'))
 ore_dict.remove('dustSulfur', item('mwc:sulfur_dust'))

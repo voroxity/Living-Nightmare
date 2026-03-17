@@ -6,7 +6,25 @@
     {
       "name": "postInit.main",
       "path": "postInit/main.groovy",
-      "lm": 1772657189164
+      "lm": 1773430933327
+    },
+    {
+      "name": "preInit.customitems",
+      "path": "preInit/customitems.groovy",
+      "lm": 1773338093409
+    },
+    {
+      "name": "postInit.customitems",
+      "path": "postInit/customitems.groovy",
+      "lm": 1773429043372,
+      "inner": [
+        "postInit.customitems$_run_closure1",
+        "postInit.customitems$_run_closure1$_closure3",
+        "postInit.customitems$_run_closure1$_closure4",
+        "postInit.customitems$_run_closure2",
+        "postInit.customitems$_run_closure2$_closure4",
+        "postInit.customitems$_run_closure3"
+      ]
     },
     {
       "name": "postInit.repeating_logger",

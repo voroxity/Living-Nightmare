@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "livingnightmare:items/d6",
+		"particle": "d6"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [7, 7, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 3.5], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 3.5, 7], "texture": "#0"},
+				"south": {"uv": [3.5, 0, 7, 3.5], "texture": "#0"},
+				"west": {"uv": [3.5, 3.5, 7, 7], "texture": "#0"},
+				"up": {"uv": [3.5, 10.5, 0, 7], "texture": "#0"},
+				"down": {"uv": [10.5, 0, 7, 3.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-4.5, 2.5, -8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [4.5, 2.5, -8]
+		},
+		"ground": {
+			"translation": [5.1, 4.75, 5.1]
+		},
+		"gui": {
+			"rotation": [45, 135, 0],
+			"translation": [0, 7.75, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [4.5, 4.25, -3]
+		}
+	}
+}
