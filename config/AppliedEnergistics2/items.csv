@@ -16085,8 +16085,6 @@ fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
-livingnightmare:d6, D6
-livingnightmare:luna, Luna
 immersiverailroading:item_rolling_stock, item.immersiverailroading:item_rolling_stock.name
 immersiverailroading:item_rolling_stock_component, item.immersiverailroading:item_rolling_stock_component.name
 immersiverailroading:item_large_wrench, Large Wrench
@@ -16124,7 +16122,7 @@ mcheli:fgm148_bullet, FGM-148 Javelin missile
 mcheli:fim92, FIM-92 Stinger
 mcheli:fgm148, FGM-148 Javelin
 mcheli:ka52, Ka-52 Hokum B
-mcheli:ch47, Boeing CH-47 Chinook
+mcheli:ch47, CH47 chnuke
 mcheli:mq-8b, MQ-8B Fire Scout
 mcheli:ah-1z, AH-1Z Viper
 mcheli:bell207, Bell207 Sioux Scout
@@ -16134,40 +16132,40 @@ mcheli:ka50n, Ka-50N Hokum A
 mcheli:ka-29, Ka-29 Helix B
 mcheli:sh-3, SH-3 Sea King
 mcheli:mi28, Mi-28N Havoc
-mcheli:mi-24ps, Mi-24PS Hind (Unarmed)
+mcheli:mi-24ps, Mi-24PS Hind
 mcheli:mh-53e, MH-53E Sea Dragon
 mcheli:w3, PZL W-3PL Gluszec
-mcheli:robinson_r44, item.mcheli:robinson_r44.name
+mcheli:robinson_r44, Robinson R44
 mcheli:penetrator, Bell Penetrator
 mcheli:rc-goblin, RC Goblin
 mcheli:ah-64, AH-64D Apache Longbow
-mcheli:nh90, NH Industries NH-90 TTH
+mcheli:nh90, NHIndustries NH90-TTH
 mcheli:mi-24, Mi-24VP Hind
-mcheli:fl282, item.mcheli:fl282.name
+mcheli:fl282, Flettner Fl 282
 mcheli:bell206l, Bell 206L LongRanger
 mcheli:ec665, EC665 Tiger UHT
 mcheli:mh-60l_dap, MH-60L DAP
 mcheli:uh-1c, UH-1C Iroquois
 mcheli:ah-6x, Boeing AH-6
-mcheli:mh-60g, MH-60G Pave Hawk
+mcheli:mh-60g, MH60G PaveHawk
 mcheli:sh-60, SH-60 Seahawk
 mcheli:mh-6, MH-6 Little Bird
 mcheli:robinson_r44f, Robinson R44 Float
-mcheli:bell47gf, Bell 47G float
+mcheli:bell47gf, Bell47G float
 mcheli:ah-6, AH-6 Killer Egg
-mcheli:bell47g, Bell 47 G
+mcheli:bell47g, Bell47G
 mcheli:rc-goblin-bomb, RC Goblin with Bomb
-mcheli:fi167, item.mcheli:fi167.name
-mcheli:f1m, item.mcheli:f1m.name
+mcheli:fi167, Fieseler Fi167
+mcheli:f1m, F1M Pate
 mcheli:su-47, Su-47 Berkut
 mcheli:bqm_74e, BQM-74E CHUKAR III(Target drone)
-mcheli:cessna172, item.mcheli:cessna172.name
+mcheli:cessna172, Cessna 172
 mcheli:tornado-ids, Panavia Tornado IDS
-mcheli:p180, item.mcheli:p180.name
+mcheli:p180, Piaggio P.180 Avanti II
 mcheli:mqm170, MQM-170 Outlaw(Target drone)
-mcheli:fa18f, F/A-18F Super Hornet
-mcheli:skylark, item.mcheli:skylark.name
-mcheli:f4a, F-4A Phantom II
+mcheli:fa18f, F/A-18F
+mcheli:skylark, Elbit Skylark
+mcheli:f4a, F-4A PhantomII
 mcheli:mv-22, MV-22 Osprey
 mcheli:f14d, F-14D Super Tomcat
 mcheli:f22a, F-22A Raptor
@@ -16177,10 +16175,10 @@ mcheli:pzl-m18, PZL M-18 Dromader
 mcheli:emb314, EMB 314 Super Tucano
 mcheli:f-15s_mtd, F-15 S/MTD
 mcheli:h8k, Kawanishi H8K
-mcheli:macchi_mc72, item.mcheli:macchi_mc72.name
-mcheli:t-4, item.mcheli:t-4.name
+mcheli:macchi_mc72, macchi_M.C.72
+mcheli:t-4, T-4(Trainer)
 mcheli:x-47b, X-47B Pegasus
-mcheli:n1k1, item.mcheli:n1k1.name
+mcheli:n1k1, Rex N1K1
 mcheli:e767, E767
 mcheli:md90, MD-90-30
 mcheli:fuel_truck, Fuel truck
@@ -16198,46 +16196,46 @@ mcheli:f-35b, F-35B Lightning II
 mcheli:ac-130, AC-130H Spectre
 mcheli:su37, Su-37 Terminator
 mcheli:c5, C5A galaxy
-mcheli:us-2, item.mcheli:us-2.name
-mcheli:a6m2, A6M5 Zero Type 21
+mcheli:us-2, US-2
+mcheli:a6m2, ZERO type21
 mcheli:tornado-gr4, Panavia Tornado GR.4
 mcheli:harrier, AV-8B Harrier II
-mcheli:macchi_m33, item.mcheli:macchi_m33.name
+mcheli:macchi_m33, Macchi M33
 mcheli:stinger_390x, Chris Craft Stinger 390x
 mcheli:cb90, CB90 Combat Boat
-mcheli:project1204, Project 1204 Shmel Patrol-Boat
+mcheli:project1204, Project1204 Shmel Partol-Boat
 mcheli:mark5, Mk.5 Special Operations Craft
 mcheli:zodiac, Zodiac Boat
+mcheli:m26, M26
+mcheli:t84, T-84 OplotM
 mcheli:kv-2, KV-2 Gigant
 mcheli:m1129, M1129 Self-Propelled Mortar
 mcheli:t-90, T-90 MBT
+mcheli:centauro, B1 centauro
 mcheli:m1a2, M1A2 Abrams
+mcheli:growler, Growler ITV
 mcheli:kurganets25, Kurganets-25 IFV
 mcheli:mxtmv, MXT-MV Husky TSV
-mcheli:m26, M26 Pershing
-mcheli:t84, T-84 Oplot-M
-mcheli:centauro, B1 Centauro (105mm)
-mcheli:growler, Growler ITV
-mcheli:bnr32, Nissan Skyline GT-R R32
-mcheli:merkava_mk4, Merkava Mk.4
-mcheli:12.7s, 12.7 cm/40 Type 89 Naval Gun Shield Variant
-mcheli:46, 46 cm/45 Type 94 Naval Gun
-mcheli:oto127mm, Otobreda 127/64 Naval Gun
+mcheli:bnr32, bnr32
+mcheli:merkava_mk4, MerkavaMk4
+mcheli:12.7s, 12.7cmAACanon shield
+mcheli:46, 46cmCanon
+mcheli:oto127mm, Oto Melara 127 mm gun
 mcheli:mim-23, MIM-23 HAWK
 mcheli:s-75, S-75 SAM
-mcheli:vads, M163 VADS
-mcheli:mk32, Mk.32 Torpedo Tube
-mcheli:25mmaamg, Type 96 25mm Tri-mounted Anti-Aircraft Gun
-mcheli:type93_launcher, Type 93 Torpedo Launcher
-mcheli:mk15, Mk.15 Phalanx CIWS
-mcheli:oto76mm, Oto Melara 76mm Naval Autocannon
-mcheli:bofors40mml60, Bofors 40 mm L/60 Autocannon
-mcheli:searam, Mk.15 mod.31 Sea RAM
-mcheli:sea_sparrow, Mk29 Sea Sparrow
+mcheli:vads, VADS
+mcheli:mk32, Mk.32 Torpedo tube
+mcheli:25mmaamg, 25mmMachineGun
+mcheli:type93_launcher, Type 93 torpedo
+mcheli:mk15, Mk.15 Phalanx
+mcheli:oto76mm, Oto Melara 76 mm gun
+mcheli:bofors40mml60, bofors 40 mm/l60
+mcheli:searam, Mk.15 mod.31 SeaRAM
+mcheli:sea_sparrow, Mk29 Missile Launcher
 mcheli:ammo_box, AmmoBox
-mcheli:krupp_c_34, Krupp C/34 40.6cm Coastal-Artillery "Adolfkanone"
-mcheli:15.5, 15.5 cm/60 3rd Year Type Naval Gun
-mcheli:12.7, 12.7 cm/40 Type 89 Naval Gun
+mcheli:krupp_c_34, Krupp C/34 40.6cm Coastal-Artillery
+mcheli:15.5, 15.5cmCanon
+mcheli:12.7, 12.7cmAACanon
 mcheli:drafting_table, Drafting Table
 mwc:copper_ingot, Copper Ingot
 mwc:tin_ingot, Tin Ingot
@@ -17212,34 +17210,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -18213,62 +18211,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -18346,12 +18344,12 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
+torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
-torchmaster:frozen_pearl, Frozen Pearl
 trafficcontrol:crossing_relay_box, Crossing Gate Relay
 trafficcontrol:crossing_relay_tuner, Tuner
 trafficcontrol:traffic_light_bulb, item.null.name

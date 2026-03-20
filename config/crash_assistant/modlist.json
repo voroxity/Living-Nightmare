@@ -1,15 +1,15 @@
 {
-  "forge-1.12.2-14.23.5.2864.jar (modloader)": {
-    "jarName": "forge-1.12.2-14.23.5.2864.jar (modloader)",
+  "universal.jar (modloader)": {
+    "jarName": "universal.jar (modloader)",
     "modId": "forge",
-    "version": "forge-1.12.2-14.23.5.2864.jar"
+    "version": "universal.jar"
   },
-  "!!!CrashAssistant-forge-1.12.2-1.11.0.jar": {
-    "jarName": "!!!CrashAssistant-forge-1.12.2-1.11.0.jar",
+  "!!!CrashAssistant-forge-1.12.2-1.11.3.jar": {
+    "jarName": "!!!CrashAssistant-forge-1.12.2-1.11.3.jar",
     "modId": "crash_assistant",
-    "version": "1.11.0",
-    "curseForgeHash": 974601628,
-    "modrinthHash": "885196455e5421b692937ecaf0506b05d6aea098"
+    "version": "1.11.3",
+    "curseForgeHash": 3055315995,
+    "modrinthHash": "de1d18575feb221a4950b392eaa334dc35e39fe3"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -17,6 +17,13 @@
     "version": "3.0",
     "curseForgeHash": 3732531395,
     "modrinthHash": "b6d8a10219d3802e04de6b1e815a5853e50adbcc"
+  },
+  "!improved-relauncher-0.3.8.jar": {
+    "jarName": "!improved-relauncher-0.3.8.jar",
+    "modId": "improved-relauncher",
+    "version": "0.3.8",
+    "curseForgeHash": 3387867157,
+    "modrinthHash": "91876176e33c24c68ce187e376002a2749b3a239"
   },
   "!mixinbooter-10.7.jar": {
     "jarName": "!mixinbooter-10.7.jar",
@@ -32,12 +39,12 @@
     "curseForgeHash": 2660540505,
     "modrinthHash": "d272efd0c807908138edbac8e6cb2d90127ac01a"
   },
-  "+unimixins-all-1.7.10-0.2.1.jar": {
-    "jarName": "+unimixins-all-1.7.10-0.2.1.jar",
-    "modId": "unimixins",
-    "version": "0.2.1",
-    "curseForgeHash": 436445407,
-    "modrinthHash": "21db670c715e2a24eda05bd0c1d3b834e3949857"
+  "+Fugue-0.23.3.jar": {
+    "jarName": "+Fugue-0.23.3.jar",
+    "modId": "fugue",
+    "version": "0.23.3",
+    "curseForgeHash": 2455151293,
+    "modrinthHash": "988a18c12c24fe501b9d2bf3291d7242a0ce6530"
   },
   "_MixinBootstrap-1.1.0.jar": {
     "jarName": "_MixinBootstrap-1.1.0.jar",
@@ -79,19 +86,17 @@
     "curseForgeHash": 3636691541,
     "modrinthHash": "6959d9f89b3b9bd0b0c16949b111370f5158d647"
   },
-  "AppleSkin-mc1.12-1.0.14.jar": {
-    "jarName": "AppleSkin-mc1.12-1.0.14.jar",
-    "modId": "appleskin",
-    "version": "1.0.14",
-    "curseForgeHash": 1189087403,
-    "modrinthHash": "d798af79de48be0f00c772943e5ec5a2fb5659fa"
-  },
   "AquaAcrobatics-1.15.4.jar": {
     "jarName": "AquaAcrobatics-1.15.4.jar",
     "modId": "aquaacrobatics",
     "version": "1.15.4",
     "curseForgeHash": 2860985311,
     "modrinthHash": "098882484be6966b47af3615d43efb9a0f0adef5"
+  },
+  "assetmover-2.5.jar": {
+    "jarName": "assetmover-2.5.jar",
+    "curseForgeHash": 1351352242,
+    "modrinthHash": "b147ada093f5552fdedee9b7ee0de1d99b6f3c06"
   },
   "BaublesEX-1.12.2-2.3.2.jar": {
     "jarName": "BaublesEX-1.12.2-2.3.2.jar",
@@ -128,6 +133,13 @@
     "curseForgeHash": 1053424356,
     "modrinthHash": "7f33f2343bf0af70d5d853378d465657beea3740"
   },
+  "celeritasdynamiclights-1.2.8.jar": {
+    "jarName": "celeritasdynamiclights-1.2.8.jar",
+    "modId": "celeritasdynamiclights",
+    "version": "1.2.8",
+    "curseForgeHash": 4095574272,
+    "modrinthHash": "1bf1f6c43b8eaf9ff91e4faafb40a6ea559ce90b"
+  },
   "Chameleon-1.12-4.1.3.jar": {
     "jarName": "Chameleon-1.12-4.1.3.jar",
     "modId": "chameleon",
@@ -141,13 +153,6 @@
     "version": "MC1.12.2-1.0.2.45",
     "curseForgeHash": 2429064344,
     "modrinthHash": "d378cee9195841ea78bb9800f543d718ef2c60ef"
-  },
-  "Clumps-3.1.2.jar": {
-    "jarName": "Clumps-3.1.2.jar",
-    "modId": "clumps",
-    "version": "3.1.2",
-    "curseForgeHash": 1290884162,
-    "modrinthHash": "6ea78bea8006e3924bc37c2aef0115134c8af07b"
   },
   "CodeChickenLib-1.12.2-3.2.3.358-universal.jar": {
     "jarName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
@@ -205,12 +210,6 @@
     "curseForgeHash": 1235813334,
     "modrinthHash": "e305092922affc619e2a7206a4949c24363fbf3d"
   },
-  "DynamicLights-1.12.2.jar": {
-    "jarName": "DynamicLights-1.12.2.jar",
-    "modId": "DynamicLights",
-    "curseForgeHash": 2580720566,
-    "modrinthHash": "fd011557b484f764367b9bc9d93e22a5ab2051d1"
-  },
   "DynamicSurroundings-1.12.2-3.6.3.jar": {
     "jarName": "DynamicSurroundings-1.12.2-3.6.3.jar",
     "modId": "dsurround",
@@ -225,13 +224,6 @@
     "curseForgeHash": 2467861496,
     "modrinthHash": "6e6b1db6ccaf7258043e4d67a5f935b44f2db650"
   },
-  "EntityCulling-1.12.2-6.5.0.jar": {
-    "jarName": "EntityCulling-1.12.2-6.5.0.jar",
-    "modId": "entityculling",
-    "version": "6.5.0",
-    "curseForgeHash": 2866554357,
-    "modrinthHash": "cf4a4a6b11b1721fbda1edeb32bdc3b1ac3a8560"
-  },
   "environmentaltech-1.12.2-2.0.20.1.jar": {
     "jarName": "environmentaltech-1.12.2-2.0.20.1.jar",
     "modId": "environmentaltech",
@@ -239,19 +231,17 @@
     "curseForgeHash": 1520876991,
     "modrinthHash": "2505c74c38e7083448a9473a7fba4713d9d620c1"
   },
-  "farsight-1.6.jar": {
-    "jarName": "farsight-1.6.jar",
-    "modId": "farsight",
-    "version": "1.6",
-    "curseForgeHash": 2686860230,
-    "modrinthHash": "87187014fda84b3b1e74cc79c3bf9f81e96d3546"
-  },
   "findme-1.12.2-1.1.0-8.jar": {
     "jarName": "findme-1.12.2-1.1.0-8.jar",
     "modId": "findme",
     "version": "1.12.2-1.1.0-8",
     "curseForgeHash": 340642672,
     "modrinthHash": "7c283c18b3a6f2567c2f4cbf49b4bafafbb1dc82"
+  },
+  "flare-0.7.0.jar": {
+    "jarName": "flare-0.7.0.jar",
+    "curseForgeHash": 3292257935,
+    "modrinthHash": "73c99e9a1c530880f4dd6d2646a5e8cd08eaf6c0"
   },
   "FluxNetworks-1.12.2-4.1.1.34.jar": {
     "jarName": "FluxNetworks-1.12.2-4.1.1.34.jar",
@@ -400,6 +390,13 @@
     "curseForgeHash": 2390902534,
     "modrinthHash": "f174a9ccf33df0bc1594713ef40dc8c0fce32205"
   },
+  "lemonskin-3.1.0.jar": {
+    "jarName": "lemonskin-3.1.0.jar",
+    "modId": "lemonskin",
+    "version": "3.1.0",
+    "curseForgeHash": 3825151617,
+    "modrinthHash": "c5b285c7e45077c8f002ae5c04520c8ae26ce263"
+  },
   "malisiscore-1.12.2-6.5.1.jar": {
     "jarName": "malisiscore-1.12.2-6.5.1.jar",
     "modId": "malisiscore",
@@ -477,12 +474,19 @@
     "curseForgeHash": 198255722,
     "modrinthHash": "60bcf179cab708f67bbce98d201e82f3e7be9266"
   },
-  "neonium-1.1.3.jar": {
-    "jarName": "neonium-1.1.3.jar",
-    "modId": "neonium",
-    "version": "1.1.3",
-    "curseForgeHash": 1082679175,
-    "modrinthHash": "6f669725dd3fe41b2f548894be5228696e715f48"
+  "naughthirium-2.3.0.jar": {
+    "jarName": "naughthirium-2.3.0.jar",
+    "modId": "naughthirium",
+    "version": "2.3.0",
+    "curseForgeHash": 2313922075,
+    "modrinthHash": "9280f1ece1bb509bb573de3b956d102152f06e6b"
+  },
+  "Nothirium-1.12.2-0.4.9-beta.jar": {
+    "jarName": "Nothirium-1.12.2-0.4.9-beta.jar",
+    "modId": "nothirium",
+    "version": "0.4.9-beta",
+    "curseForgeHash": 1143501325,
+    "modrinthHash": "b70d60e9ebd5e84962c4ddd6abfd2bbde178cafb"
   },
   "NTM-CE-1.12.2-2.1.1.0.jar": {
     "jarName": "NTM-CE-1.12.2-2.1.1.0.jar",
@@ -602,6 +606,13 @@
     "curseForgeHash": 2751998499,
     "modrinthHash": "c92f573c2f7c6f391658060d77031a3d400563c3"
   },
+  "Scalar Legacy-1.0.1.jar": {
+    "jarName": "Scalar Legacy-1.0.1.jar",
+    "modId": "scalar",
+    "version": "1.0.0",
+    "curseForgeHash": 2474390833,
+    "modrinthHash": "5c5998c34798647802e14eab6660ba7afdf1a099"
+  },
   "Snad-1.12.1-1.7.09.16a.jar": {
     "jarName": "Snad-1.12.1-1.7.09.16a.jar",
     "modId": "snad",
@@ -615,13 +626,6 @@
     "version": "0.12.1_for_1.12",
     "curseForgeHash": 3515647174,
     "modrinthHash": "3f86c275c0e6cb55ec901a76edf517ae1c478043"
-  },
-  "spark-unforged-1.11.140-forge.jar": {
-    "jarName": "spark-unforged-1.11.140-forge.jar",
-    "modId": "spark",
-    "version": "1.11.2",
-    "curseForgeHash": 3551899529,
-    "modrinthHash": "015557681e5f865c2aa42c8822600e4a064c0467"
   },
   "SRParasites-1.10.3.jar": {
     "jarName": "SRParasites-1.10.3.jar",
@@ -679,13 +683,6 @@
     "curseForgeHash": 2391296484,
     "modrinthHash": "84f3dc7d5e141e9647596a826113524d5eecb48d"
   },
-  "tinkersjei-1.2.jar": {
-    "jarName": "tinkersjei-1.2.jar",
-    "modId": "tinkersjei",
-    "version": "1.2",
-    "curseForgeHash": 556888099,
-    "modrinthHash": "0ee37cbd099fd3693f1f45673ba498ce7e3a3849"
-  },
   "TinkersToolLevelingWithRandomModifiers-1.12.2-1.1.3.DEV.0065a55.jar": {
     "jarName": "TinkersToolLevelingWithRandomModifiers-1.12.2-1.1.3.DEV.0065a55.jar",
     "modId": "liketechnikstinkertweaks",
@@ -734,13 +731,6 @@
     "version": "1.18.0",
     "curseForgeHash": 2052152645,
     "modrinthHash": "bb54c9dc58dac10549552e3cf84912ac5c95800f"
-  },
-  "Valkyrie-0.3-Dev-5.jar": {
-    "jarName": "Valkyrie-0.3-Dev-5.jar",
-    "modId": "valkyrie",
-    "version": "0.3-Dev-5",
-    "curseForgeHash": 895534436,
-    "modrinthHash": "feb963863186fc8f9fb3b4b2f1dc75ef773a0370"
   },
   "valkyrielib-1.12.2-2.0.20.1.jar": {
     "jarName": "valkyrielib-1.12.2-2.0.20.1.jar",
