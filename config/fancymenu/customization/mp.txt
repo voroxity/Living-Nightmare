@@ -1,0 +1,120 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMultiplayer
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=346948%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=346948%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=450948%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=450948%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=580972%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=580972%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=346972%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=346972%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=426972%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=426972%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=504972%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=504972%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+
+customization {
+  identifier = %id=554948%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/media/button_hover.png
+  backgroundnormal = config/fancymenu/media/button_normal.png
+}
+
+customization {
+  identifier = %id=554948%
+  path = config/fancymenu/media/denielcz-immersivecontrol-button-click-sound-463065.wav
+  action = setbuttonclicksound
+}
+

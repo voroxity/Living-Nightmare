@@ -1,0 +1,29 @@
+type = customizablemenus
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+net.minecraft.client.gui.GuiWorldSelection {
+}
+
+net.minecraft.client.gui.GuiMultiplayer {
+}
+
+net.minecraftforge.fml.client.GuiModList {
+}
+
+net.minecraft.client.gui.GuiOptions {
+}
+
+org.taumc.celeritas.impl.gui.CeleritasVideoOptionsScreen {
+}
+
+net.minecraft.client.gui.GuiCustomizeSkin {
+}
+
+net.minecraft.client.gui.GuiScreenOptionsSounds {
+}
+
+net.minecraft.client.gui.GuiLanguage {
+}
+
