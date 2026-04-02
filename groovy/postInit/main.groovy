@@ -10,7 +10,7 @@ furnace.add(item('hbm:sulfur'), item('minecraft:gunpowder'))//NTM sulfur to gunp
 crafting.addShaped(item('livingnightmare:luna'), [[item('srparasites:lurecomponent5'),item('minecraft:wool'),item('minecraft:wool')],[item('srparasites:lurecomponent1'),item('srparasites:lurecomponent2'),item('srparasites:lurecomponent1')],[item('minecraft:wool'), null,item('minecraft:wool')]])
 mods.hbm.Bobmazon.recipeBuilder()
     .output(item('livingnightmare:d6'))
-    .setRequirementHidden()
+    .setRequirementSteel()
     .setCost(64)
     .setAuthor('voroxity')
     .setComment('LETS GO GAMBLING')

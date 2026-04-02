@@ -6,25 +6,7 @@
     {
       "name": "postInit.main",
       "path": "postInit/main.groovy",
-      "lm": 1773430933327
-    },
-    {
-      "name": "preInit.customitems",
-      "path": "preInit/customitems.groovy",
-      "lm": 1773797436934
-    },
-    {
-      "name": "postInit.customitems",
-      "path": "postInit/customitems.groovy",
-      "lm": 1773429043372
-    },
-    {
-      "name": "postInit.repeating_logger",
-      "path": "postInit/repeating_logger.groovy",
-      "lm": 1771809809863,
-      "preprocessors": [
-        "debug_only"
-      ]
+      "lm": 1774640792625
     }
   ]
 }
