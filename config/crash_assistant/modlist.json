@@ -45,13 +45,13 @@
     "curseForgeHash": 2660540505,
     "modrinthHash": "d272efd0c807908138edbac8e6cb2d90127ac01a"
   },
-  "+Fugue-0.23.3.jar": {
-    "jarName": "+Fugue-0.23.3.jar",
+  "+Fugue-0.23.4.jar": {
+    "jarName": "+Fugue-0.23.4.jar",
     "modId": "fugue",
     "name": "Fugue",
-    "version": "0.23.3",
-    "curseForgeHash": 2455151293,
-    "modrinthHash": "988a18c12c24fe501b9d2bf3291d7242a0ce6530"
+    "version": "0.23.4",
+    "curseForgeHash": 3396816010,
+    "modrinthHash": "7ed08cd84a22e2f3fbf81d6bf263cd409c88a674"
   },
   "_MixinBootstrap-1.1.0.jar": {
     "jarName": "_MixinBootstrap-1.1.0.jar",
@@ -854,13 +854,13 @@
     "curseForgeHash": 305920965,
     "modrinthHash": "121373e21938874a4cc44dc8057994e27df87ff5"
   },
-  "UniversalTweaks-1.12.2-1.19.0.jar": {
-    "jarName": "UniversalTweaks-1.12.2-1.19.0.jar",
+  "UniversalTweaks-1.12.2-1.19.1.jar": {
+    "jarName": "UniversalTweaks-1.12.2-1.19.1.jar",
     "modId": "universaltweaks",
     "name": "Universal Tweaks",
-    "version": "1.19.0",
-    "curseForgeHash": 2319097403,
-    "modrinthHash": "ff0a3632352e4dd5cd681c7317ca0760a3c9b861"
+    "version": "1.19.1",
+    "curseForgeHash": 2174474861,
+    "modrinthHash": "2c0b5d34bf6346990ba5a10b76ec3de159adeaa2"
   },
   "valkyrielib-1.12.2-2.0.20.1.jar": {
     "jarName": "valkyrielib-1.12.2-2.0.20.1.jar",
