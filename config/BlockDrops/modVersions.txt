@@ -4,7 +4,7 @@
   "universalmodifiers": "1.12.2-1.0.16.1",
   "creativecoredummy": "1.0.0",
   "openmods": "0.12.3",
-  "groovyscript": "1.4.1",
+  "groovyscript": "1.4.2",
   "celeritasdynamiclights": "1.2.8",
   "universaltweaks": "1.19.1",
   "retro_sophisticated_backpacks": "retro_sophisticated_backpacks",

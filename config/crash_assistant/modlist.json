@@ -351,13 +351,13 @@
     "curseForgeHash": 3366698974,
     "modrinthHash": "b2cc9a25054fd6878ba242a6080a2866140bbeb0"
   },
-  "groovyscript-1.4.1.jar": {
-    "jarName": "groovyscript-1.4.1.jar",
+  "groovyscript-1.4.2.jar": {
+    "jarName": "groovyscript-1.4.2.jar",
     "modId": "groovyscript",
     "name": "GroovyScript",
-    "version": "1.4.1",
-    "curseForgeHash": 2431698068,
-    "modrinthHash": "68ec181be2d0e153e0d95b2b4f6d19d0459dc372"
+    "version": "1.4.2",
+    "curseForgeHash": 978514508,
+    "modrinthHash": "82a50580a86fec6d62c9b23511a536e1db7eb974"
   },
   "Guide-API-1.12-2.1.8-63.jar": {
     "jarName": "Guide-API-1.12-2.1.8-63.jar",
