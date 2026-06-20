@@ -60,7 +60,7 @@
         ["dict","ingotCopper",3],
         ["dict","ingotZinc"]
       ],
-      "output": ["GunMetal",4],
+      "output": ["GunMetal",288],
       "duration": 200,
       "steam": 100
     },
